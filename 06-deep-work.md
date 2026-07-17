@@ -1,66 +1,60 @@
+---
+tags: [productivity, focus, concentration, knowledge-work]
+category: Productivity
+summary: The ability to focus without distraction is the skill of the 21st century — and it's becoming increasingly rare.
+---
+
 # Deep Work — Cal Newport
+
+> "Clarity about what matters provides clarity about what does not."
 
 ## Overview
 
-The ability to focus without distraction on a cognitively demanding task is becoming increasingly rare — and increasingly valuable. Cal Newport makes the case that deep work is the skill of the 21st century.
+[[Cal Newport]] makes the case that [[Deep Work]] is the skill of the 21st century. The ability to focus without distraction on a cognitively demanding task is increasingly rare — and increasingly valuable.
 
 ## Deep Work vs Shallow Work
 
-**Deep Work:** Professional activities performed in a state of distraction-free concentration that push your cognitive abilities to their limit. These efforts create new value and are hard to replicate.
+**[[Deep Work]]:** Distraction-free concentration that pushes cognitive abilities to their limit. Creates new value. Hard to replicate.
 
-**Shallow Work:** Non-cognitively demanding, logistical-style tasks, often performed while distracted. Things like email, meetings, admin tasks. Easy to replicate, low value.
-
-## The Core Argument
-
-Two theses:
-1. Deep work is increasingly rare
-2. Deep work is increasingly valuable
-
-Both mean one thing: your ability to do deep work is becoming a competitive advantage.
+**[[Shallow Work]]:** Non-cognitively demanding, logistical tasks performed while distracted. Low value. Easy to replicate.
 
 ## The Four Rules
 
 ### Rule 1: Work Deeply
-Develop rituals and routines to minimize willpower needed for deep work.
+Develop rituals and routines to minimize [[Willpower]] needed for [[Deep Work]].
 
-- **Decide on a depth philosophy:** Monastic (eliminate shallow), Bimodal (divide time), Rhythmic (same time daily), Journalistic (fit deep work whenever possible)
-- **Ritualize:** Where you work, how long, how you'll work once you start
-- **Make a grand gesture:** Something that elevates the stakes — book a hotel room, buy a special notebook
-- **Don't work alone:** Collaboration can boost deep work quality
-- **Execuite like a businessman:** Focus on WIN (wildly important number) — one metric that matters
+- **Depth philosophies:** Monastic, Bimodal, Rhythmic, Journalistic
+- [[Ritual and Routine]] as [[Willpower Conservation]]
 
 ### Rule 2: Embrace Boredom
-You cannot schedule deep work sessions if you constantly need distraction.
+Don't take breaks from distraction — take breaks from focus.
 
-- **Don't take breaks from distraction — take breaks from focus**
-- This is counterintuitive: the goal is to strengthen your ability to concentrate, not to schedule more distraction
 - Put your smartphone in another room during deep work
-- Schedule blocks of time for email and social media — outside those times, don't touch them
-- Productivity is not about managing time — it's about managing attention
+- [[Attention Restoration Theory]]: [[Focus is a Skill]]
 
 ### Rule 3: Quit Social Media
-These tools fragment your time and damage your ability to concentrate.
-
-- Apply the craftsman approach: identify the activities that matter most to you, tools that directly support those activities get kept, everything else is cut or severely limited
-- Theany-benefit fallacy: "I can check Twitter since it sometimes helps me network" — no, any-tool reasoning leads to keeping everything
-- Additive-out: quitting one tool doesn't mean quitting everything, but be deliberate
+Apply the [[Craftsman Approach]]: identify what matters most, keep tools that directly support it.
 
 ### Rule 4: Drain the Shallows
-Protect your deep work by ruthlessly eliminating shallow tasks.
+Protect [[Deep Work]] by ruthlessly eliminating [[Shallow Work]].
 
-- Schedule every minute of your day — not rigidly, but deliberately
-- Quantify the depth of each activity: how long would it take a talented new graduate to do this task?
-- Ask your boss for a shallow work budget — agree on how much shallow is acceptable
-- Finish your work by 5:30 — ambitious schedule that forces deep focus
-- Become hard to reach — email responses don't need to be instant
-- Do more things that are hard to do quickly
+- Schedule every minute deliberately
+- [[Ambitious Scheduling]] — finish by 5:30 to force focus
+
+## [[Attention Restoration Theory]]
+
+Willpower is finite. The goal is to build [[Automaticity]] so deep focus requires less [[Willpower]].
 
 ## For Founders
 
-- Deep work is your only competitive advantage when building products
-- Meetings are shallow work — batch them, don't scatter them
-- The founder who can concentrate for 6 hours straight will outbuild the one who checks email 50 times
+- [[Deep Work]] is your only [[Competitive Advantage]] when building products
+- [[Meeting Batching]] — batch meetings, don't scatter them
+- The founder who can concentrate for 6 hours straight outbuilds one who checks email 50 times
 
-## One-Line Takeaway
+## Related
 
-> Focus is the new productivity — cultivate the ability to work deeply and you'll outcompete those scattered by distraction.
+- [[Atomic Habits]] — [[Automaticity]] and [[Habit Formation]]
+- [[Learning How to Learn]] — [[Focused Mode]] thinking
+- [[Flow State]] — the psychological state [[Deep Work]] aims for
+- [[Procrastination]] — the enemy of [[Deep Work]]
+- [[Willpower]] — finite resource that [[Deep Work]] aims to conserve

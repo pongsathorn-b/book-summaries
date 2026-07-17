@@ -1,63 +1,65 @@
+---
+tags: [productivity, habits, behavior-change]
+category: Productivity
+summary: Tiny changes compound into remarkable results through systems, not goals.
+---
+
 # Atomic Habits — James Clear
+
+> "You don't rise to your goals — you fall to the level of your systems."
 
 ## Overview
 
-Tiny changes, remarkable results. You don't rise to your goals — you fall to the level of your systems. Habits are the compound interest of self-improvement.
+Tiny changes, remarkable results. You don't rise to your goals — you fall to the level of your systems. [[Habits]] are the compound interest of self-improvement. [[James Clear]] shows that [[Identity-Based Habits]] matter more than outcomes.
 
-## Core Framework
+## The Four Laws of Behavior Change
 
-**The Four Laws of Behavior Change:**
+| Law | Inversion | Description |
+|-----|-----------|-------------|
+| Make it Obvious | Make it Invisible | Design your environment so the cue is visible |
+| Make it Attractive | Make it Unattractive | Pair the habit with something you want |
+| Make it Easy | Make it Difficult | Reduce friction; start with just 2 minutes |
+| Make it Satisfying | Make it Painful | Get an immediate reward when you do it |
 
-1. **Make it Obvious** — Design your environment so the cue is visible
-2. **Make it Attractive** — Pair the habit with something you want to do
-3. **Make it Easy** — Reduce friction; start with just 2 minutes
-4. **Make it Satisfying** — Get an immediate reward when you do it
-
-## Key Concepts
+## Core Concepts
 
 ### Identity-Based Habits
 The most effective way to build habits is not to focus on outcomes — focus on who you wish to become.
 
 - Instead of "I want to run a marathon" → think "I am a runner"
-- Every action you take is a vote for the type of person you want to be
+- Every action you vote for the type of person you want to be
 - True behavior change is identity change
 
-### The Two-Minute Rule
+### The [[2-Minute Rule]]
 When you start a new habit, it should take less than 2 minutes.
 
 - "Read before bed" → "Read one page"
-- "Study for exams" → "Sit down with my notes"
-- Gateway habit — once you've started, you often keep going
+- Gateway habit — once started, you often keep going
 
-### Habit Stacking
+### [[Habit Stacking]]
 Link a new habit to an existing one.
 
-> "After I [CURRENT HABIT], I will [NEW HABIT]"
+> After I [CURRENT HABIT], I will [NEW HABIT]
 
-- After I pour my morning coffee, I will write in my journal
-- After I take off my work shoes, I will change into my running clothes
-
-### Environment Design
+### [[Environment Design]]
 Make good habits easier and bad habits harder.
 
-- Want to eat healthier? Place fruit at eye level
-- Want to check social media less? Delete the apps from your phone
-- Willpower is unreliable — environment is reliable
+- [[Willpower]] is unreliable — environment is reliable
+- Place fruit at eye level, delete social media apps
 
 ### The Plateau of Latent Potential
-The most powerful outcomes come from systems that work for years before a breakthrough. You feel stuck right before the breakthrough.
+The most powerful outcomes come from systems that work for years before a breakthrough. [[Deep Work]] and [[Atomic Habits]] share this insight: consistency compounds.
 
-## The Downside
+## For Founders
 
-- Some argue the "2-minute rule" can be too simplistic for serious goals
-- Identity-based habits can slide into rigid self-labeling
+- Build systems, not just goals
+- Culture is the aggregate of your team's habits
+- Small 1% daily improvements create massive annual gains
 
-## For Founders / Builders
+## Related
 
-- Build systems, not just goals — the product will improve by 1% daily if the system is right
-- Culture is the aggregate of your team's habits — make good habits the default
-- "Habits compound" applies to code quality, customer relationships, everything
-
-## One-Line Takeaway
-
-> Small habits + consistency + time = remarkable results
+- [[Deep Work]] — building deep focus habits
+- [[Learning How to Learn]] — [[Focused Mode]] and [[Diffuse Mode]] underpin learning habits
+- [[2-Minute Rule]] — gateway to starting any habit
+- [[Habit Stacking]] — linking habits together
+- [[Identity-Based Habits]] — who you become, not what you achieve

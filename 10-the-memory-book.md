@@ -1,54 +1,61 @@
+---
+tags: [memory, mnemonics, learning, techniques]
+category: Memory
+summary: The classic memory improvement book — Harry Lorayne's techniques for extraordinary recall.
+---
+
 # The Memory Book — Harry Lorayne
+
+> "Memory is a skill, not a talent."
 
 ## Overview
 
-Classic memory improvement book from 1974. Harry Lorayne teaches techniques for remembering names, dates, numbers, lists, speeches, and anything else your brain wants to forget.
+Classic memory improvement book from 1974. [[Harry Lorayne]] teaches techniques for remembering names, dates, numbers, lists, speeches, and anything else your brain wants to forget.
 
 ## The Problem
 
-Most people have been taught to forget — they use the same ineffective study methods over and over. Memory is a learnable skill.
+Most people use the same ineffective study methods over and over. [[Memory Is a Learnable Skill]] — not a talent.
 
 ## Core Techniques
 
-### The Link Method
-Connect items in a list with vivid, ridiculous mental images. Chain them together. To remember: bread, apple, scissors — picture a foot-long bread sandwich with an apple growing out of it, being cut by giant scissors.
+### [[Link Method]]
+Connect items in a list with vivid, ridiculous mental images. Chain them together.
 
-### The Peg System
-Associate numbers 1-10 with vivid images. Then to remember a list, "hang" each item on the corresponding peg. Like a coat rack for your mind.
+Example: bread, apple, scissors → Giant loaf with an apple growing out of it, cut by giant scissors.
 
-1 = bun, 2 = shoe, 3 = tree, 4 = door, 5 = hive
-6 = sticks, 7 = heaven, 8 = gate, 9 = wine, 10 = hen
+### [[Peg System]]
+Associate numbers 1-10 with vivid images. Then "hang" items on the corresponding pegs.
 
-### The Major System (for numbers)
-Convert numbers to consonant sounds, then add vowels to make words:
-0 = s, z / 1 = t, d / 2 = n / 3 = m / 4 = r / 5 = l / 6 = j, ch / 7 = k, g / 8 = f, v / 9 = p, b
+1 = bun, 2 = shoe, 3 = tree, 4 = door, 5 = hive, 6 = sticks, 7 = heaven, 8 = gate, 9 = wine, 10 = hen
 
-Example: 74 = RD (garage) = "garage" = park car in garage
+### [[Major System]]
+Convert numbers to consonant sounds, then to words. For remembering: prices, dates, metrics.
 
-### The Name Game
-To remember a name: hear it, ask about it, find a physical characteristic, make a ridiculous link.
+0=S/Z, 1=T/D, 2=N, 3=M, 4=R, 5=L, 6=J/CH, 7=K/G, 8=F/V, 9=P/B
 
-Mr. Baker → picture him kneading dough or throwing a cake at you
+### [[Name Memory]]
+To remember a name: hear it clearly, find a physical characteristic, make a ridiculous link.
 
-### The Face-Peg System
-Associate a memorable facial feature with the person's name using a ridiculous link.
-
-### Book Learning
-Use a familiar book (like the Bible or a well-known text) as a memory palace. Associate page/line positions with things you want to remember.
+Mr. Baker → picture him kneading dough or throwing a cake.
 
 ## Key Principles
 
-1. **Association** — Connect new information to something you already know
-2. **Visualization** — Make it vivid, ridiculous, physical
-3. **Location** — Put things in a specific place in your mind
-4. **Attention** — You can't remember what you never noticed
+1. **[[Association]]** — connect new to existing knowledge
+2. **[[Visualization]]** — make it vivid and ridiculous
+3. **[[Location]]** — put things in a specific place in your mind
+4. **[[Attention]]** — can't remember what you never noticed
 
 ## For Founders
 
-- Remembering names and personal details about clients is a superpower
-- Remembering the specifics of conversations builds relationships
-- Memory techniques apply to memorizing frameworks, competitive intel, technical details
+- Remembering [[Client Names]] and personal details is a [[Competitive Advantage]]
+- Remembering [[Meeting Conversations]] builds relationships
+- [[Major System]] for remembering: prices, dates, [[Metrics]]
 
-## One-Line Takeaway
+## Related
 
-> Memory is a skill, not a talent — connect new information to what you know, make it vivid, put it somewhere.
+- [[Memory Palace]] — [[Method of Loci]] — the most powerful technique
+- [[Moonwalking with Einstein]] — [[Joshua Foer]]'s modern [[Memory Athlete]] journey
+- [[Memory Craft]] — [[Lynne Kelly]]'s research-backed treatment
+- [[Unlimited Memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] system
+- [[Spaced Repetition]] — essential for [[Long-Term Memory]]
+- [[Chunking]] — [[Expert Knowledge]] structure

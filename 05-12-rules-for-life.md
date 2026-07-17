@@ -1,89 +1,76 @@
+---
+tags: [psychology, meaning, responsibility, self-improvement]
+category: Psychology
+summary: 12 battlefield rules for becoming a responsible adult in a chaotic world.
+---
+
 # 12 Rules for Life — Jordan Peterson
+
+> "Compare yourself to who you were yesterday, not to who someone else is today."
 
 ## Overview
 
-Clinical psychologist Jordan Peterson delivers 12 principles for navigating existence. Part neuroscience, part ancient wisdom, part personal accountability. Each rule is a battlefield manual for becoming a responsible adult in a chaotic world.
+Clinical psychologist [[Jordan Peterson]] delivers 12 principles for navigating existence. Part neuroscience, part ancient wisdom, part personal accountability. Each rule is a battlefield manual for [[Personal Responsibility]].
 
 ## The 12 Rules
 
-### Rule 1: Stand Up Straight With Your Shoulders Back
-- posture affects dominance and mood — literally
-- Serotonin flows differently when you project authority
-- Stop slouching — you're avoiding life when you shrink
-- Act like someone who has purpose and your brain starts to believe it
+### Rule 1: Stand Up Straight
+- [[Posture]] affects [[Serotonin]] and [[Mood]]
+- Act like someone with purpose — your brain starts to believe it
 
 ### Rule 2: Treat Yourself Like Someone You Are Responsible For Helping
-- People care for others better than for themselves
-- Why? Because self-care feels like indulgence, not duty
-- Learn to extend the same care to yourself that you'd give a dependent
+- Extend the same care you'd give a dependent to yourself
 - If you wouldn't say it to a friend, don't say it to yourself
 
 ### Rule 3: Make Friends With People Who Want the Best For You
-- You become like the 5 people closest to you
-- Surround yourself with people who are striving — their ambition is contagious
-- Cut people who drain you — they pull you down
-- Proximity is destiny
+- [[Social Circle]] shapes who you become
+- [[Proximity is Destiny]]
 
 ### Rule 4: Compare Yourself to Who You Were Yesterday
-- Not to someone else — that leads only to envy or hubris
-- Every day, are you slightly better than yesterday?
+- Not to someone else — that leads only to [[Envy]] or [[Hubris]]
 - 1% improvement compounds into massive change over a year
-- The goal is improvement, not perfection
 
 ### Rule 5: Do Not Let Your Children Do Anything That Makes You Dislike Them
-- Children need limits — limits create security
+- Children need [[Limits]] — limits create [[Security]]
 - If your child is annoying, you're failing to set boundaries
-- Dislike is the signal — act on it early
-- Responsible parents say no
 
 ### Rule 6: Set Your House in Perfect Order Before You Criticize the World
-- Clean your room before declaring the world broken
-- You're part of the world — fix what you can fix first
-- The small sacrifices matter — they prove you can be trusted with larger responsibility
+- Fix what you can fix first before declaring the world broken
 - Do the dishes. Pay your debts. Speak truthfully.
 
-### Rule 7: Pursue What Is Meaningful (Not What Is Expedient)
-- Expedient = easy, immediate satisfaction
-- Meaningful = short-term sacrifice for long-term gain
-- Meaning comes from responsibility and sacrifice
-- Ask yourself: "What should I do?" not just "What do I want?"
+### Rule 7: Pursue What Is Meaningful, Not What Is Expedient
+- [[Meaning Over Comfort]]
+- Meaning comes from [[Responsibility]] and [[Sacrifice]]
 
 ### Rule 8: Tell the Truth — Or, at Least, Don't Lie
 - Every lie is a debt you owe to reality
-- Lying avoids the problem in the short term but compounds it long term
-- Don't lie about what you want — let others know your true position
-- The alternative to speaking truth is being imprisoned by your own deception
+- [[Honesty as Strategy]]
 
 ### Rule 9: Assume the Person You Are Listening to Know Something You Don't
-- Listen to understand, not to reply
-- The goal of conversation is discovery
-- Try to see the world through their eyes — you might learn something
-- The most arrogant person is the one who has stopped listening
+- [[Listen to Understand]], not to reply
+- The goal of conversation is [[Discovery]]
 
 ### Rule 10: Be Precise in Your Speech
 - Vague language creates vague reality
-- "I feel like something is wrong" → be specific: "My boss ignored me in the meeting and I felt humiliated"
-- Precision dissolves confusion — face the specific problem, not the vague dread
-- Confront the real issue or it will ambush you later
+- [[Precision]] dissolves confusion
 
 ### Rule 11: Do Not Bother Children When They Are Skateboarding
-- Life is dangerous — let people take calculated risks
-- Overprotection creates fragility
-- Let children (and adults) face danger, fail, get hurt — this is how they build strength
-- The world requires risk tolerance
+- [[Risk Tolerance]] creates [[Resilience]]
+- [[Overprotection]] creates fragility
 
 ### Rule 12: Pet a Cat When You Encounter One on the Street
-- Life is suffering — this is Buddhist and biblical truth
-- Small moments of beauty and grace are real — they matter
-- When you see something innocent and lovely, pause and appreciate it
-- The world is worth it — find the evidence that proves this
+- [[Small Moments of Beauty]] are real and matter
+- The world is worth it — find the evidence
 
 ## For Founders
 
-- Rule 6 (set your house in order first) applies to getting product/market fit before scaling
-- Rule 10 (be precise) is essentially writing good specs and clear communication
-- Rule 7 (meaning over expedience) — build something that matters, not just something that scales fast
+- [[Precision in Communication]] — writing good specs and clear [[Specifications]]
+- [[Meaning Over Comfort]] — build something that matters
+- [[Responsibility]] as a [[Leadership Quality]]
 
-## One-Line Takeaway
+## Related
 
-> Life is suffering and chaos — the antidote is taking radical personal responsibility and pursuing meaning over comfort.
+- [[Stoicism]] — ancient philosophical roots of many of these rules
+- [[Meditations]] — similar themes of [[Acceptance]] and [[Responsibility]]
+- [[Deep Work]] — [[Rule 6]] parallels [[Deep Work]]'s philosophy of [[Order]]
+- [[Atomic Habits]] — [[Rule 4]] echoes [[Identity-Based Habits]]
