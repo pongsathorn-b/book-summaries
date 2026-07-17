@@ -15,28 +15,28 @@ summary: "A collection of 124 moral letters written by the Roman Stoic philosoph
 ## Core Concepts
 
 ### 1. Philosophy as a Practical Art
-Seneca insisted that philosophy is not an abstract academic exercise but a **practical art of living** — "philosophy is not a pastime for idle hours, it is the architect of our lives." The purpose of studying wisdom is to *apply* it, not merely to discuss it. He wrote to Lucilius: "I am cultivating my old age, as if I were already old."
+Seneca insisted that philosophy is not an abstract academic exercise but a **practical art of living** — "philosophy is not a pastime for idle hours, it is the architect of our lives." The purpose of studying wisdom is to *apply* it, not merely to discuss it. He wrote to Lucilius: "I am cultivating my old age, as if I were already old." Every letter demonstrates this: Seneca takes an abstract Stoic principle and immediately asks how Lucilius should live differently tomorrow.
 
-### 2. The Remedy is Within: The Inner Fortress
-Seneca repeatedly returns to the idea that the wise person has an **inner fortress** — a space within the mind that cannot be breached by external events. Poverty, exile, humiliation — none of these can damage the person who has turned inward to find sufficiency. This inner citadel is built through daily practice, not intellectual argument alone.
+### 2. The Inner Fortress
+Seneca repeatedly returns to the idea that the wise person has an **inner fortress** — a space within the mind that cannot be breached by external events. Poverty, exile, humiliation — none of these can damage the person who has turned inward to find sufficiency. This inner citadel is built through daily practice, not intellectual argument alone. "The fates, when they find a man well fortified, turn aside and leave him untouched."
 
-### 3. On the Proper Use of Time
-Seneca treats **time as humanity's most precious and irreplaceable resource**, more valuable than money. He warns constantly against wasting it on trivialities, other people's opinions, pastimes that numb the mind, and the pursuit of wealth — all of which vanish at death. "We are not given a short life, we make it short." The key discipline is to live as if every day were your last, while also planning for the future.
+### 3. The Proper Use of Time
+Seneca treats **time as humanity's most precious and irreplaceable resource**, more valuable than money. He warns constantly against wasting it on trivialities, other people's opinions, pastimes that numb the mind, and the pursuit of wealth — all of which vanish at death. "We are not given a short life, we make it short." The key discipline is to live as if every day were your last, while also planning for the future — a tension Seneca navigated with great subtlety.
 
 ### 4. Anger as the Most Destructive Emotion
-Several letters are devoted to **anger**, which Seneca considered the most savage and dangerous of emotions — worse than grief, worse than fear. Anger blinds judgment, makes slaves of those who indulge it, and destroys relationships. The cure for anger is not suppression but understanding: the angry person must ask whether the perceived offense actually warrants the response.
+Several letters are devoted to **anger**, which Seneca considered the most savage and dangerous of emotions — worse than grief, worse than fear. Anger blinds judgment, makes slaves of those who indulge it, and destroys relationships. The cure for anger is not suppression but understanding: the angry person must ask whether the perceived offense actually warrants the response. "The angrier you are, the less punitive you should be."
 
 ### 5. Wealth and Poverty: Neither Good nor Bad
-Seneca's most radical stance is that **wealth is morally neutral** — it is neither virtuous nor corrupting in itself. What matters is not how much you have but how you relate to it. He praises the person who can use wealth virtuously while remaining ready to lose it without grief. "The great curse of wealth is the joy you take in it."
+Seneca's most radical stance is that **wealth is morally neutral** — it is neither virtuous nor corrupting in itself. What matters is not how much you have but how you relate to it. He praised the person who can use wealth virtuously while remaining ready to lose it without grief. "The great curse of wealth is the joy you take in it." Seneca himself was fabulously wealthy, which made his philosophizing on poverty controversial then and now.
 
 ### 6. Friendship and the Social Nature of Humans
-Seneca believed humans are **naturally social beings** and that friendship is one of the greatest goods — not for utility or networking, but for mutual moral improvement. He advocated surrounding oneself with friends who are honest, courageous, and committed to virtue. "I will govern my life and thoughts as if the whole world were to see the one and read the other."
+Seneca believed humans are **naturally social beings** and that friendship is one of the greatest goods — not for utility or networking, but for mutual moral improvement. He advocated surrounding oneself with friends who are honest, courageous, and committed to virtue. "I will govern my life and thoughts as if the whole world were to see the one and read the other." True friends are those who tell you what you need to hear, not what you want to hear.
 
 ---
 
 ## Key Lessons
 
-1. **Philosophy is not a intellectual luxury — it is the art of living.** Seneca dismissed armchair philosophy: "The unexamined life is not worth living" (Socrates), and "Study philosophy only if you are going to put it into practice."
+1. **Philosophy is not an intellectual luxury — it is the art of living.** Seneca dismissed armchair philosophy: "The unexamined life is not worth living" (Socrates), and "Study philosophy only if you are going to put it into practice."
 
 2. **Build an inner fortress: your mind is your sanctuary.** External events — loss, insult, disaster — cannot touch the person who has cultivated inner tranquility. Practice retreating into this inner space daily.
 
@@ -60,7 +60,7 @@ Seneca believed humans are **naturally social beings** and that friendship is on
 
 ## Practical Applications
 
-- **Morning and evening reflection**: Spend 10 minutes each morning clarifying your intentions for the day, and each evening reviewing what you did well and where you fell short (the Stoic practice of *傍晚的自省* / evening self-examination).
+- **Morning and evening reflection**: Spend 10 minutes each morning clarifying your intentions for the day, and each evening reviewing what you did well and where you fell short — the Stoic practice of evening self-examination.
 - **The anger delay**: When you feel anger rising, commit to waiting 24 hours before responding. Use that time to ask whether the offense is as grave as it seemed.
 - **Time audits**: Once a week, review how you spent your time. Identify what was essential, what was wasted, and what can be eliminated.
 - **Voluntary discomfort**: Occasionally deny yourself comforts — go without something you enjoy, eat simply, experience cold or hunger briefly. This builds resilience against future adversity.
@@ -72,7 +72,7 @@ Seneca believed humans are **naturally social beings** and that friendship is on
 
 ## Controversy/Criticism
 
-Seneca's life has always invited scrutiny that his philosophy must weather. **Critics point out the stark contradiction** between his philosophical advocacy of simplicity and his enormous personal wealth** — he was reportedly one of the richest men in Rome, owning multiple villas and vast estates, which he defended as being "indifferent" to him while he lectured others on contempt for riches. **Cicero** and later critics accused him of hypocrisy. Additionally, some scholars argue that Seneca's Stoicism is too **accommodationist** — focused on adjusting one's inner attitude rather than confronting injustice. His advice to Nero (whom he tutored) to rule justly is seen by some as naive or self-serving. **Nietzsche** famously dismissed Seneca as a "crafty Stoic" whose moralizing lacked the vitality of genuine philosophy. Finally, his comforting tone can feel like **false reassurance** to those suffering genuine hardship — the advice to "reframe your suffering" may ring hollow without material change.
+Seneca's life has always invited scrutiny that his philosophy must weather. **Critics point out the stark contradiction** between his philosophical advocacy of simplicity and his **enormous personal wealth** — he was reportedly one of the richest men in Rome, owning multiple villas and vast estates, which he defended as being "indifferent" to him while he lectured others on contempt for riches. **Cicero** and later critics accused him of hypocrisy. Additionally, some scholars argue that Seneca's Stoicism is too **accommodationist** — focused on adjusting one's inner attitude rather than confronting injustice. His advice to Nero (whom he tutored) to rule justly is seen by some as naive or self-serving. **Nietzsche** famously dismissed Seneca as a "crafty Stoic" whose moralizing lacked the vitality of genuine philosophy. Finally, his comforting tone can feel like **false reassurance** to those suffering genuine hardship — the advice to "reframe your suffering" may ring hollow without material change.
 
 ---
 
@@ -82,7 +82,6 @@ Seneca's life has always invited scrutiny that his philosophy must weather. **Cr
 - [[Stoicism]] — The broader philosophical school Seneca worked within
 - [[Seneca]] — Seneca's own life as both philosopher and wealthy Roman advisor
 - [[Epictetus]] — The Enchiridion and Discourses, the other great Stoic practical texts
-- [[Marcus Aurelius]] — The philosopher-emperor who carried Stoicism into power
 - [[Victor Frankl]] — Modern logotherapy as a descendant of Stoic meaning-making
 - [[Amor Fati]] — The Stoic embrace of fate, including suffering
 - [[Dichotomy of Control]] — The foundational Stoic psychological technique

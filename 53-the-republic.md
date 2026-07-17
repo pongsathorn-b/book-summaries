@@ -38,7 +38,7 @@ Plato's Kallipolis is built on **education**, not legislation. The entire struct
 
 1. **Most people live in caves of their own making.** We mistake familiar opinions, comfortable illusions, and socially reinforced beliefs for truth. Philosophy begins with becoming aware of how constrained and conditioned our view of reality is.
 
-2. **Justice is doing your own work and not meddling in what isn't yours.** This applies equally to the soul (reason ruling, spirit supporting, appetite disciplined) and to society (each class fulfilling its function). The person who tries to do what they're not suited for — the ruler who chases wealth, the soldier who abandon courage for comfort — is living unjustly.
+2. **Justice is doing your own work and not meddling in what isn't yours.** This applies equally to the soul (reason ruling, spirit supporting, appetite disciplined) and to society (each class fulfilling its function). The person who tries to do what they're not suited for is living unjustly.
 
 3. **The unexamined society is not worth living in.** Plato would agree with Socrates that the examined life is the only one worth living — and would extend this to say that unexamined cultures, institutions, and traditions deserve scrutiny, not automatic loyalty.
 
@@ -71,7 +71,7 @@ Plato's Kallipolis is built on **education**, not legislation. The entire struct
 
 ## Controversy/Criticism
 
-**The Republic** has generated more controversy than perhaps any other philosophical work. **The "noble lie"** — a myth that citizens of Kallipolis are told to ensure social cohesion (that they are all born from the earth and assigned metals in their souls) — has been called a proto-totalitarian fraud, undermining the very trust it claims to build. **The philosopher king** has been read as a blueprint for authoritarianism — Plato as the spiritual ancestor of every dictator who claimed to know what's best for everyone. Critics from **John Stuart Mill** to **Karl Popper** argued that Plato's ideal society is rigidly hierarchical, anti-individual, and inimical to freedom. **Simone de Beauvoir** and feminist critics note that Plato excludes women from his account of philosophical education in ways that betray the egalitarian premises of his own arguments. **George Orwell** saw in Kallipolis a warning about the horrors of idealistic perfectionism in politics. Some theologians argue that the Form of the Good replaces God with an impersonal abstraction.
+**The Republic** has generated more controversy than perhaps any other philosophical work. **The "noble lie"** — a myth that citizens of Kallipolis are told to ensure social cohesion (that they are all born from the earth and assigned metals in their souls) — has been called a proto-totalitarian fraud, undermining the very trust it claims to build. **The philosopher king** has been read as a blueprint for authoritarianism — Plato as the spiritual ancestor of every dictator who claimed to know what's best for everyone. Critics from **John Stuart Mill** to **Karl Popper** argued that Plato's ideal society is rigidly hierarchical, anti-individual, and inimical to freedom. **Simone de Beauvoir** and feminist critics note that Plato excludes women from his account of philosophical education in ways that betray the egalitarian premises of his own arguments. **George Orwell** saw in Kallipolis a warning about the horrors of idealistic perfectionism in politics.
 
 ---
 
