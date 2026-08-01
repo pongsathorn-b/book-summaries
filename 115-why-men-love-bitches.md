@@ -58,14 +58,14 @@ Argov warns against the pattern of seeking constant reassurance or competing for
 
 ## Controversy/Criticism
 
-The book has been widely criticized — and often by the same women who find it useful. Critics argue that the \"bitch\" framework reinforces patriarchal ideas about gender roles while appearing to empower women: it still positions men's attraction as the primary goal and frames women's behavior entirely through the lens of male approval. The advice to avoid vulnerability, emotional transparency, and pursuit in relationships contradicts research on secure attachment and lasting love (see [[Attached]]). The book's focus on tactical gamesmanship rather than genuine emotional connection has been called out by therapists who argue it undermines authentic intimacy. There is also a concern that the \"challenge\" framework can slide into emotional unavailability that resembles avoidant attachment rather than healthy independence. Finally, the book offers little guidance for women in long-term committed relationships — its advice is primarily useful in the early stages of dating.
+The book has been widely criticized — and often by the same women who find it useful. Critics argue that the \"bitch\" framework reinforces patriarchal ideas about gender roles while appearing to empower women: it still positions men's attraction as the primary goal and frames women's behavior entirely through the lens of male approval. The advice to avoid vulnerability, emotional transparency, and pursuit in relationships contradicts research on secure attachment and lasting love (see [[33-attached]]). The book's focus on tactical gamesmanship rather than genuine emotional connection has been called out by therapists who argue it undermines authentic intimacy. There is also a concern that the \"challenge\" framework can slide into emotional unavailability that resembles avoidant attachment rather than healthy independence. Finally, the book offers little guidance for women in long-term committed relationships — its advice is primarily useful in the early stages of dating.
 
 ## Related
 
-- [[The 5 Love Languages]] — Chapman's framework offers the emotional depth that Argov's tactical approach lacks
-- [[Attached]] — Levi's attachment research explains why some women are drawn to the emotionally unavailable \"challenge\" dynamic
-- [[The Art of Seduction]] — Greene's darker exploration of attraction mechanics provides context for understanding what creates versus destroys attraction
-- [[Quiet]] — Susan Cain's exploration of introversion and self-possession aligns with Argov's emphasis on internal validation over external approval
+- [[111-the-5-love-languages]] — Chapman's framework offers the emotional depth that Argov's tactical approach lacks
+- [[33-attached]] — Levi's attachment research explains why some women are drawn to the emotionally unavailable \"challenge\" dynamic
+- [[09-the-art-of-seduction]] — Greene's darker exploration of attraction mechanics provides context for understanding what creates versus destroys attraction
+- [[07-quiet]] — Susan Cain's exploration of introversion and self-possession aligns with Argov's emphasis on internal validation over external approval
 
 ## One-Line Takeaway
 
