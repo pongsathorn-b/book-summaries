@@ -84,19 +84,19 @@ Additionally, Pressfield's binary framing of Warrior versus Victim, while motiva
 
 ## Related Books
 
-- [[Atomic Habits]] — Building consistent systems for showing up daily
-- [[Deep Work]] — The value of focused, uninterrupted creative work
-- [[Ego Is the Enemy]] — Pressfield's later book on turning ego from liability to asset
-- [[The Obstacle Is the Way]] — Stoic framework for converting obstacles into action
-- [[Stillness Is the Way]] — Embracing stillness as a counterforce to frantic doing
-- [[12 Rules for Life]] — Peterson's confrontation with chaos and the prescription to stand up straight
+- [[01-atomic-habits]] — Building consistent systems for showing up daily
+- [[06-deep-work]] — The value of focused, uninterrupted creative work
+- [[61-ego-is-the-enemy]] — Pressfield's later book on turning ego from liability to asset
+- [[59-the-obstacle-is-the-way]] — Stoic framework for converting obstacles into action
+- [[62-stillness-is-the-way]] — Embracing stillness as a counterforce to frantic doing
+- [[05-12-rules-for-life]] — Peterson's confrontation with chaos and the prescription to stand up straight
 - [[Man's Search for Meaning]] — Frankl's finding meaning through suffering
 - [[Stoicism]] — The philosophical tradition Pressfield draws on
 - [[Amor Fati]] — Loving one's fate, including the suffering required for great work
 - [[Memento Mori]] — Death as a motivating reminder to do meaningful work now
-- [[The Almanack of Naval Ravikant]] — Naval on getting rich and finding meaning without losing yourself
-- [[Indistractable]] — The modern battle against distraction and attention hijacking
-- [[Make Time]] — Tactical daily practices for prioritizing meaningful work
-- [[Essentialism]] — Focusing only on what truly matters
-- [[Getting Things Done]] — David Allen's systematic approach to creative productivity
-- [[The 7 Habits of Highly Effective People]] — Covey's discipline-based framework for effectiveness
+- [[91-the-almanack-of-naval-ravikant]] — Naval on getting rich and finding meaning without losing yourself
+- [[24-indistractable]] — The modern battle against distraction and attention hijacking
+- [[23-make-time]] — Tactical daily practices for prioritizing meaningful work
+- [[25-essentialism]] — Focusing only on what truly matters
+- [[18-getting-things-down]] — David Allen's systematic approach to creative productivity
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's discipline-based framework for effectiveness
