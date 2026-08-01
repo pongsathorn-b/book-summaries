@@ -91,10 +91,10 @@ Because an intelligence explosion could occur rapidly (a self-improving AI could
 
 ## Related Books
 
-- [[Life 3.0]] — Max Tegmark's more optimistic but still rigorous companion volume, emphasizing the importance of AI governance
-- [[The Singularity Is Near]] — Kurzweil's more bullish, technology-focused treatment of the same subject; Bostrom is a useful counterweight
-- [[The Age of Spiritual Machines]] — Kurzweil's earlier exploration of machine intelligence
-- [[Thinking Fast and Slow]] — Relevant to understanding the cognitive limitations superintelligence would surpass
-- [[The Black Swan]] — Taleb's framework for thinking about low-probability, high-consequence events is directly applicable
-- [[Skin in the Game]] — The importance of having stake in outcomes applies to AI developers and researchers
-- [[Fooled by Randomness]] — The difficulty of predicting complex systems is relevant to forecasting AI trajectories
+- [[123-life-3-0]] — Max Tegmark's more optimistic but still rigorous companion volume, emphasizing the importance of AI governance
+- [[121-the-singularity-is-near]] — Kurzweil's more bullish, technology-focused treatment of the same subject; Bostrom is a useful counterweight
+- [[128-the-age-of-spiritual-machines]] — Kurzweil's earlier exploration of machine intelligence
+- [[04-thinking-fast-and-slow]] — Relevant to understanding the cognitive limitations superintelligence would surpass
+- [[93-the-black-swan]] — Taleb's framework for thinking about low-probability, high-consequence events is directly applicable
+- [[94-skin-in-the-game]] — The importance of having stake in outcomes applies to AI developers and researchers
+- [[95-fooled-by-randomness]] — The difficulty of predicting complex systems is relevant to forecasting AI trajectories
