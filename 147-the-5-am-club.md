@@ -30,9 +30,9 @@ Elite performers across domains share early-rising habits. Wanted to understand 
 
 ## Related Books
 
-- [[The 7 Habits of Highly Effective People]]
-- [[Atomic Habits]]
-- [[Make Time]]
+- [[19-the-7-habits-of-highly-effective-people]]
+- [[01-atomic-habits]]
+- [[23-make-time]]
 
 ## Similar Notes
 
