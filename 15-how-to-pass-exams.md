@@ -61,7 +61,7 @@ Ask: "Why is this true? How does this connect to what I already know?" Multiple 
 
 ## Related
 
-- [[Learning How to Learn]] — the full framework behind these principles
+- [[11-learning-how-to-learn]] — the full framework behind these principles
 - [[Spaced Repetition]] — the key mechanism
 - [[Testing Effect]] — [[Active Recall]] is the most powerful learning tool
 - [[Sleep and Memory]] — why [[Sleep]] is essential for [[Memory Consolidation]]
