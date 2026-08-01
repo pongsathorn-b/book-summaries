@@ -84,14 +84,14 @@ The book's "pick and choose" philosophy can also produce analysis paralysis—re
 
 ## Related Books
 
-- [[The 4-Hour Workweek]] — Ferriss's foundational text on lifestyle design and escaping the 9-5 trap
-- [[Tribe of Mentors]] — Ferriss's companion volume focused on life advice rather than tactics
-- [[Atomic Habits]] — Building systems that make excellent tactics automatic
-- [[Deep Work]] — Cal Newport on focused work as the foundation of elite performance
-- [[The Almanack of Naval Ravikant]] — Naval's philosophy and tactics for wealth and happiness
-- [[The Compound Effect]] — The power of small, consistent actions compounding over time
-- [[Essentialism]] — Ruthless prioritization of the few things that actually matter
-- [[Indistractable]] — Understanding and defeating the modern epidemic of distraction
-- [[Make Time]] — Daily tactics for building energy and prioritizing meaningful work
-- [[The Power of Full Engagement]] — The science of managing energy, not time
-- [[Think and Grow Rich]] — Napoleon Hill's classic study of successful people's mental models
+- [[22-the-4-hour-workweek]] — Ferriss's foundational text on lifestyle design and escaping the 9-5 trap
+- [[135-tribe-of-mentors]] — Ferriss's companion volume focused on life advice rather than tactics
+- [[01-atomic-habits]] — Building systems that make excellent tactics automatic
+- [[06-deep-work]] — Cal Newport on focused work as the foundation of elite performance
+- [[91-the-almanack-of-naval-ravikant]] — Naval's philosophy and tactics for wealth and happiness
+- [[74-the-compound-effect]] — The power of small, consistent actions compounding over time
+- [[25-essentialism]] — Ruthless prioritization of the few things that actually matter
+- [[24-indistractable]] — Understanding and defeating the modern epidemic of distraction
+- [[23-make-time]] — Daily tactics for building energy and prioritizing meaningful work
+- [[27-the-power-of-full-engagement]] — The science of managing energy, not time
+- [[150-think-and-grow-rich]] — Napoleon Hill's classic study of successful people's mental models
