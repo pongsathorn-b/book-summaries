@@ -30,8 +30,8 @@ Health is the foundation of everything else — wanted a practical, evidence-bas
 
 ## Related Books
 
-- [[Why We Sleep]]
-- [[The Blue Zones]]
+- [[68-why-we-sleep]]
+- [[108-the-blue-zones]]
 - [[The 4-Hour Body]]
 
 ## Similar Notes
