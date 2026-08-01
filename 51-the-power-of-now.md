@@ -66,10 +66,10 @@ Critics argue Tolle's writing style is vague and circular. Others find it too Ne
 ## Related
 
 - [[Stoicism]] — [[Acceptance]] of what is; [[Present Moment Awareness]]; [[Marcus Aurelius]] practiced something like this
-- [[Meditations]] — [[Tolle]] and [[Marcus Aurelius]] share [[Present Moment]] as the key to [[Inner Peace]]
-- [[Ego Is the Enemy]] — [[Ryan Holiday]]'s practical, secular version of Tolle's ego insight
-- [[Stillness Is the Way]] — [[Ryan Holiday]] on [[Stoicism]] and [[Stillness]]
-- [[The Obstacle Is the Way]] — [[Stoic]] acceptance applied to [[Obstacles]]
+- [[03-meditations]] — [[Tolle]] and [[Marcus Aurelius]] share [[Present Moment]] as the key to [[Inner Peace]]
+- [[61-ego-is-the-enemy]] — [[Ryan Holiday]]'s practical, secular version of Tolle's ego insight
+- [[62-stillness-is-the-way]] — [[Ryan Holiday]] on [[Stoicism]] and [[Stillness]]
+- [[59-the-obstacle-is-the-way]] — [[Stoic]] acceptance applied to [[Obstacles]]
 - [[Amor Fati]] — [[Love of Fate]] — embracing whatever happens, which requires [[Presence]]
 
 ## One-Line Takeaway
