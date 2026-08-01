@@ -23,7 +23,7 @@ summary: A brain injury survivor becomes a world memory champion — the techniq
 
 ### [[Memory Palace]]
 
-Same technique as [[Moonwalking with Einstein]] and [[The Memory Book]]:
+Same technique as [[08-moonwalking-with-einstein]] and [[10-the-memory-book]]:
 
 1. Build a mental [[Memory Palace]] — a familiar place you know in detail
 2. Place vivid, bizarre mental images
@@ -50,9 +50,9 @@ Cramming floods the brain but doesn't create strong neural pathways. The only wa
 ## Related
 
 - [[Memory Palace]] — the master technique across all memory books
-- [[The Memory Book]] — [[Harry Lorayne]]'s classic version
-- [[Moonwalking with Einstein]] — [[Joshua Foer]]'s journey
-- [[Memory Craft]] — [[Lynne Kelly]]'s research-backed treatment
+- [[10-the-memory-book]] — [[Harry Lorayne]]'s classic version
+- [[08-moonwalking-with-einstein]] — [[Joshua Foer]]'s journey
+- [[14-memory-craft]] — [[Lynne Kelly]]'s research-backed treatment
 - [[Spaced Repetition]] — the essential companion technique
 - [[World Memory Champion]] — [[Kevin Horsley]]'s credentials and system
 - [[Chunking]] — how [[Experts]] structure [[Knowledge]]
