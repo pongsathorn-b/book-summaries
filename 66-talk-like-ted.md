@@ -70,7 +70,7 @@ Gallo emphasizes that the most powerful TED talks are those where speakers show 
 7. **Humor humanizes.** Even in serious talks, find moments of levity. Laughter creates connection and reduces defensiveness.
 8. **Speak with conviction about what you love.** Audiences detect fraud. The most inspiring talks come from genuine passion, not calculated performance.
 9. **End with a clear call to action.** Tell the audience exactly what you want them to do next. Inspiration without action is incomplete.
-10. **Practice relentlessly.** The speakers who seem most natural have rehearsed the most. [[Atomic Habits]] applies — the skill of speaking is built through deliberate, repeated practice.
+10. **Practice relentlessly.** The speakers who seem most natural have rehearsed the most. [[01-atomic-habits]] applies — the skill of speaking is built through deliberate, repeated practice.
 
 ## Practical Applications
 
@@ -82,7 +82,7 @@ Gallo emphasizes that the most powerful TED talks are those where speakers show 
 
 ## Related Concepts
 
-This book connects to [[Cognitive Biases]] (understanding narrative fallacy and availability bias), [[Memory Palace]] (visual imagery as a memory tool), [[Deep Work]] (the [[Focused Mode]] concentration required for great delivery), and [[Atomic Habits]] (deliberate practice of presentation skills over time).
+This book connects to [[Cognitive Biases]] (understanding narrative fallacy and availability bias), [[Memory Palace]] (visual imagery as a memory tool), [[06-deep-work]] (the [[Focused Mode]] concentration required for great delivery), and [[01-atomic-habits]] (deliberate practice of presentation skills over time).
 
 ## One-Line Takeaway
 
