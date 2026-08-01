@@ -77,14 +77,14 @@ Frankl's work has been criticized on several fronts. **Some psychologists** argu
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius on choosing one's response to circumstances
+- [[03-meditations]] — Marcus Aurelius on choosing one's response to circumstances
 - [[Stoicism]] — The philosophical tradition Frankl's "dichotomy of control" draws from
 - [[Victor Frankl]] — Frankl's own life as a case study in finding meaning under extreme suffering
 - [[Seneca]] — Stoic letters on navigating suffering with dignity
 - [[Epictetus]] — The original articulation of what we control vs. what we don't
 - [[Amor Fati]] — The Stoic/Nietzschean embrace of fate, including its suffering
 - [[Memento Mori]] — The reminder that mortality reveals what truly matters
-- [[The Art of War]] — Endurance and strategic patience in the worst circumstances
+- [[13-the-art-of-war]] — Endurance and strategic patience in the worst circumstances
 - [[Nietzsche]] — Will to meaning vs. will to power debates
 
 ---
