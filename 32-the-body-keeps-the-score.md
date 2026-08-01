@@ -68,7 +68,7 @@ Trauma lives in the body as much as the mind; healing requires engaging both thr
 - [[Brain Plasticity]] — neuroplasticity allows the brain to heal from traumatic rewiring
 - [[Sleep and Memory]] — trauma disrupts sleep architecture; sleep restoration supports recovery
 - [[Welcome to Your Brain]] — the neuroscience of the amygdala, prefrontal cortex, and stress response
-- [[Attached]] — attachment disruption as a form of relational trauma
+- [[33-attached]] — attachment disruption as a form of relational trauma
 - [[Cognitive Biases]] — trauma-related cognitive distortions and threat-detection biases
-- [[Meditations]] — Stoic practices of accepting what cannot be changed; managing the body's response to events
-- [[Mindset]] — the resilience and growth mindset research connects to post-traumatic growth
+- [[03-meditations]] — Stoic practices of accepting what cannot be changed; managing the body's response to events
+- [[141-mindset-the-new-psychology-of-success]] — the resilience and growth mindset research connects to post-traumatic growth
