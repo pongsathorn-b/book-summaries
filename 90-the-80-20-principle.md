@@ -10,7 +10,7 @@ summary: Richard Koch shows that roughly 80% of effects come from 20% of causes 
 
 ## Overview
 
-[[The 80/20 Principle]] by Richard Koch is a concise, powerful exploration of what may be the most useful single insight in business and personal productivity: the Pareto Principle, named after Italian economist Vilfredo Pareto, who observed that roughly 80% of land in Italy was owned by 20% of the population. Koch extends this observation into a comprehensive philosophy for living and working — arguing that most inputs (effort, time, money) are vastly uneven in their outputs, and that understanding and acting on this imbalance is the key to extraordinary results. The book is part business strategy, part self-help, and part philosophical provocation.
+[[90-the-80-20-principle]] by Richard Koch is a concise, powerful exploration of what may be the most useful single insight in business and personal productivity: the Pareto Principle, named after Italian economist Vilfredo Pareto, who observed that roughly 80% of land in Italy was owned by 20% of the population. Koch extends this observation into a comprehensive philosophy for living and working — arguing that most inputs (effort, time, money) are vastly uneven in their outputs, and that understanding and acting on this imbalance is the key to extraordinary results. The book is part business strategy, part self-help, and part philosophical provocation.
 
 ## Core Concepts
 
