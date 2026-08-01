@@ -30,9 +30,9 @@ Most people overthink rather than underthink — and overthinking paralyzes acti
 
 ## Related Books
 
-- [[The 4000 Weeks]]
-- [[Mindset]]
-- [[The Courage to Be Disliked]]
+- [[149-the-4000-days]]
+- [[141-mindset-the-new-psychology-of-success]]
+- [[151-the-courage-to-be-disliked]]
 
 ## Similar Notes
 
