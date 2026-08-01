@@ -66,4 +66,4 @@ Brunson describes two primary "devices" for building mass movements: **The DotCo
 
 The Expert Revolution has made it possible for anyone with unique knowledge and a compelling story to build a mass movement and a multi-million dollar business — but the packaging and positioning of expertise matters as much as the expertise itself.
 
-[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]
+[[48 Laws of Power]], [[13-the-art-of-war]], [[28-influence]], [[29-contagious]], [[How to Win Friends]], [[36-predictably-irrational]], [[37-nudge]], [[04-thinking-fast-and-slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[06-deep-work]], [[22-the-4-hour-workweek]], [[25-essentialism]], [[39-the-lean-startup]], [[38-zero-to-one]], [[44-blue-ocean-strategy]], [[61-ego-is-the-enemy]], [[59-the-obstacle-is-the-way]]
