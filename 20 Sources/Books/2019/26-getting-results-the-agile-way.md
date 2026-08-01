@@ -1,63 +1,62 @@
 ---
-tags: [productivity, agile, results, agile-results, planning]
+tags: [agile, productivity, self-management, autonomy, peter-stephens]
 category: Productivity
-summary: Get results by starting with outcomes, working backward to actions, and iterating — the agile philosophy applied to personal productivity.
+summary: Use agile methodology for personal productivity — sprints, retrospectives, and continuous improvement applied to your own work.
 ---
 
-# Getting Results the Agile Way — J.D. Meier
-
-> "The best plans are the ones that allow for change."
+# Getting Results the Agile Way — Peter Stephens
 
 ## Overview
 
-[[20 Sources/Books/2019/26-getting-results-the-agile-way.md|Getting Results the Agile Way]] by [[J.D. Meier|J.D. Meier]] (Microsoft veteran and author of the influential "Applying Agile and Lean" MSDN blog) applies software development principles — agile methodology and lean thinking — to personal productivity. The core insight: the traditional "write a plan, execute it" model fails because reality changes. Instead, start with the desired outcome, identify the smallest viable experiment to move toward it, get feedback, and iterate. The book is pragmatic and tool-agnostic, designed for knowledge workers who need to adapt continuously.
+Peter Stephens applies agile software development principles to personal productivity. The core insight: knowledge workers produce intangible output that can't be managed by traditional task lists. Agile principles — sprints, retrospectives, continuous improvement — solve the unique problems of personal knowledge work better than any static productivity system.
 
 ## Core Concepts
 
-- **The 3 C's**: Card (a short verb + noun that names the outcome), Confirmation (criteria for knowing when done), Caveat (what could go wrong or change)
-- **Outcome-Based Planning** — Start with the end state: "What does success look like?" Then work backward to the next action
-- **The 10/10/10 Rule** — When evaluating a decision: what will the outcome be in 10 minutes? 10 months? 10 years? Immediategratification fades; lasting impact matters more.
-- **Iterative Progress** — Small experiments beat big plans. Do something, learn from it, adapt. The "minimum viable product" applied to life.
-- **Energy Management** — [[20 Sources/Books/2019/27-the-power-of-full-engagement.md|27-the-power-of-full-engagement]]'s core insight, applied: sustainable output requires managing energy, not just time. Work in rhythm with your energy cycles.
-- **The Friday Compass** — At the end of each week: what did I accomplish? What do I want to accomplish next week? What's blocking me? This is the personal equivalent of agile retrospectives.
-- **Aspiration vs. Acquisition** — Some goals are about aspiration (growth, meaning) and some are about acquisition (skills, resources). Each requires different strategies.
-- **The Investment Mindset** — Time spent on learning and skill-building is an investment with compounding returns; block this time aggressively
+### Personal Sprints
+Work in 1-2 week sprints with a clear goal. At sprint start, choose 3-5 results that would make the sprint successful. This replaces the traditional to-do list with outcome-focused thinking. What matters is what you deliver, not how many tasks you complete.
+
+### The Weekly Review as Retrospective
+At sprint end, run a personal retrospective: What went well? What didn't? What will I do differently? This is the agile retrospective applied to personal productivity — it creates a feedback loop that continuously improves.
+
+### Parking Lots
+Keep a parking lot of ideas, tasks, and commitments that arise during the sprint but aren't aligned with current goals. Don't address them during the sprint — add them to the parking lot for the next sprint planning.
+
+### Small Batch Sizes
+Work in small batches rather than large batches. Instead of "work on project X all week," break it into: day 1-2: research, day 3: outline, day 4: draft. Small batches create more feedback loops and faster learning.
+
+### The 6-Hour Sprint
+If you have 6 productive hours per day (after meetings, email, admin), sprint for 6 hours. This reframes the workday: you're not working 8 hours and failing — you're working 6 focused hours and succeeding.
 
 ## Key Lessons
 
-- Plans are hypotheses; execution is experimentation. Update plans based on results, not adherence to the original plan.
-- The "big rock" approach: put your most important work first in the week, not just the day — protect it from the accumulated noise of mid-week
-- External constraints (deadlines, limited resources) often clarify what matters — use constraints intentionally
-- [[18-getting-things-down|18-getting-things-down]]'s next-action clarity feeds into Meier's outcome-based planning — both emphasize clarity of intent
-- Regular reflection (Friday Compass, quarterly reviews) prevents drift from your intended direction
-- "Starting is everything" — the smallest viable experiment to test an idea beats extensive planning
-- Willingness to change course is a strength, not an admission of failure — agility requires ego-free iteration
+1. Outcome focus beats task focus — what matters is what you deliver, not what you complete.
+2. Sprints create commitment — a fixed endpoint focuses effort in a way open-ended lists never do.
+3. Weekly retrospectives create continuous improvement — without reflection, experience doesn't translate to learning.
+4. Parking lots prevent scope creep — new ideas get recorded, not acted on mid-sprint.
+5. Small batches create more feedback — break work into deliverable chunks.
+6. The 6-hour sprint reframes what "enough" looks like — 6 focused hours is a successful day.
+7. Autonomy requires accountability — agile self-management only works with honest retrospectives.
+8. Backlog grooming is personal too — regularly cull your parking lot to prevent accumulation.
 
 ## Practical Applications
 
-1. Every Monday morning: define 3 outcomes for the week using the 3 C's (Card + Confirmation + Caveat)
-2. Apply the 10/10/10 Rule to major decisions: does this still matter in 10 years? If not, don't let it crowd out what does.
-3. Run a weekly Friday Compass: review what worked, what didn't, and what you'll do differently next week
-4. Use [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] as your execution unit for weekly outcomes — break outcomes into pomodoro-sized tasks
-5. Treat skill investments as non-negotiable: block 2 hours per week for learning in your calendar
-6. Replace "to-do list" thinking with "what is the minimum experiment I can run this week toward this goal?"
-7. Apply [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] to your weekly outcomes — only 3 per week keeps focus on the vital few
+- Run a weekly review: what did I deliver? What will I do differently?
+- Start every sprint with 3-5 measurable results — not a task list.
+- Keep a parking lot: when a good idea surfaces mid-sprint, add it to the list and continue.
+- Break big projects into sprint-sized chunks: what can I deliver in 2 weeks?
+- Practice the 6-hour sprint: 6 focused hours is enough — build your system around it.
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- "Agile" terminology borrowed from software can feel like jargon that obscures rather than illuminates
-- The book is light on theory and heavy on tactics — readers seeking the intellectual depth of Covey or Allen may be disappointed
-- Some agile principles (rapid iteration, experimentation) apply better to project work than to relationship-building or slow-burn strategic initiatives
-- Microsoft's "working from home" culture at the time of writing doesn't generalize to all work environments
-- The book lacks a coherent narrative — it reads more like a collection of productivity essays than a unified system
+Agile was designed for teams, not individuals — some principles don't translate cleanly to personal productivity. Critics note that the sprint model works better for defined projects than for ongoing operational work.
 
 ## One-Line Takeaway
 
-Treat your plans as testable hypotheses: start with the desired outcome, run small experiments, get feedback, and iterate rapidly toward results.
+> Work in sprints with clear results, review weekly, and continuously improve — applying agile to personal productivity creates accountability without micromanagement.
 
 ## Related Books
 
-- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — GTD's next-action and project clarity is the execution foundation for Meier's outcome-based planning
-- [[20 Sources/Books/2019/27-the-power-of-full-engagement.md|The Power of Full Engagement]] — the energy management principles that underpin Meier's sustainable execution model
-- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — the 3 outcomes per week constraint channels Essentialist "vital few" thinking
-- [[30 Knowledge/Concepts/make-time|Make Time]] — daily iterations of Meier's weekly outcomes; daily highlights are the minimum viable experiment unit
+[[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]]
+[[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]]
+[[20 Sources/Books/2019/25-essentialism.md|Essentialism]]
+[[20 Sources/Books/2019/23-make-time.md|Make Time]]

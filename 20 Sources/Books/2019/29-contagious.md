@@ -1,70 +1,64 @@
 ---
-tags: [marketing, virality, social-proof, word-of-mouth, contagious-content]
-category: Psychology
-summary: Jonah Berger identifies six key ingredients that make products, ideas, and behaviors contagious—STEPPS framework.
+tags: [marketing, word-of-mouth, social-transmission, viral, jonah-berger]
+category: Communication
+summary: Six STEPPS make products and ideas worth talking about — social currency, triggers, emotion, public, practical value, stories.
 ---
 
 # Contagious — Jonah Berger
 
 ## Overview
 
-Why do certain videos go viral while others flop? Why do some products and ideas spread like wildfire while others languish? Wharton marketing professor Jonah Berger spent years studying word-of-mouth and identified six core principles—known as the STEPPS framework—that explain why things catch on. Rather than relying on paid advertising, the most successful products and ideas generate organic, person-to-person transmission through social sharing.
+Wharton marketing professor Jonah Berger reverse-engineered why things go viral. What makes content spread? After studying hundreds of viral products, articles, and campaigns, he identified six principles — the STEPPS — that predict whether something will be shared. The book moves word-of-mouth from guesswork to science.
 
 ## Core Concepts
 
-### 1. Social Currency
-People share things that make them look good to others. Just as we spend money to buy material goods, we spend social currency to acquire status. If something remarkable—something that makes the sharer seem funny, smart, or in-the-know—it gets shared. Think of shareable secrets, counterintuitive facts, or products that signal taste.
+### Social Currency
+People share things that make them look good. Secrets, exclusive information, counterintuitive facts — anything that makes the sharer seem in the know. The key: find the remarkable quality of your product and make it visible.
 
-### 2. Triggers
-Top of mind, tip of tongue. Environmental triggers—cues in someone's daily environment—keep ideas active. Hershey's Kiss is associated with the word "Halloween" because of its seasonal marketing. Companies design products and messages that are triggered by things people encounter regularly.
+### Triggers
+Top of mind, tip of tongue. The best campaigns create triggers — associations that keep the product or idea in active memory. The Reebok Joga Bonito soccer campaign triggered the product every time people watched soccer. Triggers are environmental cues that prompt sharing.
 
-### 3. Emotion
-When we care, we share. Emotions—especially high-arousal emotions like awe, excitement, amazement, anger, or anxiety—drive sharing. Low-arousal emotions like sadness actually decrease sharing. Berger notes that awe is one of the strongest emotions for virality because it has both high arousal and a need to share the experience.
+### Emotion
+Emotion drives sharing. Specifically, high-arousal emotions (awe, excitement, amusement, anger, anxiety) drive sharing more than low-arousal emotions (sadness, contentment). What makes you feel most is what you share most. Wonder is the most powerful trigger.
 
-### 4. Public
-Built to show, built to grow. Products and ideas that are publicly observable spread more easily. This is the "made to be shared" principle. Apple's iconic white headphones were a walking billboard. The UK organ donor crisis was solved (partly) by making registration the default, making the behavior visible and normal.
+### Public
+The more public a behavior, the more likely it is to be copied. Apple's design philosophy of making products beautiful even when hidden is anti-public — you can't copy what you can't see. Make your product or behavior visible so others can imitate it.
 
-### 5. Practical Value
-News you can use. People share useful information—recipes, tips, how-to guides—that help their networks. The key is demonstrating value quickly. Berger shows that "readability" (how easy it is to process) and "parser" features (bullet points, clear numbers) dramatically increase sharing of practical content.
+### Practical Value
+People share information that helps others. The key is to package useful information in a shareable way — not just "10 tips" but "a tip so useful they'll thank you." Practical value spreads because it benefits the sharer's reputation.
 
-### 6. Stories
-Information travels wrapped in narrative. People don't just share statistics or facts—they share stories. The key is building a "Trojan horse" that carries your brand or message inside an engaging narrative. Not a branded story, but a story with your brand naturally embedded.
+### Stories
+People don't just share information — they tell stories. Create a narrative that carries your message. The Trojan Horse technique: embed your brand in an interesting story that people want to retell. The story is the vehicle; your message is the cargo.
 
 ## Key Lessons
 
-1. **Remarkable things spread** — Being extraordinary triggers social currency. The more remarkable your product or idea, the more people will talk about it.
-2. **Triggers keep things top of mind** — Sustained word-of-mouth depends on environmental cues that remind people about your product or message.
-3. **Awe is the most viral emotion** — The combination of high arousal and a need to share makes awe particularly powerful for organic spread.
-4. **Make your product publicly observable** — If behavior is visible, it becomes the default. Change the environment to change behavior.
-5. **Practical value creates shareable content** — How-to articles, useful lists, and tips get shared because they help the sharer's reputation.
-6. **Stories carry your message** — Embed your brand in a compelling narrative rather than making the brand the story itself.
-7. **Emotion without arousal doesn't drive sharing** — Sadness, despite being powerful, is low-arousal and actually suppresses sharing.
-8. **Internal triggers (memories) matter more than external triggers (ads)** — Designing for recall means designing for people's daily routines.
-9. **Short headlines and digestible formats spread faster** — Readability and parser features matter enormously for digital content.
-10. **Social proof is built through demonstrated public behavior** — Seeing others use or endorse something creates a viral loop.
+1. Social currency: make sharers look good — find what makes your product remarkable.
+2. Triggers: associate with common cues — the more frequently triggered, the more frequently shared.
+3. Emotion drives sharing — awe, anger, and excitement beat sadness and contentment.
+4. Public behaviors are imitated — make your product or idea visible.
+5. Practical value spreads when packaged for sharing — tips and how-tos go viral when surprising.
+6. Stories carry your message — embed your brand in a story worth retelling.
+7. The most powerful campaigns combine multiple STEPPS simultaneously.
+8. Not all attention is good attention — provoking anxiety without resolution drives shares but damages reputation.
 
 ## Practical Applications
 
-- **Content marketing**: Create content that evokes high-arousal emotions (awe, excitement) and delivers practical value in a scannable format.
-- **Product design**: Make your product visually distinctive and publicly visible—design it to be "built to show."
-- **Brand storytelling**: Embed your brand message in a broader narrative that people want to retell.
-- **Marketing campaigns**: Design campaigns with triggers that activate in daily life—associate your product with common environmental cues.
-- **Email and social**: Use Berger principles to craft emails and posts that people forward: remarkable, useful, emotionally engaging, and story-driven.
-- **Nonprofits and public health**: Apply social proof and public visibility to encourage desired behaviors like organ donation or recycling.
+- Identify your most remarkable quality — make it visible and shareable.
+- Create triggers: associate your product with common environmental cues.
+- Design for awe: what makes people feel amazed, not just informed?
+- Make your product or behavior public — private products don't spread by imitation.
+- Package useful information in shareable formats — lists, how-tos, surprising statistics.
 
 ## Controversy/Criticism
 
-Some critics note that Berger's framework, while empirically grounded, overlaps significantly with Cialdini's influence principles—social proof, emotion, and practical value echo established psychology. Others argue that the "viral" framing can encourage manipulative attention-economy tactics that prioritize virality over substance. Berger counters that ethical viral content still serves audiences—it's not just clickbait. Additionally, the STEPPS framework is more applicable to consumer products than to complex B2B or policy decisions where rationality plays a larger role.
+Some marketing critics argue the book optimizes for virality at the expense of substance. Others note that creating contagious content doesn't guarantee long-term value — viral campaigns can outlast their usefulness. The academic rigor is generally stronger than typical marketing books.
 
 ## One-Line Takeaway
 
-Products and ideas spread when they are remarkable, triggered by daily life, emotionally engaging, publicly visible, practically valuable, and wrapped in a story people want to tell.
+> Six STEPPS make things worth sharing — social currency, triggers, emotion, public visibility, practical value, and stories — apply them together for maximum spread.
 
-## Related
+## Related Books
 
-- [[20 Sources/Books/2019/28-influence.md|Influence]] — shared social proof and psychology of why people comply and share
-- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — social proof operates through established cognitive mechanisms
-- [[The 4-Hour Workweek|The 4-Hour Workweek]] — using passive income and automation alongside viral marketing
-- [[20 Sources/Books/2019/29-contagious.md|Contagious]] and [[20 Sources/Books/2019/28-influence.md|Influence]] both explain word-of-mouth dynamics from different angles
-- [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]] — scarcity and fear-based triggers that drive sharing
-- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — focusing on the few essential virality triggers rather than spray-and-pray marketing
+[[20 Sources/Books/2019/28-influence.md|Influence]]
+[[20 Sources/Books/2019/31-the-psychology-of-persuasion.md|The Psychology of Persuasion]]
+[[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]]

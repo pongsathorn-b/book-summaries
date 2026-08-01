@@ -1,63 +1,62 @@
 ---
-tags: [productivity, essentialism, prioritization, focus, decision-making]
+tags: [prioritization, simplicity, focus, essentialism, greg-mccowan]
 category: Productivity
-summary: Identify the vital few and eliminate the trivial many — effectiveness comes not from doing more, but from doing only the right things.
+summary: The disciplined pursuit of less — figure out what is essential, eliminate everything else, and make execution effortless.
 ---
 
 # Essentialism — Greg McKeown
 
-> "Essentialism is not about how to get more things done; it's about how to get the right things done."
-
 ## Overview
 
-[[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] by [[30 Knowledge/People/Greg-McKeown.md|Greg McKeown]] is the philosophical and practical case for systematic prioritization. The book argues that non-essentialists try to do everything for everyone, accumulating busyness and mediocrity, while essentialists invest their limited time and energy in the few things that truly matter. Drawing from Pareto's 80/20 rule and the wisdom of figures like Warren Buffett ("The difference between successful people and really successful people is that really successful people say no to almost everything"), McKeown provides both the mindset shift and the operational tactics to systematically pursue less but better.
+Greg McKeown makes the case for essentialism: the disciplined pursuit of less. Not occasionally saying no — systematically saying no to the non-essential so that the essential has room to breathe. The book addresses the fundamental problem of modern knowledge work: there is always more to do than can possibly be done. Essentialism is the framework for making that strategic choice deliberately.
 
 ## Core Concepts
 
-- **Essentialism = Systematic Prioritization** — The disciplined pursuit of less is not about doing less — it's about doing only what is essential, at the highest level of quality
-- **The 3 Core Principles**:
-  1. **Explore** — Discern the vital few from the trivial many (every option, commitment, task, relationship)
-  2. **Eliminate** — Cut the non-essential ruthlessly
-  3. **Execute** — Remove obstacles to the essential through rituals and systems
-- **The 90% Rule** — When evaluating a decision, rate options on a 0-100 scale. If it's below 90, automatically score it a 0. This forces binary "hell yes or no" decisions.
-- **The Buffer Zone** — Build 50% more time than you think a project needs into your estimates; reality always expands to fill available time (Parkinson's Law)
-- **TheExtractor** — A systematic process to find the "main thing" buried under competing priorities: ask "if I could do only ONE thing today, what would it be?"
-- **Trade-offs Are Not Bad** — Non-essentialists fear trade-offs; essentialists make them explicitly and strategically
+### The Essentialist Mindset
+Non-essentialists ask "how can I do it all?" Essentialists ask "which problem do I most want to solve?" The essentialist trades the tyranny of the todo list for the freedom of choice. The discipline is not about doing less — it's about doing only what is essential.
+
+### The Explore/Eliminate/Execute Framework
+Explore: separate the vital few from the trivial many. Eliminate: remove the non-essential aggressively. Execute: remove obstacles to make the essential effortless. This is not a one-time decision — it's a continuous discipline.
+
+### Trade-offs Are Not Bad
+People avoid trade-offs because they seem like losses. Essentialists see trade-offs as the opportunity to invest energy where it matters most. Every yes is a no to something else — essentialists make this explicit.
+
+### The 90% Rule
+Rate opportunities from 0-100. If it's not a clear 90+, it's a no. Most decisions are not obvious 90s — they hover in the 50-70 range. Essentialists hold out for the clear yes and decline everything else.
+
+### Play and Rest Are Essential
+Play is not frivolous — it is the source of innovation, creativity, and resilience. Rest is not a reward for productivity — it is a prerequisite for it. Essentialism includes renewal as a core practice.
 
 ## Key Lessons
 
-- "Hell yes or no" — every maybe is a no in disguise; the threshold for saying yes must be high
-- [[20 Sources/Books/2019/22-the-4-hour-workweek.md|22-the-4-hour-workweek]]'s "selective ignorance" and Ferriss's 80/20 application are McKeown's efficiency cousin
-- The Obstacle Course: before executing, identify what obstacles exist between you and the essential — clear the path, don't just add tasks
-- "Essential" is defined by alignment with your values and goals — not by urgency, other people's demands, or market noise
-- Play and sleep are essential, not luxuries — McKeown explicitly rejects the grind culture that treats rest as waste
-- The Essentialist's 6 Leadership Rituals: Space (create thinking space), Buffer (build time margins), Focus (name the one thing), Calendar (block time for the vital few), Recovery (strategic renewal), Theme (one word that unites all decisions)
+1. You can do anything, but not everything — the permission to ignore is the power of essentialism.
+2. The 90% rule: if an opportunity isn't a clear 90+, it's a no.
+3. Trade-offs are the opportunity to invest in what matters — stop pretending you can have everything.
+4. Play and rest are not luxuries — they are essential inputs to high performance.
+5. Making something effortless requires more design than making something hard.
+6. Sleep is an investment, not a weakness — well-rested minds make better essentialist decisions.
+7. The pursuit of "no" creates the space for "yes."
+8. The disciplined pursuit of less is harder than accepting more work — it requires clear thinking.
 
 ## Practical Applications
 
-1. Every Monday: review your commitments and apply the 90% rule — eliminate anything scoring below 90
-2. Use "extreme criteria" when vetting opportunities: if this isn't a "hell yes," it's a "no"
-3. Create a "not-to-do list" alongside your to-do list — naming what you won't do is as important as what you will
-4. Apply [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] only to essential tasks — don't time-box non-essential work
-5. Before accepting a new commitment, visualize the full cost: time, energy, trade-offs — then decide
-6. Schedule play and recovery as deliberately as work — protect non-negotiable renewal time
-7. Build the Essentialist's Buffer: when estimating tasks, add 50% — reality always expands to fill time
+- Review your calendar and task list weekly: what would you cut if you could only do 3 things?
+- Practice the 90% rule: when an opportunity comes, rate it honestly before committing.
+- Build buffer time between commitments — the essentialist protects space.
+- Schedule play and renewal explicitly — not as leftovers after everything else.
+- When you say no to something, don't apologize or explain at length — just say no.
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- Critics argue "pursuing only the vital few" requires knowing what matters — which is itself the hard problem the book doesn't fully solve
-- The 90% rule can be paralyzing — overthinkers already struggle with decisions, and the rule gives them another framework to overanalyze
-- "Eliminate the trivial many" sounds appealing until the trivial many includes relationships, obligations, or work you can't actually quit
-- Some find the book too aspirational — the "saying no" tactics work for independent workers but less for employees, caregivers, or those without structural power
-- McKeown has been criticized for vague advice that sounds profound but lacks concrete implementation steps
+Some find essentialism too idealistic — saying no requires power and status many workers don't have. Others argue the "relentless pursuit of less" can become an excuse for inaction. The business case sometimes overshadows the philosophical depth.
 
 ## One-Line Takeaway
 
-Effectiveness is not about doing more — it's about discerning the vital few from the trivial many and having the discipline to eliminate everything else.
+> The disciplined pursuit of less is not about doing less — it is about making room for what truly matters by systematically eliminating everything that isn't.
 
 ## Related Books
 
-- [[The 4-Hour Workweek|The 4-Hour Workweek]] — Ferriss's selective ignorance and elimination tactics are Essentialism in entrepreneur's clothing
-- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — Essentialism provides the strategic filter for deciding what gets a next action in GTD
-- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|The 7 Habits of Highly Effective People]] — Covey's Habit 3 ("Put First Things First") is the habit-based version of Essentialism
-- [[30 Knowledge/Concepts/make-time|Make Time]] — daily tactics for saying no to the trivial many so the vital few get attention
+[[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
+[[20 Sources/Books/2019/21-eat-that-frog.md|Eat That Frog!]]
+[[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]]
+[[20 Sources/Books/2019/24-indistractable.md|Indistractable]]

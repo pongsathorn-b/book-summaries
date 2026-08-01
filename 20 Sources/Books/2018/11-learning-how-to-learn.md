@@ -1,68 +1,67 @@
 ---
-tags: [learning, education, neuroscience, metacognition]
+tags: [learning, education, neuroscience, metacognition, barbara-oakley]
 category: Learning
-summary: A language major who became a math expert by reverse-engineering how learning actually works.
+summary: A language major who became a math expert by reverse-engineering how learning actually works — and discovering that everyone can.
 ---
 
 # Learning How to Learn — Barbara Oakley
 
-> "Mistakes are your friends — they show you where you need to focus."
-
 ## Overview
 
-[[Barbara Oakley|Barbara Oakley]] was a language major who struggled with math — then discovered she's not "bad at math," she'd just never learned how to learn. She went on to co-create one of the world's most popular online courses.
+Barbara Oakley was a language major who struggled with math — then discovered she wasn't "bad at math," she'd just never learned how to learn. She went on to become an engineering professor and co-created one of the world's most popular online courses. Learning How to Learn distills the neuroscience and cognitive psychology of effective learning into practical tactics for anyone studying or working to acquire new skills.
 
 ## Core Concepts
 
-### [[30 Knowledge/Concepts/focused-mode|Focused Mode]] vs [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]]
+### Focused Mode vs Diffuse Mode
+Focused Mode: direct, analytical, linear thinking — what you use studying a specific concept. Diffuse Mode: relaxed, big-picture thinking — this is when your brain makes connections and has insights. Active during walks, showers, sleep. You need both. Forcing focused mode 24/7 is counterproductive — your brain builds connections during diffuse mode rest.
 
-**[[30 Knowledge/Concepts/focused-mode|Focused Mode]]:** Direct, analytical, linear thinking. What you use studying a specific concept.
+### Chunking
+A chunk is a mental package of information that fits together — a compressed unit of meaning. Novices see bits; experts see chunks. Chunk building requires: focused study, understanding, practice with retrieval. Context (when and how to use a chunk) is as important as the chunk itself.
 
-**[[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]]:** Relaxed, big-picture thinking. This is when your brain makes connections and has insights. Active during walks, showers, sleep.
+### The Illusion of Knowing
+Rereading and highlighting create the illusion of mastery. Recognition is not recall. The solution: test yourself — that's when real learning happens. The testing effect is one of the most replicated findings in cognitive science.
 
-The key: **You need both.** [[Forcing Focused Mode|Forcing Focused Mode]] 24/7 is counterproductive.
+### Spaced Repetition
+Cramming feels productive but doesn't stick. Better: spread study over time with increasing intervals. Day 1 → Day 3 → Day 7 → Day 14 → Day 28. Spaced repetition exploits the brain's natural forgetting curve — each review strengthens the memory trace more than the previous one.
 
-### [[30 Knowledge/Concepts/chunking|Chunking]]
+### Procrastination and Zombie Mode
+Procrastination activates pain centers. The solution: make the task small enough that your zombie mode (habit) can handle it. The 2-Minute Rule: if it takes less than 2 minutes, just do it now. Willpower is finite — use it for starting, not for sustaining.
 
-A chunk is a mental package of information that fits together — compressed unit of meaning.
+### Desirable Difficulty
+Making mistakes during practice is a feature. Mistakes activate diffuse mode and help identify gaps. The struggle is the point — the harder you have to think to retrieve something, the better it sticks.
 
-- Novices see bits; [[Experts|Experts]] see chunks
-- [[Chunk Building|Chunk Building]] requires: focused study, understanding, practice with [[Retrieval|Retrieval]]
-- Context (when and how to use a chunk) is as important as the chunk itself
+## Key Lessons
 
-### [[The Illusion of Knowing|The Illusion of Knowing]]
+1. The brain has two learning modes — focused and diffuse. You need both, and you need to switch between them.
+2. Retrieval practice (testing) is more effective than rereading — close the book and write what you know.
+3. Spaced repetition is not optional — it's the mechanism that moves information from short-term to long-term memory.
+4. Procrastination is a habit — treat it with the same behavioral techniques you'd use for any habit.
+5. Desirable difficulty is real — struggle is a signal that learning is happening, not that it's failing.
+6. Sleep is when memory consolidation happens — pulling all-nighters is counterproductive.
+7. Interleaving (mixing topics) builds more flexible knowledge than blocked practice.
+8. Understanding is not the same as being able to retrieve — you must practice retrieval to lock in learning.
 
-Rereading and highlighting create the illusion of mastery. [[Recognition vs Recall|Recognition vs Recall]]: recognition is not recall.
+## Practical Applications
 
-**[[Test Yourself|Test Yourself]] — that's when real learning happens.**
+- Use active recall: after reading a chapter, close the book and write everything you can remember.
+- Apply spaced repetition: review material at day 1, 3, 7, 14, 28 using flashcards or notes.
+- Switch tasks deliberately: after focused study, take a walk or shower to activate diffuse mode.
+- Use the 2-Minute Rule: if a task takes less than 2 minutes, do it immediately.
+- Interleave your practice: mix different types of problems or topics in a single study session.
 
-### [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
+## Controversy/Criticism
 
-Cramming feels productive but doesn't stick. Better: spread study over time with increasing intervals.
+Some critics argue the book oversimplifies learning — individual differences in prior knowledge, motivation, and learning disabilities are not adequately addressed. The popular-course format sometimes sacrifices nuance for accessibility. Others note that the learning techniques work best for well-defined domains (languages, math, sciences) and less well for ill-structured domains like leadership or creativity.
 
-Day 1 → Day 3 → Day 7 → Day 14 → Day 28
+## One-Line Takeaway
 
-### [[30 Knowledge/Concepts/procrastination|Procrastination]] and Zombie Mode
+> Mistakes are your friends — they show you where you need to focus. Learning is not about avoiding struggle; it's about using struggle strategically.
 
-Procrastination activates pain centers. The solution: **make the task small enough that your [[Zombie Mode|Zombie Mode]] (habit) can handle it.**
+## Related Books
 
-- [[2-Minute Rule|2-Minute Rule]]: if it takes less than 2 minutes, just do it now
-
-### [[30 Knowledge/Concepts/desirable-difficulty|Desirable Difficulty]]
-
-[[Making Mistakes|Making Mistakes]] during practice is a feature. Mistakes activate [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] and help identify gaps.
-
-## For Founders
-
-- Building a startup is [[Constant Learning Under Uncertainty|Constant Learning Under Uncertainty]] — optimize your own [[Learning Style|Learning Style]]
-- [[The Focused/Diffuse Switch|The Focused/Diffuse Switch]] = work on the problem, then sleep on it
-- [[30 Knowledge/Concepts/interleaving|Interleaving]] helps with [[Cross-Domain Strategy|Cross-Domain Strategy]]
-
-## Related
-
-- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — [[30 Knowledge/Concepts/habit-formation|Habit Formation]] for consistent learning
-- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — [[30 Knowledge/Concepts/focused-mode|Focused Mode]] is the mode of [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]]
-- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — the science behind [[Memory Consolidation|Memory Consolidation]]
-- [[30 Knowledge/Concepts/chunking|Chunking]] — how [[Experts|Experts]] process [[Knowledge|Knowledge]]
-- [[20 Sources/Books/2018/08-moonwalking-with-einstein.md|Moonwalking with Einstein]] — [[Memory Athletes|Memory Athletes]] and [[Memory Palaces|Memory Palaces]]
-- [[30 Knowledge/Concepts/testing-effect|Testing Effect]] — [[30 Knowledge/Concepts/active-recall|Active Recall]] is the most powerful learning technique
+[[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
+[[20 Sources/Books/2018/16-welcome-to-your-brain.md|Welcome to Your Brain]]
+[[20 Sources/Books/2018/08-moonwalking-with-einstein.md|Moonwalking with Einstein]]
+[[20 Sources/Books/2018/17-unlimited-memory.md|Unlimited Memory]]
+[[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
+[[30 Knowledge/Concepts/chunking|Chunking]]

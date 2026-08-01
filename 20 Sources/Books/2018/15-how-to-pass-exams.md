@@ -1,68 +1,66 @@
 ---
-tags: [learning, education, exams, productivity]
+tags: [learning, education, exams, productivity, study-skills]
 category: Learning
-summary: Evidence-based study techniques that actually work — active recall and spaced repetition over rereading.
+summary: Evidence-based study techniques that actually work — active recall and spaced repetition over rereading and cramming.
 ---
 
 # How to Pass Exams
 
-> "Stop rereading. Start retrieving."
-
 ## Overview
 
-No single definitive book — "How to Pass Exams" is a genre. Core principles synthesized from [[Exam Science|Exam Science]], [[Cognitive Psychology|Cognitive Psychology]], and proven [[Study Technique|Study Technique]] research.
+No single definitive book — "How to Pass Exams" is a genre. Core principles synthesized from exam science, cognitive psychology, and proven study technique research. The problem is universal: most students use the most ineffective methods (rereading, highlighting, cramming) because they feel productive, while the most effective methods (active recall, spaced repetition) feel hard. This is the science of studying smarter.
 
-## The Core Problem
+## Core Concepts
 
-Most students study inefficiently — they reread, highlight, and summarize passively. These feel productive but produce poor retention.
+### Active Recall
+The single most effective study technique: close the book and test yourself. Read → close the book → write everything you remember. The struggle is the point — it strengthens the memory trace. Rereading creates fluency that masquerades as understanding; recall reveals what you actually know.
 
-## Key Principles
+### Spaced Repetition
+Study across multiple sessions, not one marathon cramming session. Review at expanding intervals: Day 1 → Day 3 → Day 7 → Day 14 → Day 28. Spaced repetition exploits the brain's natural forgetting curve — each retrieval strengthens the memory more than the previous one.
 
-### [[30 Knowledge/Concepts/active-recall|Active Recall]]
+### The Testing Effect
+Being tested is more effective than restudying. One of the most replicated findings in cognitive science. Testing is not just assessment — it is the mechanism of learning itself. Every test is a learning event.
 
-The single most effective study technique: close the book and test yourself.
+### Interleaving
+Don't study one topic until mastery — switch between topics while learning. Forces context switching and adaptive learning. Mixed practice builds more flexible knowledge than blocked practice.
 
-- Read → close the book → write everything you remember
-- The [[Struggle Is the Point|Struggle Is the Point]] — it strengthens the memory trace
+### Elaboration
+Ask: "Why is this true? How does this connect to what I already know?" Multiple retrieval paths equals robust memory. Understanding why something is true is as important as knowing that it is true.
 
-### [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
+### Sleep Before the Exam
+Sleep deprivation impairs memory formation more than alcohol intoxication. 7-8 hours is a performance strategy, not a luxury. The night before an exam should include sleep, not cramming.
 
-Study across multiple sessions, not one marathon [[Cramming Session|Cramming Session]].
+## Key Lessons
 
-Day 1 → Day 3 → Day 7 → Day 14 → Day 28
+1. Stop rereading — start retrieving. The feeling of knowing is not the same as the ability to recall.
+2. Cramming is short-term memory theater — it works for the moment and vanishes within days.
+3. Sleep is not optional before exams — it is when memory consolidation actually happens.
+4. Interleaving builds flexible knowledge — blocked practice gives you the illusion of mastery.
+5. Highlighting and rereading feel productive and produce poor retention — they are the laziest forms of studying.
+6. The testing effect is one of the most robust findings in cognitive science — use it.
+7. Elaboration is asking why — the more connections you make, the more robust the memory.
+8. Fluency is the enemy of learning — when something feels easy, you are probably not learning.
 
-### [[The Testing Effect|The Testing Effect]]
+## Practical Applications
 
-Being tested is more effective than restudying. One of the most replicated findings in [[Cognitive Science|Cognitive Science]].
+- After every study session: close the book and write everything you can recall — this is the most important study activity.
+- Use spaced repetition: review material at day 1, 3, 7, 14, 28 — even 15 minutes of review dramatically improves retention.
+- Create practice tests from your notes: the act of creating the test is itself a learning event.
+- Sleep 7-8 hours before exams: it is more effective than any last-minute study session.
+- Switch between topics in a single study session rather than mastering one before moving to the next.
 
-### [[30 Knowledge/Concepts/interleaving|Interleaving]]
+## Controversy/Criticism
 
-Don't study one topic until mastery — switch between topics while learning. Forces [[Context Switching|Context Switching]] and [[Adaptive Learning|Adaptive Learning]].
+Most criticism is directed at the gap between evidence and common practice — not at the science itself. Some students with learning disabilities require accommodations that don't fit the standard evidence-based recommendations. Critics note that test design itself often rewards surface-level recall over deep understanding.
 
-### [[Elaboration|Elaboration]]
+## One-Line Takeaway
 
-Ask: "Why is this true? How does this connect to what I already know?" Multiple [[Retrieval Paths|Retrieval Paths]] = robust memory.
+> Stop rereading. Start retrieving — the hardest part of studying (testing yourself) is also the most effective.
 
-### [[Sleep Before the Exam|Sleep Before the Exam]]
+## Related Books
 
-[[Sleep Deprivation|Sleep Deprivation]] impairs [[Memory Formation|Memory Formation]] more than [[Alcohol Intoxication|Alcohol Intoxication]]. 7-8 hours is a [[Performance Strategy|Performance Strategy]], not a luxury.
-
-## What Doesn't Work
-
-- **[[Highlighting and Rereading|Highlighting and Rereading]]** — feel like learning, produce poor retention
-- **[[30 Knowledge/Concepts/cramming|Cramming]]** — short-term memory, fast forgetting
-- **[[Passive Review|Passive Review]]** — watching videos without engaging
-- **[[Copying Notes Verbatim|Copying Notes Verbatim]]** — doesn't require [[Retrieval|Retrieval]]
-
-## For Founders
-
-- Studying for certifications, [[Technical Interviews|Technical Interviews]] — apply the same principles
-- [[30 Knowledge/Concepts/active-recall|Active Recall]] before a key [[Meeting|Meeting]]: "What do I need from this? Write it down now."
-
-## Related
-
-- [[20 Sources/Books/2018/11-learning-how-to-learn.md|Learning How to Learn]] — the full framework behind these principles
-- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — the key mechanism
-- [[30 Knowledge/Concepts/testing-effect|Testing Effect]] — [[30 Knowledge/Concepts/active-recall|Active Recall]] is the most powerful learning tool
-- [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]] — why [[Sleep|Sleep]] is essential for [[Memory Consolidation|Memory Consolidation]]
-- [[20 Sources/Books/2018/16-welcome-to-your-brain.md|Welcome to Your Brain]] — the neuroscience behind [[Sleep Deprivation|Sleep Deprivation]] and [[Memory Formation|Memory Formation]]
+[[20 Sources/Books/2018/11-learning-how-to-learn.md|Learning How to Learn]]
+[[20 Sources/Books/2018/16-welcome-to-your-brain.md|Welcome to Your Brain]]
+[[30 Knowledge/Concepts/active-recall|Active Recall]]
+[[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
+[[30 Knowledge/Concepts/testing-effect|Testing Effect]]

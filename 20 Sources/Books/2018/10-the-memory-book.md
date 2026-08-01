@@ -1,61 +1,60 @@
 ---
-tags: [memory, mnemonics, learning, techniques]
+tags: [memory, mnemonics, learning, techniques, harry-lorayne]
 category: Memory
-summary: The classic memory improvement book — Harry Lorayne's techniques for extraordinary recall.
+summary: The classic memory improvement book — Harry Lorayne's techniques for extraordinary recall, from names to numbers to speeches.
 ---
 
 # The Memory Book — Harry Lorayne
 
-> "Memory is a skill, not a talent."
-
 ## Overview
 
-Classic memory improvement book from 1974. [[30 Knowledge/People/Harry-Lorayne.md|Harry Lorayne]] teaches techniques for remembering names, dates, numbers, lists, speeches, and anything else your brain wants to forget.
+Classic memory improvement book from 1974 by Harry Lorayne. As a young man, Lorayne was told he had a terrible memory — and set out to prove that memory is a learnable skill. He became one of the world's most sought-after memory experts. The Memory Book distills his core techniques: the Link Method, the Peg System, the Major System, and name memory. The book is practical, example-heavy, and designed to be practiced, not just read.
 
-## The Problem
+## Core Concepts
 
-Most people use the same ineffective study methods over and over. [[Memory Is a Learnable Skill|Memory Is a Learnable Skill]] — not a talent.
+### The Link Method
+Connect items in a list with vivid, ridiculous mental images. Chain them together. Example: bread, apple, scissors → Giant loaf with an apple growing out of it, cut by giant scissors. The more vivid and bizarre the image, the more memorable. This is the foundation of all memory palace work.
 
-## Core Techniques
+### The Peg System
+Associate numbers 1-10 with vivid images. Then "hang" items on the corresponding pegs. Classic associations: 1=bun (one bun), 2=shoe (two shoes), 3=tree (three corners), 4=door (four by the floor), 5=hive (five live bees), 6=sticks (six stacked sticks), 7=heaven (seven in heaven), 8=gate (eight-year-old gate), 9=wine (nine strains), 10=hen (ten hens). Once pegged, items are locked in sequence.
 
-### [[Link Method|Link Method]]
-Connect items in a list with vivid, ridiculous mental images. Chain them together.
+### The Major System
+Convert numbers to consonant sounds, then to words. For remembering: prices, dates, phone numbers, any number sequence. Phonetic code: 0=S/Z, 1=T/D, 2=N, 3=M, 4=R, 5=L, 6=J/CH, 7=K/G, 8=F/V, 9=P/B. Convert numbers to sounds to words: 14=R-T (rat), 15=R-P (rope), 16=R-CH (roach). Then image the word.
 
-Example: bread, apple, scissors → Giant loaf with an apple growing out of it, cut by giant scissors.
+### Name Memory
+To remember a name: hear it clearly, find a physical characteristic, make a ridiculous link. Mr. Baker → picture him kneading dough or throwing a cake at someone. The technique works because names are abstract — they must be converted to images to be memorable.
 
-### [[Peg System|Peg System]]
-Associate numbers 1-10 with vivid images. Then "hang" items on the corresponding pegs.
+## Key Lessons
 
-1 = bun, 2 = shoe, 3 = tree, 4 = door, 5 = hive, 6 = sticks, 7 = heaven, 8 = gate, 9 = wine, 10 = hen
+1. Memory is a skill — it improves with practice, like any other skill.
+2. Association is the key — connect new information to existing knowledge.
+3. Visualization is everything — make images vivid, bizarre, and multisensory.
+4. The brain remembers location — put things in a specific place in your mind.
+5. Attention is the gateway — you cannot remember what you never noticed.
+6. Repetition without strategy is inefficient — use spaced repetition with techniques.
+7. The Major System is essential for numbers — learn it if you need to remember dates, prices, or statistics.
+8. Names are the highest-value memory skill — everyone notices when you remember their name.
 
-### [[Major System|Major System]]
-Convert numbers to consonant sounds, then to words. For remembering: prices, dates, metrics.
+## Practical Applications
 
-0=S/Z, 1=T/D, 2=N, 3=M, 4=R, 5=L, 6=J/CH, 7=K/G, 8=F/V, 9=P/B
+- Practice the Link Method: take any shopping list and create bizarre linked images for each item.
+- Build your Peg System: memorize the 10 standard peg images, then practice hanging items on them.
+- Learn the Major System phonetic code and use it to memorize 5 phone numbers this week.
+- Practice name memory: at your next meeting or social event, memorize every person's name using the link technique.
+- Review all techniques daily for the first month — like any skill, memory technique requires practice.
 
-### [[Name Memory|Name Memory]]
-To remember a name: hear it clearly, find a physical characteristic, make a ridiculous link.
+## Controversy/Criticism
 
-Mr. Baker → picture him kneading dough or throwing a cake.
+Some educators argue that memory techniques can become crutches that prevent deeper understanding. The book's age shows in some examples and formatting. The emphasis on bizarre imagery can feel uncomfortable or juvenile to some learners. Like Moonwalking with Einstein, critics note that these techniques work better for discrete data than for complex conceptual learning.
 
-## Key Principles
+## One-Line Takeaway
 
-1. **[[Association|Association]]** — connect new to existing knowledge
-2. **[[Visualization|Visualization]]** — make it vivid and ridiculous
-3. **[[Location|Location]]** — put things in a specific place in your mind
-4. **[[Attention|Attention]]** — can't remember what you never noticed
+> Memory is a skill, not a talent — with the right techniques and deliberate practice, extraordinary recall is available to anyone.
 
-## For Founders
+## Related Books
 
-- Remembering [[Client Names|Client Names]] and personal details is a [[30 Knowledge/Concepts/competitive-advantage|Competitive Advantage]]
-- Remembering [[Meeting Conversations|Meeting Conversations]] builds relationships
-- [[Major System|Major System]] for remembering: prices, dates, [[Metrics|Metrics]]
-
-## Related
-
-- [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — [[30 Knowledge/Concepts/method-of-loci|Method of Loci]] — the most powerful technique
-- [[20 Sources/Books/2018/08-moonwalking-with-einstein.md|Moonwalking with Einstein]] — [[30 Knowledge/People/Joshua-Foer.md|Joshua Foer]]'s modern [[Memory Athlete|Memory Athlete]] journey
-- [[20 Sources/Books/2018/14-memory-craft.md|Memory Craft]] — [[30 Knowledge/Concepts/Lynne-Kelly.md|Lynne Kelly]]'s research-backed treatment
-- [[20 Sources/Books/2018/17-unlimited-memory.md|Unlimited Memory]] — [[30 Knowledge/People/Kevin-Horsley.md|Kevin Horsley]]'s [[World Memory Champion|World Memory Champion]] system
-- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — essential for [[Long-Term Memory|Long-Term Memory]]
-- [[30 Knowledge/Concepts/chunking|Chunking]] — [[Expert Knowledge|Expert Knowledge]] structure
+[[20 Sources/Books/2018/08-moonwalking-with-einstein.md|Moonwalking with Einstein]]
+[[20 Sources/Books/2018/14-memory-craft.md|Memory Craft]]
+[[20 Sources/Books/2018/17-unlimited-memory.md|Unlimited Memory]]
+[[30 Knowledge/Concepts/memory-palace|Memory Palace]]
+[[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]

@@ -1,62 +1,65 @@
 ---
-tags: [productivity, distraction, attention, triggers, willpower]
+tags: [procrastination, attention, distraction, psychology, nir-eyal]
 category: Productivity
-summary: Master internal triggers (feelings, thoughts) and external triggers (environment, technology) to become indistractable — or nothing else matters.
+summary: Traction vs. distraction — you can only be indistractable when you manage your internal triggers, not just your external environment.
 ---
 
 # Indistractable — Nir Eyal
 
-> "Distraction is not the problem — it's a symptom of an internal trigger we're trying to escape."
-
 ## Overview
 
-[[20 Sources/Books/2019/24-indistractable.md|Indistractable]] by [[30 Knowledge/People/Nir-Eyal|Nir Eyal]] (author of the influential [[20 Sources/Books/2022/99-hooked.md|Hooked]]]]) is a comprehensive framework for reclaiming attention from both external interruptions and internal discomfort. Eyal argues that distraction is almost never about the thing you're avoiding — it's about the feeling you're trying to escape. The book separates triggers into external (phone notifications, open office layouts) and internal (boredom, anxiety, loneliness), and provides specific techniques for managing both. The core thesis: you cannot be productive with any system if you are constantly distracted; attention is the foundational resource.
+Nir Eyal, who wrote the influential Hooked on habit design, shifts perspective: the real problem isn't tech addiction — it's internal discomfort. Distraction is a symptom, not the cause. The root is uncomfortable emotions we try to escape. Indistractable means learning to manage internal triggers (boredom, anxiety, loneliness) rather than blaming external technology. The book offers a practical framework for taking control of your attention.
 
 ## Core Concepts
 
-- **The Indistractable Model**: Tension = Unsatisfied Human Needs → The Trigger → Behavior → Relief (temporary) → Return of Tension
-- **Internal Triggers** — The uncomfortable emotional states (loneliness, anxiety, boredom, fatigue) that drive us to distraction. Unlike external triggers, you cannot eliminate internal triggers — you must transform your relationship with them.
-- **External Triggers** — Environmental cues that prompt distraction: notifications, open apps, other people's requests. These are easier to eliminate than internal triggers.
-- **Traction vs. Distraction** — Both look like action, but only traction moves toward your values. Traction always requires a trigger that matches your intended behavior.
-- **Timeboxers vs. Hackers** — Timeboxers schedule every part of their day; Hackers prefer flexible schedules. Both can be indistractable if actions are intentional.
-- **The 4 D's of Dealing with Distraction**: Do (handle it immediately if urgent), Delay (schedule it), Dismiss (delegate), Design (remove the trigger)
-- **Ethical Consumerism of Attention** — Understanding how tech companies design for addiction helps you build defenses
+### Traction vs. Distraction
+Every action is either traction (moving toward what you intend) or distraction (moving away from discomfort). The enemy isn't technology — it's any action that takes you away from your intended direction. Social media isn't the problem; using it to escape discomfort is.
+
+### The Internal Trigger
+The root of distraction is uncomfortable emotion. Boredom, anxiety, loneliness, fatigue — these are the triggers, not the phone. Distraction is an escape, not a choice. Understanding this transforms the solution: you don't need more willpower, you need emotion regulation.
+
+### Time Box Your Schedule
+Schedule every block: work, meals, exercise, social, leisure. When leisure is unscheduled, it fills with distraction. The blank calendar is the enemy of intentional living.
+
+### The 10-Minute Rule
+When you feel the urge to check your phone, wait 10 minutes. The urge is temporary — it will pass. If it persists after 10 minutes, check it. Most urges are short-lived; waiting disempowers them.
+
+### Precommitment
+Remove friction for good behaviors and add friction for bad ones. This is environment design from Atomic Habits: make distraction hard and traction easy.
+
+### Reflection Over Regret
+At day's end, ask: did I do what I said I would? Reflection without judgment, not self-punishment. Awareness is the first step — then design.
 
 ## Key Lessons
 
-- The #1 cause of distraction is unaddressed internal discomfort — not the phone itself
-- When you feel the urge to check your phone, identify the underlying feeling first: Am I anxious? Bored? Lonely?
-- External triggers are a choice — you can redesign your environment to make distraction harder and traction easier
-- [[20 Sources/Books/2019/22-the-4-hour-workweek.md|22-the-4-hour-workweek]]'s batch-and-eliminate approach is Eyal's external trigger elimination at scale
-- Reflection without action is rumination — Indistractable requires both metacognition and behavior change
-- You can be indistractable in service of others (responding to genuine needs) or in service of yourself
-- Making a pre-commitment ("I will work for 45 minutes before checking messages") transforms internal triggers from enemies to allies
+1. Distraction is an escape from discomfort, not a technology problem — manage the emotion, not the app.
+2. The 10-minute rule disempowers short-lived urges — most distractions are momentary impulses.
+3. Precommitment changes the environment — add friction to distraction, remove friction from traction.
+4. Timeboxing creates the structure within which freedom exists.
+5. Scheduled leisure prevents the guilt-helix of wasted evenings.
+6. Reflection beats regret — awareness without judgment is the first step.
+7. You can't outsmart the urge to escape discomfort — you can only feel it and let it pass.
+8. Other people are not the enemy — they are the context in which you practice indistraction.
 
 ## Practical Applications
 
-1. The "Reflection Check": when you reach for distraction, pause and ask: "What am I feeling right now?" Name the emotion before acting
-2. External trigger audit: list every notification, app, and environmental cue that prompts distraction — eliminate or batch each
-3. Timebox your day: calendar blocking prevents external triggers from colonizing unscheduled time
-4. Remove phone from bedroom; use a physical alarm clock — reclaim the default first 30 minutes of the day
-5. Apply [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] to satisfy internal triggers for urgency while maintaining focus
-6. Schedule worry time: designate 10 minutes per day to explicitly worry, which paradoxically reduces background anxiety
-7. Transform internal triggers: instead of escaping anxiety through distraction, ask "what is this feeling telling me I need?"
+- Track your distraction triggers for a week: what uncomfortable emotion precedes each episode?
+- Apply the 10-minute rule to any non-urgent urge — phone, snack, online shopping.
+- Precommit: delete social apps from phone, use website blockers during work hours.
+- Schedule leisure activities explicitly — unscheduled leisure becomes screen time.
+- Practice the reflection question nightly: did I do what I said I would?
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- The book can feel self-congratulatory — "indistractable" as an identity label can become its own form of productivity virtue-signaling
-- Critics in mental health community argue that attributing all distraction to "escaping feelings" is reductive — ADHD, trauma, and neurodivergence create attention challenges not reducible to emotional management
-- Eyal's conflicted position as a tech designer who also writes anti-distraction books draws skepticism
-- The "make it harder to be distracted" tactics can feel like constant vigilance — sustainable only for highly motivated people
-- Some find the "reflection" step impractical in high-pressure moments when willpower is already depleted
+The book's advice requires self-awareness many people lack. Critics in digital ethics argue that Eyal's framework places responsibility entirely on individuals while tech companies continue to optimize for addiction. The focus on individual behavior change may understate the need for structural regulation.
 
 ## One-Line Takeaway
 
-Master the internal emotional discomfort that drives distraction and redesign your environment to make traction the path of least resistance.
+> You can only be indistractable when you manage your internal triggers — distraction is an escape from discomfort, not a technology problem.
 
 ## Related Books
 
-- [[30 Knowledge/Concepts/make-time|Make Time]] — Knapp and Zeratsky's environmental tactics are the practical complement to Eyal's internal trigger framework
-- [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — structured time-boxing satisfies internal triggers for urgency without derailing focus
-- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — Indistractable is the attention foundation that makes GTD execution possible
-- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — both books argue that selective attention to the right things compounds over time
+[[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
+[[20 Sources/Books/2019/21-eat-that-frog.md|Eat That Frog!]]
+[[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]]
+[[20 Sources/Books/2019/23-make-time.md|Make Time]]

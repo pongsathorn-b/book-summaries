@@ -1,72 +1,65 @@
 ---
-tags: [startups, innovation, entrepreneurship, technology, venture-capital]
-category: Entrepreneurship
-summary: The best startups create entirely new categories rather than competing in crowded markets.
+tags: [startups, innovation, entrepreneurship, peter-thiel, competition]
+category: Strategy
+summary: Progress comes from going from 0 to 1, not 1 to n — vertical progress creates new things; horizontal progress just copies what works.
 ---
 
-# Zero to One — Peter Thiel with Blake Masters
-
-> "The next Bill Gates will not build an operating system. The next Larry Page will not make a search engine."
+# Zero to One — Peter Thiel
 
 ## Overview
 
-[[30 Knowledge/People/Peter-Thiel|Peter Thiel]], co-founder of PayPal and Palantir, delivered a seminal course at Stanford that became this book. Thiel argues that real progress comes from *vertical* or *1 to n* innovation — creating something entirely new — rather than *horizontal* or *0 to n* replication, which merely copies existing solutions across markets. The book is a manifesto for building monopolies through innovation, arguing that competition is for losers and that every successful business earns its profits by possessing something unique and non-copyable.
+Peter Thiel, co-founder of PayPal and Palantir, delivers a contrarian view of startups and innovation. The core thesis: progress comes from going from 0 to 1 (creating something new) rather than from 1 to n (copying what works). Most people and companies spend their energy on horizontal progress (globalization, competition) when they should focus on vertical progress (technology, new things). The book is a manifesto for building companies that create the future.
 
 ## Core Concepts
 
-### 1. Creating vs. Copying
-Globalization (copying what works across borders) is "0 to n." Technology (creating the genuinely new) is "0 to 1." Thiel cares exclusively about the latter. Competition destroys profits; monopoly enables sustainable innovation.
+### Zero to One vs. 1 to N
+Horizontal progress: copying things that work, scaling existing models, globalization. Vertical progress: doing new things, technology, going from 0 to 1. Most competition is 1 to n — competing over shares of existing markets. The real opportunity is 0 to 1 — creating new markets.
 
-### 2. The Monopoly Advantage
-A monopoly owns its market outright — but Thiel reframes this: every successful company is a monopoly, and the illusion of competition is a failure to see the true landscape. Monopolies can price freely, fund long-term research, and innovate without racing rivals.
+### Monopoly Is the Goal
+Competition is not the goal — competition means no profits for anyone. The goal is monopoly: a company so good at what it does that no alternative exists. Monopoly allows sustained profitability, which funds the research and development that enables further innovation.
 
-### 3. Secrets and the Questions They Hide
-Thiel insists there are still important secrets to discover — in nature, in science, in human institutions. Every great business is built around a secret others don't see. The habit of asking "what important truth do few people agree with you on?" is the book's central diagnostic.
+### Secrets
+Every great business is built around a secret — something true that no one else believes. Thiel identifies two types of secrets: secrets about nature (physics, biology) and secrets about people (what they want, what they don't know about themselves). Great companies are built on secrets that their founders discovered through careful observation.
 
-### 4. The Power Law of Venture Capital
-In any portfolio, one investment will vastly outperform all others combined. This is not a coincidence — it reflects the nature of startups themselves, where outcomes follow a power law, not a normal distribution. Diversification for startups is actually riskier than concentration.
+### The Founder's Paradox
+Founders are never normal — they combine extraordinary ability with a willingness to take risks that others won't take. Founders matter enormously — their quirks, obsessions, and vision shape the companies they build. This is not a bug but a feature of how great companies get built.
 
-### 5. Founding as a Singular Moment
-A startup begins with a small team united by a shared vision and complementary skills. The founding moment matters enormously — culture, equity splits, and division of labor calcify early. Thiel's "paypal mafian" philosophy: small, committed founding teams beat large, diffuse ones.
+### Vertical vs. Horizontal Thinking
+Start with a specific goal and work backward — vertical thinking. Or start with where you are and iterate forward — horizontal thinking. Thiel argues for vertical: start with the future you want to create and build backward to the present.
 
-### 6. Technology is Humanity's Expanding Frontier
-Thiel's optimism is rare: he genuinely believes technology and human capability can grow without natural limits, and that entrepreneurship is the vehicle for that expansion. Stagnation is a choice; progress is the alternative.
+### Competition Is for Losers
+In competition, profits go to no one. Competing in existing markets means competing on price, which destroys margins. The founder's job is to escape competition by creating something only you can offer. The best businesses dominate small markets first — PayPal targeted eBay power sellers, not all consumers.
 
 ## Key Lessons
 
-1. **Aim for vertical progress, not horizontal replication.** Copying a model from one country to another creates value for globalization but not for human knowledge or capability.
-2. **Ask: what important truth do few people agree with you on?** This question is a filter for ideas worth building.
-3. **Competition is for losers.** If you're fighting for scraps in a competitive market, you've already lost. Find or create a market you can own.
-4. **Build moats: patents, network effects, economies of scale, or proprietary data.** These make your monopoly defensible over time.
-5. **Start extremely small.** The best startups address a specific, overlooked market before expanding. PayPal started by selling things to eBay sellers; not "the future of payments."
-6. **Owning 100% of nothing beats 1% of everything.** A small share of a large competitive pie is worth less than a large share of a small monopoly.
-7. **The power law means bet everything on your best idea.** Diversification is for index funds, not early-stage venture.
-8. **Sell your company before it needs to be sold.** The best M&A outcomes come from companies still growing, not from distressed firesales.
-9. **The seven questions every business must answer:** (1) The Engineering Question — can you create breakthrough technology? (2) The Timing Question — is now the right time to start? (3) The Monopoly Question — are you starting with a small, dominatable market? (4) The People Question — do you have the right team? (5) The Distribution Question — can you deliver your product? (6) The Durability Question — will your position be defensible in 10-20 years? (7) The Secret Question — have you identified a unique opportunity others missed?
-10. **Trust the future more than the past.** Thiel's philosophy: the most valuable businesses of the next decades haven't been imagined yet. That's not a reason for nihilism — it's a reason to build.
+1. Progress is not about copying the future — it's about creating it. Zero to one, not one to n.
+2. Monopoly is the goal — competition means no profits. Find a market you can dominate.
+3. Every great company is built on a secret — something true that others don't see.
+4. The best businesses start small and dominate — dominate a niche first, then expand.
+5. Technology is vertical progress — globalization without technology is copying, not creating.
+6. Founders matter — their weirdness, vision, and willingness to risk are essential ingredients.
+7. The question "what valuable company is nobody building?" is the only question that matters for entrepreneurs.
+8. Competition is for losers — if you find yourself competing intensely, you've probably chosen the wrong market.
 
 ## Practical Applications
 
-- **Apply the seven questions** to any startup idea or new venture before committing significant resources.
-- **Use the "secrets" framework** to find neglected market opportunities: what does your industry assume to be impossible or irrelevant that you've found works?
-- **Think in terms of monopoly** when evaluating competitive positioning — where can you own a niche before competitors notice?
-- **Structure venture portfolios with power law in mind** — one massive winner can redeem a portfolio of zeros, so don't optimize for average outcomes.
-- **Treat the founding team as the core unit** — invest heavily in finding co-founders with complementary skills and aligned values before worrying about product.
-- **Start with the smallest viable market** and own it completely before expanding — "dominant small market" beats "small share of large market."
-- **Conduct a secrets audit** annually: what important truths is your industry wrong about? What opportunities does that create?
+- Ask: what secret do I know that others don't? What do I believe that most people think is false?
+- Start small: find a niche market you can dominate, then expand from there.
+- Build for monopoly: when choosing markets, prefer ones where you can be the only option.
+- Think vertically first: start with the future you want and work backward.
+- Evaluate opportunities by asking: is this 0 to 1 or 1 to n? Prefer 0 to 1.
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- **Thiel's pessimism about competition** is seen by some as an apology for monopoly that harms consumers and innovation ecosystems. Regulatory scrutiny of Big Tech owes something to this philosophy.
-- **The "secrets" framework** can rationalize contrarian bets that are actually just wrong — not every unconventional belief is a hidden truth.
-- **His political and philosophical views** (including involvement with Hulk Hogan's lawsuit against Gawker and support for Donald Trump) have made some readers skeptical of his business advice as a vehicle for darker ideologies.
-- **The power law advice** is arguably only actionable for institutional VCs with large portfolios — for individual founders it can encourage excessive risk-taking.
-- **Some argue Thiel over-indexes on tech startups** and dismisses the genuine value of business model innovation in non-tech sectors.
+Thiel's views are controversial. His argument that competition is for losers has been criticized as ignoring the benefits of competitive markets. His monopsony capitalism critics argue he overstates the case for monopoly. His contrarian approach to education (fellows who drop out) is not universally applicable.
 
 ## One-Line Takeaway
 
-> Create genuinely new things — vertical progress — and build toward monopoly before anyone else sees the market.
+> The most valuable businesses of the next century will come from entrepreneurs who seek to create new things, not copy existing ones — zero to one, not one to n.
 
----
+## Related Books
 
-*Related: [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[The Innovator's Dilemma|The Innovator's Dilemma]], [[20 Sources/Books/2019/22-the-4-hour-workweek.md|22-the-4-hour-workweek]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]], [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]]*
+[[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]]
+[[20 Sources/Books/2019/40-crossing-the-chasm.md|Crossing the Chasm]]
+[[20 Sources/Books/2020/44-blue-ocean-strategy.md|Blue Ocean Strategy]]
+[[20 Sources/Books/2019/47-rework.md|Rework]]

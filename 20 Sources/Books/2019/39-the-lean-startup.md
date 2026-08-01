@@ -1,73 +1,65 @@
 ---
-tags: [startups, lean methodology, entrepreneurship, build-measure-learn, product-development]
-category: Entrepreneurship
-summary: Use rapid experimentation and validated learning to build products customers actually want before scaling.
+tags: [startups, entrepreneurship, lean, MVP, build-measure-learn]
+category: Strategy
+summary: Build a minimum viable product, measure what customers actually do, and learn — the scientific method applied to startups.
 ---
 
 # The Lean Startup — Eric Ries
 
-> "A startup is a human institution designed to create a new product or service under conditions of extreme uncertainty."
-
 ## Overview
 
-[[Eric Ries|Eric Ries]] codified the methodology that transformed how startups and large companies build products. The Lean Startup methodology replaces long planning cycles with rapid experimentation, replaces assumptions with validated learning, and replaces vanity metrics with actionable metrics. The core engine is the Build-Measure-Learn feedback loop: build a minimum viable product (MVP), measure its performance against predefined hypotheses, and learn whether to pivot or persevere. The goal is to eliminate the waste of building products nobody wants.
+Eric Ries applies lean manufacturing principles to startup methodology. The core idea: startups are organizations under extreme uncertainty, and traditional business planning doesn't work in that environment. The alternative: the Build-Measure-Learn feedback loop. Build a minimum viable product (MVP), measure how customers respond, learn whether your hypothesis was right, and iterate. The scientific method applied to startups.
 
 ## Core Concepts
 
-### 1. The Build-Measure-Learn Loop
-Every product decision should feed into this loop as fast as possible. The loop starts with a *leap of faith* assumption — the core hypothesis that must be tested. Speed through this loop is the primary competitive advantage for any startup.
+### The MVP
+The minimum set of features needed to test a hypothesis with real customers. The MVP is not the product — it's an experiment. The goal is to learn as cheaply as possible, not to ship a great product. Many startups fail because they build too much before learning.
 
-### 2. Minimum Viable Product (MVP)
-The MVP is not a prototype — it's the smallest product that can generate actionable learning about customers. It deliberately omits features that haven't been validated, even if they're obvious. The goal is learning, not perfection. An MVP is the fastest path to data.
+### Build-Measure-Learn
+The core feedback loop: ideas → build → product → measure → data → learn → ideas. The goal is to minimize the time through this loop. Speed through the loop is the primary competitive advantage for startups. Waste is anything that doesn't contribute to learning.
 
-### 3. Validated Learning
-Learning is "validated" when it's demonstrated through evidence, not assumed. Startups exist to learn what customers will actually use and pay for. Ries frames learning as the *accounting* of startup progress — the thing that justifies continued investment.
+### Validated Learning
+Learning is only validated when it comes from actual customer behavior, not from surveys, focus groups, or opinions. The only measure that matters is whether customers behave the way your hypothesis predicted. If they don't, your hypothesis was wrong.
 
-### 4. Vanity Metrics vs. Actionable Metrics
-Vanity metrics (total users, page views, registered users) make teams feel good but don't inform decisions. Actionable metrics demonstrate causal relationships — "we changed X, and Y changed as a result." Split testing, cohort analysis, and A/B testing are tools for actionable metrics.
+### Innovation Accounting
+Measure what actually matters: cohort-based metrics that show whether you're making progress toward your goals. Vanity metrics (total users, page views) are misleading. Actionable metrics show whether your changes are producing the desired effect.
 
-### 5. Pivot or Persevere
-A pivot is a structured course correction based on validated learning. It's not admitting failure — it's responding to evidence. The Lean Startup defines nine distinct pivot types: zoom-in, zoom-out, customer segment, customer need, platform, technology, channel, and value capture.
+### The Pivot
+A pivot is a structured course correction based on what you've learned. The lean startup accepts that initial hypotheses are almost always wrong — the question is how quickly you can discover this and pivot to a better hypothesis. Pivoting is not failure — it's the process.
 
-### 6. The Three Engines of Growth
-Ries identifies three engines that drive sustainable startup growth: *sticky* (customers stay because the product keeps them), *viral* (customers bring other customers), and *paid* (customers pay enough to fund more acquisition). Knowing which engine you're running determines your growth strategy.
+### Small Batches
+Work in small batches — small features, small releases, small experiments. Small batches create faster feedback and reduce the cost of learning. The alternative (large, infrequent releases) delays learning and increases risk.
 
 ## Key Lessons
 
-1. **Start with the problem, not the solution.** Every feature should be justified by a leap of faith assumption you're testing, not an engineering instinct.
-2. **Build the smallest thing that can generate real data.** An MVP is not a minimal feature set — it's the minimal experiment that yields validated learning.
-3. **Move the Build-Measure-Learn loop as fast as possible.** Speed through the loop multiplies your learning per unit time. A six-month development cycle is an anti-pattern.
-4. **Define success criteria before you build.** "If customers behave X, we proceed; if they behave Y, we pivot." This prevents post-hoc rationalization.
-5. **Separate vanity metrics from actionable ones.** If you can't trace a causal chain from your action to a metric change, the metric isn't useful.
-6. **A pivot is not a failure — it's a strategic response to evidence.** The best founders pivot early and decisively, not late and desperately.
-7. **Innovation accounting: measure real progress toward a financial model.** Track whether you're actually building a sustainable business, not just building features.
-8. **Small batches are fundamental.** Working in small batches reduces waste — you discover errors immediately rather than after months of investment in the wrong direction.
-9. **The five whys root cause analysis** prevents surface-level fixes and builds a culture of genuine learning rather than blame.
-10. **Continuous deployment and split testing** let you treat product decisions as experiments and reduce the risk of large, irreversible bets.
+1. A startup is an organization under extreme uncertainty — traditional planning doesn't work.
+2. Build the MVP to test a hypothesis, not to ship a product — learning is the goal.
+3. Validated learning only comes from customer behavior, not from opinions or surveys.
+4. Speed through the Build-Measure-Learn loop is the primary competitive advantage.
+5. Pivoting is not failure — it's the process of discovering what works.
+6. Small batches create faster feedback and reduce the cost of learning.
+7. Vanity metrics are dangerous — measure cohort-based actionable metrics.
+8. If you're not embarrassed by your first product, you shipped too late.
 
 ## Practical Applications
 
-- **Before building anything, write your leap of faith assumptions** — the hypotheses that, if wrong, would make the entire business fail. Test these first.
-- **Run an MVP for every major feature decision.** If you're unsure whether customers want feature X, build the minimum version and measure.
-- **Implement cohort analysis** to track whether customers who use your product return at increasing rates — the clearest signal of product-market fit.
-- **Use A/B testing extensively** — treat all product decisions as experiments with measurable outcomes.
-- **Apply the five whys** to every failure or bug: why did it happen? Why did *that* happen? Keep asking until you've reached the systemic root cause.
-- **Map your growth engine** (sticky, viral, paid) and ensure your unit economics work within that engine before scaling.
-- **Set up innovation accounting**: define a baseline, then track whether your experiments are improving the numbers or not.
-- **Run weekly "pivot or persevere" reviews** with your team — are we still testing the right hypothesis?
+- Start with a hypothesis, not a product — write it down and test it with an MVP.
+- Measure what matters: cohort-based metrics over vanity metrics.
+- Run experiments weekly — test small changes and measure their effect.
+- When metrics don't match expectations, pivot quickly — don't double down on failed hypotheses.
+- Use small batches for everything: smaller releases, smaller features, smaller bets.
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- **MVP culture can produce mediocre products.** Critics argue the Lean Startup methodology encourages shipping half-baked products that erode brand trust, particularly in B2B or enterprise contexts where buyers expect polish.
-- **It over-indexes on early-stage consumer tech.** The methodology was developed primarily for software startups — manufacturing, biotech, and hardware companies have legitimate reasons for longer development cycles.
-- **"Pivot" can become an excuse for lack of conviction.** The ability to pivot is valuable, but some argue the Lean Startup culture celebrates pivoting so much that founders lack the stubbornness needed to persist through legitimate rough patches.
-- **Validated learning is often insufficient** for truly innovative products — customers can't validate concepts they haven't imagined yet (the Henry Ford / "faster horse" problem).
-- **Eric Ries himself has acknowledged** that the methodology was sometimes misapplied to justify not doing proper customer research in favor of "just ship it."
+Critics argue the lean approach can lead to companies that pivot too frequently and never achieve depth. The "fail fast" culture has been criticized for celebrating failure without enough emphasis on learning from it. Some industries (hardware, biotech) can't use MVPs as easily as software.
 
 ## One-Line Takeaway
 
-> Run every business decision as a controlled experiment — build the smallest thing that generates real data, measure honestly, and let the evidence determine whether you pivot or persevere.
+> Apply the scientific method to startups — build to test hypotheses, measure what customers actually do, learn from the data, and iterate quickly.
 
----
+## Related Books
 
-*Related: [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[The Startup Owner's Manual|The Startup Owner's Manual]], [[The Innovator's Dilemma|The Innovator's Dilemma]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]], [[18-getting-things-down|18-getting-things-down]], [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]]*
+[[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]]
+[[20 Sources/Books/2019/40-crossing-the-chasm.md|Crossing the Chasm]]
+[[20 Sources/Books/2019/26-getting-results-the-agile-way.md|Getting Results the Agile Way]]
+[[20 Sources/Books/2020/47-rework.md|Rework]]

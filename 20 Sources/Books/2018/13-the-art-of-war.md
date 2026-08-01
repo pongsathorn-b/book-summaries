@@ -1,61 +1,65 @@
 ---
-tags: [strategy, military, competition, business-strategy]
+tags: [strategy, military, competition, business-strategy, sun-tzu]
 category: Strategy
-summary: Ancient Chinese military strategy — "the supreme art of war is to subdue the enemy without fighting."
+summary: Ancient Chinese military strategy — the supreme art of war is to subdue the enemy without fighting, through positioning and deception.
 ---
 
 # The Art of War — Sun Tzu
 
-> "Know yourself and you will win all battles. Know the enemy and you need not fear the result of a hundred battles."
-
 ## Overview
 
-Written in the 5th century BCE by Chinese military strategist [[Sun Tzu|Sun Tzu]]. Originally for winning wars — now required reading for business, sports, and negotiation. The core thesis: the highest form of generalship is to [[Balk the Enemy's Plans|Balk the Enemy's Plans]]. Don't fight if you can avoid it. Win before you fight.
+Written in the 5th century BCE by Chinese military strategist Sun Tzu. Originally written for winning wars — now required reading for business, sports, negotiation, and personal development. The core thesis: the highest form of generalship is to balk the enemy's plans. Don't fight if you can avoid it. Win before you fight. The book is organized into 13 chapters covering everything from terrain to intelligence to the nature of leadership.
 
-## Key Principles
+## Core Concepts
 
-### [[Know Yourself, Know the Enemy|Know Yourself, Know the Enemy]]
+### Know Yourself, Know the Enemy
+Most people study competitors — but Sun Tzu says study yourself with equal intensity. Know your strengths and vulnerabilities as thoroughly as you know the enemy's. The battle you win in the planning room doesn't need to be fought on the field.
 
-Most people study competitors — but [[Sun Tzu|Sun Tzu]] says study yourself with equal intensity.
+### The Art of Deception
+Appear weak when strong. Appear strong when weak. The best victories are ones where the enemy never saw the battle coming. Deception is not dishonesty — it is strategic ambiguity about your intentions and capabilities.
 
-### [[The Art of Deception|The Art of Deception]]
+### Win Before You Fight
+The supreme military strategy is to subdue without fighting. In startups: disruptive market entry by creating markets where no competition exists. The goal is not to fight the enemy — it is to make fighting unnecessary.
 
-Appear weak when strong. Appear strong when weak. The best victories are ones where the enemy never saw the battle coming.
+### Strategic Positioning
+Control high ground — position matters more than execution. In business: product-market fit is positioning. The right position makes subsequent moves easier; the wrong position makes even excellent execution insufficient.
 
-### [[Win Before You Fight|Win Before You Fight]]
+### Speed
+Speed creates its own advantages. Seize opportunities before the enemy realizes they exist. Speed in Sun Tzu means not just physical movement but decision speed — the ability to recognize and exploit opportunities before competitors.
 
-The supreme [[Military Strategy|Military Strategy]] is to [[Subdue Without Fighting|Subdue Without Fighting]]. In startups: [[Disruptive Market Entry|Disruptive Market Entry]] by creating markets where no competition exists.
+### Use Enemy's Strength Against Them
+Turn disaster to advantage. What seems like an obstacle becomes a tool. The master strategist sees opportunity in every difficulty.
 
-### [[Strategic Positioning|Strategic Positioning]]
+## Key Lessons
 
-[[Control High Ground|Control High Ground]] — position matters more than execution. In business: [[Product-Market Fit|Product-Market Fit]] is positioning.
+1. The best battle is the one you avoid — don't fight if you can win through positioning and deception.
+2. Speed matters — the enemy who doesn't see you coming is already defeated.
+3. Know yourself as well as you know your enemy — self-awareness is the foundation of strategy.
+4. Position before you fight — the right ground makes everything else easier.
+5. The general is everything — leadership quality determines the outcome more than any other factor.
+6. Know the terrain — every situation has geography that can be exploited.
+7. Intelligence is the foundation of strategy — information superiority translates to combat superiority.
+8. Energy and momentum: once you have momentum, press hard before it fades.
 
-### [[Speed|Speed]]
+## Practical Applications
 
-Speed creates its own advantages. [[Seize Opportunities|Seize Opportunities]] before the enemy realizes they exist.
+- In negotiations, understand the other party's constraints before revealing your own — position wins before words are exchanged.
+- Avoid head-on competition where possible — find uncontested positioning first.
+- Study your own weaknesses as carefully as you study competitors' strengths.
+- Build speed into your decision-making — faster response creates its own advantages.
+- Use terrain metaphors in business: which positions in your market are the high ground?
 
-### [[Use Enemy's Strength Against Them|Use Enemy's Strength Against Them]]
+## Controversy/Criticism
 
-[[Turn Disaster to Advantage|Turn Disaster to Advantage]]. What seems like an obstacle becomes a tool.
+Some find the book's military framing morally problematic when applied directly to business. Others argue Sun Tzu's emphasis on total victory and psychological manipulation can justify ruthless competition. The ancient context (pre-modern warfare, absolute authority of generals) limits some direct application to modern organizational strategy.
 
-## The Five Factors
+## One-Line Takeaway
 
-1. **[[The Way|The Way]]** — shared purpose between leader and team
-2. **[[The Sky|The Sky]]** — [[Timing and Season|Timing and Season]] (right timing)
-3. **[[The Ground|The Ground]]** — [[Terrain|Terrain]] and [[Chokepoints|Chokepoints]]
-4. **[[The Command|The Command]]** — [[Leadership Quality|Leadership Quality]]
-5. **[[The Method|The Method]]** — [[Organization|Organization]] and [[Logistics|Logistics]]
+> Know yourself and you will win all battles; know the enemy and you need not fear the result of a hundred battles — win before you fight.
 
-## For Founders
+## Related Books
 
-- [[Win Before You Fight|Win Before You Fight]] — avoid [[Head-On Competition|Head-On Competition]] where possible
-- [[Speed and Information Advantage|Speed and Information Advantage]] are the modern equivalent of terrain and spies
-- [[The General Is Everything|The General Is Everything]] — [[Founder Quality|Founder Quality]] matters more than anything else
-
-## Related
-
-- [[20 Sources/Books/2018/12-chanakya-neeti.md|12-chanakya-neeti]] — ancient Indian parallel on [[Statecraft|Statecraft]] and [[Political Strategy|Political Strategy]]
-- [[20 Sources/Books/2018/02-48-laws-of-power.md|48 Laws of Power]] — [[Power Dynamics|Power Dynamics]] and [[Strategic Misdirection|Strategic Misdirection]]
-- [[20 Sources/Books/2018/09-the-art-of-seduction.md|09-the-art-of-seduction]] — [[20 Sources/Books/2019/28-influence.md|28-influence]] and [[Fascination|Fascination]] as [[Strategic Tools|Strategic Tools]]
-- [[Strategic Positioning|Strategic Positioning]] — [[Michael Porter|Michael Porter]] and [[Competitive Strategy|Competitive Strategy]]
-- [[Balk the Enemy's Plans|Balk the Enemy's Plans]] — the core thesis: [[Victory Without Battle|Victory Without Battle]]
+[[20 Sources/Books/2018/12-chanakya-neeti.md|Chanakya Neeti]]
+[[20 Sources/Books/2018/02-48-laws-of-power.md|48 Laws of Power]]
+[[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]]
+[[20 Sources/Books/2020/44-blue-ocean-strategy.md|Blue Ocean Strategy]]
