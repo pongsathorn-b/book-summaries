@@ -59,7 +59,7 @@ Stock's framing elevates conversation from pleasant social activity to the prima
 - **Match questions to the relationship stage** — save the deepest questions for those who have earned deep conversation; start lighter with newer relationships
 - **Follow up with silence and curiosity** — after asking, don't fill the quiet with nervous chatter; let the person think and answer fully
 - **Use hypotheticals to surface unexpressed desires** — they bypass the \"shoulds\" and access what people actually want beneath what they've been told to want
-- **Pair it with [[Nonviolent Communication]]** — NVC's empathy tools help you listen to the answers without judgment or the urge to fix or critique
+- **Pair it with [[113-nonviolent-communication]]** — NVC's empathy tools help you listen to the answers without judgment or the urge to fix or critique
 
 ## Controversy/Criticism
 
@@ -67,11 +67,11 @@ The book has been criticized for reducing complex relationship-building to a tra
 
 ## Related
 
-- [[Talk Like TED]] — Carmine Gall's exploration of public speaking includes insights on the power of asking questions to engage audiences
+- [[66-talk-like-ted]] — Carmine Gall's exploration of public speaking includes insights on the power of asking questions to engage audiences
 - [[How to Win Friends]] — Carnegie's foundational advice on making people feel important complements the question-based approach to connection
-- [[Captivate]] — Vanessa Van Edwards' human behavior science provides additional tools for understanding how to create rapport
-- [[The Power of Vulnerability]] — Brown's research on vulnerability explains the science behind why Stock's approach works
-- [[Social Intelligence]] — emotional attunement skills help listeners receive answers to deep questions with genuine empathy
+- [[117-captivate]] — Vanessa Van Edwards' human behavior science provides additional tools for understanding how to create rapport
+- [[70-the-power-of-vulnerability]] — Brown's research on vulnerability explains the science behind why Stock's approach works
+- [[34-social-intelligence]] — emotional attunement skills help listeners receive answers to deep questions with genuine empathy
 
 ## One-Line Takeaway
 
