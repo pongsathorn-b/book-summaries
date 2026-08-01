@@ -66,9 +66,9 @@ Hardy emphasizes **personal responsibility** — that the events of your past, w
 ## Related
 
 - [[Atomic Habits]] — James Clear's system [[Atomic Habits]] is the practical implementation of Hardy's principle
-- [[Make Time]] — Jake Knapp's energy management [[Make Time]] provides day-level tactics for compounding
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Jake Knapp's energy management [[30 Knowledge/Concepts/make-time|Make Time]] provides day-level tactics for compounding
 - [[Deep Work]] — Cal Newport's focused work discipline [[Deep Work]] compounds into rare and valuable skills
-- [[Willpower]] — the faculty that drives consistent daily choices [[Willpower]] is itself a depletable resource
+- [[30 Knowledge/Concepts/willpower|Willpower]] — the faculty that drives consistent daily choices [[30 Knowledge/Concepts/willpower|Willpower]] is itself a depletable resource
 
 ## One-Line Takeaway
 

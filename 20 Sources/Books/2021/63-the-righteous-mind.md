@@ -86,7 +86,7 @@ The emotion that corresponds to this hive capacity is **"elevation"** — the wa
 
 ## Related Concepts
 
-This book connects deeply to [[Thinking Fast and Slow]] (System 1/System 2 intuition/reason split), [[Cognitive Biases]] (our moral reasoning is full of predictable biases), [[12 Rules for Life]] (Jordan Peterson's attempt to build a moral framework), and [[Stoicism]] (the Stoic attempt to use reason to override intuition — and Haidt's evidence that this is very hard).
+This book connects deeply to [[Thinking Fast and Slow]] (System 1/System 2 intuition/reason split), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (our moral reasoning is full of predictable biases), [[12 Rules for Life]] (Jordan Peterson's attempt to build a moral framework), and [[30 Knowledge/Concepts/stoicism|Stoicism]] (the Stoic attempt to use reason to override intuition — and Haidt's evidence that this is very hard).
 
 ## One-Line Takeaway
 

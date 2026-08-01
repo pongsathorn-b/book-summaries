@@ -10,7 +10,7 @@ summary: Happiness is not the result of success — it is the driver of success;
 
 ## Overview
 
-Former Princeton psychology professor [[Shawn Achor]] spent 12 years studying the relationship between happiness and success, working with organizations from Google to the US Army. His counterintuitive finding: **happiness is not the byproduct of success — it is its precursor**. The traditional success formula (work hard → achieve → be happy) is backwards. The Happiness Advantage states that success depends on a positive brain — one that is engaged, optimistic, and energized — and that you can deliberately cultivate this positive state before success arrives, producing a competitive edge in work, relationships, and health.
+Former Princeton psychology professor [[30 Knowledge/People/Shawn-Achor|Shawn Achor]] spent 12 years studying the relationship between happiness and success, working with organizations from Google to the US Army. His counterintuitive finding: **happiness is not the byproduct of success — it is its precursor**. The traditional success formula (work hard → achieve → be happy) is backwards. The Happiness Advantage states that success depends on a positive brain — one that is engaged, optimistic, and energized — and that you can deliberately cultivate this positive state before success arrives, producing a competitive edge in work, relationships, and health.
 
 ## Core Concepts
 
@@ -66,11 +66,11 @@ Achor's work has been criticized for overstating the evidence for positive psych
 
 ## Related
 
-- [[Deep Work]] — [[Cal Newport]] would agree: a positive, energized brain [[Deep Work]] is essential for the focused work that produces rare and valuable results
+- [[Deep Work]] — [[30 Knowledge/People/Cal-Newport|Cal Newport]] would agree: a positive, energized brain [[Deep Work]] is essential for the focused work that produces rare and valuable results
 - [[The Body Keeps the Score]] — [[Bessel van der Kolk]] reminds us that not all unhappiness can be thought away; trauma and the body shape mood in ways beyond cognitive reframing
 - [[Atomic Habits]] — building happiness habits [[Atomic Habits]] daily compounds theappinessadvantage Achor describes
-- [[Make Time]] — [[Jake Knapp]]'s emphasis on energy [[Make Time]] aligns with Achor's daily practices for positive brain states
-- [[Meditations]] — Marcus Aurelius's practice [[Meditations]] of negative visualization and gratitude predates modern positive psychology
+- [[30 Knowledge/Concepts/make-time|Make Time]] — [[Jake Knapp]]'s emphasis on energy [[30 Knowledge/Concepts/make-time|Make Time]] aligns with Achor's daily practices for positive brain states
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius's practice [[30 Knowledge/Concepts/meditations|Meditations]] of negative visualization and gratitude predates modern positive psychology
 
 ## One-Line Takeaway
 

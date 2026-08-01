@@ -10,7 +10,7 @@ summary: Work in 25-minute focused sprints with 5-minute breaks to sustain atten
 
 ## Overview
 
-[[The Pomodoro Technique]] was developed by [[Francesco Cirillo]] in the late 1980s as a deceptively simple time-management method: work in 25-minute intervals ("pomodoros") separated by 5-minute breaks, with a longer 15-30 minute break after four pomodoros. The method's genius is its combination of urgency (finite time creates focus), recovery (regular breaks prevent burnout), and tracking (counting pomodoros gives concrete data on effort). It requires only a timer — no apps, no systems, no friction.
+[[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] was developed by [[Francesco Cirillo]] in the late 1980s as a deceptively simple time-management method: work in 25-minute intervals ("pomodoros") separated by 5-minute breaks, with a longer 15-30 minute break after four pomodoros. The method's genius is its combination of urgency (finite time creates focus), recovery (regular breaks prevent burnout), and tracking (counting pomodoros gives concrete data on effort). It requires only a timer — no apps, no systems, no friction.
 
 ## Core Concepts
 
@@ -43,7 +43,7 @@ summary: Work in 25-minute focused sprints with 5-minute breaks to sustain atten
 
 1. Get a kitchen timer (or use a free app like Pomodoro Timer) and commit to just one pomodoro today
 2. Start each morning: pick 3 tasks, estimate pomodoros per task, then execute
-3. Use [[Make Time]]'s "Highlight" concept as your pomodoro task — pick ONE thing per session
+3. Use [[30 Knowledge/Concepts/make-time|Make Time]]'s "Highlight" concept as your pomodoro task — pick ONE thing per session
 4. When an interruption arrives, write it on a sticky note and handle after the pomodoro ends
 5. After 4 pomodoros, take a real walk — physical movement resets attention better than screen breaks
 6. Track weekly: how many pomodoros did you actually complete vs. estimate? Calibrate your estimates
@@ -63,7 +63,7 @@ Time-boxing with regular breaks transforms overwhelming workloads into manageabl
 
 ## Related Books
 
-- [[Make Time]] — daily tactics for fighting distraction, a spiritual successor to Pomodoro thinking
+- [[30 Knowledge/Concepts/make-time|Make Time]] — daily tactics for fighting distraction, a spiritual successor to Pomodoro thinking
 - [[Getting Things Done]] — GTD's next-action clarity is the ideal input for Pomodoro sessions
 - [[Indistractable]] — mental models for handling interruptions that complement Pomodoro's interruption protocol
 - [[Eat That Frog!]] — tackle your hardest frog in the first pomodoro of the day

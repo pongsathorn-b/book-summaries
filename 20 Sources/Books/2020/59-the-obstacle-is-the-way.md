@@ -85,7 +85,7 @@ Despite these criticisms, the core insight — that how we perceive and respond 
 
 ## Related Concepts
 
-This book is deeply connected to [[Stoicism]] and [[Meditations]] (Marcus Aurelius's own Stoic journal). It shares themes with [[12 Rules for Life]] (Jordan Peterson's structured approach to meaning and adversity), [[Essentialism]] (focusing on what truly matters), [[Deep Work]] (persistence and focus), and [[Atomic Habits]] (small, consistent actions compound into transformation).
+This book is deeply connected to [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own Stoic journal). It shares themes with [[12 Rules for Life]] (Jordan Peterson's structured approach to meaning and adversity), [[Essentialism]] (focusing on what truly matters), [[Deep Work]] (persistence and focus), and [[Atomic Habits]] (small, consistent actions compound into transformation).
 
 ## One-Line Takeaway
 

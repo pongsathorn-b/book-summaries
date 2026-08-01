@@ -61,9 +61,9 @@ Understanding the six universal principles of influence lets you persuade ethica
 
 ## Related
 
-- [[Cognitive Biases]] — shared foundation in systematic decision-making patterns
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — shared foundation in systematic decision-making patterns
 - [[48 Laws of Power]] — more cynical application of social dynamics
 - [[Contagious]] — why ideas and products spread via social proof and emotion
 - [[The Art of War]] — strategic application of psychological principles
 - [[Thinking Fast and Slow]] — System 1 and System 2 processing underlying automatic compliance
-- [[Loss Aversion]] — scarcity taps directly into loss aversion biases
+- [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]] — scarcity taps directly into loss aversion biases

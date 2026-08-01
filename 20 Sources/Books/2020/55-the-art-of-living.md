@@ -77,12 +77,12 @@ Epictetus treated **death as one of the "indifferents"** — neither good nor ba
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius's private journal applying these same principles
-- [[Stoicism]] — The complete philosophical system the Enchiridion distills
-- [[Seneca]] — The other great Stoic whose letters apply Epictetus's principles
-- [[Dichotomy of Control]] — Epictetus's most famous contribution to Stoic psychology
-- [[Memento Mori]] — The death contemplation practice
-- [[Amor Fati]] — The Stoic embrace of everything that happens
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius's private journal applying these same principles
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The complete philosophical system the Enchiridion distills
+- [[30 Knowledge/People/Seneca|Seneca]] — The other great Stoic whose letters apply Epictetus's principles
+- [[30 Knowledge/Concepts/dichotomy-of-control|Dichotomy of Control]] — Epictetus's most famous contribution to Stoic psychology
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The death contemplation practice
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — The Stoic embrace of everything that happens
 - [[Victor Frankl]] — Logotherapy as the modern heir to Stoic meaning-making
 - [[Machiavelli]] — The Prince as a counterpoint: control of external power vs. inner freedom
 

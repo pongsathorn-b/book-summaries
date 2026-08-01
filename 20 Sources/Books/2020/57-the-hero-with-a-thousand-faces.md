@@ -77,14 +77,14 @@ Campbell was careful to distinguish the **mythological hero** from the **histori
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius as a mythological hero in his own life
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius as a mythological hero in his own life
 - [[The Art of War]] — The campaign as hero's journey in strategy
 - [[Siddhartha]] — A hero's journey narrative with Buddhist themes
 - [[Victor Frankl]] — Finding meaning in the darkest ordeal
 - [[Nietzsche]] — The journey of self-overcoming as heroic narrative
 - [[The Art of Seduction]] — The seducer as a kind of shadow hero
-- [[Amor Fati]] — Embracing the entire cycle, including descent
-- [[Memento Mori]] — The final threshold every hero must cross
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Embracing the entire cycle, including descent
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The final threshold every hero must cross
 
 ---
 

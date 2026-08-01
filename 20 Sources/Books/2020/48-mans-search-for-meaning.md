@@ -24,7 +24,7 @@ Frankl's therapeutic method, **logotherapy** (from Greek *logos* — meaning), h
 Frankl observed that prisoners who survived were not necessarily the strongest physically, but those who retained some **future goal** — a loved one to reunite with, an unfinished work, a task yet to complete. Suffering itself is not redemptive; it must be *meaningful* suffering. He witnessed fellow prisoners giving up their last rations because they saw no point, while those with purpose endured.
 
 ### 4. Freedom of Attitude
-While no one can control their circumstances, Frankl famously wrote "everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is the foundation of what later Stoic thinkers would call the [[Dichotomy of Control]], applied through the lens of a Holocaust survivor.
+While no one can control their circumstances, Frankl famously wrote "everything can be taken from a man but one thing: the last of the human freedoms — to choose one's attitude in any given set of circumstances." This is the foundation of what later Stoic thinkers would call the [[30 Knowledge/Concepts/dichotomy-of-control|Dichotomy of Control]], applied through the lens of a Holocaust survivor.
 
 ### 5. The Noölogical Dimension
 Frankl introduced the concept of the **noölogical dimension** (from Greek *noüs* — mind/spirit) — the distinctly human capacity to access spiritual values, beauty, humor, and meaning even when the body is stripped of everything. This spiritual dimension is what distinguishes human existence from animal life and what allowed prisoners to retain their dignity.
@@ -77,13 +77,13 @@ Frankl's work has been criticized on several fronts. **Some psychologists** argu
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius on choosing one's response to circumstances
-- [[Stoicism]] — The philosophical tradition Frankl's "dichotomy of control" draws from
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius on choosing one's response to circumstances
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The philosophical tradition Frankl's "dichotomy of control" draws from
 - [[Victor Frankl]] — Frankl's own life as a case study in finding meaning under extreme suffering
-- [[Seneca]] — Stoic letters on navigating suffering with dignity
-- [[Epictetus]] — The original articulation of what we control vs. what we don't
-- [[Amor Fati]] — The Stoic/Nietzschean embrace of fate, including its suffering
-- [[Memento Mori]] — The reminder that mortality reveals what truly matters
+- [[30 Knowledge/People/Seneca|Seneca]] — Stoic letters on navigating suffering with dignity
+- [[30 Knowledge/People/Epictetus|Epictetus]] — The original articulation of what we control vs. what we don't
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — The Stoic/Nietzschean embrace of fate, including its suffering
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The reminder that mortality reveals what truly matters
 - [[The Art of War]] — Endurance and strategic patience in the worst circumstances
 - [[Nietzsche]] — Will to meaning vs. will to power debates
 

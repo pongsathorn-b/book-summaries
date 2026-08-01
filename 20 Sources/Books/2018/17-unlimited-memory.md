@@ -21,11 +21,11 @@ summary: A brain injury survivor becomes a world memory champion — the techniq
 3. **Your brain has a natural filing system** — use location-based memory
 4. **Visual, emotional, physical memories are strongest** — bizarre, vivid, sensory-rich
 
-### [[Memory Palace]]
+### [[30 Knowledge/Concepts/memory-palace|Memory Palace]]
 
 Same technique as [[Moonwalking with Einstein]] and [[The Memory Book]]:
 
-1. Build a mental [[Memory Palace]] — a familiar place you know in detail
+1. Build a mental [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — a familiar place you know in detail
 2. Place vivid, bizarre mental images
 3. Walk through the palace to recall
 
@@ -35,24 +35,24 @@ S — State what you want to remember clearly
 P — Picture it with a vivid, bizarre image
 E — Embed it in a location
 A — Associate the location to the next item
-K — Keep reviewing with [[Spaced Repetition]]
+K — Keep reviewing with [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
 
-## Why [[Cramming]] Fails
+## Why [[30 Knowledge/Concepts/cramming|Cramming]] Fails
 
-Cramming floods the brain but doesn't create strong neural pathways. The only way to [[Long-Term Memory]] is: **[[Understanding]] + [[Connection]] + [[Spaced Repetition]]**.
+Cramming floods the brain but doesn't create strong neural pathways. The only way to [[Long-Term Memory]] is: **[[Understanding]] + [[Connection]] + [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]**.
 
 ## For Founders
 
-- Remembering [[Client Names]], [[Details]], [[Conversations]] is a [[Competitive Advantage]]
+- Remembering [[Client Names]], [[Details]], [[Conversations]] is a [[30 Knowledge/Concepts/competitive-advantage|Competitive Advantage]]
 - [[Major System]] for remembering numbers: prices, dates, [[Metrics]]
 - [[Memory Palaces]] for [[Frameworks]], [[Strategies]], [[Competitive Intel]]
 
 ## Related
 
-- [[Memory Palace]] — the master technique across all memory books
+- [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — the master technique across all memory books
 - [[The Memory Book]] — [[Harry Lorayne]]'s classic version
 - [[Moonwalking with Einstein]] — [[Joshua Foer]]'s journey
 - [[Memory Craft]] — [[Lynne Kelly]]'s research-backed treatment
-- [[Spaced Repetition]] — the essential companion technique
+- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — the essential companion technique
 - [[World Memory Champion]] — [[Kevin Horsley]]'s credentials and system
-- [[Chunking]] — how [[Experts]] structure [[Knowledge]]
+- [[30 Knowledge/Concepts/chunking|Chunking]] — how [[Experts]] structure [[Knowledge]]

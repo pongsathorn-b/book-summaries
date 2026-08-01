@@ -10,7 +10,7 @@ summary: Escape the 9-5 prison through selective ignorance, lifestyle design, an
 
 ## Overview
 
-[[The 4-Hour Workweek]] by [[Tim Ferriss]] is a polemic against traditional retirement-based life planning and a manual for designing a lifestyle of [[Lifestyle Design|freedom now]]. Ferriss argues that deferring happiness to "someday when I retire" is a broken bargain — and that the internet makes it possible to earn a living doing far less work, from anywhere, immediately. The book's core framework — DEAL (Definition, Elimination, Automation, Liberation) — gives readers a step-by-step system for escaping the office trap.
+[[The 4-Hour Workweek]] by [[30 Knowledge/People/Tim-Ferriss|Tim Ferriss]] is a polemic against traditional retirement-based life planning and a manual for designing a lifestyle of [[Lifestyle Design|freedom now]]. Ferriss argues that deferring happiness to "someday when I retire" is a broken bargain — and that the internet makes it possible to earn a living doing far less work, from anywhere, immediately. The book's core framework — DEAL (Definition, Elimination, Automation, Liberation) — gives readers a step-by-step system for escaping the office trap.
 
 ## Core Concepts
 

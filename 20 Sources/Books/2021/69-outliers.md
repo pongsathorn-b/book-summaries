@@ -10,7 +10,7 @@ summary: High-achievers are not born — they are shaped by extraordinary opport
 
 ## Overview
 
-In *Outliers*, journalist and storyteller [[Malcolm Gladwell]] challenges the myth of the self-made individual, arguing that extraordinary success is less about raw talent and more about the hidden circumstances, opportunities, and cultural legacies that shape people from before birth. Through a series of compelling case studies — from Canadian junior hockey players to Silicon Valley founders to aviation accidents — Gladwell demonstrates that what we call "genius" is almost always a product of specific, reproducible factors that have little to do with inherited talent.
+In *Outliers*, journalist and storyteller [[30 Knowledge/People/Malcolm-Gladwell|Malcolm Gladwell]] challenges the myth of the self-made individual, arguing that extraordinary success is less about raw talent and more about the hidden circumstances, opportunities, and cultural legacies that shape people from before birth. Through a series of compelling case studies — from Canadian junior hockey players to Silicon Valley founders to aviation accidents — Gladwell demonstrates that what we call "genius" is almost always a product of specific, reproducible factors that have little to do with inherited talent.
 
 ## Core Concepts
 
@@ -57,11 +57,11 @@ The 10,000-hour rule has been widely challenged by researchers. [[Anders Ericsso
 
 ## Related
 
-- [[Atomic Habits]] — [[James Clear]] on small daily improvements [[Atomic Habits]] echoes Gladwell's emphasis on accumulated effort
+- [[Atomic Habits]] — [[30 Knowledge/People/James-Clear|James Clear]] on small daily improvements [[Atomic Habits]] echoes Gladwell's emphasis on accumulated effort
 - [[Deep Work]] — Cal Newport's deliberate, focused work [[Deep Work]] aligns with Gladwell's deliberate practice framework
 - [[The 7 Habits]] — Covey's emphasis on character ethics [[The 7 Habits]] resonates with Gladwell's rejection of the "born genius" narrative
-- [[Focus Is a Skill]] — concentrated, quality practice [[Focus Is a Skill]] is the engine behind 10,000 hours
-- [[Meditations]] — Marcus Aurelius's self-discipline [[Meditations]] embodies the sustained effort Gladwell describes
+- [[30 Knowledge/Concepts/focus-is-a-skill|Focus Is a Skill]] — concentrated, quality practice [[30 Knowledge/Concepts/focus-is-a-skill|Focus Is a Skill]] is the engine behind 10,000 hours
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius's self-discipline [[30 Knowledge/Concepts/meditations|Meditations]] embodies the sustained effort Gladwell describes
 
 ## One-Line Takeaway
 

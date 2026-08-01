@@ -92,6 +92,6 @@ The book's "pick and choose" philosophy can also produce analysis paralysis—re
 - [[The Compound Effect]] — The power of small, consistent actions compounding over time
 - [[Essentialism]] — Ruthless prioritization of the few things that actually matter
 - [[Indistractable]] — Understanding and defeating the modern epidemic of distraction
-- [[Make Time]] — Daily tactics for building energy and prioritizing meaningful work
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Daily tactics for building energy and prioritizing meaningful work
 - [[The Power of Full Engagement]] — The science of managing energy, not time
 - [[Think and Grow Rich]] — Napoleon Hill's classic study of successful people's mental models

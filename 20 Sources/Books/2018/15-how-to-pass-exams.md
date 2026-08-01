@@ -18,14 +18,14 @@ Most students study inefficiently — they reread, highlight, and summarize pass
 
 ## Key Principles
 
-### [[Active Recall]]
+### [[30 Knowledge/Concepts/active-recall|Active Recall]]
 
 The single most effective study technique: close the book and test yourself.
 
 - Read → close the book → write everything you remember
 - The [[Struggle Is the Point]] — it strengthens the memory trace
 
-### [[Spaced Repetition]]
+### [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
 
 Study across multiple sessions, not one marathon [[Cramming Session]].
 
@@ -35,7 +35,7 @@ Day 1 → Day 3 → Day 7 → Day 14 → Day 28
 
 Being tested is more effective than restudying. One of the most replicated findings in [[Cognitive Science]].
 
-### [[Interleaving]]
+### [[30 Knowledge/Concepts/interleaving|Interleaving]]
 
 Don't study one topic until mastery — switch between topics while learning. Forces [[Context Switching]] and [[Adaptive Learning]].
 
@@ -50,19 +50,19 @@ Ask: "Why is this true? How does this connect to what I already know?" Multiple 
 ## What Doesn't Work
 
 - **[[Highlighting and Rereading]]** — feel like learning, produce poor retention
-- **[[Cramming]]** — short-term memory, fast forgetting
+- **[[30 Knowledge/Concepts/cramming|Cramming]]** — short-term memory, fast forgetting
 - **[[Passive Review]]** — watching videos without engaging
 - **[[Copying Notes Verbatim]]** — doesn't require [[Retrieval]]
 
 ## For Founders
 
 - Studying for certifications, [[Technical Interviews]] — apply the same principles
-- [[Active Recall]] before a key [[Meeting]]: "What do I need from this? Write it down now."
+- [[30 Knowledge/Concepts/active-recall|Active Recall]] before a key [[Meeting]]: "What do I need from this? Write it down now."
 
 ## Related
 
 - [[Learning How to Learn]] — the full framework behind these principles
-- [[Spaced Repetition]] — the key mechanism
-- [[Testing Effect]] — [[Active Recall]] is the most powerful learning tool
-- [[Sleep and Memory]] — why [[Sleep]] is essential for [[Memory Consolidation]]
+- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — the key mechanism
+- [[30 Knowledge/Concepts/testing-effect|Testing Effect]] — [[30 Knowledge/Concepts/active-recall|Active Recall]] is the most powerful learning tool
+- [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]] — why [[Sleep]] is essential for [[Memory Consolidation]]
 - [[Welcome to Your Brain]] — the neuroscience behind [[Sleep Deprivation]] and [[Memory Formation]]

@@ -47,15 +47,15 @@ Mr. Baker → picture him kneading dough or throwing a cake.
 
 ## For Founders
 
-- Remembering [[Client Names]] and personal details is a [[Competitive Advantage]]
+- Remembering [[Client Names]] and personal details is a [[30 Knowledge/Concepts/competitive-advantage|Competitive Advantage]]
 - Remembering [[Meeting Conversations]] builds relationships
 - [[Major System]] for remembering: prices, dates, [[Metrics]]
 
 ## Related
 
-- [[Memory Palace]] — [[Method of Loci]] — the most powerful technique
+- [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — [[30 Knowledge/Concepts/method-of-loci|Method of Loci]] — the most powerful technique
 - [[Moonwalking with Einstein]] — [[Joshua Foer]]'s modern [[Memory Athlete]] journey
 - [[Memory Craft]] — [[Lynne Kelly]]'s research-backed treatment
 - [[Unlimited Memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] system
-- [[Spaced Repetition]] — essential for [[Long-Term Memory]]
-- [[Chunking]] — [[Expert Knowledge]] structure
+- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — essential for [[Long-Term Memory]]
+- [[30 Knowledge/Concepts/chunking|Chunking]] — [[Expert Knowledge]] structure

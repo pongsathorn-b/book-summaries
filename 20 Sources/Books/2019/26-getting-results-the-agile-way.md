@@ -38,7 +38,7 @@ summary: Get results by starting with outcomes, working backward to actions, and
 1. Every Monday morning: define 3 outcomes for the week using the 3 C's (Card + Confirmation + Caveat)
 2. Apply the 10/10/10 Rule to major decisions: does this still matter in 10 years? If not, don't let it crowd out what does.
 3. Run a weekly Friday Compass: review what worked, what didn't, and what you'll do differently next week
-4. Use [[The Pomodoro Technique]] as your execution unit for weekly outcomes — break outcomes into pomodoro-sized tasks
+4. Use [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] as your execution unit for weekly outcomes — break outcomes into pomodoro-sized tasks
 5. Treat skill investments as non-negotiable: block 2 hours per week for learning in your calendar
 6. Replace "to-do list" thinking with "what is the minimum experiment I can run this week toward this goal?"
 7. Apply [[Essentialism]] to your weekly outcomes — only 3 per week keeps focus on the vital few
@@ -60,4 +60,4 @@ Treat your plans as testable hypotheses: start with the desired outcome, run sma
 - [[Getting Things Done]] — GTD's next-action and project clarity is the execution foundation for Meier's outcome-based planning
 - [[The Power of Full Engagement]] — the energy management principles that underpin Meier's sustainable execution model
 - [[Essentialism]] — the 3 outcomes per week constraint channels Essentialist "vital few" thinking
-- [[Make Time]] — daily iterations of Meier's weekly outcomes; daily highlights are the minimum viable experiment unit
+- [[30 Knowledge/Concepts/make-time|Make Time]] — daily iterations of Meier's weekly outcomes; daily highlights are the minimum viable experiment unit

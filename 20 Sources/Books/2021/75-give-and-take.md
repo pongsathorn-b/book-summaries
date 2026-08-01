@@ -10,7 +10,7 @@ summary: Givers — people who give more than they get — outperform takers and
 
 ## Overview
 
-Organizational psychologist [[Adam Grant]] overturns the conventional wisdom that nice guys finish last by demonstrating that the most successful people in every field are **givers** — people who give more than they receive. Grant's key insight is that success is not about being purely selfless or purely selfish — it is about understanding reciprocity styles and how they shape careers, organizations, and networks. Givers don't just lose to Takers (self-promoters) and Matchers (reciprocity players) — they end up on top, because their approach builds the broadest, most trust-based networks, generates the most referral business, and creates organizational cultures that attract talent.
+Organizational psychologist [[30 Knowledge/People/Adam-Grant|Adam Grant]] overturns the conventional wisdom that nice guys finish last by demonstrating that the most successful people in every field are **givers** — people who give more than they receive. Grant's key insight is that success is not about being purely selfless or purely selfish — it is about understanding reciprocity styles and how they shape careers, organizations, and networks. Givers don't just lose to Takers (self-promoters) and Matchers (reciprocity players) — they end up on top, because their approach builds the broadest, most trust-based networks, generates the most referral business, and creates organizational cultures that attract talent.
 
 ## Core Concepts
 

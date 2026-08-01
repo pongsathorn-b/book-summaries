@@ -61,6 +61,6 @@ Salt, Sugar, Fat is a meticulously researched exposé revealing that the process
 ## Related Books
 - [[Why We Sleep]] — Sleep deprivation disrupts the hormones (leptin, ghrelin) that regulate appetite and satiety
 - [[The Obesity Code]] — Both books examine the hormonal mechanisms behind overeating beyond simple willpower
-- [[Cognitive Biases]] — Food companies exploit predictable cognitive biases in consumers
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — Food companies exploit predictable cognitive biases in consumers
 - [[Indistractable]] — Understanding how engineered products steal attention and drive consumption
 - [[The Body Keeps the Score]] — Chronic overconsumption of processed foods affects systemic inflammation and trauma responses

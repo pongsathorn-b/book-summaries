@@ -70,4 +70,4 @@ Despite the criticisms, the book's influence on popularizing the language of fin
 
 The rich don't work for money — they make money work for them by acquiring income-generating assets, while the middle class mistakenly accumulates liabilities they call wealth.
 
-[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]
+[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]], [[30 Knowledge/Concepts/anchoring-bias|Anchoring Bias]], [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]

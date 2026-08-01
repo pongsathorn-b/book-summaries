@@ -10,7 +10,7 @@ summary: Tiny changes compound into remarkable results through systems, not goal
 
 ## Overview
 
-Tiny changes, remarkable results. You don't rise to your goals — you fall to the level of your systems. [[Habits]] are the compound interest of self-improvement. [[James Clear]] shows that [[Identity-Based Habits]] matter more than outcomes.
+Tiny changes, remarkable results. You don't rise to your goals — you fall to the level of your systems. [[Habits]] are the compound interest of self-improvement. [[30 Knowledge/People/James-Clear|James Clear]] shows that [[30 Knowledge/Concepts/identity-based-habits|Identity-Based Habits]] matter more than outcomes.
 
 ## The Four Laws of Behavior Change
 
@@ -36,15 +36,15 @@ When you start a new habit, it should take less than 2 minutes.
 - "Read before bed" → "Read one page"
 - Gateway habit — once started, you often keep going
 
-### [[Habit Stacking]]
+### [[30 Knowledge/Concepts/habit-stacking|Habit Stacking]]
 Link a new habit to an existing one.
 
 > After I [CURRENT HABIT], I will [NEW HABIT]
 
-### [[Environment Design]]
+### [[30 Knowledge/Concepts/environment-design|Environment Design]]
 Make good habits easier and bad habits harder.
 
-- [[Willpower]] is unreliable — environment is reliable
+- [[30 Knowledge/Concepts/willpower|Willpower]] is unreliable — environment is reliable
 - Place fruit at eye level, delete social media apps
 
 ### The Plateau of Latent Potential
@@ -59,7 +59,7 @@ The most powerful outcomes come from systems that work for years before a breakt
 ## Related
 
 - [[Deep Work]] — building deep focus habits
-- [[Learning How to Learn]] — [[Focused Mode]] and [[Diffuse Mode]] underpin learning habits
+- [[Learning How to Learn]] — [[30 Knowledge/Concepts/focused-mode|Focused Mode]] and [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] underpin learning habits
 - [[2-Minute Rule]] — gateway to starting any habit
-- [[Habit Stacking]] — linking habits together
-- [[Identity-Based Habits]] — who you become, not what you achieve
+- [[30 Knowledge/Concepts/habit-stacking|Habit Stacking]] — linking habits together
+- [[30 Knowledge/Concepts/identity-based-habits|Identity-Based Habits]] — who you become, not what you achieve

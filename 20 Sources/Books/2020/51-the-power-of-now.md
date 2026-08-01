@@ -10,7 +10,7 @@ summary: The ego creates suffering — presence in the eternal now is the path t
 
 ## Overview
 
-[[Eckhart Tolle]] describes his spiritual awakening and presents a path to liberation from psychological suffering. The core insight: most human misery is caused by the [[Egoic Mind]] — the constant stream of thinking about the past and future that prevents us from experiencing life directly. The book is a manual for awakening to presence.
+[[30 Knowledge/People/Eckhart-Tolle|Eckhart Tolle]] describes his spiritual awakening and presents a path to liberation from psychological suffering. The core insight: most human misery is caused by the [[Egoic Mind]] — the constant stream of thinking about the past and future that prevents us from experiencing life directly. The book is a manual for awakening to presence.
 
 ## Core Concepts
 
@@ -55,7 +55,7 @@ The past and future are mental constructs. Only [[The Present Moment]] is real. 
 
 - [[The Ego Is the Enemy]] (Ryan Holiday) is the practical business application of Tolle's insight
 - Presence during [[High-Stakes Decisions]] — responding from stillness rather than reacting from ego
-- [[Detachment]] from outcomes — do the work, let go of attachment to results
+- [[30 Knowledge/Concepts/detachment|Detachment]] from outcomes — do the work, let go of attachment to results
 - [[Crisis Management]] — Tolle's "surrender to what is" is powerful in acute crises
 - [[Team Culture]] — ego-driven organizations suffer; presence-driven cultures communicate better
 
@@ -65,12 +65,12 @@ Critics argue Tolle's writing style is vague and circular. Others find it too Ne
 
 ## Related
 
-- [[Stoicism]] — [[Acceptance]] of what is; [[Present Moment Awareness]]; [[Marcus Aurelius]] practiced something like this
-- [[Meditations]] — [[Tolle]] and [[Marcus Aurelius]] share [[Present Moment]] as the key to [[Inner Peace]]
-- [[Ego Is the Enemy]] — [[Ryan Holiday]]'s practical, secular version of Tolle's ego insight
-- [[Stillness Is the Way]] — [[Ryan Holiday]] on [[Stoicism]] and [[Stillness]]
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — [[Acceptance]] of what is; [[30 Knowledge/Concepts/present-moment-awareness|Present Moment Awareness]]; [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] practiced something like this
+- [[30 Knowledge/Concepts/meditations|Meditations]] — [[Tolle]] and [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] share [[Present Moment]] as the key to [[Inner Peace]]
+- [[Ego Is the Enemy]] — [[30 Knowledge/People/Ryan-Holiday|Ryan Holiday]]'s practical, secular version of Tolle's ego insight
+- [[Stillness Is the Way]] — [[30 Knowledge/People/Ryan-Holiday|Ryan Holiday]] on [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[Stillness]]
 - [[The Obstacle Is the Way]] — [[Stoic]] acceptance applied to [[Obstacles]]
-- [[Amor Fati]] — [[Love of Fate]] — embracing whatever happens, which requires [[Presence]]
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — [[Love of Fate]] — embracing whatever happens, which requires [[Presence]]
 
 ## One-Line Takeaway
 

@@ -10,7 +10,7 @@ summary: 12 battlefield rules for becoming a responsible adult in a chaotic worl
 
 ## Overview
 
-Clinical psychologist [[Jordan Peterson]] delivers 12 principles for navigating existence. Part neuroscience, part ancient wisdom, part personal accountability. Each rule is a battlefield manual for [[Personal Responsibility]].
+Clinical psychologist [[30 Knowledge/People/Jordan-Peterson|Jordan Peterson]] delivers 12 principles for navigating existence. Part neuroscience, part ancient wisdom, part personal accountability. Each rule is a battlefield manual for [[Personal Responsibility]].
 
 ## The 12 Rules
 
@@ -55,7 +55,7 @@ Clinical psychologist [[Jordan Peterson]] delivers 12 principles for navigating 
 - [[Precision]] dissolves confusion
 
 ### Rule 11: Do Not Bother Children When They Are Skateboarding
-- [[Risk Tolerance]] creates [[Resilience]]
+- [[30 Knowledge/Concepts/risk-tolerance|Risk Tolerance]] creates [[Resilience]]
 - [[Overprotection]] creates fragility
 
 ### Rule 12: Pet a Cat When You Encounter One on the Street
@@ -70,7 +70,7 @@ Clinical psychologist [[Jordan Peterson]] delivers 12 principles for navigating 
 
 ## Related
 
-- [[Stoicism]] — ancient philosophical roots of many of these rules
-- [[Meditations]] — similar themes of [[Acceptance]] and [[Responsibility]]
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — ancient philosophical roots of many of these rules
+- [[30 Knowledge/Concepts/meditations|Meditations]] — similar themes of [[Acceptance]] and [[Responsibility]]
 - [[Deep Work]] — [[Rule 6]] parallels [[Deep Work]]'s philosophy of [[Order]]
-- [[Atomic Habits]] — [[Rule 4]] echoes [[Identity-Based Habits]]
+- [[Atomic Habits]] — [[Rule 4]] echoes [[30 Knowledge/Concepts/identity-based-habits|Identity-Based Habits]]

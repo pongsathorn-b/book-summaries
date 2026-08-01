@@ -68,8 +68,8 @@ By designing choice environments thoughtfully, we can help people make better de
 - [[Thinking Fast and Slow]] — Kahneman's dual-system framework that underpins nudge theory
 - [[Predictably Irrational]] — Ariely's behavioral economics complement to Thaler's framework
 - [[The Paradox of Choice]] — Schwartz's paradox of choice maps directly onto Thaler's argument for defaults
-- [[Cognitive Biases]] — the systematic biases that nudge theory aims to counteract
-- [[Loss Aversion]] — loss framing is a powerful nudge that Thaler discusses
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — the systematic biases that nudge theory aims to counteract
+- [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]] — loss framing is a powerful nudge that Thaler discusses
 - [[Essentialism]] — the disciplined pursuit of less parallels nudge's focus on simplifying choice
 - [[Atomic Habits]] — habit formation as a nudge from the environment
 - [[Getting Things Done]] — systems that reduce decision overhead

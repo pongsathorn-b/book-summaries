@@ -10,7 +10,7 @@ summary: Great leaders create circles of safety where people feel valued, protec
 
 ## Overview
 
-In *Leaders Eat Last*, [[Simon Sinek]] expands on the ideas introduced in *Start With Why* to explore why some teams and organizations thrive while others implode. Drawing on extensive examples from military units, corporations, and social movements, Sinek argues that the biology of human cooperation — driven by hormones like oxytocin, dopamine, cortisol, and endorphins — reveals the true function of leadership: **to create an environment where people feel safe enough to take risks, collaborate authentically, and give their best**. The best leaders don't command and control — they serve and protect. When leaders create what Sinek calls **circles of safety**, people bring their full selves to work, innovate without fear, and produce extraordinary results.
+In *Leaders Eat Last*, [[30 Knowledge/People/Simon-Sinek|Simon Sinek]] expands on the ideas introduced in *Start With Why* to explore why some teams and organizations thrive while others implode. Drawing on extensive examples from military units, corporations, and social movements, Sinek argues that the biology of human cooperation — driven by hormones like oxytocin, dopamine, cortisol, and endorphins — reveals the true function of leadership: **to create an environment where people feel safe enough to take risks, collaborate authentically, and give their best**. The best leaders don't command and control — they serve and protect. When leaders create what Sinek calls **circles of safety**, people bring their full selves to work, innovate without fear, and produce extraordinary results.
 
 ## Core Concepts
 

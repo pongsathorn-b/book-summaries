@@ -14,15 +14,15 @@ summary: A language major who became a math expert by reverse-engineering how le
 
 ## Core Concepts
 
-### [[Focused Mode]] vs [[Diffuse Mode]]
+### [[30 Knowledge/Concepts/focused-mode|Focused Mode]] vs [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]]
 
-**[[Focused Mode]]:** Direct, analytical, linear thinking. What you use studying a specific concept.
+**[[30 Knowledge/Concepts/focused-mode|Focused Mode]]:** Direct, analytical, linear thinking. What you use studying a specific concept.
 
-**[[Diffuse Mode]]:** Relaxed, big-picture thinking. This is when your brain makes connections and has insights. Active during walks, showers, sleep.
+**[[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]]:** Relaxed, big-picture thinking. This is when your brain makes connections and has insights. Active during walks, showers, sleep.
 
 The key: **You need both.** [[Forcing Focused Mode]] 24/7 is counterproductive.
 
-### [[Chunking]]
+### [[30 Knowledge/Concepts/chunking|Chunking]]
 
 A chunk is a mental package of information that fits together — compressed unit of meaning.
 
@@ -36,33 +36,33 @@ Rereading and highlighting create the illusion of mastery. [[Recognition vs Reca
 
 **[[Test Yourself]] — that's when real learning happens.**
 
-### [[Spaced Repetition]]
+### [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
 
 Cramming feels productive but doesn't stick. Better: spread study over time with increasing intervals.
 
 Day 1 → Day 3 → Day 7 → Day 14 → Day 28
 
-### [[Procrastination]] and Zombie Mode
+### [[30 Knowledge/Concepts/procrastination|Procrastination]] and Zombie Mode
 
 Procrastination activates pain centers. The solution: **make the task small enough that your [[Zombie Mode]] (habit) can handle it.**
 
 - [[2-Minute Rule]]: if it takes less than 2 minutes, just do it now
 
-### [[Desirable Difficulty]]
+### [[30 Knowledge/Concepts/desirable-difficulty|Desirable Difficulty]]
 
-[[Making Mistakes]] during practice is a feature. Mistakes activate [[Diffuse Mode]] and help identify gaps.
+[[Making Mistakes]] during practice is a feature. Mistakes activate [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] and help identify gaps.
 
 ## For Founders
 
 - Building a startup is [[Constant Learning Under Uncertainty]] — optimize your own [[Learning Style]]
 - [[The Focused/Diffuse Switch]] = work on the problem, then sleep on it
-- [[Interleaving]] helps with [[Cross-Domain Strategy]]
+- [[30 Knowledge/Concepts/interleaving|Interleaving]] helps with [[Cross-Domain Strategy]]
 
 ## Related
 
-- [[Atomic Habits]] — [[Habit Formation]] for consistent learning
-- [[Deep Work]] — [[Focused Mode]] is the mode of [[Deep Work]]
-- [[Spaced Repetition]] — the science behind [[Memory Consolidation]]
-- [[Chunking]] — how [[Experts]] process [[Knowledge]]
+- [[Atomic Habits]] — [[30 Knowledge/Concepts/habit-formation|Habit Formation]] for consistent learning
+- [[Deep Work]] — [[30 Knowledge/Concepts/focused-mode|Focused Mode]] is the mode of [[Deep Work]]
+- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — the science behind [[Memory Consolidation]]
+- [[30 Knowledge/Concepts/chunking|Chunking]] — how [[Experts]] process [[Knowledge]]
 - [[Moonwalking with Einstein]] — [[Memory Athletes]] and [[Memory Palaces]]
-- [[Testing Effect]] — [[Active Recall]] is the most powerful learning technique
+- [[30 Knowledge/Concepts/testing-effect|Testing Effect]] — [[30 Knowledge/Concepts/active-recall|Active Recall]] is the most powerful learning technique

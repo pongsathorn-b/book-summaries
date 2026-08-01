@@ -27,7 +27,7 @@ Ego has three faces:
 
 ### The Stoic Antidote: What Is Up to Us
 
-The Stoic framework Holiday applies comes from Epictetus: some things are up to us, some are not. Ego focuses on the things not up to us — outcomes, recognition, reputation — while ignoring the only things we actually control: our judgments, intentions, and actions. This connects directly to [[Stoicism]] and [[Meditations]].
+The Stoic framework Holiday applies comes from Epictetus: some things are up to us, some are not. Ego focuses on the things not up to us — outcomes, recognition, reputation — while ignoring the only things we actually control: our judgments, intentions, and actions. This connects directly to [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[30 Knowledge/Concepts/meditations|Meditations]].
 
 ### Aspiration: Building Without Ego
 
@@ -53,7 +53,7 @@ Holiday's recommendation: in failure, ask "What is my part in this?" before aski
 
 ### The Power of Silence and Detachment
 
-Holiday advocates for what he calls **"quiet execution"** — doing the work without talking about it, letting results speak, and avoiding the performance of productivity. Many people spend more energy performing work than doing it. The antidote is to stay [[Focused Mode]] on what matters, not on how you're perceived.
+Holiday advocates for what he calls **"quiet execution"** — doing the work without talking about it, letting results speak, and avoiding the performance of productivity. Many people spend more energy performing work than doing it. The antidote is to stay [[30 Knowledge/Concepts/focused-mode|Focused Mode]] on what matters, not on how you're perceived.
 
 ## Key Lessons
 
@@ -86,7 +86,7 @@ Holiday advocates for what he calls **"quiet execution"** — doing the work wit
 
 ## Related Concepts
 
-This book is deeply connected to [[Stoicism]] and [[Meditations]] (Marcus Aurelius's own struggle with imperial power and ego). It shares themes with [[12 Rules for Life]] (the importance of order and meaning against chaos), [[Essentialism]] (saying no to ego-driven expansion), [[Atomic Habits]] (building systems rather than chasing status), and [[Deep Work]] (substance over performance).
+This book is deeply connected to [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own struggle with imperial power and ego). It shares themes with [[12 Rules for Life]] (the importance of order and meaning against chaos), [[Essentialism]] (saying no to ego-driven expansion), [[Atomic Habits]] (building systems rather than chasing status), and [[Deep Work]] (substance over performance).
 
 ## One-Line Takeaway
 

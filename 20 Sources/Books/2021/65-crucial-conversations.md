@@ -41,7 +41,7 @@ The authors provide an acronym for navigating difficult dialogue:
 - **T** — Talk tentatively (speak with less certainty, acknowledge you might be wrong)
 - **E** — Encourage testing (make it safe for others to disagree with you)
 
-The key move is **starting with facts, not conclusions.** Facts are less likely to trigger defensiveness; conclusions ("you don't care about this project") are. This relates to the [[Cognitive Biases]] literature — specifically the fundamental attribution error, where we attribute behavior to character rather than circumstances.
+The key move is **starting with facts, not conclusions.** Facts are less likely to trigger defensiveness; conclusions ("you don't care about this project") are. This relates to the [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] literature — specifically the fundamental attribution error, where we attribute behavior to character rather than circumstances.
 
 ### Creating Safety: The Prerequisite for Dialogue
 
@@ -71,7 +71,7 @@ Conversations don't end — they transition to other phases. The authors outline
 2. **Start with heart.** Before speaking, clarify what you actually want: to win? to punish? Or to achieve a result that works for everyone? Your intention shapes the conversation.
 3. **Start with facts, not conclusions.** State the objective facts that led you to your conclusion. Facts are less inflammatory than judgments.
 4. **Make it safe first.** If the other person feels attacked, nothing you say will land. Restore safety by showing you care about their interests before stating your own.
-5. **Argue only after all relevant information is in the pool.** Before defending your position, make sure you've heard the other person's fully. This is [[Active Recall]] for conversations.
+5. **Argue only after all relevant information is in the pool.** Before defending your position, make sure you've heard the other person's fully. This is [[30 Knowledge/Concepts/active-recall|Active Recall]] for conversations.
 6. **Turn the conversation into a dialogue.** Ask what others would do, or how they'd handle the situation. Move from "you're wrong" to "let's figure this out together."
 7. **Be open to influence.** The goal is not to win — it's to find the best solution. If you enter a conversation unwilling to change your mind, you've already failed.
 8. **Use the STATE method for sensitive topics.** Share facts, tell your story, ask for theirs, talk tentatively, encourage testing.
@@ -96,7 +96,7 @@ Conversations don't end — they transition to other phases. The authors outline
 
 ## Related Concepts
 
-This book connects to [[Stoicism]] (controlling your response before engaging), [[Cognitive Biases]] (understanding how attribution errors distort our view of others), [[Thinking Fast and Slow]] (System 1/System 2 emotional reactions), and [[Essentialism]] (choosing which conversations are truly crucial and worth the energy).
+This book connects to [[30 Knowledge/Concepts/stoicism|Stoicism]] (controlling your response before engaging), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (understanding how attribution errors distort our view of others), [[Thinking Fast and Slow]] (System 1/System 2 emotional reactions), and [[Essentialism]] (choosing which conversations are truly crucial and worth the energy).
 
 ## One-Line Takeaway
 

@@ -10,7 +10,7 @@ summary: Great companies build enduring excellence through disciplined people, t
 
 ## Overview
 
-[[Jim Collins]] and his research team spent five years studying why some companies make the leap from good results to great results (sustained stock market returns 3x the general market for 15 years) while others do not. The findings are counterintuitive: great companies don't have great ideas — they have *disciplined* people who think rigorously and execute relentlessly. The most important discovery is the "Level 5 Leadership"悖论 — the most effective CEOs are often self-effacing, almost paradoxically humble. The book systematically dismantles myths about transformation and insists that sustainable greatness comes from discipline, not charisma.
+[[30 Knowledge/People/Jim-Collins|Jim Collins]] and his research team spent five years studying why some companies make the leap from good results to great results (sustained stock market returns 3x the general market for 15 years) while others do not. The findings are counterintuitive: great companies don't have great ideas — they have *disciplined* people who think rigorously and execute relentlessly. The most important discovery is the "Level 5 Leadership"悖论 — the most effective CEOs are often self-effacing, almost paradoxically humble. The book systematically dismantles myths about transformation and insists that sustainable greatness comes from discipline, not charisma.
 
 ## Core Concepts
 

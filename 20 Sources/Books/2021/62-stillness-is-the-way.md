@@ -18,9 +18,9 @@ Drawing on Marcus Aurelius's *Meditations*, Epictetus's teachings, Buddhist mind
 
 ### Stillness as Foundation, Not Escape
 
-Holiday's central argument: **stillness is not inaction — it is the soil from which right action grows.** The Stoics didn't retreat from the world; they engaged it more deeply than others. But that engagement required regular periods of withdrawal — meditation, journaling, solitude — to see the world accurately. Without stillness, we are prisoners of our reactive impulses, our [[Cognitive Biases]], and our emotional reactivity.
+Holiday's central argument: **stillness is not inaction — it is the soil from which right action grows.** The Stoics didn't retreat from the world; they engaged it more deeply than others. But that engagement required regular periods of withdrawal — meditation, journaling, solitude — to see the world accurately. Without stillness, we are prisoners of our reactive impulses, our [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]], and our emotional reactivity.
 
-This connects to the [[Diffuse Mode]] in neuroscience — the brain's resting state where deep integration and insight occur. [[Focused Mode]] constantly is the path to burnout; what [[Deep Work]] needs is not just intensity but rhythm.
+This connects to the [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] in neuroscience — the brain's resting state where deep integration and insight occur. [[30 Knowledge/Concepts/focused-mode|Focused Mode]] constantly is the path to burnout; what [[Deep Work]] needs is not just intensity but rhythm.
 
 ### The Stoic Practice of Morning Meditation
 
@@ -28,7 +28,7 @@ Holiday recommends starting each day with **five to ten minutes of stillness** �
 1. Sets the emotional tone for the day
 2. Creates space between stimulus and response
 3. Allows you to see the day's challenges before they ambush you
-4. Builds the habit of [[Focused Mode]] before the world's distractions arrive
+4. Builds the habit of [[30 Knowledge/Concepts/focused-mode|Focused Mode]] before the world's distractions arrive
 
 Marcus Aurelius began every morning with this practice — and he ran an empire.
 
@@ -49,7 +49,7 @@ The core Stoic teaching, from Epictetus: **some things are up to us, some are no
 
 ### The Danger of Distraction
 
-Holiday is particularly sharp on **distraction as the enemy of purpose.** When we fill every moment with noise — social media, news, entertainment — we lose the capacity for the kind of deep thought that produces meaningful work. The connection to [[Indistractable]] and [[Make Time]] is clear: the war on distraction is not a productivity hack but a prerequisite for a meaningful life.
+Holiday is particularly sharp on **distraction as the enemy of purpose.** When we fill every moment with noise — social media, news, entertainment — we lose the capacity for the kind of deep thought that produces meaningful work. The connection to [[Indistractable]] and [[30 Knowledge/Concepts/make-time|Make Time]] is clear: the war on distraction is not a productivity hack but a prerequisite for a meaningful life.
 
 ### Acceptance and Amor Fati
 
@@ -86,7 +86,7 @@ The deepest form of stillness is **acceptance** — loving what is, not just tol
 
 ## Related Concepts
 
-This book connects deeply to [[Meditations]] (Marcus Aurelius's own journal of Stoic reflection), [[Stoicism]] more broadly, [[Diffuse Mode]] and [[Focused Mode]] neuroscience, [[Deep Work]] (stillness as prerequisite for depth), [[Indistractable]] (protecting attention from distraction), [[Make Time]] (designing for priorities rather than reacting to demands), and [[Brain Plasticity]] (the brain physically changes with contemplative practice).
+This book connects deeply to [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own journal of Stoic reflection), [[30 Knowledge/Concepts/stoicism|Stoicism]] more broadly, [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] and [[30 Knowledge/Concepts/focused-mode|Focused Mode]] neuroscience, [[Deep Work]] (stillness as prerequisite for depth), [[Indistractable]] (protecting attention from distraction), [[30 Knowledge/Concepts/make-time|Make Time]] (designing for priorities rather than reacting to demands), and [[Brain Plasticity]] (the brain physically changes with contemplative practice).
 
 ## One-Line Takeaway
 

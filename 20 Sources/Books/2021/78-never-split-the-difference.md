@@ -60,4 +60,4 @@ Some critics argue Voss's tactics are suited almost exclusively to adversarial, 
 
 In high-stakes negotiation, empathy is not softness — it is the sharpest tactical weapon you have, and the word "no" is just the conversation warming up.
 
-[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]
+[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]], [[30 Knowledge/Concepts/anchoring-bias|Anchoring Bias]], [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]

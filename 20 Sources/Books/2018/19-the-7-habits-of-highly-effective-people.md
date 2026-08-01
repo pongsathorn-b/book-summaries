@@ -41,7 +41,7 @@ Production (P) creates results; Production Capability (PC) is your capacity to p
 - Character is the foundation: behaviors flow from values, not the reverse
 - Proactivity means recognizing that while you can't control what happens to you, you can control how you respond
 - Writing a personal mission statement creates a decision-making filter for everything
-- Quadrant II (Important, Not Urgent) is where effective people spend most of their time — [[The Pomodoro Technique]] and [[Make Time]] are tactics to get there
+- Quadrant II (Important, Not Urgent) is where effective people spend most of their time — [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] and [[30 Knowledge/Concepts/make-time|Make Time]] are tactics to get there
 - True effectiveness requires both personal competence (technical) and character competence (ethical)
 - Synergy multiplies output: 1+1=3 or more when differences are leveraged
 

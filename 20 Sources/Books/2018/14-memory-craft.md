@@ -18,15 +18,15 @@ Before writing, trained orators could deliver flawless speeches lasting hours. T
 
 ## Key Techniques
 
-### [[Memory Palace]] Network
+### [[30 Knowledge/Concepts/memory-palace|Memory Palace]] Network
 
-Instead of one [[Memory Palace]], use a network of linked palaces. Expert [[Memory Athletes]] use hundreds. This allows remembering thousands of items in sequence.
+Instead of one [[30 Knowledge/Concepts/memory-palace|Memory Palace]], use a network of linked palaces. Expert [[Memory Athletes]] use hundreds. This allows remembering thousands of items in sequence.
 
 ### [[Songline Method]]
 
 [[Indigenous Australians]] used epic songs that were [[Geographical Navigation Systems]] and [[Cultural Archives]] simultaneously. The principle: **when information is connected to [[Movement Through Space]], it becomes extraordinarily memorable.**
 
-### [[Encoding Principles]]
+### [[30 Knowledge/Concepts/encoding-principles|Encoding Principles]]
 
 1. **[[Sensory Richness]]** — add smell, taste, sound, texture
 2. **[[Physical Action]]** — moving images stick better than static ones
@@ -46,8 +46,8 @@ Schools teach what to think, not [[How to Remember]]. Students use laptops as [[
 
 ## Related
 
-- [[Memory Palace]] — the core technique, also in [[Moonwalking with Einstein]] and [[The Memory Book]]
-- [[Spaced Repetition]] — [[Memory Craft]] confirms this alongside [[Memory Palaces]]
-- [[Learning How to Learn]] — [[Barbara Oakley]] on [[Spaced Repetition]] and [[Chunking]]
+- [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — the core technique, also in [[Moonwalking with Einstein]] and [[The Memory Book]]
+- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — [[Memory Craft]] confirms this alongside [[Memory Palaces]]
+- [[Learning How to Learn]] — [[Barbara Oakley]] on [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] and [[30 Knowledge/Concepts/chunking|Chunking]]
 - [[Songline Method]] — [[Lynne Kelly]]'s unique contribution on [[Spatial Memory]]
 - [[Brain Plasticity]] — [[ Lynne Kelly]] on why these techniques still work

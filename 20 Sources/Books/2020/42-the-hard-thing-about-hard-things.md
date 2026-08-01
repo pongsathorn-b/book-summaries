@@ -10,7 +10,7 @@ summary: Building a company requires making brutally difficult decisions that no
 
 ## Overview
 
-[[Ben Horowitz]], co-founder of Opsware and Andreessen Horowitz, wrote the most brutally honest book about startup leadership ever published. Unlike sanitized business textbooks, *The Hard Thing About Hard Things* confronts the realities that actually destroy founders and CEOs: how to fire people you like, how to manage when you're out of your depth, how to handle psychopathic employees, how to tell your board things they don't want to hear, and how to maintain sanity when everything is falling apart. Horowitz's voice is raw, profane, and deeply practical. The central theme: building a company is a fundamentally different skill from building a product, and it is far harder.
+[[30 Knowledge/People/Ben-Horowitz|Ben Horowitz]], co-founder of Opsware and Andreessen Horowitz, wrote the most brutally honest book about startup leadership ever published. Unlike sanitized business textbooks, *The Hard Thing About Hard Things* confronts the realities that actually destroy founders and CEOs: how to fire people you like, how to manage when you're out of your depth, how to handle psychopathic employees, how to tell your board things they don't want to hear, and how to maintain sanity when everything is falling apart. Horowitz's voice is raw, profane, and deeply practical. The central theme: building a company is a fundamentally different skill from building a product, and it is far harder.
 
 ## Core Concepts
 

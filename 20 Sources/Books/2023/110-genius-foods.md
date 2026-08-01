@@ -67,4 +67,4 @@ Genius Foods provides a practical, well-researched (if sometimes overhyped) guid
 - [[Brain Plasticity]] — The concept of neuroplasticity underpins the book's argument that dietary changes can actually reverse cognitive decline
 - [[Deep Nutrition]] — Shanahan's epigenetic framework complements Lugavere's brain-specific focus on dietary fat and micronutrients
 - [[The Body Keeps the Score]] — Both discuss the brain's physical response to nutrition, stress, and trauma
-- [[Cognitive Biases]] — The brain-optimized nutrition protocols support the cognitive functions (judgment, decision-making) that bias research depends on
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — The brain-optimized nutrition protocols support the cognitive functions (judgment, decision-making) that bias research depends on

@@ -83,7 +83,7 @@ Machiavelli counseled that in moments of crisis, **indecision is more dangerous 
 - [[48 Laws of Power]] — Greene's modern amplification of Machiavellian themes
 - [[Nietzsche]] — Nietzsche's admiration for Machiavellian intellectual honesty
 - [[Plato]] — The Republic as the philosophical foil: ideal state vs. realistic state
-- [[Meditations]] — Marcus Aurelius on virtue in power, the counterpoint to Machiavelli
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius on virtue in power, the counterpoint to Machiavelli
 - [[The Art of Seduction]] — Power dynamics and perception management
 
 ---

@@ -10,7 +10,7 @@ summary: The best startups create entirely new categories rather than competing 
 
 ## Overview
 
-[[Peter Thiel]], co-founder of PayPal and Palantir, delivered a seminal course at Stanford that became this book. Thiel argues that real progress comes from *vertical* or *1 to n* innovation — creating something entirely new — rather than *horizontal* or *0 to n* replication, which merely copies existing solutions across markets. The book is a manifesto for building monopolies through innovation, arguing that competition is for losers and that every successful business earns its profits by possessing something unique and non-copyable.
+[[30 Knowledge/People/Peter-Thiel|Peter Thiel]], co-founder of PayPal and Palantir, delivered a seminal course at Stanford that became this book. Thiel argues that real progress comes from *vertical* or *1 to n* innovation — creating something entirely new — rather than *horizontal* or *0 to n* replication, which merely copies existing solutions across markets. The book is a manifesto for building monopolies through innovation, arguing that competition is for losers and that every successful business earns its profits by possessing something unique and non-copyable.
 
 ## Core Concepts
 

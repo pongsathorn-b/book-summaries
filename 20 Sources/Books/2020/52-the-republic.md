@@ -78,8 +78,8 @@ Plato's Kallipolis is built on **education**, not legislation. The entire struct
 ## Related Books
 
 - [[Plato]] — The Republic as the central expression of Plato's philosophy
-- [[Meditations]] — Marcus Aurelius as a philosopher-ruler who grappled with Plato's legacy
-- [[Stoicism]] — The alternative view that the wise person rules themselves, not cities
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius as a philosopher-ruler who grappled with Plato's legacy
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The alternative view that the wise person rules themselves, not cities
 - [[Machiavelli]] — The Prince as a repudiation of Platonic ideal governance
 - [[The Art of War]] — Military and strategic dimensions of ruling
 - [[Chanakya Neeti]] — Indian parallel: the wise advisor who combines philosophy with realpolitik

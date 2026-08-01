@@ -10,7 +10,7 @@ summary: Sleep is the single most effective thing we can do to reset our brain a
 
 ## Overview
 
-Neuroscientist [[Matthew Walker]] presents decades of sleep research revealing that sleep is not a passive state of rest but an active, essential process critical to every aspect of human health, cognitive performance, and longevity. Written for a general audience, the book transforms how readers think about the 8 hours they spend asleep each night — reframing sleep as the foundation of mental and physical well-being rather than an obstacle to productivity.
+Neuroscientist [[30 Knowledge/People/Matthew-Walker|Matthew Walker]] presents decades of sleep research revealing that sleep is not a passive state of rest but an active, essential process critical to every aspect of human health, cognitive performance, and longevity. Written for a general audience, the book transforms how readers think about the 8 hours they spend asleep each night — reframing sleep as the foundation of mental and physical well-being rather than an obstacle to productivity.
 
 ## Core Concepts
 
@@ -57,12 +57,12 @@ Walker has been criticized for presenting sleep science in ways that may increas
 
 ## Related
 
-- [[Welcome to Your Brain]] — neuroscientific foundations of [[Sleep and Memory]]
+- [[Welcome to Your Brain]] — neuroscientific foundations of [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]]
 - [[Brain Plasticity]] — sleep drives physical [[Learning Changes Brain Structure]]
-- [[Sleep and Memory]] — the hippocampus replay mechanism [[Sleep and Memory]] explores in depth
-- [[Atomic Habits]] — [[James Clear]] would agree: recovery through sleep is a non-negotiable habit
+- [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]] — the hippocampus replay mechanism [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]] explores in depth
+- [[Atomic Habits]] — [[30 Knowledge/People/James-Clear|James Clear]] would agree: recovery through sleep is a non-negotiable habit
 - [[The Body Keeps the Score]] — trauma and the nervous system also disrupt sleep [[The Body Keeps the Score]]
-- [[Make Time]] — energy management is incomplete without accounting for sleep debt
+- [[30 Knowledge/Concepts/make-time|Make Time]] — energy management is incomplete without accounting for sleep debt
 
 ## One-Line Takeaway
 

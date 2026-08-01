@@ -10,7 +10,7 @@ summary: Capture everything, clarify decisions, organize by context, and review 
 
 ## Overview
 
-[[Getting Things Done]] (GTD) is a task-management system developed by [[David Allen]] that externalizes all commitments, projects, and tasks from your mind into a trusted external system. The core premise: relaxed control of your commitments equals maximum productivity. GTD has become the most influential productivity system for knowledge workers, used by millions worldwide.
+[[Getting Things Done]] (GTD) is a task-management system developed by [[30 Knowledge/People/David-Allen|David Allen]] that externalizes all commitments, projects, and tasks from your mind into a trusted external system. The core premise: relaxed control of your commitments equals maximum productivity. GTD has become the most influential productivity system for knowledge workers, used by millions worldwide.
 
 ## Core Concepts
 
@@ -53,7 +53,7 @@ Move everything off your mind into a trusted system, decide next actions clearly
 
 ## Related Books
 
-- [[The Pomodoro Technique]] — time-boxing that pairs well with GTD's next-action discipline
+- [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — time-boxing that pairs well with GTD's next-action discipline
 - [[Essentialism]] — strategic filter for deciding which projects deserve a next action
-- [[Make Time]] — daily tactics that complement GTD's project management
+- [[30 Knowledge/Concepts/make-time|Make Time]] — daily tactics that complement GTD's project management
 - [[Indistractable]] — attention mastery that ensures GTD tasks get deep-focus execution

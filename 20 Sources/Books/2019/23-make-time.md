@@ -10,7 +10,7 @@ summary: Design your daily default state to create time and energy for what matt
 
 ## Overview
 
-[[Make Time]] by [[Jake Knapp]] and [[John Zeratsky]] (former Google designers who created Design Sprints) offers 83 tactical, daily-level interventions for fighting distraction and creating time for what matters. Where [[Getting Things Done]] is a comprehensive system and [[Essentialism]] is a philosophy, Make Time is a daily playbook — each chapter is a short, independent tactic you can apply immediately. The book's framework: every day, pick one Highlight (your most important task), use daily tactics to protect time and energy for it, and close the day by reflecting.
+[[30 Knowledge/Concepts/make-time|Make Time]] by [[Jake Knapp]] and [[John Zeratsky]] (former Google designers who created Design Sprints) offers 83 tactical, daily-level interventions for fighting distraction and creating time for what matters. Where [[Getting Things Done]] is a comprehensive system and [[Essentialism]] is a philosophy, Make Time is a daily playbook — each chapter is a short, independent tactic you can apply immediately. The book's framework: every day, pick one Highlight (your most important task), use daily tactics to protect time and energy for it, and close the day by reflecting.
 
 ## Core Concepts
 
@@ -25,7 +25,7 @@ summary: Design your daily default state to create time and energy for what matt
 
 - Todo lists create anxiety without focus — one named Highlight per day beats a list of 10 tasks
 - Inbox checking is a default behavior, not a productivity strategy — designate specific times, don't check continuously
-- [[The Pomodoro Technique]]'s time-boxing is compatible but Make Time prefers longer sprints (60-90 min)
+- [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]]'s time-boxing is compatible but Make Time prefers longer sprints (60-90 min)
 - Your environment is the most powerful behavior change tool — make the Highlight obvious and distractions invisible
 - End-of-day reflection (even 2 minutes) creates continuous improvement without formal reviews
 - Blocking highlight time on your calendar as "busy" protects it from meeting colonization
@@ -56,6 +56,6 @@ Design your daily default, pick one Highlight, and defend your time and energy f
 ## Related Books
 
 - [[Getting Things Done]] — GTD's comprehensive system provides the project/next-action structure that feeds into Make Time's Highlight
-- [[The Pomodoro Technique]] — time-boxing for the Highlight; different sprint lengths but same underlying principle
+- [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — time-boxing for the Highlight; different sprint lengths but same underlying principle
 - [[Indistractable]] — Eyal's framework for managing internal triggers is the psychological complement to Knapp's environmental tactics
 - [[Eat That Frog!]] — your Highlight is your frog; eat it first thing before the day eats you

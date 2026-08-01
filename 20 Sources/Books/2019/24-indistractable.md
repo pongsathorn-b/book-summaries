@@ -10,7 +10,7 @@ summary: Master internal triggers (feelings, thoughts) and external triggers (en
 
 ## Overview
 
-[[Indistractable]] by [[Nir Eyal]] (author of the influential [[Hooked]]]]) is a comprehensive framework for reclaiming attention from both external interruptions and internal discomfort. Eyal argues that distraction is almost never about the thing you're avoiding — it's about the feeling you're trying to escape. The book separates triggers into external (phone notifications, open office layouts) and internal (boredom, anxiety, loneliness), and provides specific techniques for managing both. The core thesis: you cannot be productive with any system if you are constantly distracted; attention is the foundational resource.
+[[Indistractable]] by [[30 Knowledge/People/Nir-Eyal|Nir Eyal]] (author of the influential [[Hooked]]]]) is a comprehensive framework for reclaiming attention from both external interruptions and internal discomfort. Eyal argues that distraction is almost never about the thing you're avoiding — it's about the feeling you're trying to escape. The book separates triggers into external (phone notifications, open office layouts) and internal (boredom, anxiety, loneliness), and provides specific techniques for managing both. The core thesis: you cannot be productive with any system if you are constantly distracted; attention is the foundational resource.
 
 ## Core Concepts
 
@@ -38,7 +38,7 @@ summary: Master internal triggers (feelings, thoughts) and external triggers (en
 2. External trigger audit: list every notification, app, and environmental cue that prompts distraction — eliminate or batch each
 3. Timebox your day: calendar blocking prevents external triggers from colonizing unscheduled time
 4. Remove phone from bedroom; use a physical alarm clock — reclaim the default first 30 minutes of the day
-5. Apply [[The Pomodoro Technique]] to satisfy internal triggers for urgency while maintaining focus
+5. Apply [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] to satisfy internal triggers for urgency while maintaining focus
 6. Schedule worry time: designate 10 minutes per day to explicitly worry, which paradoxically reduces background anxiety
 7. Transform internal triggers: instead of escaping anxiety through distraction, ask "what is this feeling telling me I need?"
 
@@ -56,7 +56,7 @@ Master the internal emotional discomfort that drives distraction and redesign yo
 
 ## Related Books
 
-- [[Make Time]] — Knapp and Zeratsky's environmental tactics are the practical complement to Eyal's internal trigger framework
-- [[The Pomodoro Technique]] — structured time-boxing satisfies internal triggers for urgency without derailing focus
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Knapp and Zeratsky's environmental tactics are the practical complement to Eyal's internal trigger framework
+- [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — structured time-boxing satisfies internal triggers for urgency without derailing focus
 - [[Getting Things Done]] — Indistractable is the attention foundation that makes GTD execution possible
 - [[Essentialism]] — both books argue that selective attention to the right things compounds over time

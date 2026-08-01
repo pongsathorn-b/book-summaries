@@ -90,7 +90,7 @@ Goggins also has a complicated relationship with his own mental health. He openl
 - [[Ego Is the Enemy]] — The ego as the obstacle that Goggins's intensity must continually defeat
 - [[12 Rules for Life]] — Peterson on standing up to chaos with discipline and meaning
 - [[Man's Search for Meaning]] — Frankl's finding purpose through the acceptance of unavoidable suffering
-- [[Stoicism]] — The philosophical tradition that underpins Goggins's acceptance of pain
-- [[Amor Fati]] — Loving the fate that includes the suffering required for greatness
-- [[Memento Mori]] — Death as the ultimate accountability partner and motivator
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The philosophical tradition that underpins Goggins's acceptance of pain
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Loving the fate that includes the suffering required for greatness
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the ultimate accountability partner and motivator
 - [[Shoe Dog]] — Knight's memoir of building Nike through relentless obsession and suffering

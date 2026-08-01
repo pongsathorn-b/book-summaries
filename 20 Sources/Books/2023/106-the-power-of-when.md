@@ -69,7 +69,7 @@ The Power of When provides a useful (if sometimes oversimplified) framework for 
 
 ## Related Books
 - [[Why We Sleep]] — The foundational sleep science that explains circadian biology and chronotype differences
-- [[Sleep and Memory]] — How circadian timing affects memory consolidation during sleep
-- [[Focus Is a Skill]] — Aligning focus-intensive work with chronotype-specific energy peaks
+- [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]] — How circadian timing affects memory consolidation during sleep
+- [[30 Knowledge/Concepts/focus-is-a-skill|Focus Is a Skill]] — Aligning focus-intensive work with chronotype-specific energy peaks
 - [[The Power of Full Engagement]] — Managing energy (not just time) across the circadian cycle
 - [[Getting Results the Agile Way]] — Flexible scheduling that respects biological rhythms

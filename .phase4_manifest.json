@@ -1,0 +1,56 @@
+{
+  "phase": 4,
+  "method": "keyword-matched-moc-population",
+  "mocs": {
+    "AI": {
+      "books": 65,
+      "concepts": 1,
+      "people": 0
+    },
+    "Finance": {
+      "books": 35,
+      "concepts": 0,
+      "people": 0
+    },
+    "Health": {
+      "books": 27,
+      "concepts": 1,
+      "people": 0
+    },
+    "Leadership": {
+      "books": 39,
+      "concepts": 0,
+      "people": 0
+    },
+    "Learning": {
+      "books": 34,
+      "concepts": 6,
+      "people": 0
+    },
+    "Philosophy": {
+      "books": 42,
+      "concepts": 2,
+      "people": 5
+    },
+    "Productivity": {
+      "books": 40,
+      "concepts": 5,
+      "people": 0
+    },
+    "Psychology": {
+      "books": 50,
+      "concepts": 3,
+      "people": 0
+    },
+    "Relationships": {
+      "books": 31,
+      "concepts": 0,
+      "people": 0
+    },
+    "Strategy": {
+      "books": 66,
+      "concepts": 2,
+      "people": 1
+    }
+  }
+}

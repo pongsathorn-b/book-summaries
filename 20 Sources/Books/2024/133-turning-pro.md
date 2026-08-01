@@ -92,7 +92,7 @@ Pressfield's framework also tends to undervalue collaboration, community, and re
 - [[The Obstacle Is the Way]] — Stoic practice of using obstacles as fuel
 - [[12 Rules for Life]] — Peterson on finding meaning through the confrontation with chaos
 - [[Man's Search for Meaning]] — Frankl on finding identity through bearing witness to suffering
-- [[Stoicism]] — The philosophical foundation for Pressfield's discipline-based approach
-- [[Amor Fati]] — Loving the fate that includes the labor of becoming
-- [[Memento Mori]] — Death as the ultimate motivator for purposeful action
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The philosophical foundation for Pressfield's discipline-based approach
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Loving the fate that includes the labor of becoming
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the ultimate motivator for purposeful action
 - [[Essentialism]] — The disciplined practice of saying no to everything non-essential

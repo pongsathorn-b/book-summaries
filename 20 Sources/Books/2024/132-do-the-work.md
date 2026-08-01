@@ -91,7 +91,7 @@ Additionally, the book's approach to starting "before you're ready" can be taken
 - [[The Obstacle Is the Way]] — Stoic reframing of obstacles as opportunities
 - [[Essentialism]] — Disciplined pursuit of less, not more
 - [[Indistractable]] — Understanding and defeating distraction in the modern age
-- [[Make Time]] — Daily tactics for prioritizing and protecting time for meaningful work
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Daily tactics for prioritizing and protecting time for meaningful work
 - [[Getting Things Done]] — The systematic method for capturing, clarifying, and completing work
 - [[The 7 Habits of Highly Effective People]] — Habit 3 (Put First Things First) directly addresses doing what matters
 - [[The Compound Effect]] — Small consistent actions compounding into major results over time

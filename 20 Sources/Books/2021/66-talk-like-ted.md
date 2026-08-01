@@ -42,7 +42,7 @@ Gallo organizes the book around nine principles, grouped into three categories �
 
 **Memorable (you can't forget them):**
 
-7. **Paint a Mental Image** — The brain thinks in pictures. The most memorable talks are rich with concrete, visual language.抽象 concepts must be converted into concrete images. Phrases like "imagine a world where..." activate the visual cortex and make ideas stick. This is supported by research in [[Memory Palace]] techniques — concrete, spatial imagery is far more memorable than abstract language.
+7. **Paint a Mental Image** — The brain thinks in pictures. The most memorable talks are rich with concrete, visual language.抽象 concepts must be converted into concrete images. Phrases like "imagine a world where..." activate the visual cortex and make ideas stick. This is supported by research in [[30 Knowledge/Concepts/memory-palace|Memory Palace]] techniques — concrete, spatial imagery is far more memorable than abstract language.
 
 8. **Grab Them in the First 18 Seconds** — Attention peaks at the beginning and end of talks. You must hook the audience in the first 18 seconds, or you lose them permanently. The opening must be intriguing, surprising, or emotionally compelling — not a bland "thank you for that introduction."
 
@@ -62,7 +62,7 @@ Gallo emphasizes that the most powerful TED talks are those where speakers show 
 ## Key Lessons
 
 1. **Emotion first, logic second.** People make decisions emotionally and justify them rationally. Your presentation must connect to the heart before it can说服 the head.
-2. **Stories are the most persuasive tool in your arsenal.** Use personal stories, other people's stories, and relatable narratives to illustrate every major point. This is supported by [[Cognitive Biases]] research on narrative fallacy — we believe stories more than statistics.
+2. **Stories are the most persuasive tool in your arsenal.** Use personal stories, other people's stories, and relatable narratives to illustrate every major point. This is supported by [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] research on narrative fallacy — we believe stories more than statistics.
 3. **Teach something surprising.** Don't just reinforce what people know — show them something they don't. Novelty creates the dopamine hit that locks memory in place.
 4. **Hook them in the first 18 seconds.** The opening must create curiosity immediately. Ask a provocative question, share a surprising fact, or tell a brief story.
 5. **Make it visual.** The brain processes visual information 60,000 times faster than text. One powerful image beats ten bullet points every time.
@@ -78,11 +78,11 @@ Gallo emphasizes that the most powerful TED talks are those where speakers show 
 - **Opening hook:** Write five possible openings for your next presentation. Test each one. Pick the one that creates the most curiosity.
 - **Visual design:** Use the 10-20-30 rule (10 slides, 20 minutes, 30pt font) or one visual per minute. Never put more than 40 words on a slide.
 - **Finding your Holy Cow:** Ask yourself: "What is the one thing I want people to remember a year from now?" Build the entire talk around delivering that one insight.
-- **Rehearsal:** Practice out loud, ideally in front of a small audience. [[Focused Mode]] rehearsal in front of a mirror or camera, then get feedback.
+- **Rehearsal:** Practice out loud, ideally in front of a small audience. [[30 Knowledge/Concepts/focused-mode|Focused Mode]] rehearsal in front of a mirror or camera, then get feedback.
 
 ## Related Concepts
 
-This book connects to [[Cognitive Biases]] (understanding narrative fallacy and availability bias), [[Memory Palace]] (visual imagery as a memory tool), [[Deep Work]] (the [[Focused Mode]] concentration required for great delivery), and [[Atomic Habits]] (deliberate practice of presentation skills over time).
+This book connects to [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (understanding narrative fallacy and availability bias), [[30 Knowledge/Concepts/memory-palace|Memory Palace]] (visual imagery as a memory tool), [[Deep Work]] (the [[30 Knowledge/Concepts/focused-mode|Focused Mode]] concentration required for great delivery), and [[Atomic Habits]] (deliberate practice of presentation skills over time).
 
 ## One-Line Takeaway
 

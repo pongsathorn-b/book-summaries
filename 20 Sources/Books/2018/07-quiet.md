@@ -30,7 +30,7 @@ People can act out of character to advance core personal projects. A quiet perso
 - The best performance comes from [[Team Balance]] — introverts' contributions are systematically undervalued
 
 ### [[Collaboration Pitfalls]]
-Group brainstorm often produces fewer and lower-quality ideas than individuals working alone. [[Groupthink]] suppresses different opinions.
+Group brainstorm often produces fewer and lower-quality ideas than individuals working alone. [[30 Knowledge/Concepts/groupthink|Groupthink]] suppresses different opinions.
 
 ### [[Competence Dilemma]]
 [[Introverts]] are underestimated in groups but excel one-on-one and in writing.
@@ -47,4 +47,4 @@ Group brainstorm often produces fewer and lower-quality ideas than individuals w
 - [[Introversion]] vs [[Extroversion]] — the spectrum
 - [[Brain Myths]] — [[Susan Cain]]'s work connects to [[Brain Plasticity]] and personality
 - [[Deep Work]] — [[Introverts]] may have natural affinity for [[Deep Work]]
-- [[12 Rules for Life]] — [[Jordan Peterson]] on [[Social Circle]] and [[Proximity is Destiny]]
+- [[12 Rules for Life]] — [[30 Knowledge/People/Jordan-Peterson|Jordan Peterson]] on [[Social Circle]] and [[Proximity is Destiny]]

@@ -34,7 +34,7 @@ Pink notes that the highest-performing knowledge workers already practice this i
 
 Mastery is the urge to make progress, to get better at something that matters. But there is a crucial caveat: **mastery is a mindset.** Carol Dweck's research on mindset is central here — the belief that intelligence is not fixed (growth mindset) vs. the belief that it is (fixed mindset). People who approach mastery with a growth mindset see effort as the path to improvement; those with a fixed mindset see effort as evidence of inadequacy.
 
-Mastery also follows its own laws — specifically, the **Goldilocks Rule:** peak motivation occurs when a task is right at the edge of your current abilities. Too easy, and you are bored. Too hard, and you are frustrated. [[Flow State]] (see Mihaly Csikszentmihalyi's work) is what happens when you are perfectly matched to a challenging task.
+Mastery also follows its own laws — specifically, the **Goldilocks Rule:** peak motivation occurs when a task is right at the edge of your current abilities. Too easy, and you are bored. Too hard, and you are frustrated. [[30 Knowledge/Concepts/flow-state|Flow State]] (see Mihaly Csikszentmihalyi's work) is what happens when you are perfectly matched to a challenging task.
 
 **3. Purpose — The Yearning to Do What We Do in Service of Something Larger**
 
@@ -48,7 +48,7 @@ Pink is particularly critical of **performance-related pay** for tasks requiring
 - "Now-that" rewards (contingent, unexpected bonuses) can enhance creative performance
 - The best performers are rarely motivated primarily by money
 
-This connects to the broader literature on [[Cognitive Biases]] — we systematically overestimate the power of extrinsic motivators and underestimate the power of intrinsic ones.
+This connects to the broader literature on [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — we systematically overestimate the power of extrinsic motivators and underestimate the power of intrinsic ones.
 
 ### The Problem with Grades and Scores
 
@@ -59,7 +59,7 @@ Pink devotes a chapter to the damaging effects of **external evaluation and moni
 1. **Extrinsic motivators backfire on complex tasks.** The traditional reward-punishment model improves performance on simple, mechanical work but degrades performance on anything requiring cognitive skill or creativity.
 2. **Autonomy unlocks engagement.** People who have control over their time, tasks, techniques, and teams perform significantly better than those who are monitored and micromanaged.
 3. **Mastery requires a growth mindset.** The belief that ability can be developed (vs. is fixed) is the foundational belief of everyone who achieves mastery. [[Brain Plasticity]] is the neurological basis for this belief.
-4. **Flow is the state of optimal experience.** When challenge and skill are perfectly matched, consciousness dissolves into effortless action. [[Flow State]] is where great work happens.
+4. **Flow is the state of optimal experience.** When challenge and skill are perfectly matched, consciousness dissolves into effortless action. [[30 Knowledge/Concepts/flow-state|Flow State]] is where great work happens.
 5. **Purpose is the highest motivator.** People who work for meaning — to contribute, to serve, to make something better — outperform those who work purely for money or status.
 6. **Rewards narrow focus.** If-then rewards focus attention on the rewarded task at the expense of everything else. This is useful for mechanical tasks, devastating for creative ones.
 7. **Competition works better for simple tasks.** Intrinsic motivation (mastery, purpose) drives long-term creative output; extrinsic competition drives short-term mechanical output.
@@ -85,7 +85,7 @@ Pink devotes a chapter to the damaging effects of **external evaluation and moni
 
 ## Related Concepts
 
-This book connects deeply to [[Flow State]] (the optimal experience that mastery produces), [[Brain Plasticity]] (the neurological basis for growth mindset), [[Cognitive Biases]] (the overestimation of extrinsic rewards), [[Atomic Habits]] (small improvements compounding over time), and [[Indistractable]] (autonomy over attention as a fundamental human need).
+This book connects deeply to [[30 Knowledge/Concepts/flow-state|Flow State]] (the optimal experience that mastery produces), [[Brain Plasticity]] (the neurological basis for growth mindset), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (the overestimation of extrinsic rewards), [[Atomic Habits]] (small improvements compounding over time), and [[Indistractable]] (autonomy over attention as a fundamental human need).
 
 ## One-Line Takeaway
 

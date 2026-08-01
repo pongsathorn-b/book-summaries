@@ -62,4 +62,4 @@ Housel's insistence on the role of luck in financial success has drawn criticism
 
 The most important financial decisions are made in your mind, not in a spreadsheet — get the behavior right, and the money largely takes care of itself.
 
-[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]
+[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]], [[30 Knowledge/Concepts/anchoring-bias|Anchoring Bias]], [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]

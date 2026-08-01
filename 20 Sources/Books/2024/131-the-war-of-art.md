@@ -91,12 +91,12 @@ Additionally, Pressfield's binary framing of Warrior versus Victim, while motiva
 - [[Stillness Is the Way]] — Embracing stillness as a counterforce to frantic doing
 - [[12 Rules for Life]] — Peterson's confrontation with chaos and the prescription to stand up straight
 - [[Man's Search for Meaning]] — Frankl's finding meaning through suffering
-- [[Stoicism]] — The philosophical tradition Pressfield draws on
-- [[Amor Fati]] — Loving one's fate, including the suffering required for great work
-- [[Memento Mori]] — Death as a motivating reminder to do meaningful work now
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The philosophical tradition Pressfield draws on
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Loving one's fate, including the suffering required for great work
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as a motivating reminder to do meaningful work now
 - [[The Almanack of Naval Ravikant]] — Naval on getting rich and finding meaning without losing yourself
 - [[Indistractable]] — The modern battle against distraction and attention hijacking
-- [[Make Time]] — Tactical daily practices for prioritizing meaningful work
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Tactical daily practices for prioritizing meaningful work
 - [[Essentialism]] — Focusing only on what truly matters
 - [[Getting Things Done]] — David Allen's systematic approach to creative productivity
 - [[The 7 Habits of Highly Effective People]] — Covey's discipline-based framework for effectiveness

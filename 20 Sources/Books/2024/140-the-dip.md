@@ -91,6 +91,6 @@ Godin's focus on the "market" as the arbiter of value (via the "financial viabil
 - [[Deep Work]] — Newport's framework for the focused practice that gets you through the Dip
 - [[The Compound Effect]] — Darren Hardy's emphasis on consistency through the difficult middle period
 - [[Indistractable]] — The modern battle against distraction, which is the primary cause of Dip-quitting
-- [[Make Time]] — Daily tactics for maintaining energy and focus through the long middle period
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Daily tactics for maintaining energy and focus through the long middle period
 - [[Think and Grow Rich]] — Hill's study of persistence as the key differentiator of successful people
 - [[The 7 Habits of Highly Effective People]] — Covey's Habit 4: Think Win-Win (and Habit 5: Seek First to Understand), relevant to the strategic quitting decision

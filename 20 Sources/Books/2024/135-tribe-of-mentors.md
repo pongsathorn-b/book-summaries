@@ -91,6 +91,6 @@ The book also skews heavily toward a particular Silicon Valley/NYC alpha-male ar
 - [[The 7 Habits of Highly Effective People]] — Covey's long-form framework for life design
 - [[Essentialism]] — The discipline of filtering mentor advice through a single question: what truly matters?
 - [[Indistractable]] — Practical tactics for protecting attention in a distraction economy
-- [[Make Time]] — Daily implementation of the energy and priority management mentors recommend
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Daily implementation of the energy and priority management mentors recommend
 - [[Think and Grow Rich]] — Hill's original "consult the masters" methodology
 - [[Getting Things Done]] — Allen's systematic approach to processing the chaos that mentor advice inevitably creates

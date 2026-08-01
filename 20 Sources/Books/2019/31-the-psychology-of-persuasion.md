@@ -64,7 +64,7 @@ Persuasion is a learnable science grounded in social psychology and neuroscience
 - [[Influence]] — Cialdini's foundational six principles that Hogan expands and deepens
 - [[Contagious]] — social proof and emotion as drivers of word-of-mouth
 - [[Thinking Fast and Slow]] — Kahneman's System 1/System 2 framework underlying persuasion
-- [[Cognitive Biases]] — anchoring, reciprocity, and social proof operate through cognitive mechanisms
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — anchoring, reciprocity, and social proof operate through cognitive mechanisms
 - [[Social Intelligence]] — EQ and interpersonal skills that support persuasive communication
-- [[Loss Aversion]] — scarcity and fear-based persuasion triggers
+- [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]] — scarcity and fear-based persuasion triggers
 - [[Predictably Irrational]] — Ariely's behavioral economics foundations for understanding decision-making

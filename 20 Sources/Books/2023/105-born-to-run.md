@@ -63,4 +63,4 @@ Born to Run is an entertaining blend of adventure journalism and fitness philoso
 - [[Why We Sleep]] — Recovery and adaptation from endurance training depend on sleep quality
 - [[Deep Work]] — Endurance running as a form of "flow state" that shares neurological mechanisms with deep focus
 - [[The Power of Full Engagement]] — Both books argue for managing energy (not just time) as the key to sustainable high performance
-- [[Flow State]] — The Tarahumara's joyful running culture exemplifies the flow state that runners describe
+- [[30 Knowledge/Concepts/flow-state|Flow State]] — The Tarahumara's joyful running culture exemplifies the flow state that runners describe

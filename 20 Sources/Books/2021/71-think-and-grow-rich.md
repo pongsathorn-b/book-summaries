@@ -10,7 +10,7 @@ summary: Wealth and achievement begin with a burning desire, a definite purpose,
 
 ## Overview
 
-Originally published in 1937 after 20 years of research interviewing over 500 of America's most successful men, *Think and Grow Rich* is one of the best-selling self-help books of all time. [[Napoleon Hill]] was commissioned by industrialist [[Andrew Carnegie]] to study the philosophy of success, and the result is a framework centered on **definite purpose**, **burning desire**, and **persistent faith** as the drivers of wealth and achievement. Though rooted in 1930s business context, its psychological principles — visualization, affirmations, mastermind alliances — have been widely adopted across industries and generations.
+Originally published in 1937 after 20 years of research interviewing over 500 of America's most successful men, *Think and Grow Rich* is one of the best-selling self-help books of all time. [[30 Knowledge/People/Napoleon-Hill|Napoleon Hill]] was commissioned by industrialist [[Andrew Carnegie]] to study the philosophy of success, and the result is a framework centered on **definite purpose**, **burning desire**, and **persistent faith** as the drivers of wealth and achievement. Though rooted in 1930s business context, its psychological principles — visualization, affirmations, mastermind alliances — have been widely adopted across industries and generations.
 
 ## Core Concepts
 
@@ -62,7 +62,7 @@ The most important quality Hill identified in all successful people is **persist
 - [[The 7 Habits]] — beginning with the end in mind [[The 7 Habits]] mirrors Hill's definite purpose
 - [[Deep Work]] — applying focused expertise [[Deep Work]] is how specialized knowledge converts to value
 - [[Essentialism]] — Hill's focus on a definite purpose [[Essentialism]] resonates with the "less but better" approach
-- [[Willpower]] — persistence requires [[Willpower]] — the ability to stick to your vision despite resistance
+- [[30 Knowledge/Concepts/willpower|Willpower]] — persistence requires [[30 Knowledge/Concepts/willpower|Willpower]] — the ability to stick to your vision despite resistance
 
 ## One-Line Takeaway
 

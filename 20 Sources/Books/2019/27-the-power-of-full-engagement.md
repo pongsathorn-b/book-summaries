@@ -29,7 +29,7 @@ summary: Managing energy, not time, is the key to sustainable high performance �
 
 - Working longer is not working better — exhausted workers make more mistakes and produce less
 - Positive rituals (e.g., end-of-work walk, morning meditation) are more effective than willpower for energy management
-- [[Make Time]]'s daily tactics and [[Indistractable]]'s attention management are downstream applications of Loehr and Schwartz's energy framework
+- [[30 Knowledge/Concepts/make-time|Make Time]]'s daily tactics and [[Indistractable]]'s attention management are downstream applications of Loehr and Schwartz's energy framework
 - Emotional energy is not "soft" — confidence, optimism, and enthusiasm have measurable performance impacts
 - Spiritual energy (purpose, values) is the deepest source of sustainable motivation — without it, other energy dimensions deplete faster
 - [[Eat That Frog!]]'s morning willpower insight aligns with the book's finding that physical energy peaks in the morning for most people
@@ -46,7 +46,7 @@ SPRINT (Expend Energy) → RECOVERY (Restore Energy) → EXPANSION (Grow Capacit
 
 1. Map your energy across the day: when is your physical/emotional/mental peak? Schedule high-demand work during peak.
 2. Design recovery rituals: 5-min breathing between meetings, 20-min walks at lunch, no screens 30 min before bed
-3. Apply [[The Pomodoro Technique]] within an energy management frame: work sprints only when energy permits, not mechanically
+3. Apply [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] within an energy management frame: work sprints only when energy permits, not mechanically
 4. Use the "100% presence" test: are you fully emotionally present in conversations, or are you mentally elsewhere?
 5. Schedule renewal as non-negotiable: block exercise, social connection, and play time before it gets crowded out
 6. Quarterly "energy audit": rate each dimension 1-10 — which is most depleted? Invest there first.
@@ -67,7 +67,7 @@ Energy is the true currency of high performance — strategically manage physica
 
 ## Related Books
 
-- [[Make Time]] — Knapp and Zeratsky's daily energy tactics are practical applications of the Energy Project's framework
+- [[30 Knowledge/Concepts/make-time|Make Time]] — Knapp and Zeratsky's daily energy tactics are practical applications of the Energy Project's framework
 - [[Getting Results the Agile Way]] — Meier explicitly credits Loehr/Schwartz's energy model as foundational to his approach
 - [[The 7 Habits of Highly Effective People]] — Covey's "Sharpen the Saw" (Habit 7) is the habit-based cousin of full engagement thinking
 - [[Eat That Frog!]] — morning frog-eating aligns with energy management: use peak physical energy for hardest cognitive tasks

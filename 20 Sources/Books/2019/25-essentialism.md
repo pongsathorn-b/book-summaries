@@ -38,7 +38,7 @@ summary: Identify the vital few and eliminate the trivial many — effectiveness
 1. Every Monday: review your commitments and apply the 90% rule — eliminate anything scoring below 90
 2. Use "extreme criteria" when vetting opportunities: if this isn't a "hell yes," it's a "no"
 3. Create a "not-to-do list" alongside your to-do list — naming what you won't do is as important as what you will
-4. Apply [[The Pomodoro Technique]] only to essential tasks — don't time-box non-essential work
+4. Apply [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] only to essential tasks — don't time-box non-essential work
 5. Before accepting a new commitment, visualize the full cost: time, energy, trade-offs — then decide
 6. Schedule play and recovery as deliberately as work — protect non-negotiable renewal time
 7. Build the Essentialist's Buffer: when estimating tasks, add 50% — reality always expands to fill time
@@ -60,4 +60,4 @@ Effectiveness is not about doing more — it's about discerning the vital few fr
 - [[The 4-Hour Workweek]] — Ferriss's selective ignorance and elimination tactics are Essentialism in entrepreneur's clothing
 - [[Getting Things Done]] — Essentialism provides the strategic filter for deciding what gets a next action in GTD
 - [[The 7 Habits of Highly Effective People]] — Covey's Habit 3 ("Put First Things First") is the habit-based version of Essentialism
-- [[Make Time]] — daily tactics for saying no to the trivial many so the vital few get attention
+- [[30 Knowledge/Concepts/make-time|Make Time]] — daily tactics for saying no to the trivial many so the vital few get attention

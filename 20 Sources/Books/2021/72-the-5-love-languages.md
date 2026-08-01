@@ -10,7 +10,7 @@ summary: Everyone expresses and receives love differently — understanding whet
 
 ## Overview
 
-Marriage counselor [[Gary Chapman]] spent decades listening to couples in conflict — and realized that most fights about love are actually miscommunication. Each person has a primary "love language" — the way they naturally express and most want to receive love. When partners speak different love languages, they can love each other deeply and still feel unloved — because they are giving love in their own language, not their partner's. The five love languages are **Words of Affirmation**, **Quality Time**, **Receiving Gifts**, **Acts of Service**, and **Physical Touch**. Learning to speak your partner's love language — not your own — is the central insight of one of the most practical relationship books ever written.
+Marriage counselor [[30 Knowledge/People/Gary-Chapman|Gary Chapman]] spent decades listening to couples in conflict — and realized that most fights about love are actually miscommunication. Each person has a primary "love language" — the way they naturally express and most want to receive love. When partners speak different love languages, they can love each other deeply and still feel unloved — because they are giving love in their own language, not their partner's. The five love languages are **Words of Affirmation**, **Quality Time**, **Receiving Gifts**, **Acts of Service**, and **Physical Touch**. Learning to speak your partner's love language — not your own — is the central insight of one of the most practical relationship books ever written.
 
 ## Core Concepts
 

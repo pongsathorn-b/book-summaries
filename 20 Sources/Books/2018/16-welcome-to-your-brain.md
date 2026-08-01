@@ -10,7 +10,7 @@ summary: What neuroscience actually tells us about the brain — debunking popul
 
 ## Overview
 
-Neuroscientists [[Sandra Aamodt]] and [[Sam Wang]] explain what neuroscience actually tells us — and debunk popular myths. Fascinating for anyone who's been told they only use 10% of their brain.
+Neuroscientists [[30 Knowledge/People/Sandra-Aamodt|Sandra Aamodt]] and [[Sam Wang]] explain what neuroscience actually tells us — and debunk popular myths. Fascinating for anyone who's been told they only use 10% of their brain.
 
 ## Key Brain Facts
 
@@ -21,7 +21,7 @@ False. Brain imaging shows we use all of it, just different parts at different t
 
 The brain rewires itself constantly based on experience. [[Learning Changes Brain Structure]]. This is why [[Expertise Exists]].
 
-### [[Sleep and Memory]]
+### [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]]
 
 During sleep, the hippocampus replays the day's events for [[Long-Term Memory Storage]]. Without sufficient sleep, memories don't transfer.
 
@@ -53,9 +53,9 @@ The brain is already efficient. Supplements have minimal effect in people who ar
 
 ## Related
 
-- [[Sleep and Memory]] — the core connection [[Sandra Aamodt]] emphasizes
+- [[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]] — the core connection [[30 Knowledge/People/Sandra-Aamodt|Sandra Aamodt]] emphasizes
 - [[Brain Plasticity]] — the brain changes physically with [[Learning]]
-- [[Cognitive Biases]] — [[Daniel Kahneman]]'s [[Thinking Fast and Slow]] covers [[System 1]] biases
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — [[30 Knowledge/People/Daniel-Kahneman|Daniel Kahneman]]'s [[Thinking Fast and Slow]] covers [[System 1]] biases
 - [[Learning How to Learn]] — [[Barbara Oakley]] applies these insights practically
 - [[Memory Craft]] — [[Lynne Kelly]] on [[Memory Palaces]] and [[Brain Plasticity]]
 - [[Brain Myths]] — myths [[Welcome to Your Brain]] debunks

@@ -46,7 +46,7 @@ Seneca believed humans are **naturally social beings** and that friendship is on
 
 5. **Wealth is a test, not a reward.** Having wealth is a test of character — can you enjoy it without attachment, share it without pride, and lose it without despair? "The measure of wealth is how much you'd have if you lost everything."
 
-6. **Death should be contemplated daily.** Not morbidly, but as a clarifying exercise: "Let us prepare our minds as if we'd come to the very end of life." This practice (later called [[Memento Mori]]) removes the sting from minor annoyances and reveals what actually matters.
+6. **Death should be contemplated daily.** Not morbidly, but as a clarifying exercise: "Let us prepare our minds as if we'd come to the very end of life." This practice (later called [[30 Knowledge/Concepts/memento-mori|Memento Mori]]) removes the sting from minor annoyances and reveals what actually matters.
 
 7. **Associate with people who make you better.** "He who walks with the wise grows wise." Your character is largely determined by the quality of your companions. Seek out people who challenge you to be better.
 
@@ -54,7 +54,7 @@ Seneca believed humans are **naturally social beings** and that friendship is on
 
 9. **Suffering has purpose if you choose to give it meaning.** When illness, loss, or hardship comes, Seneca's advice is not to resist but to reframe: "Difficulties strengthen the mind, as labor does the body."
 
-10. **Live according to nature — which means according to reason.** The Stoic ideal is to align your life with rational nature: accept what you cannot change, act justly in what you can, and remain undisturbed by what lies outside your control (see [[Dichotomy of Control]]).
+10. **Live according to nature — which means according to reason.** The Stoic ideal is to align your life with rational nature: accept what you cannot change, act justly in what you can, and remain undisturbed by what lies outside your control (see [[30 Knowledge/Concepts/dichotomy-of-control|Dichotomy of Control]]).
 
 ---
 
@@ -78,14 +78,14 @@ Seneca's life has always invited scrutiny that his philosophy must weather. **Cr
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius's private Stoic journal, a companion text
-- [[Stoicism]] — The broader philosophical school Seneca worked within
-- [[Seneca]] — Seneca's own life as both philosopher and wealthy Roman advisor
-- [[Epictetus]] — The Enchiridion and Discourses, the other great Stoic practical texts
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius's private Stoic journal, a companion text
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — The broader philosophical school Seneca worked within
+- [[30 Knowledge/People/Seneca|Seneca]] — Seneca's own life as both philosopher and wealthy Roman advisor
+- [[30 Knowledge/People/Epictetus|Epictetus]] — The Enchiridion and Discourses, the other great Stoic practical texts
 - [[Victor Frankl]] — Modern logotherapy as a descendant of Stoic meaning-making
-- [[Amor Fati]] — The Stoic embrace of fate, including suffering
-- [[Dichotomy of Control]] — The foundational Stoic psychological technique
-- [[Memento Mori]] — The death contemplation practice Seneca championed
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — The Stoic embrace of fate, including suffering
+- [[30 Knowledge/Concepts/dichotomy-of-control|Dichotomy of Control]] — The foundational Stoic psychological technique
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The death contemplation practice Seneca championed
 - [[The Art of War]] — Strategic wisdom applied to life's battles
 - [[Nietzsche]] — The philosopher who both admired and criticized Seneca
 

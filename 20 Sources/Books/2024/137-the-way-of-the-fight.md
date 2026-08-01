@@ -90,7 +90,7 @@ Additionally, GSP's frankness about his use of the controversial supplement Vick
 - [[The Obstacle Is the Way]] — Stoic practice of treating every obstacle as a training opportunity
 - [[Deep Work]] — The focused preparation that elite performance requires
 - [[Man's Search for Meaning]] — Frankl's finding meaning through the deliberate acceptance of difficult challenges
-- [[Stoicism]] — Marcus Aurelius's preparation for battle as a model for daily mental discipline
-- [[Memento Mori]] — Death as the ultimate reminder that the preparation is the point
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — Marcus Aurelius's preparation for battle as a model for daily mental discipline
+- [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the ultimate reminder that the preparation is the point
 - [[Elon Musk]] — Musk's "first principles" approach to engineering and problem-solving
 - [[Shoe Dog]] — Phil Knight's building of Nike through disciplined obsession

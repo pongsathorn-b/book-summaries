@@ -67,7 +67,7 @@ Understanding your attachment style and your partner's is the foundation for bui
 - [[The Body Keeps the Score]] — trauma and the nervous system underpin anxious attachment patterns
 - [[Social Intelligence]] — EQ skills help navigate attachment mismatches
 - [[How to Win Friends and Influence People]] — the relational skills that support secure attachment
-- [[Meditations]] — Stoic emotional regulation supports anxious attachment management
+- [[30 Knowledge/Concepts/meditations|Meditations]] — Stoic emotional regulation supports anxious attachment management
 - [[Thinking Fast and Slow]] — System 1 emotional reactions drive attachment anxiety
 - [[Brain Plasticity]] — the neuroplasticity that allows attachment patterns to shift
-- [[Cognitive Biases]] — confirmation bias keeps us repeating attachment patterns
+- [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — confirmation bias keeps us repeating attachment patterns

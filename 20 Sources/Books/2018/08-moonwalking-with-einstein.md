@@ -22,7 +22,7 @@ The world memory champions aren't geniuses — they're people who trained using 
 
 ## Key Techniques
 
-### [[Memory Palace]] (Method of Loci)
+### [[30 Knowledge/Concepts/memory-palace|Memory Palace]] (Method of Loci)
 
 The most powerful memory technique known. Visualize a familiar place, place vivid, bizarre mental images at specific locations, then mentally walk through to recall.
 
@@ -49,10 +49,10 @@ Expert [[Memory Athletes]] use dozens — hundreds — of linked [[Memory Palace
 
 ## Related
 
-- [[Memory Palace]] — the core technique
+- [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — the core technique
 - [[The Memory Book]] — [[Harry Lorayne]]'s classic treatment
 - [[Memory Craft]] — [[Lynne Kelly]]'s modern research
-- [[Learning How to Learn]] — [[Spaced Repetition]] and [[Chunking]] for academic learning
+- [[Learning How to Learn]] — [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] and [[30 Knowledge/Concepts/chunking|Chunking]] for academic learning
 - [[Unlimited Memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] techniques
-- [[Spaced Repetition]] — the science of [[Memory Consolidation]]
-- [[Chunking]] — how [[Experts]] process information
+- [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]] — the science of [[Memory Consolidation]]
+- [[30 Knowledge/Concepts/chunking|Chunking]] — how [[Experts]] process information
