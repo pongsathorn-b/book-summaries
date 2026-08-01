@@ -30,9 +30,9 @@ The idea that you can be free of your past by changing your current interpretati
 
 ## Related Books
 
-- [[The Four Agreements]]
+- [[144-the-four-agreements]]
 - [[Man's Search for Meaning]]
-- [[The Power of Now]]
+- [[51-the-power-of-now]]
 
 ## Similar Notes
 
