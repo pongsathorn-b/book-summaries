@@ -60,7 +60,7 @@ The best [[Power]] is fluid. By being formless, you become impossible to counter
 
 ## Related
 
-- [[Chanakya Neeti]] — ancient Indian parallel on [[Statecraft]] and [[Power]]
-- [[The Art of War]] — [[Strategic Competition]] and [[Military Strategy]]
-- [[The Art of Seduction]] — [[Seduction Principles]] applied to [[Influence]]
+- [[12-chanakya-neeti]] — ancient Indian parallel on [[Statecraft]] and [[Power]]
+- [[13-the-art-of-war]] — [[Strategic Competition]] and [[Military Strategy]]
+- [[09-the-art-of-seduction]] — [[Seduction Principles]] applied to [[28-influence]]
 - [[48 Laws of Power]] — this book
