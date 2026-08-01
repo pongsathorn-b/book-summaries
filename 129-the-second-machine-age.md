@@ -93,13 +93,13 @@ The challenge is that complementarity benefits tend to accrue to the highly skil
 
 ## Related Books
 
-- [[The Economic Singularity]] — Cal Newport's focused analysis of AI's impact on knowledge work, which builds on Brynjolfsson & McAfee's framework
-- [[Deep Work]] — Newport's prescription for thriving in a world of cognitive automation
-- [[The Singularity Is Near]] — Kurzweil's more optimistic and technically ambitious extrapolation of the same technological trends
-- [[Superintelligence]] — Bostrom's analysis of the risks of machine superintelligence, relevant to the endgame of the Second Machine Age
-- [[Life 3.0]] — Tegmark's more philosophical exploration of AI's implications for life and work
-- [[Thinking Fast and Slow]] — The cognitive science underlying which human abilities are being automated
-- [[The Lean Startup]] — The new entrepreneurial methodology for creating value in the Second Machine Age
-- [[Zero to One]] — Thiel's contrarian approach to innovation in a winner-take-all economy
-- [[Range]] — The advantage of broad, flexible thinking over narrow specialization in a rapidly changing world
-- [[Antifragile]] — Taleb's framework for thriving in environments of increasing volatility and disruption
+- [[130-the-economic-singularity]] — Cal Newport's focused analysis of AI's impact on knowledge work, which builds on Brynjolfsson & McAfee's framework
+- [[06-deep-work]] — Newport's prescription for thriving in a world of cognitive automation
+- [[121-the-singularity-is-near]] — Kurzweil's more optimistic and technically ambitious extrapolation of the same technological trends
+- [[122-superintelligence]] — Bostrom's analysis of the risks of machine superintelligence, relevant to the endgame of the Second Machine Age
+- [[123-life-3-0]] — Tegmark's more philosophical exploration of AI's implications for life and work
+- [[04-thinking-fast-and-slow]] — The cognitive science underlying which human abilities are being automated
+- [[39-the-lean-startup]] — The new entrepreneurial methodology for creating value in the Second Machine Age
+- [[38-zero-to-one]] — Thiel's contrarian approach to innovation in a winner-take-all economy
+- [[96-range]] — The advantage of broad, flexible thinking over narrow specialization in a rapidly changing world
+- [[92-antifragile]] — Taleb's framework for thriving in environments of increasing volatility and disruption
