@@ -30,9 +30,9 @@ Required reading in personal development circles for nearly a century. Wanted to
 
 ## Related Books
 
-- [[Rich Dad Poor Dad]]
-- [[The 7 Habits of Highly Effective People]]
-- [[The Almanack of Naval Ravikant]]
+- [[81-rich-dad-poor-dad]]
+- [[19-the-7-habits-of-highly-effective-people]]
+- [[91-the-almanack-of-naval-ravikant]]
 
 ## Similar Notes
 
