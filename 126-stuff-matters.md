@@ -87,7 +87,7 @@ Miodownik argues that materials are not just technical but social phenomena. The
 
 - [[The Design of Everyday Things]] — Norman's exploration of how design and materials interact with human cognition
 - [[Thinking in Systems]] — Understanding materials as components in larger technological and ecological systems
-- [[The Almanack of Naval Ravikant]] — Naval's discussions of leverage and wealth creation are relevant to understanding materials economics
-- [[Atomic Habits]] — Small improvements in material quality compound into dramatically better products
-- [[Range]] — The cross-disciplinary thinking that materials science requires is exemplified by Miodownik's approach
-- [[The Lean Startup]] — The iterative approach to product development involves constant material selection and refinement
+- [[91-the-almanack-of-naval-ravikant]] — Naval's discussions of leverage and wealth creation are relevant to understanding materials economics
+- [[01-atomic-habits]] — Small improvements in material quality compound into dramatically better products
+- [[96-range]] — The cross-disciplinary thinking that materials science requires is exemplified by Miodownik's approach
+- [[39-the-lean-startup]] — The iterative approach to product development involves constant material selection and refinement
