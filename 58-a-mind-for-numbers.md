@@ -10,7 +10,7 @@ summary: A language major who became an engineering professor reveals the neuros
 
 ## Overview
 
-Barbara Oakley wasn't born a math person. As a young adult, she was a language major who openly disliked mathematics and the sciences. After failing high school algebra, she went on to become a Professor of Engineering at Oakland University, Michigan — a remarkable transformation that forms the core of this book. Rather than a book about mathematics per se, *A Mind for Numbers* is a book about [[Learning How to Learn]] applied to technical subjects. Drawing on neuroscience and cognitive psychology, Oakley shows readers that brilliance in math and science is not a innate gift but a skill that can be learned, practiced, and mastered by anyone willing to work differently.
+Barbara Oakley wasn't born a math person. As a young adult, she was a language major who openly disliked mathematics and the sciences. After failing high school algebra, she went on to become a Professor of Engineering at Oakland University, Michigan — a remarkable transformation that forms the core of this book. Rather than a book about mathematics per se, *A Mind for Numbers* is a book about [[11-learning-how-to-learn]] applied to technical subjects. Drawing on neuroscience and cognitive psychology, Oakley shows readers that brilliance in math and science is not a innate gift but a skill that can be learned, practiced, and mastered by anyone willing to work differently.
 
 The book distills insights from her own journey, from her popular online course "Learning How to Learn" (one of the most enrolled courses on Coursera), and from interviews with elite mathematicians and scientists. Its core message: **your brain is far more capable than you think, and the difference between struggling and succeeding comes down to understanding how your mind actually works.**
 
@@ -38,7 +38,7 @@ Crucially, chunks need **context** — knowing not just *what* the chunk is but 
 
 ### [[Spaced Repetition]] — The Science of Long-Term Retention
 
-Oakley is a strong advocate of [[Spaced Repetition]] (also covered in [[Unlimited Memory]], [[The Memory Book]], and [[Moonwalking with Einstein]]). The brain retains information far better when study sessions are distributed over time rather than crammed into marathon sessions. The spacing effect exploits the brain's natural forgetting curve, with each retrieval strengthening the memory trace.
+Oakley is a strong advocate of [[Spaced Repetition]] (also covered in [[17-unlimited-memory]], [[10-the-memory-book]], and [[08-moonwalking-with-einstein]]). The brain retains information far better when study sessions are distributed over time rather than crammed into marathon sessions. The spacing effect exploits the brain's natural forgetting curve, with each retrieval strengthening the memory trace.
 
 She recommends reviewing material at expanding intervals: Day 1 → Day 3 → Day 7 → Day 14 → Day 28.
 
@@ -75,7 +75,7 @@ Pulling an all-nighter before an exam is counterproductive: you may feel more pr
 7. **Tackle procrastination with tiny habits.** Make the work so small that the pain centers don't activate. The [[Pomodoro Technique]] (25 minutes of focus + 5-minute breaks) is specifically recommended by Oakley.
 8. **Sleep is a learning tool.** Sleep deprivation impairs memory, problem-solving, and creativity. Never sacrifice sleep for study.
 9. **Understand your own [[Cognitive Biases]].** The brain constantly deceives itself about how well it has learned. Checking your understanding through retrieval — not recognition — is the antidote.
-10. **Interleave your practice.** Don't study one type of problem until you've mastered it. Mix types, subjects, and approaches — this builds flexible, adaptable knowledge. This connects to [[Learning How to Learn]] principles as well.
+10. **Interleave your practice.** Don't study one type of problem until you've mastered it. Mix types, subjects, and approaches — this builds flexible, adaptable knowledge. This connects to [[11-learning-how-to-learn]] principles as well.
 
 ## Practical Applications
 
@@ -87,7 +87,7 @@ Pulling an all-nighter before an exam is counterproductive: you may feel more pr
 
 ## Related Concepts
 
-This book is a companion to [[Learning How to Learn]] (the course Oakley co-created with Terrence Sejnowski). It shares themes with [[Deep Work]] (focused concentration is the prerequisite for learning), [[Atomic Habits]] (habit-building for study routines), [[Spaced Repetition]] strategies from [[Memory Palace]] and [[Unlimited Memory]], and the neuroscience of [[Brain Plasticity]] from [[Welcome to Your Brain]].
+This book is a companion to [[11-learning-how-to-learn]] (the course Oakley co-created with Terrence Sejnowski). It shares themes with [[06-deep-work]] (focused concentration is the prerequisite for learning), [[01-atomic-habits]] (habit-building for study routines), [[Spaced Repetition]] strategies from [[Memory Palace]] and [[17-unlimited-memory]], and the neuroscience of [[Brain Plasticity]] from [[Welcome to Your Brain]].
 
 ## One-Line Takeaway
 
