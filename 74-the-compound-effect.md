@@ -61,13 +61,13 @@ Hardy emphasizes **personal responsibility** — that the events of your past, w
 
 ## Controversy/Criticism
 
-*The Compound Effect* has been criticized for being more motivational than practical — while its core principle (small daily actions compound) is valid and well-established, the book's advice on executing that principle is not significantly more detailed than what can be found in works like [[Atomic Habits]] or [[The 7 Habits]]. Some readers find Hardy preachy or self-congratulatory about his own discipline, and his framing can feel blame-y toward people who struggle with self-control due to circumstances, trauma, or neurodivergence. The book's emphasis on personal responsibility, while empowering for some, can inadvertently suggest that anyone who isn't succeeding simply isn't trying hard enough.
+*The Compound Effect* has been criticized for being more motivational than practical — while its core principle (small daily actions compound) is valid and well-established, the book's advice on executing that principle is not significantly more detailed than what can be found in works like [[01-atomic-habits]] or [[19-the-7-habits-of-highly-effective-people]]. Some readers find Hardy preachy or self-congratulatory about his own discipline, and his framing can feel blame-y toward people who struggle with self-control due to circumstances, trauma, or neurodivergence. The book's emphasis on personal responsibility, while empowering for some, can inadvertently suggest that anyone who isn't succeeding simply isn't trying hard enough.
 
 ## Related
 
-- [[Atomic Habits]] — James Clear's system [[Atomic Habits]] is the practical implementation of Hardy's principle
-- [[Make Time]] — Jake Knapp's energy management [[Make Time]] provides day-level tactics for compounding
-- [[Deep Work]] — Cal Newport's focused work discipline [[Deep Work]] compounds into rare and valuable skills
+- [[01-atomic-habits]] — James Clear's system [[01-atomic-habits]] is the practical implementation of Hardy's principle
+- [[23-make-time]] — Jake Knapp's energy management [[23-make-time]] provides day-level tactics for compounding
+- [[06-deep-work]] — Cal Newport's focused work discipline [[06-deep-work]] compounds into rare and valuable skills
 - [[Willpower]] — the faculty that drives consistent daily choices [[Willpower]] is itself a depletable resource
 
 ## One-Line Takeaway
