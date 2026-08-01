@@ -55,7 +55,7 @@ The brain is already efficient. Supplements have minimal effect in people who ar
 
 - [[Sleep and Memory]] — the core connection [[Sandra Aamodt]] emphasizes
 - [[Brain Plasticity]] — the brain changes physically with [[Learning]]
-- [[Cognitive Biases]] — [[Daniel Kahneman]]'s [[Thinking Fast and Slow]] covers [[System 1]] biases
-- [[Learning How to Learn]] — [[Barbara Oakley]] applies these insights practically
-- [[Memory Craft]] — [[Lynne Kelly]] on [[Memory Palaces]] and [[Brain Plasticity]]
+- [[Cognitive Biases]] — [[Daniel Kahneman]]'s [[04-thinking-fast-and-slow]] covers [[System 1]] biases
+- [[11-learning-how-to-learn]] — [[Barbara Oakley]] applies these insights practically
+- [[14-memory-craft]] — [[Lynne Kelly]] on [[Memory Palaces]] and [[Brain Plasticity]]
 - [[Brain Myths]] — myths [[Welcome to Your Brain]] debunks
