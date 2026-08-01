@@ -60,9 +60,9 @@ Walker has been criticized for presenting sleep science in ways that may increas
 - [[Welcome to Your Brain]] — neuroscientific foundations of [[Sleep and Memory]]
 - [[Brain Plasticity]] — sleep drives physical [[Learning Changes Brain Structure]]
 - [[Sleep and Memory]] — the hippocampus replay mechanism [[Sleep and Memory]] explores in depth
-- [[Atomic Habits]] — [[James Clear]] would agree: recovery through sleep is a non-negotiable habit
-- [[The Body Keeps the Score]] — trauma and the nervous system also disrupt sleep [[The Body Keeps the Score]]
-- [[Make Time]] — energy management is incomplete without accounting for sleep debt
+- [[01-atomic-habits]] — [[James Clear]] would agree: recovery through sleep is a non-negotiable habit
+- [[32-the-body-keeps-the-score]] — trauma and the nervous system also disrupt sleep [[32-the-body-keeps-the-score]]
+- [[23-make-time]] — energy management is incomplete without accounting for sleep debt
 
 ## One-Line Takeaway
 
