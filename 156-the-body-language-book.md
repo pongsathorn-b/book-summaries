@@ -30,11 +30,11 @@ Over 70% of communication is nonverbal, yet most people never study it. Understa
 
 ## Related Books
 
-- [[How to Win Friends and Influence People]]
-- [[Captivate]]
+- [[30-how-to-win-friends-and-influence-people]]
+- [[117-captivate]]
 - [[Emotional Intelligence 2.0]]
 
 ## Similar Notes
 
-- [[Social Intelligence]]
+- [[34-social-intelligence]]
 - [[Communication]]
