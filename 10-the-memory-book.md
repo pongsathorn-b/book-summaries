@@ -54,8 +54,8 @@ Mr. Baker → picture him kneading dough or throwing a cake.
 ## Related
 
 - [[Memory Palace]] — [[Method of Loci]] — the most powerful technique
-- [[Moonwalking with Einstein]] — [[Joshua Foer]]'s modern [[Memory Athlete]] journey
-- [[Memory Craft]] — [[Lynne Kelly]]'s research-backed treatment
-- [[Unlimited Memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] system
+- [[08-moonwalking-with-einstein]] — [[Joshua Foer]]'s modern [[Memory Athlete]] journey
+- [[14-memory-craft]] — [[Lynne Kelly]]'s research-backed treatment
+- [[17-unlimited-memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] system
 - [[Spaced Repetition]] — essential for [[Long-Term Memory]]
 - [[Chunking]] — [[Expert Knowledge]] structure
