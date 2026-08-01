@@ -84,15 +84,15 @@ Pressfield's framework also tends to undervalue collaboration, community, and re
 
 ## Related Books
 
-- [[The War of Art]] — The foundational text; establishes Resistance as the enemy
-- [[Do the Work]] — Tactical companion; what to do at each phase of a project
-- [[Ego Is the Enemy]] — Pressfield's more expansive treatment of ego as obstacle and tool
-- [[Atomic Habits]] — The behavioral science of building professional identity through habit
-- [[Deep Work]] — The value and practice of focused, distraction-free professional work
-- [[The Obstacle Is the Way]] — Stoic practice of using obstacles as fuel
-- [[12 Rules for Life]] — Peterson on finding meaning through the confrontation with chaos
+- [[131-the-war-of-art]] — The foundational text; establishes Resistance as the enemy
+- [[132-do-the-work]] — Tactical companion; what to do at each phase of a project
+- [[61-ego-is-the-enemy]] — Pressfield's more expansive treatment of ego as obstacle and tool
+- [[01-atomic-habits]] — The behavioral science of building professional identity through habit
+- [[06-deep-work]] — The value and practice of focused, distraction-free professional work
+- [[59-the-obstacle-is-the-way]] — Stoic practice of using obstacles as fuel
+- [[05-12-rules-for-life]] — Peterson on finding meaning through the confrontation with chaos
 - [[Man's Search for Meaning]] — Frankl on finding identity through bearing witness to suffering
 - [[Stoicism]] — The philosophical foundation for Pressfield's discipline-based approach
 - [[Amor Fati]] — Loving the fate that includes the labor of becoming
 - [[Memento Mori]] — Death as the ultimate motivator for purposeful action
-- [[Essentialism]] — The disciplined practice of saying no to everything non-essential
+- [[25-essentialism]] — The disciplined practice of saying no to everything non-essential
