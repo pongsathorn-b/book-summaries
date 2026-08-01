@@ -78,7 +78,7 @@ Seneca's life has always invited scrutiny that his philosophy must weather. **Cr
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius's private Stoic journal, a companion text
+- [[03-meditations]] — Marcus Aurelius's private Stoic journal, a companion text
 - [[Stoicism]] — The broader philosophical school Seneca worked within
 - [[Seneca]] — Seneca's own life as both philosopher and wealthy Roman advisor
 - [[Epictetus]] — The Enchiridion and Discourses, the other great Stoic practical texts
@@ -86,7 +86,7 @@ Seneca's life has always invited scrutiny that his philosophy must weather. **Cr
 - [[Amor Fati]] — The Stoic embrace of fate, including suffering
 - [[Dichotomy of Control]] — The foundational Stoic psychological technique
 - [[Memento Mori]] — The death contemplation practice Seneca championed
-- [[The Art of War]] — Strategic wisdom applied to life's battles
+- [[13-the-art-of-war]] — Strategic wisdom applied to life's battles
 - [[Nietzsche]] — The philosopher who both admired and criticized Seneca
 
 ---
