@@ -57,11 +57,11 @@ The 10,000-hour rule has been widely challenged by researchers. [[Anders Ericsso
 
 ## Related
 
-- [[Atomic Habits]] — [[James Clear]] on small daily improvements [[Atomic Habits]] echoes Gladwell's emphasis on accumulated effort
-- [[Deep Work]] — Cal Newport's deliberate, focused work [[Deep Work]] aligns with Gladwell's deliberate practice framework
-- [[The 7 Habits]] — Covey's emphasis on character ethics [[The 7 Habits]] resonates with Gladwell's rejection of the "born genius" narrative
+- [[01-atomic-habits]] — [[James Clear]] on small daily improvements [[01-atomic-habits]] echoes Gladwell's emphasis on accumulated effort
+- [[06-deep-work]] — Cal Newport's deliberate, focused work [[06-deep-work]] aligns with Gladwell's deliberate practice framework
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's emphasis on character ethics [[19-the-7-habits-of-highly-effective-people]] resonates with Gladwell's rejection of the "born genius" narrative
 - [[Focus Is a Skill]] — concentrated, quality practice [[Focus Is a Skill]] is the engine behind 10,000 hours
-- [[Meditations]] — Marcus Aurelius's self-discipline [[Meditations]] embodies the sustained effort Gladwell describes
+- [[03-meditations]] — Marcus Aurelius's self-discipline [[03-meditations]] embodies the sustained effort Gladwell describes
 
 ## One-Line Takeaway
 
