@@ -30,11 +30,11 @@ The MIT Challenge demonstrated that formal education is optional for mastery. Wa
 
 ## Related Books
 
-- [[Learning How to Learn]]
-- [[A Mind for Numbers]]
-- [[Atomic Habits]]
+- [[11-learning-how-to-learn]]
+- [[58-a-mind-for-numbers]]
+- [[01-atomic-habits]]
 
 ## Similar Notes
 
-- [[Learning How to Learn]]
+- [[11-learning-how-to-learn]]
 - [[Productivity]]
