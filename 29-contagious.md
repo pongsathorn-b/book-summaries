@@ -62,9 +62,9 @@ Products and ideas spread when they are remarkable, triggered by daily life, emo
 
 ## Related
 
-- [[Influence]] — shared social proof and psychology of why people comply and share
+- [[28-influence]] — shared social proof and psychology of why people comply and share
 - [[Cognitive Biases]] — social proof operates through established cognitive mechanisms
-- [[The 4-Hour Workweek]] — using passive income and automation alongside viral marketing
-- [[Contagious]] and [[Influence]] both explain word-of-mouth dynamics from different angles
+- [[22-the-4-hour-workweek]] — using passive income and automation alongside viral marketing
+- [[29-contagious]] and [[28-influence]] both explain word-of-mouth dynamics from different angles
 - [[Loss Aversion]] — scarcity and fear-based triggers that drive sharing
-- [[Essentialism]] — focusing on the few essential virality triggers rather than spray-and-pray marketing
+- [[25-essentialism]] — focusing on the few essential virality triggers rather than spray-and-pray marketing
