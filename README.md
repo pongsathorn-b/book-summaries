@@ -1,10 +1,43 @@
 # 📚 Jam's Book Vault
 
-157 book summaries. 8 years of reading (2018–2025). Personal knowledge graph built from 8 years of reading.
+Personal knowledge graph built from 8 years of reading.
 
 **Knowledge layer:** 45 concepts · 33 people · 11 Maps of Content
 
-→ [github.com/pongsathorn-b/book-summaries](https://github.com/pongsathorn-b/book-summaries)
+---
+
+## How to Use This Vault
+
+This vault has 3 layers:
+
+**Books** — Every book has a summary with:
+- What the book is about (the core argument)
+- Core concepts — 4–6 main ideas with specifics
+- Key lessons — things you can act on
+- Practical applications — how to use it now
+- Controversy / criticism — what doesn't hold up
+- One-line takeaway — the single most important thing
+- Related books — links to other summaries in the vault
+
+**Concepts** — Key ideas that appear across multiple books. Located in `30 Knowledge/Concepts/`. Examples: habit-formation, stoicism, loss-aversion, deliberate-practice.
+
+**People** — Authors and thinkers who appear across books. Located in `30 Knowledge/People/`.
+
+**Maps of Content (MOCs)** — Themed collections that group books by topic. Use these to find books on a specific theme.
+
+### Finding Books
+
+- Browse by year — books are organized by when you read them (2018–2025)
+- Browse by theme — see the Knowledge Layer section below
+- Search in Obsidian — every book is a note with tags and wikilinks
+
+### Navigating the Graph
+
+Every book links to related books, concepts, and people using wikilinks. Click any link to jump to that note. From there, click another link. That's how you explore.
+
+### Browse by MOC
+
+[[10 MOCs/Productivity.md|Productivity]] · [[10 MOCs/Philosophy.md|Philosophy]] · [[10 MOCs/Psychology.md|Psychology]] · [[10 MOCs/Health.md|Health]] · [[10 MOCs/Relationships.md|Relationships]] · [[10 MOCs/Leadership.md|Leadership]] · [[10 MOCs/Strategy.md|Strategy]] · [[10 MOCs/Learning.md|Learning]] · [[10 MOCs/Finance.md|Finance]] · [[10 MOCs/AI.md|AI]] · [[10 MOCs/Index.md|All MOCs]]
 
 ---
 
@@ -232,29 +265,6 @@ Navigate by theme — books grouped by what they teach:
 **Leadership** — Leaders Eat Last · Good to Great · The Hard Thing About Hard Things · Give and Take · The Happiness Advantage
 
 **AI / Future** — The Singularity Is Near · Superintelligence · Life 3.0 · The Code Breaker · The Gene · Stuff Matters · The Ethical Algorithm · The Second Machine Age
-
----
-
-## Each Summary Includes
-
-- **What the book is about** — core argument in 2–3 sentences
-- **Core concepts** — 4–6 main ideas with specifics
-- **Key lessons** — 8–10 numbered takeaways you can act on
-- **Practical applications** — how to use this right now
-- **Controversy / criticism** — what doesn't hold up
-- **One-line takeaway** — single most important thing to remember
-- **Related books** — wikilinks to connected summaries
-
----
-
-## Structure
-
-Books in `20 Sources/Books/[Year]/` — organized by year read.
-Concepts in `30 Knowledge/Concepts/` — 45 files.
-People in `30 Knowledge/People/` — 33 files.
-Maps of Content in `10 MOCs/` — 11 files.
-
-Everything is linked. Every book connects to other books and concepts. That's the graph.
 
 ---
 
