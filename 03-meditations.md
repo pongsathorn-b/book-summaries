@@ -50,8 +50,8 @@ Material success, health, reputation — all indifferent. Only [[Virtue]] matter
 
 ## Related
 
-- [[The Art of War]] — [[Strategic Thinking]] for leaders
-- [[Chanakya Neeti]] — [[Statecraft]] and [[Political Wisdom]]
+- [[13-the-art-of-war]] — [[Strategic Thinking]] for leaders
+- [[12-chanakya-neeti]] — [[Statecraft]] and [[Political Wisdom]]
 - [[48 Laws of Power]] — [[Power Dynamics]] and [[Strategy]]
 - [[Stoicism]] — the philosophy this book embodies
 - [[Amor Fati]] — embracing fate
