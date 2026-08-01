@@ -75,4 +75,4 @@ Case studies (social proof) matter enormously in large sales, but they must be p
 
 In large B2B sales, success isn't about having the best product or the best close — it's about asking the right questions in the right sequence to help the buyer fully feel the cost of the problem and articulate their own need for your solution.
 
-[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]
+[[48 Laws of Power]], [[13-the-art-of-war]], [[28-influence]], [[29-contagious]], [[How to Win Friends]], [[36-predictably-irrational]], [[37-nudge]], [[04-thinking-fast-and-slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[06-deep-work]], [[22-the-4-hour-workweek]], [[25-essentialism]], [[39-the-lean-startup]], [[38-zero-to-one]], [[44-blue-ocean-strategy]], [[61-ego-is-the-enemy]], [[59-the-obstacle-is-the-way]]
