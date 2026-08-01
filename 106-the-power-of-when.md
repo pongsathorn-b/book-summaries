@@ -68,8 +68,8 @@ The chronotype classification system has been criticized by sleep researchers as
 The Power of When provides a useful (if sometimes oversimplified) framework for understanding your biological clock and aligning your daily schedule — sleep, work, exercise, meals, and relationships — with your chronotype to optimize energy and performance.
 
 ## Related Books
-- [[Why We Sleep]] — The foundational sleep science that explains circadian biology and chronotype differences
+- [[68-why-we-sleep]] — The foundational sleep science that explains circadian biology and chronotype differences
 - [[Sleep and Memory]] — How circadian timing affects memory consolidation during sleep
 - [[Focus Is a Skill]] — Aligning focus-intensive work with chronotype-specific energy peaks
-- [[The Power of Full Engagement]] — Managing energy (not just time) across the circadian cycle
+- [[27-the-power-of-full-engagement]] — Managing energy (not just time) across the circadian cycle
 - [[Getting Results the Agile Way]] — Flexible scheduling that respects biological rhythms
