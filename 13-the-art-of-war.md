@@ -54,8 +54,8 @@ Speed creates its own advantages. [[Seize Opportunities]] before the enemy reali
 
 ## Related
 
-- [[Chanakya Neeti]] — ancient Indian parallel on [[Statecraft]] and [[Political Strategy]]
+- [[12-chanakya-neeti]] — ancient Indian parallel on [[Statecraft]] and [[Political Strategy]]
 - [[48 Laws of Power]] — [[Power Dynamics]] and [[Strategic Misdirection]]
-- [[The Art of Seduction]] — [[Influence]] and [[Fascination]] as [[Strategic Tools]]
+- [[09-the-art-of-seduction]] — [[28-influence]] and [[Fascination]] as [[Strategic Tools]]
 - [[Strategic Positioning]] — [[Michael Porter]] and [[Competitive Strategy]]
 - [[Balk the Enemy's Plans]] — the core thesis: [[Victory Without Battle]]
