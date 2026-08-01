@@ -95,13 +95,13 @@ Kurzweil's predictions have been subjected to serious criticism from peers:
 
 ## Related Books
 
-- [[122-superintelligence]] — Nick Bostrom's analysis of the risks of AI surpassing human intelligence, a crucial counterpoint emphasizing danger over optimism
-- [[123-life-3-0]] — Max Tegmark's more measured and philosophically rigorous exploration of AI's impact on life
-- [[128-the-age-of-spiritual-machines]] — Kurzweil's earlier (1999) work, the direct predecessor to this book
-- [[129-the-second-machine-age]] — Brynjolfsson & McAfee's empirically grounded analysis of how digital technology is transforming the economy
-- [[04-thinking-fast-and-slow]] — Kahneman's exploration of human cognitive limitations, relevant to understanding what machine intelligence might surpass
-- [[93-the-black-swan]] — Taleb's critique of prediction, particularly relevant to bold futurist claims
-- [[95-fooled-by-randomness]] — Taleb's warning about overestimating our ability to see patterns in complex systems
+- [[20 Sources/Books/2024/122-superintelligence.md|122-superintelligence]] — Nick Bostrom's analysis of the risks of AI surpassing human intelligence, a crucial counterpoint emphasizing danger over optimism
+- [[20 Sources/Books/2024/123-life-3-0.md|123-life-3-0]] — Max Tegmark's more measured and philosophically rigorous exploration of AI's impact on life
+- [[20 Sources/Books/2024/128-the-age-of-spiritual-machines.md|128-the-age-of-spiritual-machines]] — Kurzweil's earlier (1999) work, the direct predecessor to this book
+- [[20 Sources/Books/2024/129-the-second-machine-age.md|129-the-second-machine-age]] — Brynjolfsson & McAfee's empirically grounded analysis of how digital technology is transforming the economy
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — Kahneman's exploration of human cognitive limitations, relevant to understanding what machine intelligence might surpass
+- [[20 Sources/Books/2022/93-the-black-swan.md|93-the-black-swan]] — Taleb's critique of prediction, particularly relevant to bold futurist claims
+- [[20 Sources/Books/2022/95-fooled-by-randomness.md|95-fooled-by-randomness]] — Taleb's warning about overestimating our ability to see patterns in complex systems
 
 ---
 

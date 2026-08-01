@@ -10,7 +10,7 @@ summary: The right question at the right moment can transform a superficial exch
 
 ## Overview
 
-Biologist and strategist [[Gregory Stock]] compiled this deceptively simple book of 136 probing questions designed to transform ordinary conversation into genuine connection. The premise is radical in its simplicity: most relationships never move beyond the comfortable surface of small talk because people don't know how — or are afraid — to ask the questions that actually matter. The Book of Questions provides a curated set of conversation catalysts that bypass social scripts and invite authentic self-disclosure. The questions range from playful to profound — from \"Would you rather have no friends but a devoted partner, or no partner but many friends?\" to \"What do you most want to do before you die?\" The book's genius is in recognizing that intimacy is built through mutual vulnerability, and vulnerability is often unlocked by a single well-timed question.
+Biologist and strategist [[30 Knowledge/People/Gregory-Stock.md|Gregory Stock]] compiled this deceptively simple book of 136 probing questions designed to transform ordinary conversation into genuine connection. The premise is radical in its simplicity: most relationships never move beyond the comfortable surface of small talk because people don't know how — or are afraid — to ask the questions that actually matter. The Book of Questions provides a curated set of conversation catalysts that bypass social scripts and invite authentic self-disclosure. The questions range from playful to profound — from \"Would you rather have no friends but a devoted partner, or no partner but many friends?\" to \"What do you most want to do before you die?\" The book's genius is in recognizing that intimacy is built through mutual vulnerability, and vulnerability is often unlocked by a single well-timed question.
 
 ## Core Concepts
 
@@ -59,7 +59,7 @@ Stock's framing elevates conversation from pleasant social activity to the prima
 - **Match questions to the relationship stage** — save the deepest questions for those who have earned deep conversation; start lighter with newer relationships
 - **Follow up with silence and curiosity** — after asking, don't fill the quiet with nervous chatter; let the person think and answer fully
 - **Use hypotheticals to surface unexpressed desires** — they bypass the \"shoulds\" and access what people actually want beneath what they've been told to want
-- **Pair it with [[113-nonviolent-communication]]** — NVC's empathy tools help you listen to the answers without judgment or the urge to fix or critique
+- **Pair it with [[20 Sources/Books/2023/113-nonviolent-communication.md|113-nonviolent-communication]]** — NVC's empathy tools help you listen to the answers without judgment or the urge to fix or critique
 
 ## Controversy/Criticism
 
@@ -67,11 +67,11 @@ The book has been criticized for reducing complex relationship-building to a tra
 
 ## Related
 
-- [[66-talk-like-ted]] — Carmine Gall's exploration of public speaking includes insights on the power of asking questions to engage audiences
-- [[How to Win Friends]] — Carnegie's foundational advice on making people feel important complements the question-based approach to connection
-- [[117-captivate]] — Vanessa Van Edwards' human behavior science provides additional tools for understanding how to create rapport
-- [[70-the-power-of-vulnerability]] — Brown's research on vulnerability explains the science behind why Stock's approach works
-- [[34-social-intelligence]] — emotional attunement skills help listeners receive answers to deep questions with genuine empathy
+- [[20 Sources/Books/2021/66-talk-like-ted.md|66-talk-like-ted]] — Carmine Gall's exploration of public speaking includes insights on the power of asking questions to engage audiences
+- [[How to Win Friends|How to Win Friends]] — Carnegie's foundational advice on making people feel important complements the question-based approach to connection
+- [[20 Sources/Books/2023/117-captivate.md|117-captivate]] — Vanessa Van Edwards' human behavior science provides additional tools for understanding how to create rapport
+- [[20 Sources/Books/2021/70-the-power-of-vulnerability.md|70-the-power-of-vulnerability]] — Brown's research on vulnerability explains the science behind why Stock's approach works
+- [[20 Sources/Books/2019/34-social-intelligence.md|34-social-intelligence]] — emotional attunement skills help listeners receive answers to deep questions with genuine empathy
 
 ## One-Line Takeaway
 

@@ -10,7 +10,7 @@ summary: Don Norman's classic work on design introduces the principles of visibi
 
 ## Overview
 
-[[The Design of Everyday Things]] (originally published as *The Psychology of Everyday Things*) is a foundational text in the field of design thinking and human-computer interaction. Don Norman, a cognitive scientist with a deep understanding of both psychology and practical design, argues that most of the frustration people experience with everyday objects — door handles, stoves, phones, software — stems not from user stupidity but from design failure. The book is a masterwork of applied psychology, making complex concepts about cognition, affordances, and mental models accessible and immediately actionable for anyone who builds, designs, or specifies products.
+[[20 Sources/Books/2022/97-the-design-of-everyday-things.md|The Design of Everyday Things]] (originally published as *The Psychology of Everyday Things*) is a foundational text in the field of design thinking and human-computer interaction. Don Norman, a cognitive scientist with a deep understanding of both psychology and practical design, argues that most of the frustration people experience with everyday objects — door handles, stoves, phones, software — stems not from user stupidity but from design failure. The book is a masterwork of applied psychology, making complex concepts about cognition, affordances, and mental models accessible and immediately actionable for anyone who builds, designs, or specifies products.
 
 ## Core Concepts
 

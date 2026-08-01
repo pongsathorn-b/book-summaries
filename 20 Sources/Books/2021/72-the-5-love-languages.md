@@ -65,13 +65,13 @@ Your love language is often expressed most clearly by what you complain about mo
 
 ## Controversy/Criticism
 
-The 5 Love Languages has been criticized for oversimplifying the complexity of human relationships — love and connection involve far more than five categories, and many people have multiple languages or languages that shift over time. Some therapists argue that Chapman's framework can inadvertently blame partners who feel unloved rather than addressing underlying attachment injuries. The book's heteronormative and often cisgender framing has been noted as limiting for LGBTQ+ couples. Some psychologists also argue that Chapman's model is more prescriptive than research-validated — while popular, it has limited peer-reviewed evidence supporting its efficacy compared to other couples therapy approaches like [[33-attached]] or the Gottman method.
+The 5 Love Languages has been criticized for oversimplifying the complexity of human relationships — love and connection involve far more than five categories, and many people have multiple languages or languages that shift over time. Some therapists argue that Chapman's framework can inadvertently blame partners who feel unloved rather than addressing underlying attachment injuries. The book's heteronormative and often cisgender framing has been noted as limiting for LGBTQ+ couples. Some psychologists also argue that Chapman's model is more prescriptive than research-validated — while popular, it has limited peer-reviewed evidence supporting its efficacy compared to other couples therapy approaches like [[20 Sources/Books/2019/33-attached.md|33-attached]] or the Gottman method.
 
 ## Related
 
-- [[33-attached]] — attachment theory [[33-attached]] explains why some people feel anxious or avoidant in relationships regardless of love language
-- [[70-the-power-of-vulnerability]] — Brown's work [[70-the-power-of-vulnerability]] complements Chapman: speaking love requires emotional courage
-- [[19-the-7-habits-of-highly-effective-people]] — seeking to understand before being understood [[19-the-7-habits-of-highly-effective-people]] is essentially the love language principle at scale
+- [[20 Sources/Books/2019/33-attached.md|33-attached]] — attachment theory [[20 Sources/Books/2019/33-attached.md|33-attached]] explains why some people feel anxious or avoidant in relationships regardless of love language
+- [[20 Sources/Books/2021/70-the-power-of-vulnerability.md|70-the-power-of-vulnerability]] — Brown's work [[20 Sources/Books/2021/70-the-power-of-vulnerability.md|70-the-power-of-vulnerability]] complements Chapman: speaking love requires emotional courage
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] — seeking to understand before being understood [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] is essentially the love language principle at scale
 
 ## One-Line Takeaway
 

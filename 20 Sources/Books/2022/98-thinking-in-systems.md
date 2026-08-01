@@ -10,7 +10,7 @@ summary: Donella Meadows' authoritative introduction to systems thinking shows h
 
 ## Overview
 
-[[Thinking in Systems]] is the definitive introduction to systems thinking by Donella Meadows, one of the most influential thinkers in the field of systems dynamics. Written as a textbook but read as a philosophical manifesto, the book explains how all complex phenomena — ecosystems, economies, companies, governments, families, and personal lives — operate as systems governed by feedback loops, stocks and flows, delays, and nonlinearities. Meadows shows that most of our interventions in complex systems fail because we don't understand how systems behave, and she identifies the places where small changes can produce large changes in system behavior — the famous "leverage points."
+[[20 Sources/Books/2022/98-thinking-in-systems.md|Thinking in Systems]] is the definitive introduction to systems thinking by Donella Meadows, one of the most influential thinkers in the field of systems dynamics. Written as a textbook but read as a philosophical manifesto, the book explains how all complex phenomena — ecosystems, economies, companies, governments, families, and personal lives — operate as systems governed by feedback loops, stocks and flows, delays, and nonlinearities. Meadows shows that most of our interventions in complex systems fail because we don't understand how systems behave, and she identifies the places where small changes can produce large changes in system behavior — the famous "leverage points."
 
 ## Core Concepts
 

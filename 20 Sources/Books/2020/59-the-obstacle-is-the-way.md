@@ -36,7 +36,7 @@ Holiday offers three classic reframes for obstacles:
 
 ### The Art of Notebooks
 
-The Stoics kept detailed journals — records of their challenges, responses, and lessons. Holiday recommends this practice: write down obstacles, dissect them, track your responses, and measure your progress. This connects to the [[Pomodoro Technique]] and [[18-getting-things-down]] practice of capturing thoughts systematically.
+The Stoics kept detailed journals — records of their challenges, responses, and lessons. Holiday recommends this practice: write down obstacles, dissect them, track your responses, and measure your progress. This connects to the [[Pomodoro Technique|Pomodoro Technique]] and [[18-getting-things-down|18-getting-things-down]] practice of capturing thoughts systematically.
 
 ### Turning Negatives into Fuel
 
@@ -50,7 +50,7 @@ The pattern: these figures didn't grit their teeth and endure — they actively 
 
 ### Energy and Persistence
 
-Holiday emphasizes that Stoicism is not passivity. It requires enormous energy — the energy to perceive correctly, to act decisively, and to endure without breaking. The obstacle does not diminish energy; channeling it correctly *creates* energy. This links to [[06-deep-work]] and the importance of sustained focus in overcoming challenges.
+Holiday emphasizes that Stoicism is not passivity. It requires enormous energy — the energy to perceive correctly, to act decisively, and to endure without breaking. The obstacle does not diminish energy; channeling it correctly *creates* energy. This links to [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] and the importance of sustained focus in overcoming challenges.
 
 ## Key Lessons
 
@@ -58,7 +58,7 @@ Holiday emphasizes that Stoicism is not passivity. It requires enormous energy �
 2. **Perception determines everything.** Before you can act, you must see clearly. Most people are defeated by their *interpretation* of events, not the events themselves.
 3. **Focus on what you can control.** Epictetus's core teaching: some things are up to us, some are not. Spend energy only on what is within your control.
 4. **Act with *virtus* — manliness, vigor, excellence.** The Stoic response to an obstacle is never weakness or passivity. It is decisive, disciplined action.
-5. **Persistence beats force.** Slow, steady pressure applied consistently will overcome almost any obstacle. This is the essence of [[01-atomic-habits]] applied to adversity.
+5. **Persistence beats force.** Slow, steady pressure applied consistently will overcome almost any obstacle. This is the essence of [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] applied to adversity.
 6. **Convert the negative into fuel.** Every setback contains information, energy, and opportunity. Mine it. Use it. The Stoics called this *amor fati* — loving one's fate.
 7. **Prepare for obstacles before they arrive.** The best time to build resilience is before you need it. Study Stoic philosophy, practice small deprivations, build the habit of accepting what you cannot change.
 8. **The universe tests us.** Obstacles are not random — they are the mechanism by which we grow. See every challenge as the cosmos checking whether you're ready for the next level.
@@ -85,7 +85,7 @@ Despite these criticisms, the core insight — that how we perceive and respond 
 
 ## Related Concepts
 
-This book is deeply connected to [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own Stoic journal). It shares themes with [[12 Rules for Life]] (Jordan Peterson's structured approach to meaning and adversity), [[Essentialism]] (focusing on what truly matters), [[Deep Work]] (persistence and focus), and [[Atomic Habits]] (small, consistent actions compound into transformation).
+This book is deeply connected to [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own Stoic journal). It shares themes with [[20 Sources/Books/2018/05-12-rules-for-life.md|12 Rules for Life]] (Jordan Peterson's structured approach to meaning and adversity), [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] (focusing on what truly matters), [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] (persistence and focus), and [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] (small, consistent actions compound into transformation).
 
 ## One-Line Takeaway
 

@@ -96,7 +96,7 @@ Conversations don't end — they transition to other phases. The authors outline
 
 ## Related Concepts
 
-This book connects to [[30 Knowledge/Concepts/stoicism|Stoicism]] (controlling your response before engaging), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (understanding how attribution errors distort our view of others), [[Thinking Fast and Slow]] (System 1/System 2 emotional reactions), and [[Essentialism]] (choosing which conversations are truly crucial and worth the energy).
+This book connects to [[30 Knowledge/Concepts/stoicism|Stoicism]] (controlling your response before engaging), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (understanding how attribution errors distort our view of others), [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|Thinking Fast and Slow]] (System 1/System 2 emotional reactions), and [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] (choosing which conversations are truly crucial and worth the energy).
 
 ## One-Line Takeaway
 

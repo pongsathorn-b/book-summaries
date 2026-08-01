@@ -10,7 +10,7 @@ summary: Taleb's The Black Swan demonstrates that rare, high-impact "Black Swan"
 
 ## Overview
 
-[[93-the-black-swan]] is Taleb's most accessible and widely read work — a sweeping intellectual assault on the human tendency to explain the world through narratives that make events seem more predictable than they are. Named after the discovery that all swans were thought to be white until European explorers encountered black swans in Australia, the book argues that most of history is driven by low-probability, high-impact events that are fundamentally unpredictable. Taleb applies this to everything from the 9/11 attacks to the rise of the Internet to the 2008 financial crisis, showing how our explanations for these events are constructed in retrospect and provide the illusion of understanding without any genuine predictive power.
+[[20 Sources/Books/2022/93-the-black-swan.md|93-the-black-swan]] is Taleb's most accessible and widely read work — a sweeping intellectual assault on the human tendency to explain the world through narratives that make events seem more predictable than they are. Named after the discovery that all swans were thought to be white until European explorers encountered black swans in Australia, the book argues that most of history is driven by low-probability, high-impact events that are fundamentally unpredictable. Taleb applies this to everything from the 9/11 attacks to the rise of the Internet to the 2008 financial crisis, showing how our explanations for these events are constructed in retrospect and provide the illusion of understanding without any genuine predictive power.
 
 ## Core Concepts
 

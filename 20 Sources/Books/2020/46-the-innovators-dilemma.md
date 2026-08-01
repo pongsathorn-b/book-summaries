@@ -10,7 +10,7 @@ summary: Successful companies fail not because they do anything wrong, but becau
 
 ## Overview
 
-[[Clayton M. Christensen]], a Harvard Business School professor, published what many consider the most important business book of the last 30 years. The core puzzle: why do the best-managed companies — with excellent leadership, rigorous analysis, and customer-focused cultures — still fail when disrupted by new technologies? The answer is devastating in its simplicity: it's not that these companies did anything wrong. It's that the very practices that made them great — listening to their best customers, investing in the highest-margin products, making the rational short-term financial decisions — are exactly what make them unable to respond to disruptive technologies. The book introduced the concepts of *sustaining* vs. *disruptive* innovation, and explained why the latter is so much more dangerous than the former.
+[[Clayton M. Christensen|Clayton M. Christensen]], a Harvard Business School professor, published what many consider the most important business book of the last 30 years. The core puzzle: why do the best-managed companies — with excellent leadership, rigorous analysis, and customer-focused cultures — still fail when disrupted by new technologies? The answer is devastating in its simplicity: it's not that these companies did anything wrong. It's that the very practices that made them great — listening to their best customers, investing in the highest-margin products, making the rational short-term financial decisions — are exactly what make them unable to respond to disruptive technologies. The book introduced the concepts of *sustaining* vs. *disruptive* innovation, and explained why the latter is so much more dangerous than the former.
 
 ## Core Concepts
 
@@ -72,4 +72,4 @@ Disruption typically takes 15-20 years from initial emergence to mainstream adop
 
 ---
 
-*Related: [[38-zero-to-one]], [[40-crossing-the-chasm]], [[39-the-lean-startup]], [[44-blue-ocean-strategy]], [[41-good-to-great]], [[25-essentialism]], [[42-the-hard-thing-about-hard-things]]*
+*Related: [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[20 Sources/Books/2020/44-blue-ocean-strategy.md|44-blue-ocean-strategy]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]], [[20 Sources/Books/2020/42-the-hard-thing-about-hard-things.md|42-the-hard-thing-about-hard-things]]*

@@ -86,10 +86,10 @@ Kearns and Roth are unusually candid about what formal methods *can't* do. Mathe
 
 ## Related Books
 
-- [[Nudge]] — Thaler & Sunstein's work on choice architecture provides complementary tools for influencing behavior ethically
-- [[Thinking Fast and Slow]] — Kahneman's exploration of human cognitive limitations is directly relevant to understanding why algorithmic decision-making can fail
-- [[The Black Swan]] — Taleb's analysis of rare, high-impact events is relevant to the long-tail problem in machine learning
+- [[20 Sources/Books/2019/37-nudge.md|Nudge]] — Thaler & Sunstein's work on choice architecture provides complementary tools for influencing behavior ethically
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|Thinking Fast and Slow]] — Kahneman's exploration of human cognitive limitations is directly relevant to understanding why algorithmic decision-making can fail
+- [[20 Sources/Books/2022/93-the-black-swan.md|The Black Swan]] — Taleb's analysis of rare, high-impact events is relevant to the long-tail problem in machine learning
 - [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — Understanding the systematic errors humans bring to algorithmic design and deployment
-- [[The Lean Startup]] — The iterative, empirical approach to building products is analogous to the iterative auditing and refinement of algorithmic fairness
-- [[Skin in the Game]] — The importance of those affected by algorithmic decisions having a voice in their design
-- [[Thinking in Systems]] — Understanding algorithms as components of larger social, economic, and political systems
+- [[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]] — The iterative, empirical approach to building products is analogous to the iterative auditing and refinement of algorithmic fairness
+- [[20 Sources/Books/2022/94-skin-in-the-game.md|Skin in the Game]] — The importance of those affected by algorithmic decisions having a voice in their design
+- [[20 Sources/Books/2022/98-thinking-in-systems.md|Thinking in Systems]] — Understanding algorithms as components of larger social, economic, and political systems

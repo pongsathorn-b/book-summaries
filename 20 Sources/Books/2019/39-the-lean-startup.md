@@ -10,7 +10,7 @@ summary: Use rapid experimentation and validated learning to build products cust
 
 ## Overview
 
-[[Eric Ries]] codified the methodology that transformed how startups and large companies build products. The Lean Startup methodology replaces long planning cycles with rapid experimentation, replaces assumptions with validated learning, and replaces vanity metrics with actionable metrics. The core engine is the Build-Measure-Learn feedback loop: build a minimum viable product (MVP), measure its performance against predefined hypotheses, and learn whether to pivot or persevere. The goal is to eliminate the waste of building products nobody wants.
+[[Eric Ries|Eric Ries]] codified the methodology that transformed how startups and large companies build products. The Lean Startup methodology replaces long planning cycles with rapid experimentation, replaces assumptions with validated learning, and replaces vanity metrics with actionable metrics. The core engine is the Build-Measure-Learn feedback loop: build a minimum viable product (MVP), measure its performance against predefined hypotheses, and learn whether to pivot or persevere. The goal is to eliminate the waste of building products nobody wants.
 
 ## Core Concepts
 
@@ -70,4 +70,4 @@ Ries identifies three engines that drive sustainable startup growth: *sticky* (c
 
 ---
 
-*Related: [[38-zero-to-one]], [[40-crossing-the-chasm]], [[The Startup Owner's Manual]], [[The Innovator's Dilemma]], [[06-deep-work]], [[18-getting-things-down]], [[01-atomic-habits]]*
+*Related: [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[The Startup Owner's Manual|The Startup Owner's Manual]], [[The Innovator's Dilemma|The Innovator's Dilemma]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]], [[18-getting-things-down|18-getting-things-down]], [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]]*

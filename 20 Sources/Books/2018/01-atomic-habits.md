@@ -10,7 +10,7 @@ summary: Tiny changes compound into remarkable results through systems, not goal
 
 ## Overview
 
-Tiny changes, remarkable results. You don't rise to your goals — you fall to the level of your systems. [[Habits]] are the compound interest of self-improvement. [[30 Knowledge/People/James-Clear|James Clear]] shows that [[30 Knowledge/Concepts/identity-based-habits|Identity-Based Habits]] matter more than outcomes.
+Tiny changes, remarkable results. You don't rise to your goals — you fall to the level of your systems. [[Habits|Habits]] are the compound interest of self-improvement. [[30 Knowledge/People/James-Clear|James Clear]] shows that [[30 Knowledge/Concepts/identity-based-habits|Identity-Based Habits]] matter more than outcomes.
 
 ## The Four Laws of Behavior Change
 
@@ -30,7 +30,7 @@ The most effective way to build habits is not to focus on outcomes — focus on 
 - Every action you vote for the type of person you want to be
 - True behavior change is identity change
 
-### The [[2-Minute Rule]]
+### The [[2-Minute Rule|2-Minute Rule]]
 When you start a new habit, it should take less than 2 minutes.
 
 - "Read before bed" → "Read one page"
@@ -48,7 +48,7 @@ Make good habits easier and bad habits harder.
 - Place fruit at eye level, delete social media apps
 
 ### The Plateau of Latent Potential
-The most powerful outcomes come from systems that work for years before a breakthrough. [[06-deep-work]] and [[01-atomic-habits]] share this insight: consistency compounds.
+The most powerful outcomes come from systems that work for years before a breakthrough. [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] and [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] share this insight: consistency compounds.
 
 ## For Founders
 
@@ -58,8 +58,8 @@ The most powerful outcomes come from systems that work for years before a breakt
 
 ## Related
 
-- [[Deep Work]] — building deep focus habits
-- [[Learning How to Learn]] — [[30 Knowledge/Concepts/focused-mode|Focused Mode]] and [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] underpin learning habits
-- [[2-Minute Rule]] — gateway to starting any habit
+- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — building deep focus habits
+- [[20 Sources/Books/2018/11-learning-how-to-learn.md|Learning How to Learn]] — [[30 Knowledge/Concepts/focused-mode|Focused Mode]] and [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] underpin learning habits
+- [[2-Minute Rule|2-Minute Rule]] — gateway to starting any habit
 - [[30 Knowledge/Concepts/habit-stacking|Habit Stacking]] — linking habits together
 - [[30 Knowledge/Concepts/identity-based-habits|Identity-Based Habits]] — who you become, not what you achieve

@@ -82,12 +82,12 @@ Seneca's life has always invited scrutiny that his philosophy must weather. **Cr
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — The broader philosophical school Seneca worked within
 - [[30 Knowledge/People/Seneca|Seneca]] — Seneca's own life as both philosopher and wealthy Roman advisor
 - [[30 Knowledge/People/Epictetus|Epictetus]] — The Enchiridion and Discourses, the other great Stoic practical texts
-- [[Victor Frankl]] — Modern logotherapy as a descendant of Stoic meaning-making
+- [[30 Knowledge/People/Victor-Frankl.md|Victor Frankl]] — Modern logotherapy as a descendant of Stoic meaning-making
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — The Stoic embrace of fate, including suffering
 - [[30 Knowledge/Concepts/dichotomy-of-control|Dichotomy of Control]] — The foundational Stoic psychological technique
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The death contemplation practice Seneca championed
-- [[The Art of War]] — Strategic wisdom applied to life's battles
-- [[Nietzsche]] — The philosopher who both admired and criticized Seneca
+- [[20 Sources/Books/2018/13-the-art-of-war.md|The Art of War]] — Strategic wisdom applied to life's battles
+- [[Nietzsche|Nietzsche]] — The philosopher who both admired and criticized Seneca
 
 ---
 

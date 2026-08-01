@@ -10,7 +10,7 @@ summary: Master internal triggers (feelings, thoughts) and external triggers (en
 
 ## Overview
 
-[[Indistractable]] by [[30 Knowledge/People/Nir-Eyal|Nir Eyal]] (author of the influential [[Hooked]]]]) is a comprehensive framework for reclaiming attention from both external interruptions and internal discomfort. Eyal argues that distraction is almost never about the thing you're avoiding — it's about the feeling you're trying to escape. The book separates triggers into external (phone notifications, open office layouts) and internal (boredom, anxiety, loneliness), and provides specific techniques for managing both. The core thesis: you cannot be productive with any system if you are constantly distracted; attention is the foundational resource.
+[[20 Sources/Books/2019/24-indistractable.md|Indistractable]] by [[30 Knowledge/People/Nir-Eyal|Nir Eyal]] (author of the influential [[20 Sources/Books/2022/99-hooked.md|Hooked]]]]) is a comprehensive framework for reclaiming attention from both external interruptions and internal discomfort. Eyal argues that distraction is almost never about the thing you're avoiding — it's about the feeling you're trying to escape. The book separates triggers into external (phone notifications, open office layouts) and internal (boredom, anxiety, loneliness), and provides specific techniques for managing both. The core thesis: you cannot be productive with any system if you are constantly distracted; attention is the foundational resource.
 
 ## Core Concepts
 
@@ -27,7 +27,7 @@ summary: Master internal triggers (feelings, thoughts) and external triggers (en
 - The #1 cause of distraction is unaddressed internal discomfort — not the phone itself
 - When you feel the urge to check your phone, identify the underlying feeling first: Am I anxious? Bored? Lonely?
 - External triggers are a choice — you can redesign your environment to make distraction harder and traction easier
-- [[22-the-4-hour-workweek]]'s batch-and-eliminate approach is Eyal's external trigger elimination at scale
+- [[20 Sources/Books/2019/22-the-4-hour-workweek.md|22-the-4-hour-workweek]]'s batch-and-eliminate approach is Eyal's external trigger elimination at scale
 - Reflection without action is rumination — Indistractable requires both metacognition and behavior change
 - You can be indistractable in service of others (responding to genuine needs) or in service of yourself
 - Making a pre-commitment ("I will work for 45 minutes before checking messages") transforms internal triggers from enemies to allies
@@ -58,5 +58,5 @@ Master the internal emotional discomfort that drives distraction and redesign yo
 
 - [[30 Knowledge/Concepts/make-time|Make Time]] — Knapp and Zeratsky's environmental tactics are the practical complement to Eyal's internal trigger framework
 - [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — structured time-boxing satisfies internal triggers for urgency without derailing focus
-- [[Getting Things Done]] — Indistractable is the attention foundation that makes GTD execution possible
-- [[Essentialism]] — both books argue that selective attention to the right things compounds over time
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — Indistractable is the attention foundation that makes GTD execution possible
+- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — both books argue that selective attention to the right things compounds over time

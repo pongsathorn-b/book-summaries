@@ -93,13 +93,13 @@ The challenge is that complementarity benefits tend to accrue to the highly skil
 
 ## Related Books
 
-- [[130-the-economic-singularity]] — Cal Newport's focused analysis of AI's impact on knowledge work, which builds on Brynjolfsson & McAfee's framework
-- [[06-deep-work]] — Newport's prescription for thriving in a world of cognitive automation
-- [[121-the-singularity-is-near]] — Kurzweil's more optimistic and technically ambitious extrapolation of the same technological trends
-- [[122-superintelligence]] — Bostrom's analysis of the risks of machine superintelligence, relevant to the endgame of the Second Machine Age
-- [[123-life-3-0]] — Tegmark's more philosophical exploration of AI's implications for life and work
-- [[04-thinking-fast-and-slow]] — The cognitive science underlying which human abilities are being automated
-- [[39-the-lean-startup]] — The new entrepreneurial methodology for creating value in the Second Machine Age
-- [[38-zero-to-one]] — Thiel's contrarian approach to innovation in a winner-take-all economy
-- [[96-range]] — The advantage of broad, flexible thinking over narrow specialization in a rapidly changing world
-- [[92-antifragile]] — Taleb's framework for thriving in environments of increasing volatility and disruption
+- [[20 Sources/Books/2024/130-the-economic-singularity.md|130-the-economic-singularity]] — Cal Newport's focused analysis of AI's impact on knowledge work, which builds on Brynjolfsson & McAfee's framework
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — Newport's prescription for thriving in a world of cognitive automation
+- [[20 Sources/Books/2024/121-the-singularity-is-near.md|121-the-singularity-is-near]] — Kurzweil's more optimistic and technically ambitious extrapolation of the same technological trends
+- [[20 Sources/Books/2024/122-superintelligence.md|122-superintelligence]] — Bostrom's analysis of the risks of machine superintelligence, relevant to the endgame of the Second Machine Age
+- [[20 Sources/Books/2024/123-life-3-0.md|123-life-3-0]] — Tegmark's more philosophical exploration of AI's implications for life and work
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — The cognitive science underlying which human abilities are being automated
+- [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]] — The new entrepreneurial methodology for creating value in the Second Machine Age
+- [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]] — Thiel's contrarian approach to innovation in a winner-take-all economy
+- [[20 Sources/Books/2022/96-range.md|96-range]] — The advantage of broad, flexible thinking over narrow specialization in a rapidly changing world
+- [[20 Sources/Books/2022/92-antifragile.md|92-antifragile]] — Taleb's framework for thriving in environments of increasing volatility and disruption

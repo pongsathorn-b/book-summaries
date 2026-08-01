@@ -37,7 +37,7 @@ Haidt's famous **social intuitionist model** proposes that moral judgment happen
 
 2. **Reasoned justification (slow):** After the judgment, your conscious reasoning kicks in to find reasons that support your intuition. You are, in effect, a lawyer arguing for a verdict your "gut" has already reached.
 
-This means that moral reasoning is less about *finding* truth and more about *defending* intuitions and *persuading* others. This connects deeply to [[04-thinking-fast-and-slow]] — System 1 (fast, intuitive) and System 2 (slow, deliberate).
+This means that moral reasoning is less about *finding* truth and more about *defending* intuitions and *persuading* others. This connects deeply to [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — System 1 (fast, intuitive) and System 2 (slow, deliberate).
 
 ### The "Elephant and the Rider"
 
@@ -86,7 +86,7 @@ The emotion that corresponds to this hive capacity is **"elevation"** — the wa
 
 ## Related Concepts
 
-This book connects deeply to [[Thinking Fast and Slow]] (System 1/System 2 intuition/reason split), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (our moral reasoning is full of predictable biases), [[12 Rules for Life]] (Jordan Peterson's attempt to build a moral framework), and [[30 Knowledge/Concepts/stoicism|Stoicism]] (the Stoic attempt to use reason to override intuition — and Haidt's evidence that this is very hard).
+This book connects deeply to [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|Thinking Fast and Slow]] (System 1/System 2 intuition/reason split), [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (our moral reasoning is full of predictable biases), [[20 Sources/Books/2018/05-12-rules-for-life.md|12 Rules for Life]] (Jordan Peterson's attempt to build a moral framework), and [[30 Knowledge/Concepts/stoicism|Stoicism]] (the Stoic attempt to use reason to override intuition — and Haidt's evidence that this is very hard).
 
 ## One-Line Takeaway
 

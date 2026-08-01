@@ -84,14 +84,14 @@ Additionally, the book's approach to starting "before you're ready" can be taken
 
 ## Related Books
 
-- [[The War of Art]] — The foundational text on Resistance; read this first
-- [[Atomic Habits]] — Building identity-based habits that make showing up automatic
-- [[Deep Work]] — The case for focused, distraction-free execution
-- [[Ego Is the Enemy]] — Pressfield on ego as the obstacle to doing meaningful work
-- [[The Obstacle Is the Way]] — Stoic reframing of obstacles as opportunities
-- [[Essentialism]] — Disciplined pursuit of less, not more
-- [[Indistractable]] — Understanding and defeating distraction in the modern age
+- [[20 Sources/Books/2024/131-the-war-of-art.md|The War of Art]] — The foundational text on Resistance; read this first
+- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — Building identity-based habits that make showing up automatic
+- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — The case for focused, distraction-free execution
+- [[20 Sources/Books/2021/61-ego-is-the-enemy.md|Ego Is the Enemy]] — Pressfield on ego as the obstacle to doing meaningful work
+- [[20 Sources/Books/2020/59-the-obstacle-is-the-way.md|The Obstacle Is the Way]] — Stoic reframing of obstacles as opportunities
+- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — Disciplined pursuit of less, not more
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — Understanding and defeating distraction in the modern age
 - [[30 Knowledge/Concepts/make-time|Make Time]] — Daily tactics for prioritizing and protecting time for meaningful work
-- [[Getting Things Done]] — The systematic method for capturing, clarifying, and completing work
-- [[The 7 Habits of Highly Effective People]] — Habit 3 (Put First Things First) directly addresses doing what matters
-- [[The Compound Effect]] — Small consistent actions compounding into major results over time
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — The systematic method for capturing, clarifying, and completing work
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|The 7 Habits of Highly Effective People]] — Habit 3 (Put First Things First) directly addresses doing what matters
+- [[20 Sources/Books/2021/74-the-compound-effect.md|The Compound Effect]] — Small consistent actions compounding into major results over time

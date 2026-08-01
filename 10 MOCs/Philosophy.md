@@ -75,3 +75,18 @@ Stoicism, existentialism, ethics, meaning, and how to live a good life.
 ## Overview
 
 Rooted in Stoic practice: Meditations (Marcus Aurelius), Letters from a Stoic (Seneca), and applied modern Stoicism (Ryan Holiday). Expands into existential territory with The Obstacle Is The Way, Ego Is The Enemy, Stillness Is The Way, and Man's Search for Meaning. Bridges ancient wisdom with modern psychological research on resilience and meaning-making.
+- [[20 Sources/Books/2025/141-mindset-the-new-psychology-of-success.md|Mindset The New Psychology Of Success]]
+
+- [[20 Sources/Books/2025/144-the-four-agreements.md|The Four Agreements]]
+
+- [[20 Sources/Books/2025/146-mastery-robert-greene.md|Mastery Robert Greene]]
+
+- [[20 Sources/Books/2025/149-the-4000-days.md|The 4000 Days]]
+
+- [[20 Sources/Books/2025/150-think-and-grow-rich.md|Think And Grow Rich]]
+
+- [[20 Sources/Books/2025/151-the-courage-to-be-disliked.md|The Courage To Be Disliked]]
+
+- [[20 Sources/Books/2025/153-the-subtle-art-of-not-giving-a-fck.md|The Subtle Art Of Not Giving A Fck]]
+
+- [[20 Sources/Books/2025/155-the-righteous-mind.md|The Righteous Mind]]

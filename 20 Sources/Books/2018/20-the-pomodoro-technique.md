@@ -10,7 +10,7 @@ summary: Work in 25-minute focused sprints with 5-minute breaks to sustain atten
 
 ## Overview
 
-[[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] was developed by [[Francesco Cirillo]] in the late 1980s as a deceptively simple time-management method: work in 25-minute intervals ("pomodoros") separated by 5-minute breaks, with a longer 15-30 minute break after four pomodoros. The method's genius is its combination of urgency (finite time creates focus), recovery (regular breaks prevent burnout), and tracking (counting pomodoros gives concrete data on effort). It requires only a timer — no apps, no systems, no friction.
+[[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] was developed by [[30 Knowledge/People/Francesco-Cirillo.md|Francesco Cirillo]] in the late 1980s as a deceptively simple time-management method: work in 25-minute intervals ("pomodoros") separated by 5-minute breaks, with a longer 15-30 minute break after four pomodoros. The method's genius is its combination of urgency (finite time creates focus), recovery (regular breaks prevent burnout), and tracking (counting pomodoros gives concrete data on effort). It requires only a timer — no apps, no systems, no friction.
 
 ## Core Concepts
 
@@ -37,7 +37,7 @@ summary: Work in 25-minute focused sprints with 5-minute breaks to sustain atten
 - Breaks are not optional — the brain's attentional resources deplete and require recovery
 - The "do not interrupt" rule protects your pomodoro from yourself and others
 - Multi-tasking destroys pomodoro effectiveness: one task per pomodoro at minimum
-- [[18-getting-things-down]]'s next-action clarity pairs perfectly with pomodoro execution
+- [[18-getting-things-down|18-getting-things-down]]'s next-action clarity pairs perfectly with pomodoro execution
 
 ## Practical Applications
 
@@ -64,6 +64,6 @@ Time-boxing with regular breaks transforms overwhelming workloads into manageabl
 ## Related Books
 
 - [[30 Knowledge/Concepts/make-time|Make Time]] — daily tactics for fighting distraction, a spiritual successor to Pomodoro thinking
-- [[Getting Things Done]] — GTD's next-action clarity is the ideal input for Pomodoro sessions
-- [[Indistractable]] — mental models for handling interruptions that complement Pomodoro's interruption protocol
-- [[Eat That Frog!]] — tackle your hardest frog in the first pomodoro of the day
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — GTD's next-action clarity is the ideal input for Pomodoro sessions
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — mental models for handling interruptions that complement Pomodoro's interruption protocol
+- [[Eat That Frog!|Eat That Frog!]] — tackle your hardest frog in the first pomodoro of the day

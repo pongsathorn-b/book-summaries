@@ -65,10 +65,10 @@ Critics argue that Grant's research overstates the case for givers and understat
 
 ## Related
 
-- [[19-the-7-habits-of-highly-effective-people]] — Covey's "think win-win" [[19-the-7-habits-of-highly-effective-people]] is the foundational principle Grant builds on
-- [[30-how-to-win-friends-and-influence-people]] — Dale Carnegie [[30-how-to-win-friends-and-influence-people]] prefigured Grant's giver insight
-- [[06-deep-work]] — Grant's own productivity [[06-deep-work]] depends on protecting time to think, which includes generous mentorship
-- [[01-atomic-habits]] — building a giver identity [[01-atomic-habits]] as the kind of professional people trust and refer
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] — Covey's "think win-win" [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] is the foundational principle Grant builds on
+- [[20 Sources/Books/2019/30-how-to-win-friends-and-influence-people.md|30-how-to-win-friends-and-influence-people]] — Dale Carnegie [[20 Sources/Books/2019/30-how-to-win-friends-and-influence-people.md|30-how-to-win-friends-and-influence-people]] prefigured Grant's giver insight
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — Grant's own productivity [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] depends on protecting time to think, which includes generous mentorship
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — building a giver identity [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] as the kind of professional people trust and refer
 
 ## One-Line Takeaway
 

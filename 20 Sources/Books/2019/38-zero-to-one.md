@@ -69,4 +69,4 @@ Thiel's optimism is rare: he genuinely believes technology and human capability 
 
 ---
 
-*Related: [[39-the-lean-startup]], [[40-crossing-the-chasm]], [[41-good-to-great]], [[The Innovator's Dilemma]], [[22-the-4-hour-workweek]], [[06-deep-work]], [[25-essentialism]]*
+*Related: [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[The Innovator's Dilemma|The Innovator's Dilemma]], [[20 Sources/Books/2019/22-the-4-hour-workweek.md|22-the-4-hour-workweek]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]], [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]]*

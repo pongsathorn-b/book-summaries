@@ -23,15 +23,15 @@ Most people live by inherited morality without ever examining whether those prin
 
 ### Authenticity
 
-Living authentically means your actions align with your examined values — not with external expectations. [[Authentic Living]] requires [[Values Clarification]].
+Living authentically means your actions align with your examined values — not with external expectations. [[Authentic Living|Authentic Living]] requires [[Values Clarification|Values Clarification]].
 
 ### The Examining Mind
 
-[[Socratic Method]] — the practice of asking "why do I believe this?" repeatedly until you reach bedrock beliefs that feel genuinely true.
+[[Socratic Method|Socratic Method]] — the practice of asking "why do I believe this?" repeatedly until you reach bedrock beliefs that feel genuinely true.
 
 ### The Virtue of Honesty with Yourself
 
-[[Self-Deception]] is the greatest ethical failure — not because it harms others directly, but because it makes all other failures possible.
+[[Self-Deception|Self-Deception]] is the greatest ethical failure — not because it harms others directly, but because it makes all other failures possible.
 
 ## Key Lessons
 
@@ -47,11 +47,11 @@ Living authentically means your actions align with your examined values — not 
 ## Related
 
 - [[30 Knowledge/Concepts/meditations|Meditations]] — [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]]'s own values examination
-- [[30 Knowledge/Concepts/stoicism|Stoicism]] — ancient practice of [[Values Clarification]]
-- [[12 Rules for Life]] — [[30 Knowledge/People/Jordan-Peterson|Jordan Peterson]] on finding meaning through responsibility
-- [[Man's Search for Meaning]] — [[Viktor Frankl]] on finding meaning through [[Values]]
-- [[56-siddhartha]] — the journey to [[Authentic Living]]
-- [[54-letters-to-a-young-poet]] — on [[Values Clarification]] and [[Art as Life Purpose]]
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — ancient practice of [[Values Clarification|Values Clarification]]
+- [[20 Sources/Books/2018/05-12-rules-for-life.md|12 Rules for Life]] — [[30 Knowledge/People/Jordan-Peterson|Jordan Peterson]] on finding meaning through responsibility
+- [[Man's Search for Meaning|Man's Search for Meaning]] — [[Viktor Frankl|Viktor Frankl]] on finding meaning through [[Values|Values]]
+- [[20 Sources/Books/2020/56-siddhartha.md|56-siddhartha]] — the journey to [[Authentic Living|Authentic Living]]
+- [[20 Sources/Books/2020/54-letters-to-a-young-poet.md|54-letters-to-a-young-poet]] — on [[Values Clarification|Values Clarification]] and [[Art as Life Purpose|Art as Life Purpose]]
 
 ## One-Line Takeaway
 

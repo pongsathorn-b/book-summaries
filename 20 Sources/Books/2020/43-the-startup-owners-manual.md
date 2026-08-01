@@ -10,7 +10,7 @@ summary: Build products customers want by getting out of the building and testin
 
 ## Overview
 
-[[Steve Blank]], who pioneered the customer development methodology that inspired The Lean Startup, wrote *The Startup Owner's Manual* as the definitive operational guide for early-stage companies. Where Eric Ries distilled Blank's ideas into a methodology, this book is the comprehensive, step-by-step playbook. Blank's central insight: a startup is not a smaller version of a large company — it is a temporary organization designed to search for a repeatable and scalable business model. The book is a rigorous, phase-by-phase breakdown of the Customer Development process: who does what, when, and how. It also introduces the concept of "Get, Keep, Grow" — the three customer-related activities that determine whether a startup has found a viable business model.
+[[Steve Blank|Steve Blank]], who pioneered the customer development methodology that inspired The Lean Startup, wrote *The Startup Owner's Manual* as the definitive operational guide for early-stage companies. Where Eric Ries distilled Blank's ideas into a methodology, this book is the comprehensive, step-by-step playbook. Blank's central insight: a startup is not a smaller version of a large company — it is a temporary organization designed to search for a repeatable and scalable business model. The book is a rigorous, phase-by-phase breakdown of the Customer Development process: who does what, when, and how. It also introduces the concept of "Get, Keep, Grow" — the three customer-related activities that determine whether a startup has found a viable business model.
 
 ## Core Concepts
 
@@ -77,4 +77,4 @@ Product development should be agile, with continuous deployment and iteration. B
 
 ---
 
-*Related: [[39-the-lean-startup]], [[38-zero-to-one]], [[40-crossing-the-chasm]], [[41-good-to-great]], [[18-getting-things-down]], [[01-atomic-habits]], [[06-deep-work]]*
+*Related: [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[18-getting-things-down|18-getting-things-down]], [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]]*

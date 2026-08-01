@@ -84,13 +84,13 @@ Additionally, GSP's frankness about his use of the controversial supplement Vick
 
 ## Related Books
 
-- [[Can't Hurt Me]] — Goggins's extreme accountability and embracing suffering philosophy; complementary intensity
-- [[131-the-war-of-art]] — Pressfield on Resistance as the enemy of doing the creative work that matters
-- [[01-atomic-habits]] — Building the daily habits that create championship performance over time
-- [[59-the-obstacle-is-the-way]] — Stoic practice of treating every obstacle as a training opportunity
-- [[06-deep-work]] — The focused preparation that elite performance requires
-- [[Man's Search for Meaning]] — Frankl's finding meaning through the deliberate acceptance of difficult challenges
+- [[Can't Hurt Me|Can't Hurt Me]] — Goggins's extreme accountability and embracing suffering philosophy; complementary intensity
+- [[20 Sources/Books/2024/131-the-war-of-art.md|131-the-war-of-art]] — Pressfield on Resistance as the enemy of doing the creative work that matters
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — Building the daily habits that create championship performance over time
+- [[20 Sources/Books/2020/59-the-obstacle-is-the-way.md|59-the-obstacle-is-the-way]] — Stoic practice of treating every obstacle as a training opportunity
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — The focused preparation that elite performance requires
+- [[Man's Search for Meaning|Man's Search for Meaning]] — Frankl's finding meaning through the deliberate acceptance of difficult challenges
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — Marcus Aurelius's preparation for battle as a model for daily mental discipline
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the ultimate reminder that the preparation is the point
-- [[Elon Musk]] — Musk's "first principles" approach to engineering and problem-solving
-- [[88-shoe-dog]] — Phil Knight's building of Nike through disciplined obsession
+- [[20 Sources/Books/2022/89-elon-musk.md|Elon Musk]] — Musk's "first principles" approach to engineering and problem-solving
+- [[20 Sources/Books/2022/88-shoe-dog.md|88-shoe-dog]] — Phil Knight's building of Nike through disciplined obsession

@@ -77,16 +77,16 @@ Nietzsche is one of the most controversial philosophers in history, and **Beyond
 
 ## Related Books
 
-- [[Nietzsche]] — Beyond Good and Evil as the core of Nietzsche's mature critique
+- [[Nietzsche|Nietzsche]] — Beyond Good and Evil as the core of Nietzsche's mature critique
 - [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius on creating values through rational discipline
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — Nietzsche admired Stoic self-mastery even as he criticized Christian morality
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Love of fate as a Nietzschean and Stoic ideal
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Confronting mortality as Nietzsche did
-- [[Plato]] — Nietzsche famously declared "Plato is boring" — a fundamental break with Western rationalism
-- [[Machiavelli]] — The Prince and the critique of conventional morality share a cold-eyed realism
-- [[Victor Frankl]] — Will to meaning as a humanistic counterpoint to will to power
-- [[13-the-art-of-war]] — Strategic consciousness without moralizing
-- [[12-chanakya-neeti]] — Realpolitik and power as separate from moralizing
+- [[30 Knowledge/People/Plato.md|Plato]] — Nietzsche famously declared "Plato is boring" — a fundamental break with Western rationalism
+- [[30 Knowledge/People/Machiavelli.md|Machiavelli]] — The Prince and the critique of conventional morality share a cold-eyed realism
+- [[30 Knowledge/People/Victor-Frankl.md|Victor Frankl]] — Will to meaning as a humanistic counterpoint to will to power
+- [[20 Sources/Books/2018/13-the-art-of-war.md|13-the-art-of-war]] — Strategic consciousness without moralizing
+- [[20 Sources/Books/2018/12-chanakya-neeti.md|12-chanakya-neeti]] — Realpolitik and power as separate from moralizing
 
 ---
 

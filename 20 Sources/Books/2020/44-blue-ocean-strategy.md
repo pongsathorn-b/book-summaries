@@ -10,7 +10,7 @@ summary: Create uncontested market space by eliminating, reducing, raising, and 
 
 ## Overview
 
-[[W. Chan Kim]] and [[Renée Mauborgne]], professors at INSEAD, challenge the fundamental assumption of business strategy: that competing in crowded, red ocean markets is inevitable. Their research across 150+ strategic moves over 100 years found that companies that created new market space — which they call *blue oceans* — outperformed competitors who fought tooth-and-nail in established markets (*red oceans*). The key is *value innovation*: instead of trying to outcompete rivals on existing factors, you simultaneously pursue differentiation *and* low cost by eliminating, reducing, raising, and creating factors the industry has never offered. This is the Strategy Canvas and the Four Actions Framework.
+[[W. Chan Kim|W. Chan Kim]] and [[Renée Mauborgne|Renée Mauborgne]], professors at INSEAD, challenge the fundamental assumption of business strategy: that competing in crowded, red ocean markets is inevitable. Their research across 150+ strategic moves over 100 years found that companies that created new market space — which they call *blue oceans* — outperformed competitors who fought tooth-and-nail in established markets (*red oceans*). The key is *value innovation*: instead of trying to outcompete rivals on existing factors, you simultaneously pursue differentiation *and* low cost by eliminating, reducing, raising, and creating factors the industry has never offered. This is the Strategy Canvas and the Four Actions Framework.
 
 ## Core Concepts
 
@@ -84,4 +84,4 @@ A structured tool used to force trade-off decisions. Teams must fill out the gri
 
 ---
 
-*Related: [[38-zero-to-one]], [[40-crossing-the-chasm]], [[41-good-to-great]], [[39-the-lean-startup]], [[The Innovator's Dilemma]], [[25-essentialism]], [[28-influence]]*
+*Related: [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[The Innovator's Dilemma|The Innovator's Dilemma]], [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]], [[20 Sources/Books/2019/28-influence.md|28-influence]]*

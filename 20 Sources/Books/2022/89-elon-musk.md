@@ -10,7 +10,7 @@ summary: Ashlee Vance's biography reveals Elon Musk as a relentless, demanding l
 
 ## Overview
 
-[[Elon Musk]] by Ashlee Vance is the definitive biography of one of history's most ambitious entrepreneurs. Drawing on hundreds of interviews with Musk himself, his family, and dozens of current and former employees, Vance paints a portrait of a man of extraordinary vision plagued by extraordinary difficulty — a man who has simultaneously transformed multiple industries while burning through employees and relationships with a frightening regularity. The book covers Musk's childhood in South Africa, his escape to Canada and then the US, his early successes with Zip2 and PayPal, and his gambles on SpaceX, Tesla, and SolarCity. It is essential reading not just for understanding Musk, but for understanding the nature of extreme ambition and its costs.
+[[20 Sources/Books/2022/89-elon-musk.md|Elon Musk]] by Ashlee Vance is the definitive biography of one of history's most ambitious entrepreneurs. Drawing on hundreds of interviews with Musk himself, his family, and dozens of current and former employees, Vance paints a portrait of a man of extraordinary vision plagued by extraordinary difficulty — a man who has simultaneously transformed multiple industries while burning through employees and relationships with a frightening regularity. The book covers Musk's childhood in South Africa, his escape to Canada and then the US, his early successes with Zip2 and PayPal, and his gambles on SpaceX, Tesla, and SolarCity. It is essential reading not just for understanding Musk, but for understanding the nature of extreme ambition and its costs.
 
 ## Core Concepts
 

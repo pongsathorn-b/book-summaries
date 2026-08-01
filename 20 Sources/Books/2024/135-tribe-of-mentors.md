@@ -84,13 +84,13 @@ The book also skews heavily toward a particular Silicon Valley/NYC alpha-male ar
 
 ## Related Books
 
-- [[Tools of Titans]] — Ferriss's companion volume focused on tactics and routines
-- [[The Almanack of Naval Ravikant]] — Naval's independent synthesis of wisdom on wealth and happiness
-- [[Atomic Habits]] — The behavioral infrastructure to implement any mentor's advice
-- [[Deep Work]] — The focused capacity to do the work that mentor advice points toward
-- [[The 7 Habits of Highly Effective People]] — Covey's long-form framework for life design
-- [[Essentialism]] — The discipline of filtering mentor advice through a single question: what truly matters?
-- [[Indistractable]] — Practical tactics for protecting attention in a distraction economy
+- [[20 Sources/Books/2024/134-tools-of-titans.md|Tools of Titans]] — Ferriss's companion volume focused on tactics and routines
+- [[20 Sources/Books/2022/91-the-almanack-of-naval-ravikant.md|The Almanack of Naval Ravikant]] — Naval's independent synthesis of wisdom on wealth and happiness
+- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — The behavioral infrastructure to implement any mentor's advice
+- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — The focused capacity to do the work that mentor advice points toward
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|The 7 Habits of Highly Effective People]] — Covey's long-form framework for life design
+- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — The discipline of filtering mentor advice through a single question: what truly matters?
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — Practical tactics for protecting attention in a distraction economy
 - [[30 Knowledge/Concepts/make-time|Make Time]] — Daily implementation of the energy and priority management mentors recommend
-- [[Think and Grow Rich]] — Hill's original "consult the masters" methodology
-- [[Getting Things Done]] — Allen's systematic approach to processing the chaos that mentor advice inevitably creates
+- [[20 Sources/Books/2025/150-think-and-grow-rich.md|Think and Grow Rich]] — Hill's original "consult the masters" methodology
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — Allen's systematic approach to processing the chaos that mentor advice inevitably creates

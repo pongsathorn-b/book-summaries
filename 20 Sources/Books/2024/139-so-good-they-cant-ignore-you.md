@@ -86,12 +86,12 @@ Finally, the book's argument that passion follows skill may be true for certain 
 
 ## Related Books
 
-- [[06-deep-work]] — Newport's own framework for the focused, distraction-free practice that builds rare and valuable skills
-- [[01-atomic-habits]] — The habit science that makes deliberate practice sustainable over years
-- [[91-the-almanack-of-naval-ravikant]] — Naval's complementary ideas about specific knowledge and skill as the path to wealth
-- [[25-essentialism]] — The disciplined focus on the few things that actually build career capital
-- [[18-getting-things-down]] — Allen's systematic approach to processing work that creates space for deliberate skill development
-- [[19-the-7-habits-of-highly-effective-people]] — Covey's principle of "sharpen the saw"—continuous self-improvement as the foundation of effectiveness
-- [[150-think-and-grow-rich]] — Hill's emphasis on specialized knowledge as a driver of value
-- [[74-the-compound-effect]] — The compounding mathematics of small, consistent skill improvements over time
-- [[131-the-war-of-art]] — Pressfield's complementary emphasis on showing up and doing the work while Newport emphasizes what to work on
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — Newport's own framework for the focused, distraction-free practice that builds rare and valuable skills
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — The habit science that makes deliberate practice sustainable over years
+- [[20 Sources/Books/2022/91-the-almanack-of-naval-ravikant.md|91-the-almanack-of-naval-ravikant]] — Naval's complementary ideas about specific knowledge and skill as the path to wealth
+- [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] — The disciplined focus on the few things that actually build career capital
+- [[18-getting-things-down|18-getting-things-down]] — Allen's systematic approach to processing work that creates space for deliberate skill development
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] — Covey's principle of "sharpen the saw"—continuous self-improvement as the foundation of effectiveness
+- [[20 Sources/Books/2025/150-think-and-grow-rich.md|150-think-and-grow-rich]] — Hill's emphasis on specialized knowledge as a driver of value
+- [[20 Sources/Books/2021/74-the-compound-effect.md|74-the-compound-effect]] — The compounding mathematics of small, consistent skill improvements over time
+- [[20 Sources/Books/2024/131-the-war-of-art.md|131-the-war-of-art]] — Pressfield's complementary emphasis on showing up and doing the work while Newport emphasizes what to work on

@@ -77,14 +77,14 @@ Machiavelli counseled that in moments of crisis, **indecision is more dangerous 
 
 ## Related Books
 
-- [[Machiavelli]] — The Prince as the founding text of political realism
-- [[13-the-art-of-war]] — Sun Tzu's parallel ancient wisdom on strategy and deception
-- [[12-chanakya-neeti]] — The ancient Indian parallel treatise on statecraft and power
-- [[48 Laws of Power]] — Greene's modern amplification of Machiavellian themes
-- [[Nietzsche]] — Nietzsche's admiration for Machiavellian intellectual honesty
-- [[Plato]] — The Republic as the philosophical foil: ideal state vs. realistic state
+- [[30 Knowledge/People/Machiavelli.md|Machiavelli]] — The Prince as the founding text of political realism
+- [[20 Sources/Books/2018/13-the-art-of-war.md|13-the-art-of-war]] — Sun Tzu's parallel ancient wisdom on strategy and deception
+- [[20 Sources/Books/2018/12-chanakya-neeti.md|12-chanakya-neeti]] — The ancient Indian parallel treatise on statecraft and power
+- [[20 Sources/Books/2018/02-48-laws-of-power.md|48 Laws of Power]] — Greene's modern amplification of Machiavellian themes
+- [[Nietzsche|Nietzsche]] — Nietzsche's admiration for Machiavellian intellectual honesty
+- [[30 Knowledge/People/Plato.md|Plato]] — The Republic as the philosophical foil: ideal state vs. realistic state
 - [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius on virtue in power, the counterpoint to Machiavelli
-- [[The Art of Seduction]] — Power dynamics and perception management
+- [[20 Sources/Books/2018/09-the-art-of-seduction.md|The Art of Seduction]] — Power dynamics and perception management
 
 ---
 

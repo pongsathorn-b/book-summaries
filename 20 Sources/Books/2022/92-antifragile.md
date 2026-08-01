@@ -10,7 +10,7 @@ summary: Nassim Taleb introduces the concept of "antifragile" — things that do
 
 ## Overview
 
-[[92-antifragile]] is Nassim Nicholas Taleb's most ambitious book — a sweeping philosophical and practical work that introduces a new category to describe things that improve when exposed to volatility, disorder, and stressors. Where "fragile" things break under stress, and "robust" things resist it, "antifragile" things actively grow, evolve, and strengthen from chaos. Taleb applies this concept to everything from biology and philosophy to economics, politics, and personal health. The argument is that we have systematically designed our institutions, policies, and lives around the wrong model of risk — seeking to minimize volatility when we should be cultivating antifragility.
+[[20 Sources/Books/2022/92-antifragile.md|92-antifragile]] is Nassim Nicholas Taleb's most ambitious book — a sweeping philosophical and practical work that introduces a new category to describe things that improve when exposed to volatility, disorder, and stressors. Where "fragile" things break under stress, and "robust" things resist it, "antifragile" things actively grow, evolve, and strengthen from chaos. Taleb applies this concept to everything from biology and philosophy to economics, politics, and personal health. The argument is that we have systematically designed our institutions, policies, and lives around the wrong model of risk — seeking to minimize volatility when we should be cultivating antifragility.
 
 ## Core Concepts
 

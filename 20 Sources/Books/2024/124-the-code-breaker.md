@@ -85,8 +85,8 @@ The book's final chapters grapple with what Doudna calls "the most important con
 
 ## Related Books
 
-- [[125-the-gene]] — Siddhartha Mukherjee's deeper exploration of heredity's history and implications, which contextualizes CRISPR
-- [[01-atomic-habits]] — James Clear's emphasis on behavior change is relevant to how society will need to adapt to new biotechnologies
-- [[94-skin-in-the-game]] — The importance of those who bear the consequences of CRISPR decisions having a say in them
-- [[39-the-lean-startup]] — The rapid, iterative approach to developing CRISPR-based therapies
-- [[Thinking in Systems]] — Understanding CRISPR as part of larger biological, social, and ethical systems
+- [[20 Sources/Books/2024/125-the-gene.md|125-the-gene]] — Siddhartha Mukherjee's deeper exploration of heredity's history and implications, which contextualizes CRISPR
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — James Clear's emphasis on behavior change is relevant to how society will need to adapt to new biotechnologies
+- [[20 Sources/Books/2022/94-skin-in-the-game.md|94-skin-in-the-game]] — The importance of those who bear the consequences of CRISPR decisions having a say in them
+- [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]] — The rapid, iterative approach to developing CRISPR-based therapies
+- [[20 Sources/Books/2022/98-thinking-in-systems.md|Thinking in Systems]] — Understanding CRISPR as part of larger biological, social, and ethical systems

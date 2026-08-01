@@ -10,33 +10,33 @@ summary: The ego creates suffering — presence in the eternal now is the path t
 
 ## Overview
 
-[[30 Knowledge/People/Eckhart-Tolle|Eckhart Tolle]] describes his spiritual awakening and presents a path to liberation from psychological suffering. The core insight: most human misery is caused by the [[Egoic Mind]] — the constant stream of thinking about the past and future that prevents us from experiencing life directly. The book is a manual for awakening to presence.
+[[30 Knowledge/People/Eckhart-Tolle|Eckhart Tolle]] describes his spiritual awakening and presents a path to liberation from psychological suffering. The core insight: most human misery is caused by the [[Egoic Mind|Egoic Mind]] — the constant stream of thinking about the past and future that prevents us from experiencing life directly. The book is a manual for awakening to presence.
 
 ## Core Concepts
 
 ### The Pain-Body
 
-[[The Pain-Body]] is a accumulated energetic entity of old emotional pain that every human carries. It lies dormant between intense emotional experiences — but when triggered, it takes over. It feeds on being reactivated.
+[[The Pain-Body|The Pain-Body]] is a accumulated energetic entity of old emotional pain that every human carries. It lies dormant between intense emotional experiences — but when triggered, it takes over. It feeds on being reactivated.
 
 The solution: observe it without identifying with it.
 
 ### Ego
 
-[[The Ego]] is the sense of a separate self — a mental construct that creates fear, comparison, and endless wanting. The ego is not bad — it's a useful survival mechanism — but when it runs your life, it creates suffering.
+[[The Ego|The Ego]] is the sense of a separate self — a mental construct that creates fear, comparison, and endless wanting. The ego is not bad — it's a useful survival mechanism — but when it runs your life, it creates suffering.
 
-The ego is maintained by [[Thinking]] — particularly [[Rumination]] about past and future.
+The ego is maintained by [[Thinking|Thinking]] — particularly [[Rumination|Rumination]] about past and future.
 
 ### Presence
 
-[[Presence]] is the state of being fully engaged with this present moment — not lost in thought. Presence is available in every moment. It is the doorway to [[Awakening]].
+[[Presence|Presence]] is the state of being fully engaged with this present moment — not lost in thought. Presence is available in every moment. It is the doorway to [[Awakening|Awakening]].
 
 ### The Power of Observation
 
-The moment you observe your thoughts, you step out of them. Observation creates a gap — and in that gap is [[Stillness]] and [[Awareness]]. This is the core practice.
+The moment you observe your thoughts, you step out of them. Observation creates a gap — and in that gap is [[Stillness|Stillness]] and [[Awareness|Awareness]]. This is the core practice.
 
 ### Time Is an Illusion
 
-The past and future are mental constructs. Only [[The Present Moment]] is real. [[Psychological Time]] (worrying about future, ruminating about past) creates suffering. [[Chronological Time]] (clock time) is necessary for practical living — but should not dominate.
+The past and future are mental constructs. Only [[The Present Moment|The Present Moment]] is real. [[Psychological Time|Psychological Time]] (worrying about future, ruminating about past) creates suffering. [[Chronological Time|Chronological Time]] (clock time) is necessary for practical living — but should not dominate.
 
 ## Key Lessons
 
@@ -53,11 +53,11 @@ The past and future are mental constructs. Only [[The Present Moment]] is real. 
 
 ## For Founders
 
-- [[The Ego Is the Enemy]] (Ryan Holiday) is the practical business application of Tolle's insight
-- Presence during [[High-Stakes Decisions]] — responding from stillness rather than reacting from ego
+- [[The Ego Is the Enemy|The Ego Is the Enemy]] (Ryan Holiday) is the practical business application of Tolle's insight
+- Presence during [[High-Stakes Decisions|High-Stakes Decisions]] — responding from stillness rather than reacting from ego
 - [[30 Knowledge/Concepts/detachment|Detachment]] from outcomes — do the work, let go of attachment to results
-- [[Crisis Management]] — Tolle's "surrender to what is" is powerful in acute crises
-- [[Team Culture]] — ego-driven organizations suffer; presence-driven cultures communicate better
+- [[Crisis Management|Crisis Management]] — Tolle's "surrender to what is" is powerful in acute crises
+- [[Team Culture|Team Culture]] — ego-driven organizations suffer; presence-driven cultures communicate better
 
 ## Controversy
 
@@ -65,12 +65,12 @@ Critics argue Tolle's writing style is vague and circular. Others find it too Ne
 
 ## Related
 
-- [[30 Knowledge/Concepts/stoicism|Stoicism]] — [[Acceptance]] of what is; [[30 Knowledge/Concepts/present-moment-awareness|Present Moment Awareness]]; [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] practiced something like this
-- [[30 Knowledge/Concepts/meditations|Meditations]] — [[Tolle]] and [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] share [[Present Moment]] as the key to [[Inner Peace]]
-- [[Ego Is the Enemy]] — [[30 Knowledge/People/Ryan-Holiday|Ryan Holiday]]'s practical, secular version of Tolle's ego insight
-- [[Stillness Is the Way]] — [[30 Knowledge/People/Ryan-Holiday|Ryan Holiday]] on [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[Stillness]]
-- [[The Obstacle Is the Way]] — [[Stoic]] acceptance applied to [[Obstacles]]
-- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — [[Love of Fate]] — embracing whatever happens, which requires [[Presence]]
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — [[Acceptance|Acceptance]] of what is; [[30 Knowledge/Concepts/present-moment-awareness|Present Moment Awareness]]; [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] practiced something like this
+- [[30 Knowledge/Concepts/meditations|Meditations]] — [[Tolle|Tolle]] and [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] share [[Present Moment|Present Moment]] as the key to [[Inner Peace|Inner Peace]]
+- [[20 Sources/Books/2021/61-ego-is-the-enemy.md|Ego Is the Enemy]] — [[30 Knowledge/People/Ryan-Holiday|Ryan Holiday]]'s practical, secular version of Tolle's ego insight
+- [[20 Sources/Books/2021/62-stillness-is-the-way.md|Stillness Is the Way]] — [[30 Knowledge/People/Ryan-Holiday|Ryan Holiday]] on [[30 Knowledge/Concepts/stoicism|Stoicism]] and [[Stillness|Stillness]]
+- [[20 Sources/Books/2020/59-the-obstacle-is-the-way.md|The Obstacle Is the Way]] — [[Stoic|Stoic]] acceptance applied to [[Obstacles|Obstacles]]
+- [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — [[Love of Fate|Love of Fate]] — embracing whatever happens, which requires [[Presence|Presence]]
 
 ## One-Line Takeaway
 

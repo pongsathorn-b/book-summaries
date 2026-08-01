@@ -77,15 +77,15 @@ Plato's Kallipolis is built on **education**, not legislation. The entire struct
 
 ## Related Books
 
-- [[Plato]] — The Republic as the central expression of Plato's philosophy
+- [[30 Knowledge/People/Plato.md|Plato]] — The Republic as the central expression of Plato's philosophy
 - [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius as a philosopher-ruler who grappled with Plato's legacy
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — The alternative view that the wise person rules themselves, not cities
-- [[Machiavelli]] — The Prince as a repudiation of Platonic ideal governance
-- [[13-the-art-of-war]] — Military and strategic dimensions of ruling
-- [[12-chanakya-neeti]] — Indian parallel: the wise advisor who combines philosophy with realpolitik
-- [[Nietzsche]] — Nietzsche's famous hostility to Plato as the origin of "the world of shadows"
-- [[Victor Frankl]] — Meaning found not in abstract Forms but in concrete human situations
-- [[09-the-art-of-seduction]] — How rulers use illusions to control the cave-dwellers
+- [[30 Knowledge/People/Machiavelli.md|Machiavelli]] — The Prince as a repudiation of Platonic ideal governance
+- [[20 Sources/Books/2018/13-the-art-of-war.md|13-the-art-of-war]] — Military and strategic dimensions of ruling
+- [[20 Sources/Books/2018/12-chanakya-neeti.md|12-chanakya-neeti]] — Indian parallel: the wise advisor who combines philosophy with realpolitik
+- [[Nietzsche|Nietzsche]] — Nietzsche's famous hostility to Plato as the origin of "the world of shadows"
+- [[30 Knowledge/People/Victor-Frankl.md|Victor Frankl]] — Meaning found not in abstract Forms but in concrete human situations
+- [[20 Sources/Books/2018/09-the-art-of-seduction.md|09-the-art-of-seduction]] — How rulers use illusions to control the cave-dwellers
 
 ---
 

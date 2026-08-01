@@ -10,7 +10,7 @@ summary: Rob Fitzpatrick's The Mom Test teaches entrepreneurs how to have conver
 
 ## Overview
 
-[[100-the-mom-test]] is a practical guide to customer discovery and product validation for entrepreneurs, named after a simple principle: your mother will tell you your idea is great even if it's terrible, so you need to ask questions in ways that reveal real behavior rather than polite opinions. Rob Fitzpatrick argues that most entrepreneurs fail not because they build bad products but because they spend years building products without ever properly validating whether anyone would actually buy them. The book is a ruthlessly practical guide to asking the right questions, interpreting the answers honestly, and using customer conversations to de-risk startup decisions before it's too late.
+[[20 Sources/Books/2022/100-the-mom-test.md|100-the-mom-test]] is a practical guide to customer discovery and product validation for entrepreneurs, named after a simple principle: your mother will tell you your idea is great even if it's terrible, so you need to ask questions in ways that reveal real behavior rather than polite opinions. Rob Fitzpatrick argues that most entrepreneurs fail not because they build bad products but because they spend years building products without ever properly validating whether anyone would actually buy them. The book is a ruthlessly practical guide to asking the right questions, interpreting the answers honestly, and using customer conversations to de-risk startup decisions before it's too late.
 
 ## Core Concepts
 

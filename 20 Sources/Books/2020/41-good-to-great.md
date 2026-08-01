@@ -75,4 +75,4 @@ Great companies don't adopt leading-edge technology casually. They use technolog
 
 ---
 
-*Related: [[19-the-7-habits-of-highly-effective-people]], [[06-deep-work]], [[25-essentialism]], [[38-zero-to-one]], [[40-crossing-the-chasm]], [[18-getting-things-down]], [[01-atomic-habits]]*
+*Related: [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]], [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]], [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[18-getting-things-down|18-getting-things-down]], [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]]*

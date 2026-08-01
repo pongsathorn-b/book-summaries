@@ -65,14 +65,14 @@ Your love language is often revealed most clearly by what you complain about mos
 
 ## Controversy/Criticism
 
-The 5 Love Languages has been criticized for oversimplifying the complexity of human relationships — love and connection involve far more than five neat categories, and many people have multiple languages or languages that shift over time and contexts. Some therapists argue that Chapman's framework can inadvertently blame partners who feel unloved rather than addressing deeper attachment injuries or systemic relationship dynamics. The book's heteronormative and often cisgender framing has been noted as limiting for LGBTQ+ couples. More significantly, some psychologists argue that Chapman's model is more prescriptive than research-validated — while enormously popular, it has limited peer-reviewed clinical evidence supporting its efficacy compared to other couples therapy approaches like Emotionally Focused Therapy (see [[112-hold-me-tight]]) or the Gottman method (see [[114-the-seven-principles-for-making-marriage-work]]). The framework's popularity can also lead to people using it as a diagnostic label rather than a starting point for deeper communication.
+The 5 Love Languages has been criticized for oversimplifying the complexity of human relationships — love and connection involve far more than five neat categories, and many people have multiple languages or languages that shift over time and contexts. Some therapists argue that Chapman's framework can inadvertently blame partners who feel unloved rather than addressing deeper attachment injuries or systemic relationship dynamics. The book's heteronormative and often cisgender framing has been noted as limiting for LGBTQ+ couples. More significantly, some psychologists argue that Chapman's model is more prescriptive than research-validated — while enormously popular, it has limited peer-reviewed clinical evidence supporting its efficacy compared to other couples therapy approaches like Emotionally Focused Therapy (see [[20 Sources/Books/2023/112-hold-me-tight.md|112-hold-me-tight]]) or the Gottman method (see [[20 Sources/Books/2023/114-the-seven-principles-for-making-marriage-work.md|114-the-seven-principles-for-making-marriage-work]]). The framework's popularity can also lead to people using it as a diagnostic label rather than a starting point for deeper communication.
 
 ## Related
 
-- [[33-attached]] — attachment theory explains why some people feel anxious or avoidant in relationships regardless of love language
-- [[114-the-seven-principles-for-making-marriage-work]] — Gottman's research-based method complements Chapman's framework with empirical data
-- [[112-hold-me-tight]] — Sue Johnson's emotionally focused therapy addresses the deeper attachment wounds that love languages alone cannot fix
-- [[70-the-power-of-vulnerability]] — Brown's work complements Chapman: speaking love requires emotional courage and vulnerability
+- [[20 Sources/Books/2019/33-attached.md|33-attached]] — attachment theory explains why some people feel anxious or avoidant in relationships regardless of love language
+- [[20 Sources/Books/2023/114-the-seven-principles-for-making-marriage-work.md|114-the-seven-principles-for-making-marriage-work]] — Gottman's research-based method complements Chapman's framework with empirical data
+- [[20 Sources/Books/2023/112-hold-me-tight.md|112-hold-me-tight]] — Sue Johnson's emotionally focused therapy addresses the deeper attachment wounds that love languages alone cannot fix
+- [[20 Sources/Books/2021/70-the-power-of-vulnerability.md|70-the-power-of-vulnerability]] — Brown's work complements Chapman: speaking love requires emotional courage and vulnerability
 
 ## One-Line Takeaway
 

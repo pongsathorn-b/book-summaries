@@ -10,7 +10,7 @@ summary: Tim Ferriss applies his "minimum effective dose" philosophy to fitness,
 
 ## Overview
 
-Tim Ferriss, entrepreneur and author of [[22-the-4-hour-workweek]], turns his systematic "learning to learn" approach onto the human body in this dense, experimental guide. Rather than following conventional fitness wisdom, Ferriss becomes the guinea pig for dozens of unconventional protocols — testing everything from荷尔蒙 manipulation to obscure athletic training methods — all in pursuit of maximum results with minimum time investment. The book is part science journalism, part personal memoir, and part instruction manual, organized around specific physical goals: fat loss, strength, marathon running, rock climbing, and sexual performance.
+Tim Ferriss, entrepreneur and author of [[20 Sources/Books/2019/22-the-4-hour-workweek.md|22-the-4-hour-workweek]], turns his systematic "learning to learn" approach onto the human body in this dense, experimental guide. Rather than following conventional fitness wisdom, Ferriss becomes the guinea pig for dozens of unconventional protocols — testing everything from荷尔蒙 manipulation to obscure athletic training methods — all in pursuit of maximum results with minimum time investment. The book is part science journalism, part personal memoir, and part instruction manual, organized around specific physical goals: fat loss, strength, marathon running, rock climbing, and sexual performance.
 
 ## Core Concepts
 
@@ -59,7 +59,7 @@ The book has drawn criticism from medical professionals for promoting extreme or
 The Four-Hour Body is a fascinating, sometimes reckless compendium of Ferriss's self-experiments that proves extraordinary results are possible with radically targeted (and sometimes dubious) interventions — if you're willing to be your own lab rat.
 
 ## Related Books
-- [[68-why-we-sleep]] — Sleep optimization is one of Ferriss's key protocols
-- [[01-atomic-habits]] — MED philosophy parallels James Clear's focus on marginal gains
-- [[32-the-body-keeps-the-score]] — Trauma and movement patterns discussed
-- [[06-deep-work]] — Both authors share obsession with optimization and productivity
+- [[20 Sources/Books/2021/68-why-we-sleep.md|68-why-we-sleep]] — Sleep optimization is one of Ferriss's key protocols
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — MED philosophy parallels James Clear's focus on marginal gains
+- [[20 Sources/Books/2019/32-the-body-keeps-the-score.md|32-the-body-keeps-the-score]] — Trauma and movement patterns discussed
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — Both authors share obsession with optimization and productivity
