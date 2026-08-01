@@ -32,7 +32,7 @@ Positive thinking often produces fragile optimism. Knight's approach — confron
 
 - [[The Way of the Fight]]
 - [[Can\'t Hurt Me]]
-- [[Mindset]]
+- [[141-mindset-the-new-psychology-of-success]]
 
 ## Similar Notes
 
