@@ -46,8 +46,8 @@ Schools teach what to think, not [[How to Remember]]. Students use laptops as [[
 
 ## Related
 
-- [[Memory Palace]] — the core technique, also in [[Moonwalking with Einstein]] and [[The Memory Book]]
-- [[Spaced Repetition]] — [[Memory Craft]] confirms this alongside [[Memory Palaces]]
-- [[Learning How to Learn]] — [[Barbara Oakley]] on [[Spaced Repetition]] and [[Chunking]]
+- [[Memory Palace]] — the core technique, also in [[08-moonwalking-with-einstein]] and [[10-the-memory-book]]
+- [[Spaced Repetition]] — [[14-memory-craft]] confirms this alongside [[Memory Palaces]]
+- [[11-learning-how-to-learn]] — [[Barbara Oakley]] on [[Spaced Repetition]] and [[Chunking]]
 - [[Songline Method]] — [[Lynne Kelly]]'s unique contribution on [[Spatial Memory]]
 - [[Brain Plasticity]] — [[ Lynne Kelly]] on why these techniques still work
