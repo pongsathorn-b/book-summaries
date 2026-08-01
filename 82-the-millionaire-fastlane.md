@@ -71,4 +71,4 @@ DeMarco argues that wealth is not a noun to be chased — it is an outcome of a 
 
 The Fastlane to wealth isn't gambling on get-rich-quick schemes or working for 40 years on a savings plan — it's identifying a universal human problem and building a system that solves it at scale while you sleep.
 
-[[48 Laws of Power]], [[The Art of War]], [[Influence]], [[Contagious]], [[How to Win Friends]], [[Predictably Irrational]], [[Nudge]], [[Thinking Fast and Slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[Deep Work]], [[The 4-Hour Workweek]], [[Essentialism]], [[The Lean Startup]], [[Zero to One]], [[Blue Ocean Strategy]], [[Ego Is the Enemy]], [[The Obstacle Is the Way]]
+[[48 Laws of Power]], [[13-the-art-of-war]], [[28-influence]], [[29-contagious]], [[How to Win Friends]], [[36-predictably-irrational]], [[37-nudge]], [[04-thinking-fast-and-slow]], [[Loss Aversion]], [[Anchoring Bias]], [[Cognitive Biases]], [[06-deep-work]], [[22-the-4-hour-workweek]], [[25-essentialism]], [[39-the-lean-startup]], [[38-zero-to-one]], [[44-blue-ocean-strategy]], [[61-ego-is-the-enemy]], [[59-the-obstacle-is-the-way]]
