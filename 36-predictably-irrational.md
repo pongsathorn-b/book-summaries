@@ -65,10 +65,10 @@ More choices often make us less happy because we over-optimize, adapt quickly, a
 
 ## Related
 
-- [[Thinking Fast and Slow]] — System 2 decision fatigue and the cognitive costs of too many options
-- [[Predictably Irrational]] — Ariely's behavioral economics of decision-making challenges rational choice theory
-- [[Nudge]] — choice architecture and how defaults shape decisions
+- [[04-thinking-fast-and-slow]] — System 2 decision fatigue and the cognitive costs of too many options
+- [[36-predictably-irrational]] — Ariely's behavioral economics of decision-making challenges rational choice theory
+- [[37-nudge]] — choice architecture and how defaults shape decisions
 - [[Cognitive Biases]] — anchoring, loss aversion, and status quo bias all interact with choice overload
-- [[Essentialism]] — the disciplined pursuit of less is directly opposed to maximum optimization
-- [[Getting Things Done]] — reducing decision overhead through systems and defaults
-- [[Atomic Habits]] — habits as decision automations that bypass choice fatigue
+- [[25-essentialism]] — the disciplined pursuit of less is directly opposed to maximum optimization
+- [[18-getting-things-down]] — reducing decision overhead through systems and defaults
+- [[01-atomic-habits]] — habits as decision automations that bypass choice fatigue
