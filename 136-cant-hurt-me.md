@@ -84,13 +84,13 @@ Goggins also has a complicated relationship with his own mental health. He openl
 
 ## Related Books
 
-- [[The War of Art]] — Pressfield's concept of Resistance is essentially the Goggins "parasite" under another name
-- [[Atomic Habits]] — The habit-systems framework that makes Goggins's intensity sustainable
-- [[The Obstacle Is the Way]] — The stoic framework for transforming obstacles into fuel
-- [[Ego Is the Enemy]] — The ego as the obstacle that Goggins's intensity must continually defeat
-- [[12 Rules for Life]] — Peterson on standing up to chaos with discipline and meaning
+- [[131-the-war-of-art]] — Pressfield's concept of Resistance is essentially the Goggins "parasite" under another name
+- [[01-atomic-habits]] — The habit-systems framework that makes Goggins's intensity sustainable
+- [[59-the-obstacle-is-the-way]] — The stoic framework for transforming obstacles into fuel
+- [[61-ego-is-the-enemy]] — The ego as the obstacle that Goggins's intensity must continually defeat
+- [[05-12-rules-for-life]] — Peterson on standing up to chaos with discipline and meaning
 - [[Man's Search for Meaning]] — Frankl's finding purpose through the acceptance of unavoidable suffering
 - [[Stoicism]] — The philosophical tradition that underpins Goggins's acceptance of pain
 - [[Amor Fati]] — Loving the fate that includes the suffering required for greatness
 - [[Memento Mori]] — Death as the ultimate accountability partner and motivator
-- [[Shoe Dog]] — Knight's memoir of building Nike through relentless obsession and suffering
+- [[88-shoe-dog]] — Knight's memoir of building Nike through relentless obsession and suffering
