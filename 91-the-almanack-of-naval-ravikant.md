@@ -10,7 +10,7 @@ summary: Eric Jorgenson's curated collection of Naval Ravikant's wisdom distills
 
 ## Overview
 
-[[The Almanack of Naval Ravikant]] was compiled by Eric Jorgenson from Naval's extensive writing on Twitter, his Naval Podcast, interviews, and essays. It distills the wisdom of Naval Ravikant — serial entrepreneur, angel investor (Uber, Twitter, Yammer, and 100+ others), and philosophical pragmatist — into a comprehensive guide to wealth and happiness. The book is not a how-to manual but a collection of mental models and principles that Naval has refined through decades of experience, reading, and reflection. Its power lies in the specificity and honesty of its advice, much of which contradicts conventional Silicon Valley and self-help wisdom.
+[[91-the-almanack-of-naval-ravikant]] was compiled by Eric Jorgenson from Naval's extensive writing on Twitter, his Naval Podcast, interviews, and essays. It distills the wisdom of Naval Ravikant — serial entrepreneur, angel investor (Uber, Twitter, Yammer, and 100+ others), and philosophical pragmatist — into a comprehensive guide to wealth and happiness. The book is not a how-to manual but a collection of mental models and principles that Naval has refined through decades of experience, reading, and reflection. Its power lies in the specificity and honesty of its advice, much of which contradicts conventional Silicon Valley and self-help wisdom.
 
 ## Core Concepts
 
