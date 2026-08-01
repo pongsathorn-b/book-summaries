@@ -72,11 +72,11 @@ The book has been criticized for a certain elitism — the emphasis on \"purpose
 
 ## Related
 
-- [[Talk Like TED]] — Gall's framework for memorable presentations connects with Parker's attention to opening, tension, and purpose
+- [[66-talk-like-ted]] — Gall's framework for memorable presentations connects with Parker's attention to opening, tension, and purpose
 - [[Crucial Conversations]] — the facilitation skills Parker describes overlap with tools for high-stakes dialogue
 - [[How to Win Friends]] — Carnegie's warmth and hospitality wisdom complements Parker's more structured approach
-- [[Essentialism]] — the discipline of focusing on what matters (essentialism) parallels Parker's insistence on clear purpose before gathering design
-- [[Start with Why]] — Simon Sinek's framework for purpose-driven leadership connects with Parker's emphasis on starting with why before designing how
+- [[25-essentialism]] — the discipline of focusing on what matters (essentialism) parallels Parker's insistence on clear purpose before gathering design
+- [[67-start-with-why]] — Simon Sinek's framework for purpose-driven leadership connects with Parker's emphasis on starting with why before designing how
 
 ## One-Line Takeaway
 

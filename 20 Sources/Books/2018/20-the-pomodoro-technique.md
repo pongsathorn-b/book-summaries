@@ -37,7 +37,7 @@ summary: Work in 25-minute focused sprints with 5-minute breaks to sustain atten
 - Breaks are not optional — the brain's attentional resources deplete and require recovery
 - The "do not interrupt" rule protects your pomodoro from yourself and others
 - Multi-tasking destroys pomodoro effectiveness: one task per pomodoro at minimum
-- [[Getting Things Done]]'s next-action clarity pairs perfectly with pomodoro execution
+- [[18-getting-things-down]]'s next-action clarity pairs perfectly with pomodoro execution
 
 ## Practical Applications
 

@@ -50,8 +50,8 @@ Living authentically means your actions align with your examined values — not 
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — ancient practice of [[Values Clarification]]
 - [[12 Rules for Life]] — [[30 Knowledge/People/Jordan-Peterson|Jordan Peterson]] on finding meaning through responsibility
 - [[Man's Search for Meaning]] — [[Viktor Frankl]] on finding meaning through [[Values]]
-- [[Siddhartha]] — the journey to [[Authentic Living]]
-- [[Letters to a Young Poet]] — on [[Values Clarification]] and [[Art as Life Purpose]]
+- [[56-siddhartha]] — the journey to [[Authentic Living]]
+- [[54-letters-to-a-young-poet]] — on [[Values Clarification]] and [[Art as Life Purpose]]
 
 ## One-Line Takeaway
 

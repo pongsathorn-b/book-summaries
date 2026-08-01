@@ -10,7 +10,7 @@ summary: Identify the vital few and eliminate the trivial many — effectiveness
 
 ## Overview
 
-[[Essentialism]] by [[Greg McKeown]] is the philosophical and practical case for systematic prioritization. The book argues that non-essentialists try to do everything for everyone, accumulating busyness and mediocrity, while essentialists invest their limited time and energy in the few things that truly matter. Drawing from Pareto's 80/20 rule and the wisdom of figures like Warren Buffett ("The difference between successful people and really successful people is that really successful people say no to almost everything"), McKeown provides both the mindset shift and the operational tactics to systematically pursue less but better.
+[[25-essentialism]] by [[Greg McKeown]] is the philosophical and practical case for systematic prioritization. The book argues that non-essentialists try to do everything for everyone, accumulating busyness and mediocrity, while essentialists invest their limited time and energy in the few things that truly matter. Drawing from Pareto's 80/20 rule and the wisdom of figures like Warren Buffett ("The difference between successful people and really successful people is that really successful people say no to almost everything"), McKeown provides both the mindset shift and the operational tactics to systematically pursue less but better.
 
 ## Core Concepts
 
@@ -27,7 +27,7 @@ summary: Identify the vital few and eliminate the trivial many — effectiveness
 ## Key Lessons
 
 - "Hell yes or no" — every maybe is a no in disguise; the threshold for saying yes must be high
-- [[The 4-Hour Workweek]]'s "selective ignorance" and Ferriss's 80/20 application are McKeown's efficiency cousin
+- [[22-the-4-hour-workweek]]'s "selective ignorance" and Ferriss's 80/20 application are McKeown's efficiency cousin
 - The Obstacle Course: before executing, identify what obstacles exist between you and the essential — clear the path, don't just add tasks
 - "Essential" is defined by alignment with your values and goals — not by urgency, other people's demands, or market noise
 - Play and sleep are essential, not luxuries — McKeown explicitly rejects the grind culture that treats rest as waste

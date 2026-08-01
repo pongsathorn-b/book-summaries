@@ -77,4 +77,4 @@ Innovators and early adopters inhabit different "worlds" — they value novelty,
 
 ---
 
-*Related: [[Zero to One]], [[The Lean Startup]], [[The Innovator's Dilemma]], [[Blue Ocean Strategy]], [[Good to Great]], [[Influence]], [[Contagious]]*
+*Related: [[38-zero-to-one]], [[39-the-lean-startup]], [[The Innovator's Dilemma]], [[44-blue-ocean-strategy]], [[41-good-to-great]], [[28-influence]], [[29-contagious]]*

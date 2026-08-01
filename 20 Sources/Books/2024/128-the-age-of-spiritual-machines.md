@@ -88,10 +88,10 @@ Kurzweil's most controversial claim: that consciousness is substrate-independent
 
 ## Related Books
 
-- [[The Singularity Is Near]] — The direct sequel and more comprehensive technical treatment; the two books should be read together
-- [[Superintelligence]] — Bostrom's more cautious and philosophically rigorous analysis of the same phenomenon
-- [[Life 3.0]] — Tegmark's more measured and interdisciplinary update on these questions
-- [[The Second Machine Age]] — Brynjolfsson & McAfee's empirically grounded economic analysis
-- [[Thinking Fast and Slow]] — Relevant to understanding which cognitive tasks AI has already surpassed and which remain difficult
-- [[The Black Swan]] — Taleb's skepticism about prediction is a useful counterweight to Kurzweil's confidence
-- [[Fooled by Randomness]] — Relevant to understanding the role of luck in technological success stories
+- [[121-the-singularity-is-near]] — The direct sequel and more comprehensive technical treatment; the two books should be read together
+- [[122-superintelligence]] — Bostrom's more cautious and philosophically rigorous analysis of the same phenomenon
+- [[123-life-3-0]] — Tegmark's more measured and interdisciplinary update on these questions
+- [[129-the-second-machine-age]] — Brynjolfsson & McAfee's empirically grounded economic analysis
+- [[04-thinking-fast-and-slow]] — Relevant to understanding which cognitive tasks AI has already surpassed and which remain difficult
+- [[93-the-black-swan]] — Taleb's skepticism about prediction is a useful counterweight to Kurzweil's confidence
+- [[95-fooled-by-randomness]] — Relevant to understanding the role of luck in technological success stories

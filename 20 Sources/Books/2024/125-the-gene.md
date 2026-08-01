@@ -82,9 +82,9 @@ Mukherjee, as an oncologist, brings special authority to cancer genetics. Cancer
 
 ## Related Books
 
-- [[The Code Breaker]] — Isaacson's account of CRISPR gene editing, which extends and updates Mukherjee's story into the editing era
-- [[Thinking Fast and Slow]] — Kahneman's exploration of cognitive biases is relevant to understanding why genetic determinism is so psychologically appealing
-- [[The Almanack of Naval Ravikant]] — Naval's discussions of wealth and knowledge creation are relevant to the economics of genetic medicine
+- [[124-the-code-breaker]] — Isaacson's account of CRISPR gene editing, which extends and updates Mukherjee's story into the editing era
+- [[04-thinking-fast-and-slow]] — Kahneman's exploration of cognitive biases is relevant to understanding why genetic determinism is so psychologically appealing
+- [[91-the-almanack-of-naval-ravikant]] — Naval's discussions of wealth and knowledge creation are relevant to the economics of genetic medicine
 - [[Thinking in Systems]] — Understanding genes as nodes in biological networks rather than discrete causal agents
-- [[Atomic Habits]] — The science of habit formation intersects with genetic predispositions toward addiction and compulsion
-- [[Skin in the Game]] — The importance of those affected by genetic decisions (children, future generations) having a voice in the decisions
+- [[01-atomic-habits]] — The science of habit formation intersects with genetic predispositions toward addiction and compulsion
+- [[94-skin-in-the-game]] — The importance of those affected by genetic decisions (children, future generations) having a voice in the decisions

@@ -81,8 +81,8 @@ The novel is structured as a literal journey across the river and a metaphorical
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Love of everything that happens, including the suffering
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The dissolution of time's power over us
 - [[Nietzsche]] — Hesse's interest in Dionysian unity and the death of conventional categories
-- [[The Art of Seduction]] — Kamala's teaching as counterpoint to Greene's manipulation
-- [[The Art of War]] — The journey as campaign, with setbacks and necessary defeats
+- [[09-the-art-of-seduction]] — Kamala's teaching as counterpoint to Greene's manipulation
+- [[13-the-art-of-war]] — The journey as campaign, with setbacks and necessary defeats
 
 ---
 

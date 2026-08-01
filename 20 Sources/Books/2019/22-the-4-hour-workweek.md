@@ -18,10 +18,10 @@ summary: Escape the 9-5 prison through selective ignorance, lifestyle design, an
 - **Dreamlining** — Define what you want, calculate the cost, then reverse-engineer how to earn that much with 4 hours of work per week. "What would I do if I could work 4 hours a week? Now: how do I earn that in a month?"
 - **DEAL Method**:
   - **D**efinition — Redefine success; challenge the "work hard, retire late" bargain
-  - **E**limination — Apply the 80/20 rule ruthlessly; batch low-value tasks; implement [[Pomodoro Technique]]-style time blocking
+  - **E**limination — Apply the 80/20 rule ruthlessly; batch low-value tasks; implement [[20-the-pomodoro-technique]]-style time blocking
   - **A**utomation — Build systems that earn money while you sleep (outsourcing, passive income, products)
   - **L**iberation — Escape the office through remote work negotiation, mini-retirements, and location freedom
-- **Selective Ignorance** — Not all opportunities deserve attention. [[Essentialism]]'s "hell yes or no" is Ferriss's 80/20 applied to information consumption.
+- **Selective Ignorance** — Not all opportunities deserve attention. [[25-essentialism]]'s "hell yes or no" is Ferriss's 80/20 applied to information consumption.
 - **Parkinson's Law Revised** — A task swells in importance and complexity in proportion to the time allocated. Limit time; quality follows.
 - **Mini-Retirements** — Break up retirement into multiple life experiences throughout life, not one long period at the end.
 
@@ -41,7 +41,7 @@ summary: Escape the 9-5 prison through selective ignorance, lifestyle design, an
 3. Batch email: check and respond twice per day maximum — eliminate "just in case" communication
 4. Hire a virtual assistant (even part-time) for tasks that don't require your specific skills
 5. Run a "mini-retirement experiment" — take 1 month off to test what you'd actually do with freedom
-6. Use the [[Getting Things Done]] weekly review to ensure you're working on the right things, not just more things
+6. Use the [[18-getting-things-down]] weekly review to ensure you're working on the right things, not just more things
 7. Negotiate remote work with current employer using Ferriss's "results-only work environment" (ROWE) pitch
 
 ## Controversy / Criticism
@@ -59,7 +59,7 @@ Stop deferring life to retirement — design your lifestyle now by eliminating l
 
 ## Related Books
 
-- [[Essentialism]] — the disciplined pursuit of less is the philosophical complement to Ferriss's selective ignorance
-- [[Getting Things Done]] — Ferriss's elimination and batching tactics pair with GTD's task management
-- [[The 7 Habits of Highly Effective People]] — Covey's Habit 2 ("Begin with End in Mind") is Ferriss's dreamlining in a different vocabulary
-- [[Indistractable]] — freedom from office is external; Indistractable tackles internal freedom from distraction
+- [[25-essentialism]] — the disciplined pursuit of less is the philosophical complement to Ferriss's selective ignorance
+- [[18-getting-things-down]] — Ferriss's elimination and batching tactics pair with GTD's task management
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's Habit 2 ("Begin with End in Mind") is Ferriss's dreamlining in a different vocabulary
+- [[24-indistractable]] — freedom from office is external; Indistractable tackles internal freedom from distraction

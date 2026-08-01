@@ -95,13 +95,13 @@ Kurzweil's predictions have been subjected to serious criticism from peers:
 
 ## Related Books
 
-- [[Superintelligence]] — Nick Bostrom's analysis of the risks of AI surpassing human intelligence, a crucial counterpoint emphasizing danger over optimism
-- [[Life 3.0]] — Max Tegmark's more measured and philosophically rigorous exploration of AI's impact on life
-- [[The Age of Spiritual Machines]] — Kurzweil's earlier (1999) work, the direct predecessor to this book
-- [[The Second Machine Age]] — Brynjolfsson & McAfee's empirically grounded analysis of how digital technology is transforming the economy
-- [[Thinking Fast and Slow]] — Kahneman's exploration of human cognitive limitations, relevant to understanding what machine intelligence might surpass
-- [[The Black Swan]] — Taleb's critique of prediction, particularly relevant to bold futurist claims
-- [[Fooled by Randomness]] — Taleb's warning about overestimating our ability to see patterns in complex systems
+- [[122-superintelligence]] — Nick Bostrom's analysis of the risks of AI surpassing human intelligence, a crucial counterpoint emphasizing danger over optimism
+- [[123-life-3-0]] — Max Tegmark's more measured and philosophically rigorous exploration of AI's impact on life
+- [[128-the-age-of-spiritual-machines]] — Kurzweil's earlier (1999) work, the direct predecessor to this book
+- [[129-the-second-machine-age]] — Brynjolfsson & McAfee's empirically grounded analysis of how digital technology is transforming the economy
+- [[04-thinking-fast-and-slow]] — Kahneman's exploration of human cognitive limitations, relevant to understanding what machine intelligence might surpass
+- [[93-the-black-swan]] — Taleb's critique of prediction, particularly relevant to bold futurist claims
+- [[95-fooled-by-randomness]] — Taleb's warning about overestimating our ability to see patterns in complex systems
 
 ---
 

@@ -59,11 +59,11 @@ Sinek makes the counterintuitive argument that great leaders are also great foll
 
 ## Related
 
-- [[Start With Why]] — the foundational "why first" framework [[Start With Why]] that precedes this book's how
-- [[The 7 Habits]] — Covey's "seek first to understand, then to be understood" [[The 7 Habits]] is the relational foundation Sinek builds on
-- [[Deep Work]] — Cal Newport's [[Deep Work]] is possible only in environments where people feel safe from interruption and surveillance
-- [[Essentialism]] — Greg McKeown's [[Essentialism]] — saying no to the urgent in service of the important — is easier in a circle of safety
-- [[Indistractable]] — Nir Eyal's [[Indistractable]] explores how psychological safety and belonging relate to the modern epidemic of distraction
+- [[67-start-with-why]] — the foundational "why first" framework [[67-start-with-why]] that precedes this book's how
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's "seek first to understand, then to be understood" [[19-the-7-habits-of-highly-effective-people]] is the relational foundation Sinek builds on
+- [[06-deep-work]] — Cal Newport's [[06-deep-work]] is possible only in environments where people feel safe from interruption and surveillance
+- [[25-essentialism]] — Greg McKeown's [[25-essentialism]] — saying no to the urgent in service of the important — is easier in a circle of safety
+- [[24-indistractable]] — Nir Eyal's [[24-indistractable]] explores how psychological safety and belonging relate to the modern epidemic of distraction
 
 ## One-Line Takeaway
 

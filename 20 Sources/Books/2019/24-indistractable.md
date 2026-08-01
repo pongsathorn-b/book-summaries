@@ -27,7 +27,7 @@ summary: Master internal triggers (feelings, thoughts) and external triggers (en
 - The #1 cause of distraction is unaddressed internal discomfort — not the phone itself
 - When you feel the urge to check your phone, identify the underlying feeling first: Am I anxious? Bored? Lonely?
 - External triggers are a choice — you can redesign your environment to make distraction harder and traction easier
-- [[The 4-Hour Workweek]]'s batch-and-eliminate approach is Eyal's external trigger elimination at scale
+- [[22-the-4-hour-workweek]]'s batch-and-eliminate approach is Eyal's external trigger elimination at scale
 - Reflection without action is rumination — Indistractable requires both metacognition and behavior change
 - You can be indistractable in service of others (responding to genuine needs) or in service of yourself
 - Making a pre-commitment ("I will work for 45 minutes before checking messages") transforms internal triggers from enemies to allies

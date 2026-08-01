@@ -70,4 +70,4 @@ Ries identifies three engines that drive sustainable startup growth: *sticky* (c
 
 ---
 
-*Related: [[Zero to One]], [[Crossing the Chasm]], [[The Startup Owner's Manual]], [[The Innovator's Dilemma]], [[Deep Work]], [[Getting Things Done]], [[Atomic Habits]]*
+*Related: [[38-zero-to-one]], [[40-crossing-the-chasm]], [[The Startup Owner's Manual]], [[The Innovator's Dilemma]], [[06-deep-work]], [[18-getting-things-down]], [[01-atomic-habits]]*

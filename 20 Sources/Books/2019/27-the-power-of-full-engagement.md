@@ -10,7 +10,7 @@ summary: Managing energy, not time, is the key to sustainable high performance �
 
 ## Overview
 
-[[The Power of Full Engagement]] by [[Jim Loehr]] (performance psychologist) and [[Tony Schwartz]] (founder of The Energy Project) challenges the time management paradigm directly: managing time is insufficient because time is fixed — you cannot create more of it. Energy, however, is renewable and expandable. The book presents a framework for managing energy across four dimensions — physical, emotional, mental, and spiritual — arguing that sustained high performance requires deliberate renewal and expansion of energy in each dimension. This is the foundational text for the "energy management" movement that has influenced corporate wellness programs worldwide.
+[[27-the-power-of-full-engagement]] by [[Jim Loehr]] (performance psychologist) and [[Tony Schwartz]] (founder of The Energy Project) challenges the time management paradigm directly: managing time is insufficient because time is fixed — you cannot create more of it. Energy, however, is renewable and expandable. The book presents a framework for managing energy across four dimensions — physical, emotional, mental, and spiritual — arguing that sustained high performance requires deliberate renewal and expansion of energy in each dimension. This is the foundational text for the "energy management" movement that has influenced corporate wellness programs worldwide.
 
 ## Core Concepts
 
@@ -32,7 +32,7 @@ summary: Managing energy, not time, is the key to sustainable high performance �
 - [[30 Knowledge/Concepts/make-time|Make Time]]'s daily tactics and [[Indistractable]]'s attention management are downstream applications of Loehr and Schwartz's energy framework
 - Emotional energy is not "soft" — confidence, optimism, and enthusiasm have measurable performance impacts
 - Spiritual energy (purpose, values) is the deepest source of sustainable motivation — without it, other energy dimensions deplete faster
-- [[Eat That Frog!]]'s morning willpower insight aligns with the book's finding that physical energy peaks in the morning for most people
+- [[21-eat-that-frog]]'s morning willpower insight aligns with the book's finding that physical energy peaks in the morning for most people
 - Strategic recovery is not optional — it is the investment that makes sustained high performance possible
 
 ## The Energy Management Daily Cycle
@@ -58,7 +58,7 @@ SPRINT (Expend Energy) → RECOVERY (Restore Energy) → EXPANSION (Grow Capacit
 - The book's science is sometimes oversimplified — some claims about energy "expansion" lack rigorous peer-reviewed support
 - "Becoming a corporate athlete" language can feel like another productivity hustle — more jargon for working harder
 - The spiritual dimension, while the most profound, is the least developed — readers seeking deep meaning-making frameworks need additional resources
-- [[Deep Work]] (Cal Newport) is a complementary but sometimes contradictory perspective — Loehr/Schwartz focus on energy management while Newport focuses on cognitive depth
+- [[06-deep-work]] (Cal Newport) is a complementary but sometimes contradictory perspective — Loehr/Schwartz focus on energy management while Newport focuses on cognitive depth
 - The book is somewhat dated (2003) — modern research on sleep, nutrition, and cognitive performance has advanced
 
 ## One-Line Takeaway
@@ -69,5 +69,5 @@ Energy is the true currency of high performance — strategically manage physica
 
 - [[30 Knowledge/Concepts/make-time|Make Time]] — Knapp and Zeratsky's daily energy tactics are practical applications of the Energy Project's framework
 - [[Getting Results the Agile Way]] — Meier explicitly credits Loehr/Schwartz's energy model as foundational to his approach
-- [[The 7 Habits of Highly Effective People]] — Covey's "Sharpen the Saw" (Habit 7) is the habit-based cousin of full engagement thinking
-- [[Eat That Frog!]] — morning frog-eating aligns with energy management: use peak physical energy for hardest cognitive tasks
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's "Sharpen the Saw" (Habit 7) is the habit-based cousin of full engagement thinking
+- [[21-eat-that-frog]] — morning frog-eating aligns with energy management: use peak physical energy for hardest cognitive tasks

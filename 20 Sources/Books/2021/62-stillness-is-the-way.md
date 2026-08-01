@@ -41,7 +41,7 @@ The Stoics were prolific journalers. Marcus Aurelius's *Meditations* is itself a
 - Identify patterns in your emotional responses
 - Hold yourself accountable to your own standards
 
-This practice is also central to [[Getting Things Done]] — capturing thoughts so they don't occupy working memory.
+This practice is also central to [[18-getting-things-down]] — capturing thoughts so they don't occupy working memory.
 
 ### What You Can't Control: The Stoic Boundary
 
@@ -64,9 +64,9 @@ The deepest form of stillness is **acceptance** — loving what is, not just tol
 5. **Accept what happens as necessary.** *Amor fati* is not resignation — it is the recognition that reality is already unfolding, and resistance only causes suffering.
 6. **Protect your attention.** Distraction is not a minor inconvenience — it is a fundamental threat to a meaningful life. Build systems around your attention the way you'd build systems around any other precious resource.
 7. **Purpose requires solitude.** Some decisions, some creativity, some leadership — all of it requires time alone. Without it, you are always reacting instead of choosing.
-8. **Busyness is not productivity.** The person who never stops moving is usually the one getting the least done. [[Deep Work]] requires periods of nothing.
+8. **Busyness is not productivity.** The person who never stops moving is usually the one getting the least done. [[06-deep-work]] requires periods of nothing.
 9. **Retreat to advance.** Every significant strategic decision in history was made after a period of withdrawal. The general who retreats to consider the battle often wins it.
-10. **Make stillness a practice, not a treat.** It shouldn't be something you do on vacation — it should be as regular as brushing your teeth. [[Atomic Habits]] and habit stacking apply here.
+10. **Make stillness a practice, not a treat.** It shouldn't be something you do on vacation — it should be as regular as brushing your teeth. [[01-atomic-habits]] and habit stacking apply here.
 
 ## Practical Applications
 

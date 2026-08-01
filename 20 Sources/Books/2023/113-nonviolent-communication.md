@@ -77,10 +77,10 @@ Critics argue that NVC can feel robotic or formulaic when applied rigidly, and t
 ## Related
 
 - [[Crucial Conversations]] — provides complementary tools for high-stakes dialogue when emotions run hot
-- [[The 5 Love Languages]] — complements NVC by identifying the specific emotional languages through which partners express needs
-- [[Influence]] — understanding how communication can be used manipulatively helps NVC practitioners recognize when it's being weaponized
+- [[111-the-5-love-languages]] — complements NVC by identifying the specific emotional languages through which partners express needs
+- [[28-influence]] — understanding how communication can be used manipulatively helps NVC practitioners recognize when it's being weaponized
 - [[The Righteous Mind]] — Haidt's moral foundations research helps explain why NVC's refusal to judge can feel threatening to people whose moral intuitions run differently
-- [[Social Intelligence]] — emotional attunement skills that support the empathetic listening central to NVC
+- [[34-social-intelligence]] — emotional attunement skills that support the empathetic listening central to NVC
 
 ## One-Line Takeaway
 

@@ -23,7 +23,7 @@ summary: A brain injury survivor becomes a world memory champion — the techniq
 
 ### [[30 Knowledge/Concepts/memory-palace|Memory Palace]]
 
-Same technique as [[Moonwalking with Einstein]] and [[The Memory Book]]:
+Same technique as [[08-moonwalking-with-einstein]] and [[10-the-memory-book]]:
 
 1. Build a mental [[30 Knowledge/Concepts/memory-palace|Memory Palace]] — a familiar place you know in detail
 2. Place vivid, bizarre mental images

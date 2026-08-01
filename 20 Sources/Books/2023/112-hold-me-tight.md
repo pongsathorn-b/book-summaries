@@ -75,11 +75,11 @@ Some critics argue that Johnson's EFT model, while effective for many couples, m
 
 ## Related
 
-- [[Attached]] — Amir Levi's book applies adult attachment theory to dating and relationships
-- [[The 5 Love Languages]] — complements Hold Me Tight by identifying the specific languages through which partners give and receive love
-- [[Nonviolent Communication]] — Marshall Rosenberg's model provides the communication tools for expressing the vulnerable needs Johnson identifies
-- [[The Seven Principles for Making Marriage Work]] — Gottman's research on marriage repair complements EFT's attachment focus
-- [[The Power of Vulnerability]] — Brené Brown's research on vulnerability and shame aligns with Johnson's emphasis on emotional courage in relationships
+- [[33-attached]] — Amir Levi's book applies adult attachment theory to dating and relationships
+- [[111-the-5-love-languages]] — complements Hold Me Tight by identifying the specific languages through which partners give and receive love
+- [[113-nonviolent-communication]] — Marshall Rosenberg's model provides the communication tools for expressing the vulnerable needs Johnson identifies
+- [[114-the-seven-principles-for-making-marriage-work]] — Gottman's research on marriage repair complements EFT's attachment focus
+- [[70-the-power-of-vulnerability]] — Brené Brown's research on vulnerability and shame aligns with Johnson's emphasis on emotional courage in relationships
 
 ## One-Line Takeaway
 

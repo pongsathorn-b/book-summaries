@@ -85,8 +85,8 @@ Nietzsche is one of the most controversial philosophers in history, and **Beyond
 - [[Plato]] — Nietzsche famously declared "Plato is boring" — a fundamental break with Western rationalism
 - [[Machiavelli]] — The Prince and the critique of conventional morality share a cold-eyed realism
 - [[Victor Frankl]] — Will to meaning as a humanistic counterpoint to will to power
-- [[The Art of War]] — Strategic consciousness without moralizing
-- [[Chanakya Neeti]] — Realpolitik and power as separate from moralizing
+- [[13-the-art-of-war]] — Strategic consciousness without moralizing
+- [[12-chanakya-neeti]] — Realpolitik and power as separate from moralizing
 
 ---
 

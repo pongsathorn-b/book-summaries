@@ -81,11 +81,11 @@ Plato's Kallipolis is built on **education**, not legislation. The entire struct
 - [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius as a philosopher-ruler who grappled with Plato's legacy
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — The alternative view that the wise person rules themselves, not cities
 - [[Machiavelli]] — The Prince as a repudiation of Platonic ideal governance
-- [[The Art of War]] — Military and strategic dimensions of ruling
-- [[Chanakya Neeti]] — Indian parallel: the wise advisor who combines philosophy with realpolitik
+- [[13-the-art-of-war]] — Military and strategic dimensions of ruling
+- [[12-chanakya-neeti]] — Indian parallel: the wise advisor who combines philosophy with realpolitik
 - [[Nietzsche]] — Nietzsche's famous hostility to Plato as the origin of "the world of shadows"
 - [[Victor Frankl]] — Meaning found not in abstract Forms but in concrete human situations
-- [[The Art of Seduction]] — How rulers use illusions to control the cave-dwellers
+- [[09-the-art-of-seduction]] — How rulers use illusions to control the cave-dwellers
 
 ---
 

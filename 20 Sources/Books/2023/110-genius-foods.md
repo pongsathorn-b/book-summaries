@@ -51,7 +51,7 @@ Lugavere explores evidence that certain foods and dietary patterns can enhance c
 - **Consume berries daily**: One cup of mixed berries provides polyphenols that stimulate BDNF and support neuroplasticity
 - **Get vitamin D levels tested and supplement if needed**: Target 40–60 ng/mL of 25-hydroxyvitamin D; most people need 2,000–5,000 IU daily to reach this range
 - **Practice 14-hour overnight fasts**: Stop eating after dinner and don't eat until breakfast 14 hours later to elevate ketone production and trigger cellular cleaning
-- **Prioritize sleep as a brain health intervention**: Use [[Why We Sleep]] protocols to optimize sleep quality and glymphatic clearance
+- **Prioritize sleep as a brain health intervention**: Use [[68-why-we-sleep]] protocols to optimize sleep quality and glymphatic clearance
 
 ## Controversy/Criticism
 
@@ -62,7 +62,7 @@ The book has been criticized for relying heavily on preliminary or observational
 Genius Foods provides a practical, well-researched (if sometimes overhyped) guide to brain-healthy eating that makes a compelling case that dietary choices are the most powerful tool most people have for protecting and enhancing cognitive function throughout life.
 
 ## Related Books
-- [[Why We Sleep]] — Sleep is the brain's primary cleaning and restoration process; both books emphasize sleep optimization
+- [[68-why-we-sleep]] — Sleep is the brain's primary cleaning and restoration process; both books emphasize sleep optimization
 - [[Welcome to Your Brain]] — A more academic treatment of brain science that provides the neurological foundations for Lugavere's recommendations
 - [[Brain Plasticity]] — The concept of neuroplasticity underpins the book's argument that dietary changes can actually reverse cognitive decline
 - [[Deep Nutrition]] — Shanahan's epigenetic framework complements Lugavere's brain-specific focus on dietary fat and micronutrients

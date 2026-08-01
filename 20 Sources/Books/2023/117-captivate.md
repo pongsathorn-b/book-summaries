@@ -88,10 +88,10 @@ The book has been criticized for its self-help tone and for occasionally oversim
 ## Related
 
 - [[How to Win Friends]] — Carnegie's foundational advice on making people feel important complements Captivate's behavioral science framework
-- [[Social Intelligence]] — Goleman's emotional intelligence research provides deeper context for Captivate's social signals
-- [[Influence]] — Cialdini's persuasion science complements Captivate's rapport-building tools
-- [[The Like Switch]] — Schafer's friendship formula provides additional research on the specific signals that trigger liking
-- [[Charisma on Command]] — Houpert's practical charisma guide takes Captivate's science into more applied, high-impact social territory
+- [[34-social-intelligence]] — Goleman's emotional intelligence research provides deeper context for Captivate's social signals
+- [[28-influence]] — Cialdini's persuasion science complements Captivate's rapport-building tools
+- [[119-the-like-switch]] — Schafer's friendship formula provides additional research on the specific signals that trigger liking
+- [[118-charisma-on-command]] — Houpert's practical charisma guide takes Captivate's science into more applied, high-impact social territory
 
 ## One-Line Takeaway
 

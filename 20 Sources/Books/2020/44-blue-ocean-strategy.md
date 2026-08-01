@@ -84,4 +84,4 @@ A structured tool used to force trade-off decisions. Teams must fill out the gri
 
 ---
 
-*Related: [[Zero to One]], [[Crossing the Chasm]], [[Good to Great]], [[The Lean Startup]], [[The Innovator's Dilemma]], [[Essentialism]], [[Influence]]*
+*Related: [[38-zero-to-one]], [[40-crossing-the-chasm]], [[41-good-to-great]], [[39-the-lean-startup]], [[The Innovator's Dilemma]], [[25-essentialism]], [[28-influence]]*

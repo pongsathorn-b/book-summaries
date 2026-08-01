@@ -80,9 +80,9 @@ While Gottman's research is among the most rigorous in couples psychology, some 
 
 ## Related
 
-- [[Attached]] — attachment theory complements Gottman's behavioral research with a deeper understanding of how early relational experiences shape adult love
-- [[Hold Me Tight]] — Sue Johnson's EFT approach addresses the emotional attachment wounds that Gottman identifies as drivers of conflict
-- [[The 5 Love Languages]] — Chapman's love languages framework can help couples implement Gottman's finding that fondness and admiration predict marital success
+- [[33-attached]] — attachment theory complements Gottman's behavioral research with a deeper understanding of how early relational experiences shape adult love
+- [[112-hold-me-tight]] — Sue Johnson's EFT approach addresses the emotional attachment wounds that Gottman identifies as drivers of conflict
+- [[111-the-5-love-languages]] — Chapman's love languages framework can help couples implement Gottman's finding that fondness and admiration predict marital success
 - [[Crucial Conversations]] — provides complementary tools for high-stakes dialogue when flooding threatens productive communication
 - [[Give and Take]] — Grant's research on reciprocity and generosity in relationships complements Gottman's 5:1 positive-to-negative ratio findings
 

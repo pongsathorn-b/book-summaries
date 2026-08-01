@@ -37,7 +37,7 @@ Haidt's famous **social intuitionist model** proposes that moral judgment happen
 
 2. **Reasoned justification (slow):** After the judgment, your conscious reasoning kicks in to find reasons that support your intuition. You are, in effect, a lawyer arguing for a verdict your "gut" has already reached.
 
-This means that moral reasoning is less about *finding* truth and more about *defending* intuitions and *persuading* others. This connects deeply to [[Thinking Fast and Slow]] — System 1 (fast, intuitive) and System 2 (slow, deliberate).
+This means that moral reasoning is less about *finding* truth and more about *defending* intuitions and *persuading* others. This connects deeply to [[04-thinking-fast-and-slow]] — System 1 (fast, intuitive) and System 2 (slow, deliberate).
 
 ### The "Elephant and the Rider"
 

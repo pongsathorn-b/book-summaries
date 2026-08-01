@@ -65,7 +65,7 @@ Pink devotes a chapter to the damaging effects of **external evaluation and moni
 7. **Competition works better for simple tasks.** Intrinsic motivation (mastery, purpose) drives long-term creative output; extrinsic competition drives short-term mechanical output.
 8. **Type I behavior outperforms Type X behavior.** Type X behavior is externally driven, short-term focused, and rewards-dependent. Type I is self-directed, long-term focused, and driven by intrinsic interest. Type I wins in knowledge work.
 9. **The best managers create conditions for self-motivation.** Management's job is not to push people harder — it is to remove obstacles to engagement, autonomy, and purpose.
-10. **Satisfaction comes from progress, not just outcomes.** The process of getting better — the small improvements, the visible growth — is itself a powerful motivator. This connects to [[Atomic Habits]] and the compound effect of small improvements.
+10. **Satisfaction comes from progress, not just outcomes.** The process of getting better — the small improvements, the visible growth — is itself a powerful motivator. This connects to [[01-atomic-habits]] and the compound effect of small improvements.
 
 ## Practical Applications
 

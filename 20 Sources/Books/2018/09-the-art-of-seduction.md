@@ -53,7 +53,7 @@ Politicians, cult leaders, and marketers all use the same [[Seduction Principles
 
 ## Related
 
-- [[48 Laws of Power]] — [[Power Dynamics]] and [[Influence]] foundations
-- [[The Art of War]] — [[Strategic Positioning]] and [[Misdirection]]
-- [[Influence]] — the psychology of [[Persuasion]]
+- [[48 Laws of Power]] — [[Power Dynamics]] and [[28-influence]] foundations
+- [[13-the-art-of-war]] — [[Strategic Positioning]] and [[Misdirection]]
+- [[28-influence]] — the psychology of [[Persuasion]]
 - [[Reputation]] — [[Seduction]] is ultimately about [[Reputation Management]]

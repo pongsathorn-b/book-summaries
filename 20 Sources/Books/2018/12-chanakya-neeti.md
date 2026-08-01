@@ -51,7 +51,7 @@ Test a person's character before trusting them:
 
 ## Related
 
-- [[The Art of War]] — ancient parallel on [[Military Strategy]] and [[Statecraft]]
+- [[13-the-art-of-war]] — ancient parallel on [[Military Strategy]] and [[Statecraft]]
 - [[48 Laws of Power]] — [[Power Dynamics]] and [[Political Strategy]]
 - [[30 Knowledge/Concepts/meditations|Meditations]] — similar ancient [[Stoic]] [[Leadership Wisdom]]
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — [[Chanakya]] and [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] share [[30 Knowledge/Concepts/detachment|Detachment]] and [[Virtue]] emphasis

@@ -48,7 +48,7 @@ Make good habits easier and bad habits harder.
 - Place fruit at eye level, delete social media apps
 
 ### The Plateau of Latent Potential
-The most powerful outcomes come from systems that work for years before a breakthrough. [[Deep Work]] and [[Atomic Habits]] share this insight: consistency compounds.
+The most powerful outcomes come from systems that work for years before a breakthrough. [[06-deep-work]] and [[01-atomic-habits]] share this insight: consistency compounds.
 
 ## For Founders
 

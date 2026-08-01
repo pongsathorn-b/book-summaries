@@ -83,7 +83,7 @@ Rilke believed each person has a **unique way of being in the world** that must 
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Love of fate including its difficult passages
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the great simplifier and clarifier
 - [[Nietzsche]] — The inward journey and the death of conventional values
-- [[The Art of Seduction]] — The interior life Rilke would have found vulgar but instructive as contrast
+- [[09-the-art-of-seduction]] — The interior life Rilke would have found vulgar but instructive as contrast
 
 ---
 

@@ -106,10 +106,10 @@ Critics have noted that Houpert's charisma framework, while practical, can veer 
 ## Related
 
 - [[How to Win Friends]] — Dale Carnegie's foundational wisdom on making people feel important predates Houpert's behavioral framework
-- [[Influence]] — Cialdini's persuasion research provides the psychological depth that Houpert's practical tips lack
-- [[Talk Like TED]] — Gall's public speaking framework complements Houpert's charisma techniques
-- [[Captivate]] — Van Edwards' behavioral science approach to social skills provides complementary research backing
-- [[Social Intelligence]] — Goleman's emotional intelligence work connects with Houpert's warmth and resonance pillars
+- [[28-influence]] — Cialdini's persuasion research provides the psychological depth that Houpert's practical tips lack
+- [[66-talk-like-ted]] — Gall's public speaking framework complements Houpert's charisma techniques
+- [[117-captivate]] — Van Edwards' behavioral science approach to social skills provides complementary research backing
+- [[34-social-intelligence]] — Goleman's emotional intelligence work connects with Houpert's warmth and resonance pillars
 
 ## One-Line Takeaway
 

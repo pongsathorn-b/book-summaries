@@ -65,10 +65,10 @@ Critics argue that Grant's research overstates the case for givers and understat
 
 ## Related
 
-- [[The 7 Habits]] — Covey's "think win-win" [[The 7 Habits]] is the foundational principle Grant builds on
-- [[How to Win Friends and Influence People]] — Dale Carnegie [[How to Win Friends and Influence People]] prefigured Grant's giver insight
-- [[Deep Work]] — Grant's own productivity [[Deep Work]] depends on protecting time to think, which includes generous mentorship
-- [[Atomic Habits]] — building a giver identity [[Atomic Habits]] as the kind of professional people trust and refer
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's "think win-win" [[19-the-7-habits-of-highly-effective-people]] is the foundational principle Grant builds on
+- [[30-how-to-win-friends-and-influence-people]] — Dale Carnegie [[30-how-to-win-friends-and-influence-people]] prefigured Grant's giver insight
+- [[06-deep-work]] — Grant's own productivity [[06-deep-work]] depends on protecting time to think, which includes generous mentorship
+- [[01-atomic-habits]] — building a giver identity [[01-atomic-habits]] as the kind of professional people trust and refer
 
 ## One-Line Takeaway
 

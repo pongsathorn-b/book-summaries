@@ -10,7 +10,7 @@ summary: Effectiveness is a balance of character and character; private victory 
 
 ## Overview
 
-[[The 7 Habits of Highly Effective People]] by [[Stephen Covey]] reframes productivity as a function of character, not technique. Rather than offering quick hacks, Covey presents an inside-out philosophy: lasting effectiveness comes from aligning your actions with timeless principles of integrity, service, and mutual benefit. The book is organized around two互补 themes: independence (private victory) and interdependence (public victory).
+[[19-the-7-habits-of-highly-effective-people]] by [[Stephen Covey]] reframes productivity as a function of character, not technique. Rather than offering quick hacks, Covey presents an inside-out philosophy: lasting effectiveness comes from aligning your actions with timeless principles of integrity, service, and mutual benefit. The book is organized around two互补 themes: independence (private victory) and interdependence (public victory).
 
 ## Core Concepts
 
@@ -27,7 +27,7 @@ Covey maps three paradigms of human competence:
 |---|-------|---------|
 | 1 | Be Proactive | Take responsibility; respond from choice, not reaction |
 | 2 | Begin with End in Mind | Define clear values, vision, and mission before acting |
-| 3 | Put First Things First | Execute around priorities, not urgency ([[Eat That Frog]]) |
+| 3 | Put First Things First | Execute around priorities, not urgency ([[21-eat-that-frog]]) |
 | 4 | Think Win-Win | Seek solutions where all parties benefit |
 | 5 | Seek First to Understand | Listen empathically before being understood |
 | 6 | Synergize | Combine strengths through creative collaboration |
@@ -50,8 +50,8 @@ Production (P) creates results; Production Capability (PC) is your capacity to p
 1. Write a personal mission statement: define your values, roles, and 5-year vision
 2. Use a weekly planner based on priorities, not just time — block Quadrant II time first
 3. Practice proactive language: replace "I have to" with "I choose to" in daily speech
-4. Apply the [[Getting Things Done]] weekly review habit to align daily actions with mission
-5. In every conflict or negotiation, first seek to understand ([[The 4-Hour Workweek]] calls this "dreamlining" for life design)
+4. Apply the [[18-getting-things-down]] weekly review habit to align daily actions with mission
+5. In every conflict or negotiation, first seek to understand ([[22-the-4-hour-workweek]] calls this "dreamlining" for life design)
 6. Schedule "Sharpen the Saw" time weekly: physical exercise, mental reading, spiritual meditation, social service
 7. Use the "begin with end in mind" reverse-planning for major projects
 
@@ -69,7 +69,7 @@ Private character precedes public results — effectiveness comes from aligning 
 
 ## Related Books
 
-- [[Atomic Habits]] — builds on Covey's habits framework with modern behavioral science
-- [[Eat That Frog!]] — Habit 3's "put first things first" taken to its tactical extreme
-- [[The 7 Habits]] inspired the broader self-help genre; see also [[Essentialism]] for the "less but better" complement
-- [[The Power of Full Engagement]] — the energy management complement to Covey's time management
+- [[01-atomic-habits]] — builds on Covey's habits framework with modern behavioral science
+- [[21-eat-that-frog]] — Habit 3's "put first things first" taken to its tactical extreme
+- [[19-the-7-habits-of-highly-effective-people]] inspired the broader self-help genre; see also [[25-essentialism]] for the "less but better" complement
+- [[27-the-power-of-full-engagement]] — the energy management complement to Covey's time management

@@ -72,4 +72,4 @@ Disruption typically takes 15-20 years from initial emergence to mainstream adop
 
 ---
 
-*Related: [[Zero to One]], [[Crossing the Chasm]], [[The Lean Startup]], [[Blue Ocean Strategy]], [[Good to Great]], [[Essentialism]], [[The Hard Thing About Hard Things]]*
+*Related: [[38-zero-to-one]], [[40-crossing-the-chasm]], [[39-the-lean-startup]], [[44-blue-ocean-strategy]], [[41-good-to-great]], [[25-essentialism]], [[42-the-hard-thing-about-hard-things]]*

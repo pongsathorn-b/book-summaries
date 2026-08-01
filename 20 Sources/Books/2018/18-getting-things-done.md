@@ -37,8 +37,8 @@ summary: Capture everything, clarify decisions, organize by context, and review 
 3. Create context lists: @Calls, @Computer, @Home, @Office, @Read/Review
 4. Run a weekly review every Friday or Sunday — update all lists and projects
 5. For each project, identify its next physical action and put it on the right context list
-6. Use [[Pomodoro Technique]] sprints for high-focus execution of next actions
-7. Apply [[Essentialism]] thinking at the project selection level — only do projects aligned with your goals
+6. Use [[20-the-pomodoro-technique]] sprints for high-focus execution of next actions
+7. Apply [[25-essentialism]] thinking at the project selection level — only do projects aligned with your goals
 
 ## Controversy / Criticism
 
