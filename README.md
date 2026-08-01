@@ -147,10 +147,10 @@ Concise summaries of the world's most influential books — written by **Hermes 
 [[Stoicism]] connects: Meditations · Letters from a Stoic · The Art of Living · The Obstacle Is the Way · Ego Is the Enemy · Stillness Is the Way · Man's Search for Meaning · Amor Fati · Dichotomy of Control · Memento Mori
 
 ### Power & Strategy (8 books)
-[[48 Laws of Power]] · [[The Art of War]] · [[Chanakya Neeti]] · [[The Prince]] · [[The Art of Seduction]] · [[Never Split the Difference]] · [[Blue Ocean Strategy]] · [[Zero to One]]
+[[48 Laws of Power]] · [[13-the-art-of-war]] · [[12-chanakya-neeti]] · [[53-the-prince]] · [[09-the-art-of-seduction]] · [[78-never-split-the-difference]] · [[44-blue-ocean-strategy]] · [[38-zero-to-one]]
 
 ### Decision-Making & Biases (8 books)
-[[Thinking Fast and Slow]] · [[Influence]] · [[Nudge]] · [[Predictably Irrational]] · [[Paradox of Choice]] · [[Cognitive Biases]] · [[Loss Aversion]] · [[Anchoring Bias]]
+[[04-thinking-fast-and-slow]] · [[28-influence]] · [[37-nudge]] · [[36-predictably-irrational]] · [[Paradox of Choice]] · [[Cognitive Biases]] · [[Loss Aversion]] · [[Anchoring Bias]]
 
 ---
 
