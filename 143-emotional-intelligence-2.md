@@ -30,10 +30,10 @@ EI often matters more than IQ in leadership and relationships. Wanted a practica
 
 ## Related Books
 
-- [[How to Win Friends and Influence People]]
-- [[Nonviolent Communication]]
+- [[30-how-to-win-friends-and-influence-people]]
+- [[113-nonviolent-communication]]
 
 ## Similar Notes
 
-- [[Social Intelligence]]
+- [[34-social-intelligence]]
 - [[Leadership]]
