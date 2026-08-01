@@ -71,6 +71,6 @@ Clinical psychologist [[Jordan Peterson]] delivers 12 principles for navigating 
 ## Related
 
 - [[Stoicism]] — ancient philosophical roots of many of these rules
-- [[Meditations]] — similar themes of [[Acceptance]] and [[Responsibility]]
-- [[Deep Work]] — [[Rule 6]] parallels [[Deep Work]]'s philosophy of [[Order]]
-- [[Atomic Habits]] — [[Rule 4]] echoes [[Identity-Based Habits]]
+- [[03-meditations]] — similar themes of [[Acceptance]] and [[Responsibility]]
+- [[06-deep-work]] — [[Rule 6]] parallels [[06-deep-work]]'s philosophy of [[Order]]
+- [[01-atomic-habits]] — [[Rule 4]] echoes [[Identity-Based Habits]]
