@@ -60,9 +60,9 @@ Procrastination activates pain centers. The solution: **make the task small enou
 
 ## Related
 
-- [[Atomic Habits]] — [[Habit Formation]] for consistent learning
-- [[Deep Work]] — [[Focused Mode]] is the mode of [[Deep Work]]
+- [[01-atomic-habits]] — [[Habit Formation]] for consistent learning
+- [[06-deep-work]] — [[Focused Mode]] is the mode of [[06-deep-work]]
 - [[Spaced Repetition]] — the science behind [[Memory Consolidation]]
 - [[Chunking]] — how [[Experts]] process [[Knowledge]]
-- [[Moonwalking with Einstein]] — [[Memory Athletes]] and [[Memory Palaces]]
+- [[08-moonwalking-with-einstein]] — [[Memory Athletes]] and [[Memory Palaces]]
 - [[Testing Effect]] — [[Active Recall]] is the most powerful learning technique
