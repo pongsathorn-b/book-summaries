@@ -68,10 +68,10 @@ Genuine interest in others, expressed through listening, appreciation, and empat
 
 ## Related
 
-- [[Social Intelligence]] — Daniel Goleman's EQ framework expands Carnegie's interpersonal principles
-- [[Attached]] — attachment theory explains the deeper psychology of how we form relationships
-- [[Influence]] — Cialdini's six principles of persuasion share Carnegie's foundational respect for psychology
-- [[Meditations]] — Stoic philosophy underlies Carnegie's emphasis on not condemning others
-- [[The Art of War]] — strategic thinking applied to social relationships and negotiation
+- [[34-social-intelligence]] — Daniel Goleman's EQ framework expands Carnegie's interpersonal principles
+- [[33-attached]] — attachment theory explains the deeper psychology of how we form relationships
+- [[28-influence]] — Cialdini's six principles of persuasion share Carnegie's foundational respect for psychology
+- [[03-meditations]] — Stoic philosophy underlies Carnegie's emphasis on not condemning others
+- [[13-the-art-of-war]] — strategic thinking applied to social relationships and negotiation
 - [[48 Laws of Power]] — more Machiavellian approach to influence; contrast with Carnegie's sincerity
 - [[Cognitive Biases]] — understanding why people react defensively to criticism
