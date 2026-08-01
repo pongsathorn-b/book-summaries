@@ -37,7 +37,7 @@ Holiday identifies three qualities that separate work that lasts from work that 
 
 ### Finding Your "Tribal Audience"
 
-Every perennial work finds its tribe — a group of people who will keep it alive long after the mainstream culture has moved on. These are the fans who evangelize, teach, and preserve. The key is to find the people who care *most* intensely about your subject, even if they are a small group. This connects to the concept of [[Essentialism]] — focus on the few who truly care rather than trying to please everyone.
+Every perennial work finds its tribe — a group of people who will keep it alive long after the mainstream culture has moved on. These are the fans who evangelize, teach, and preserve. The key is to find the people who care *most* intensely about your subject, even if they are a small group. This connects to the concept of [[25-essentialism]] — focus on the few who truly care rather than trying to please everyone.
 
 ### The Myth of the "Perfect" Work
 
@@ -50,8 +50,8 @@ Great ideas need the right vessel. Holiday argues that form matters enormously �
 ## Key Lessons
 
 1. **Build your platform before you need it.** The best time to build your audience is before you have the book or product to sell them. Every blog post, speech, and conversation is an investment in your future audience.
-2. **Make something remarkable.** Not good — remarkable. The work must have a unique voice, a distinct perspective, and craft that stands up to repeated consumption. [[Atomic Habits]] didn't just appear — it solved a problem no one else had solved in that exact way.
-3. **Design for your tribe, not the masses.** Perennial sellers find a small group of intensely devoted fans, not a large group of mildly interested bystanders. [[Deep Work]] and focused creation serve this well.
+2. **Make something remarkable.** Not good — remarkable. The work must have a unique voice, a distinct perspective, and craft that stands up to repeated consumption. [[01-atomic-habits]] didn't just appear — it solved a problem no one else had solved in that exact way.
+3. **Design for your tribe, not the masses.** Perennial sellers find a small group of intensely devoted fans, not a large group of mildly interested bystanders. [[06-deep-work]] and focused creation serve this well.
 4. **Marketing is not separate from creation.** The questions "who is this for?" and "why will they care?" must be answered *before* you write the book, not after.
 5. **Release and iterate.** Done beats perfect. Ship the work, then improve future editions based on feedback. The alternative is never publishing at all.
 6. **Build a business around your art.** Many brilliant creators fail because they ignore the business side. You don't have to become a marketer — but you must understand the basics of distribution, positioning, and audience.
@@ -80,7 +80,7 @@ Despite these criticisms, Holiday's core insight — that creators must think ab
 
 ## Related Concepts
 
-This book connects to [[Essentialism]] (focusing on what matters and saying no to distractions), [[4-Hour Workweek]] (building systems that last rather than trading time for money), [[Atomic Habits]] (small, consistent actions compound into lasting creative output), and [[Deep Work]] (the importance of focused creation).
+This book connects to [[25-essentialism]] (focusing on what matters and saying no to distractions), [[4-Hour Workweek]] (building systems that last rather than trading time for money), [[01-atomic-habits]] (small, consistent actions compound into lasting creative output), and [[06-deep-work]] (the importance of focused creation).
 
 ## One-Line Takeaway
 
