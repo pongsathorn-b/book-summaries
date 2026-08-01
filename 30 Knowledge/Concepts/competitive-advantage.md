@@ -18,11 +18,26 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/chunking.md|Chunking]]
+- [[30 Knowledge/Concepts/cramming.md|Cramming]]
+- [[30 Knowledge/Concepts/flow-state.md|Flow State]]
+- [[30 Knowledge/Concepts/focus-is-a-skill.md|Focus Is A Skill]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/habit-formation.md|Habit Formation]]
+- [[30 Knowledge/Concepts/memory-palace.md|Memory Palace]]
+- [[30 Knowledge/Concepts/method-of-loci.md|Method Of Loci]]
+- [[30 Knowledge/Concepts/procrastination.md|Procrastination]]
+- [[30 Knowledge/Concepts/shallow-work.md|Shallow Work]]
+- [[30 Knowledge/Concepts/spaced-repetition.md|Spaced Repetition]]
+- [[30 Knowledge/Concepts/willpower.md|Willpower]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/06-deep-work.md|06 Deep Work]]
+- [[20 Sources/Books/2018/10-the-memory-book.md|10 The Memory Book]]
+- [[20 Sources/Books/2018/17-unlimited-memory.md|17 Unlimited Memory]]
+
 
 ## Confidence
 

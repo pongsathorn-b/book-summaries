@@ -18,11 +18,13 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+_Related concepts to be added._
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/07-quiet.md|07 Quiet]]
+
 
 ## Confidence
 

@@ -61,5 +61,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Covers personal and strategic finance: from Rich Dad Poor Dad's asset-building mindset to the millionaire fastlane entrepreneur path. Integrates sales and marketing strategy (Dotcom Secrets, Expert Secrets, SPIN Selling) with long-term wealth principles, emphasizing that financial freedom requires both financial intelligence and business acumen.

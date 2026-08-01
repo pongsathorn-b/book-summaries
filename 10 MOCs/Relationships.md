@@ -57,5 +57,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+From the science of attachment (Hold Me Tight, Attached) to the mechanics of social influence and charisma (Captivate, The Like Switch, Charisma on Command). Integrates the 5 Love Languages with nonviolent communication and the art of gathering — covering how to build, maintain, and deepen relationships across contexts.

@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,10 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2023/112-hold-me-tight.md|112 Hold Me Tight]]
+- [[20 Sources/Books/2023/113-nonviolent-communication.md|113 Nonviolent Communication]]
 

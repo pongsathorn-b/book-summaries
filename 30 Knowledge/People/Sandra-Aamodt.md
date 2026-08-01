@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,10 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2018/16-welcome-to-your-brain.md|16 Welcome To Your Brain]]
+- [[20 Sources/Books/2018/16-welcome-to-your-brain.md|16 Welcome To Your Brain]]
 

@@ -18,11 +18,16 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/chunking.md|Chunking]]
+- [[30 Knowledge/Concepts/competitive-advantage.md|Competitive Advantage]]
+- [[30 Knowledge/Concepts/memory-palace.md|Memory Palace]]
+- [[30 Knowledge/Concepts/spaced-repetition.md|Spaced Repetition]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/10-the-memory-book.md|10 The Memory Book]]
+
 
 ## Confidence
 

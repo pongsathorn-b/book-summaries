@@ -54,5 +54,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Spans sleep science (Why We Sleep), ancestral nutrition (The Obesity Code, Deep Nutrition, Salt Sugar Fat), movement (Born to Run), and biological longevity (The Blue Zones, Younger Next Year). The unifying theme is that health is a compound effect of daily choices: what you eat, how you move, and how you sleep matter more than any single intervention.

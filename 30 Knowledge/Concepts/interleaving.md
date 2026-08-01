@@ -18,11 +18,24 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/active-recall.md|Active Recall]]
+- [[30 Knowledge/Concepts/chunking.md|Chunking]]
+- [[30 Knowledge/Concepts/cramming.md|Cramming]]
+- [[30 Knowledge/Concepts/desirable-difficulty.md|Desirable Difficulty]]
+- [[30 Knowledge/Concepts/diffuse-mode.md|Diffuse Mode]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/habit-formation.md|Habit Formation]]
+- [[30 Knowledge/Concepts/procrastination.md|Procrastination]]
+- [[30 Knowledge/Concepts/sleep-and-memory.md|Sleep And Memory]]
+- [[30 Knowledge/Concepts/spaced-repetition.md|Spaced Repetition]]
+- [[30 Knowledge/Concepts/testing-effect.md|Testing Effect]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/11-learning-how-to-learn.md|11 Learning How To Learn]]
+- [[20 Sources/Books/2018/15-how-to-pass-exams.md|15 How To Pass Exams]]
+
 
 ## Confidence
 

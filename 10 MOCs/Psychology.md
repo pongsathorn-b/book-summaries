@@ -78,5 +78,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Bridges cognitive psychology (Thinking Fast and Slow, cognitive biases) with social influence (Influence, Contagious) and behavioral design (Hooked). Also covers emotional intelligence, attachment theory, and the neuroscience of trauma (The Body Keeps the Score). The MOC captures both how the mind works and how it can be influenced.

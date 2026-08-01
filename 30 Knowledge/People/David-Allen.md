@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,10 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2024/131-the-war-of-art.md|131 The War Of Art]]
+- [[20 Sources/Books/2018/18-getting-things-done.md|18 Getting Things Done]]
 

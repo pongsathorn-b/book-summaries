@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,11 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2023/111-the-5-love-languages.md|111 The 5 Love Languages]]
+- [[20 Sources/Books/2023/112-hold-me-tight.md|112 Hold Me Tight]]
+- [[20 Sources/Books/2023/114-the-seven-principles-for-making-marriage-work.md|114 The Seven Principles For Making Marriage Work]]
 

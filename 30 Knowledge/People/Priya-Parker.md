@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,9 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2023/120-the-art-of-gathering.md|120 The Art Of Gathering]]
 

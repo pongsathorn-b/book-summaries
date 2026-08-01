@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,10 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2023/111-the-5-love-languages.md|111 The 5 Love Languages]]
+- [[20 Sources/Books/2021/72-the-5-love-languages.md|72 The 5 Love Languages]]
 

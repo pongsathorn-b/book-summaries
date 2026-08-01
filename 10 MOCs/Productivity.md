@@ -70,5 +70,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+From deep work (Cal Newport) and habit systems (James Clear's identity-based habits) to time architecture (Make Time, Eat That Frog, Pomodoro Technique) and the psychology of distraction (Indistractable, Essentialism). The dominant theme: environment design and ritual beat willpower, and the goal is not busyness but meaningful output.

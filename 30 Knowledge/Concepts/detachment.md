@@ -18,11 +18,17 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/amor-fati.md|Amor Fati]]
+- [[30 Knowledge/Concepts/meditations.md|Meditations]]
+- [[30 Knowledge/Concepts/present-moment-awareness.md|Present Moment Awareness]]
+- [[30 Knowledge/Concepts/stoicism.md|Stoicism]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/12-chanakya-neeti.md|12 Chanakya Neeti]]
+- [[20 Sources/Books/2020/51-the-power-of-now.md|51 The Power Of Now]]
+
 
 ## Confidence
 

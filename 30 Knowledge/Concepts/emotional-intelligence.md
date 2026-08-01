@@ -18,11 +18,14 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/cognitive-biases.md|Cognitive Biases]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2019/34-social-intelligence.md|34 Social Intelligence]]
+- [[20 Sources/Books/2019/35-the-paradox-of-choice.md|35 The Paradox Of Choice]]
+
 
 ## Confidence
 

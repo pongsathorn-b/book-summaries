@@ -18,11 +18,15 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/chunking.md|Chunking]]
+- [[30 Knowledge/Concepts/memory-palace.md|Memory Palace]]
+- [[30 Knowledge/Concepts/spaced-repetition.md|Spaced Repetition]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/14-memory-craft.md|14 Memory Craft]]
+
 
 ## Confidence
 

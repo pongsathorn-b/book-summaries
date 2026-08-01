@@ -18,11 +18,15 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/identity-based-habits.md|Identity Based Habits]]
+- [[30 Knowledge/Concepts/meditations.md|Meditations]]
+- [[30 Knowledge/Concepts/stoicism.md|Stoicism]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/05-12-rules-for-life.md|05 12 Rules For Life]]
+
 
 ## Confidence
 

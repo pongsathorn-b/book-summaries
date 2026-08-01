@@ -18,11 +18,17 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/diffuse-mode.md|Diffuse Mode]]
+- [[30 Knowledge/Concepts/environment-design.md|Environment Design]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/identity-based-habits.md|Identity Based Habits]]
+- [[30 Knowledge/Concepts/willpower.md|Willpower]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/01-atomic-habits.md|01 Atomic Habits]]
+
 
 ## Confidence
 

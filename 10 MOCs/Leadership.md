@@ -65,5 +65,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Covers the spectrum from startup leadership (Ben Horowitz's hard lessons) to enduring corporate greatness (Good to Great) to personal effectiveness in complex organizations. Integrates emotional intelligence, culture-building, hiring for attitude, and the difference between management and leadership.

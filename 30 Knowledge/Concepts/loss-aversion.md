@@ -18,11 +18,31 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/anchoring-bias.md|Anchoring Bias]]
+- [[30 Knowledge/Concepts/availability-heuristic.md|Availability Heuristic]]
+- [[30 Knowledge/Concepts/cognitive-biases.md|Cognitive Biases]]
+- [[30 Knowledge/Concepts/halo-effect.md|Halo Effect]]
+- [[30 Knowledge/Concepts/overconfidence.md|Overconfidence]]
+- [[30 Knowledge/Concepts/system-1-thinking.md|System 1 Thinking]]
+- [[30 Knowledge/Concepts/system-2-thinking.md|System 2 Thinking]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04 Thinking Fast And Slow]]
+- [[20 Sources/Books/2019/28-influence.md|28 Influence]]
+- [[20 Sources/Books/2019/29-contagious.md|29 Contagious]]
+- [[20 Sources/Books/2019/31-the-psychology-of-persuasion.md|31 The Psychology Of Persuasion]]
+- [[20 Sources/Books/2019/37-nudge.md|37 Nudge]]
+- [[20 Sources/Books/2021/78-never-split-the-difference.md|78 Never Split The Difference]]
+- [[20 Sources/Books/2021/80-the-psychology-of-money.md|80 The Psychology Of Money]]
+- [[20 Sources/Books/2022/81-rich-dad-poor-dad.md|81 Rich Dad Poor Dad]]
+- [[20 Sources/Books/2022/82-the-millionaire-fastlane.md|82 The Millionaire Fastlane]]
+- [[20 Sources/Books/2022/84-dotcom-secrets.md|84 Dotcom Secrets]]
+- [[20 Sources/Books/2022/85-expert-secrets.md|85 Expert Secrets]]
+- [[20 Sources/Books/2022/86-the-closers.md|86 The Closers]]
+- [[20 Sources/Books/2022/87-spin-selling.md|87 Spin Selling]]
+
 
 ## Confidence
 

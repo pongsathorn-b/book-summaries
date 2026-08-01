@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,10 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2024/134-tools-of-titans.md|134 Tools Of Titans]]
+- [[20 Sources/Books/2021/71-think-and-grow-rich.md|71 Think And Grow Rich]]
 

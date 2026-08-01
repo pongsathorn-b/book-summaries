@@ -93,5 +93,4 @@ Business strategy, competitive advantage, startups, innovation, and organization
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Ancient meets modern: Sun Tzu and The Prince on competition and power, Blue Ocean Strategy on creating new market space, Crossing the Chasm and Zero to One on startup strategy. Integrates antifragile thinking (Taleb), Black Swan unpredictability, Skin in the Game, and Chris Voss's negotiation framework — building a comprehensive toolkit for competitive decision-making.

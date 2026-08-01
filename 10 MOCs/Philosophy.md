@@ -74,5 +74,4 @@ Stoicism, existentialism, ethics, meaning, and how to live a good life.
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Rooted in Stoic practice: Meditations (Marcus Aurelius), Letters from a Stoic (Seneca), and applied modern Stoicism (Ryan Holiday). Expands into existential territory with The Obstacle Is The Way, Ego Is The Enemy, Stillness Is The Way, and Man's Search for Meaning. Bridges ancient wisdom with modern psychological research on resilience and meaning-making.

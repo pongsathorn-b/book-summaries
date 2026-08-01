@@ -18,11 +18,21 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/diffuse-mode.md|Diffuse Mode]]
+- [[30 Knowledge/Concepts/environment-design.md|Environment Design]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/habit-stacking.md|Habit Stacking]]
+- [[30 Knowledge/Concepts/meditations.md|Meditations]]
+- [[30 Knowledge/Concepts/risk-tolerance.md|Risk Tolerance]]
+- [[30 Knowledge/Concepts/stoicism.md|Stoicism]]
+- [[30 Knowledge/Concepts/willpower.md|Willpower]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/01-atomic-habits.md|01 Atomic Habits]]
+- [[20 Sources/Books/2018/05-12-rules-for-life.md|05 12 Rules For Life]]
+
 
 ## Confidence
 

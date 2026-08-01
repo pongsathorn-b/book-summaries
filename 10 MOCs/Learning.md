@@ -65,5 +65,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+The science of effective learning: spaced repetition and retrieval practice (A Mind for Numbers, Learning How to Learn), mnemonic methods and memory palaces (Moonwalking with Einstein, Memory Craft), and the counterintuitive finding that being a generalist often beats being a specialist (Range). Emphasizes that learning how to learn is the most valuable meta-skill.

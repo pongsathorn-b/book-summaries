@@ -18,11 +18,23 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/active-recall.md|Active Recall]]
+- [[30 Knowledge/Concepts/chunking.md|Chunking]]
+- [[30 Knowledge/Concepts/cognitive-biases.md|Cognitive Biases]]
+- [[30 Knowledge/Concepts/desirable-difficulty.md|Desirable Difficulty]]
+- [[30 Knowledge/Concepts/diffuse-mode.md|Diffuse Mode]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/illusion-of-knowing.md|Illusion Of Knowing]]
+- [[30 Knowledge/Concepts/memory-palace.md|Memory Palace]]
+- [[30 Knowledge/Concepts/procrastination.md|Procrastination]]
+- [[30 Knowledge/Concepts/sleep-and-memory.md|Sleep And Memory]]
+- [[30 Knowledge/Concepts/spaced-repetition.md|Spaced Repetition]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2020/58-a-mind-for-numbers.md|58 A Mind For Numbers]]
+
 
 ## Confidence
 

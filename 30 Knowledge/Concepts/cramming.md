@@ -18,11 +18,21 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/active-recall.md|Active Recall]]
+- [[30 Knowledge/Concepts/chunking.md|Chunking]]
+- [[30 Knowledge/Concepts/competitive-advantage.md|Competitive Advantage]]
+- [[30 Knowledge/Concepts/interleaving.md|Interleaving]]
+- [[30 Knowledge/Concepts/memory-palace.md|Memory Palace]]
+- [[30 Knowledge/Concepts/sleep-and-memory.md|Sleep And Memory]]
+- [[30 Knowledge/Concepts/spaced-repetition.md|Spaced Repetition]]
+- [[30 Knowledge/Concepts/testing-effect.md|Testing Effect]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/15-how-to-pass-exams.md|15 How To Pass Exams]]
+- [[20 Sources/Books/2018/17-unlimited-memory.md|17 Unlimited Memory]]
+
 
 ## Confidence
 

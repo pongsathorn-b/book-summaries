@@ -18,11 +18,23 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/competitive-advantage.md|Competitive Advantage]]
+- [[30 Knowledge/Concepts/flow-state.md|Flow State]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/habit-formation.md|Habit Formation]]
+- [[30 Knowledge/Concepts/meditations.md|Meditations]]
+- [[30 Knowledge/Concepts/procrastination.md|Procrastination]]
+- [[30 Knowledge/Concepts/shallow-work.md|Shallow Work]]
+- [[30 Knowledge/Concepts/sleep-and-memory.md|Sleep And Memory]]
+- [[30 Knowledge/Concepts/willpower.md|Willpower]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/06-deep-work.md|06 Deep Work]]
+- [[20 Sources/Books/2023/106-the-power-of-when.md|106 The Power Of When]]
+- [[20 Sources/Books/2021/69-outliers.md|69 Outliers]]
+
 
 ## Confidence
 

@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,11 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04 Thinking Fast And Slow]]
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04 Thinking Fast And Slow]]
+- [[20 Sources/Books/2018/16-welcome-to-your-brain.md|16 Welcome To Your Brain]]
 

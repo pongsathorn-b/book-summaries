@@ -10,7 +10,8 @@
 
 ## Related Concepts
 
-<!-- Concepts this person developed or strongly embodies -->
+_Related concepts to be added._
+
 
 ## Influenced By
 
@@ -27,4 +28,14 @@
 ## Confidence
 
 <!-- High / Medium / Low -->
+
+
+## Works
+
+- [[20 Sources/Books/2020/51-the-power-of-now.md|51 The Power Of Now]]
+- [[20 Sources/Books/2020/51-the-power-of-now.md|51 The Power Of Now]]
+- [[20 Sources/Books/2020/59-the-obstacle-is-the-way.md|59 The Obstacle Is The Way]]
+- [[20 Sources/Books/2020/60-perennial-seller.md|60 Perennial Seller]]
+- [[20 Sources/Books/2021/61-ego-is-the-enemy.md|61 Ego Is The Enemy]]
+- [[20 Sources/Books/2021/62-stillness-is-the-way.md|62 Stillness Is The Way]]
 

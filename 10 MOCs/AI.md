@@ -91,5 +91,4 @@ _No people matched._
 
 ## Overview
 
-<!-- Brief synthesis of this domain -->
-
+Maps the landscape of artificial intelligence from computational theory (The Second Machine Age) to the near-term risks of superintelligence (Superintelligence, The Singularity Is Near) to the ethical challenges of algorithmic decision-making (The Ethical Algorithm, The Code Breaker). The MOC spans technical foundations and long-range speculation about AI's impact on economics, warfare, and human identity.

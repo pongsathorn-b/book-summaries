@@ -18,11 +18,19 @@
 
 ## Related Concepts
 
-<!-- Links to related concept notes -->
+- [[30 Knowledge/Concepts/competitive-advantage.md|Competitive Advantage]]
+- [[30 Knowledge/Concepts/flow-state.md|Flow State]]
+- [[30 Knowledge/Concepts/focus-is-a-skill.md|Focus Is A Skill]]
+- [[30 Knowledge/Concepts/focused-mode.md|Focused Mode]]
+- [[30 Knowledge/Concepts/habit-formation.md|Habit Formation]]
+- [[30 Knowledge/Concepts/procrastination.md|Procrastination]]
+- [[30 Knowledge/Concepts/willpower.md|Willpower]]
+
 
 ## Sources
 
-<!-- Book titles where this concept appears -->
+- [[20 Sources/Books/2018/06-deep-work.md|06 Deep Work]]
+
 
 ## Confidence
 
