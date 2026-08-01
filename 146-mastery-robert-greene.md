@@ -30,9 +30,9 @@ Understanding how historical masters — from Darwin to Mozart to Einstein — r
 
 ## Related Books
 
-- [[The 7 Habits of Highly Effective People]]
-- [[Tools of Titans]]
-- [[Ego Is the Enemy]]
+- [[19-the-7-habits-of-highly-effective-people]]
+- [[134-tools-of-titans]]
+- [[61-ego-is-the-enemy]]
 
 ## Similar Notes
 
