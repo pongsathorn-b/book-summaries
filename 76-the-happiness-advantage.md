@@ -66,11 +66,11 @@ Achor's work has been criticized for overstating the evidence for positive psych
 
 ## Related
 
-- [[Deep Work]] — [[Cal Newport]] would agree: a positive, energized brain [[Deep Work]] is essential for the focused work that produces rare and valuable results
-- [[The Body Keeps the Score]] — [[Bessel van der Kolk]] reminds us that not all unhappiness can be thought away; trauma and the body shape mood in ways beyond cognitive reframing
-- [[Atomic Habits]] — building happiness habits [[Atomic Habits]] daily compounds theappinessadvantage Achor describes
-- [[Make Time]] — [[Jake Knapp]]'s emphasis on energy [[Make Time]] aligns with Achor's daily practices for positive brain states
-- [[Meditations]] — Marcus Aurelius's practice [[Meditations]] of negative visualization and gratitude predates modern positive psychology
+- [[06-deep-work]] — [[Cal Newport]] would agree: a positive, energized brain [[06-deep-work]] is essential for the focused work that produces rare and valuable results
+- [[32-the-body-keeps-the-score]] — [[Bessel van der Kolk]] reminds us that not all unhappiness can be thought away; trauma and the body shape mood in ways beyond cognitive reframing
+- [[01-atomic-habits]] — building happiness habits [[01-atomic-habits]] daily compounds theappinessadvantage Achor describes
+- [[23-make-time]] — [[Jake Knapp]]'s emphasis on energy [[23-make-time]] aligns with Achor's daily practices for positive brain states
+- [[03-meditations]] — Marcus Aurelius's practice [[03-meditations]] of negative visualization and gratitude predates modern positive psychology
 
 ## One-Line Takeaway
 
