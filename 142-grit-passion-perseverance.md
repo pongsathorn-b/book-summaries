@@ -31,7 +31,7 @@ Curiosity about why talented people often fail while mediocre-but-persistent peo
 ## Related Books
 
 - [[Mindset: The New Psychology of Success]]
-- [[Atomic Habits]]
+- [[01-atomic-habits]]
 
 ## Similar Notes
 
