@@ -10,7 +10,7 @@ summary: Capture everything, clarify decisions, organize by context, and review 
 
 ## Overview
 
-[[Getting Things Done]] (GTD) is a task-management system developed by [[David Allen]] that externalizes all commitments, projects, and tasks from your mind into a trusted external system. The core premise: relaxed control of your commitments equals maximum productivity. GTD has become the most influential productivity system for knowledge workers, used by millions worldwide.
+[[18-getting-things-down]] (GTD) is a task-management system developed by [[David Allen]] that externalizes all commitments, projects, and tasks from your mind into a trusted external system. The core premise: relaxed control of your commitments equals maximum productivity. GTD has become the most influential productivity system for knowledge workers, used by millions worldwide.
 
 ## Core Concepts
 
@@ -37,8 +37,8 @@ summary: Capture everything, clarify decisions, organize by context, and review 
 3. Create context lists: @Calls, @Computer, @Home, @Office, @Read/Review
 4. Run a weekly review every Friday or Sunday — update all lists and projects
 5. For each project, identify its next physical action and put it on the right context list
-6. Use [[Pomodoro Technique]] sprints for high-focus execution of next actions
-7. Apply [[Essentialism]] thinking at the project selection level — only do projects aligned with your goals
+6. Use [[20-the-pomodoro-technique]] sprints for high-focus execution of next actions
+7. Apply [[25-essentialism]] thinking at the project selection level — only do projects aligned with your goals
 
 ## Controversy / Criticism
 
@@ -53,7 +53,7 @@ Move everything off your mind into a trusted system, decide next actions clearly
 
 ## Related Books
 
-- [[The Pomodoro Technique]] — time-boxing that pairs well with GTD's next-action discipline
-- [[Essentialism]] — strategic filter for deciding which projects deserve a next action
-- [[Make Time]] — daily tactics that complement GTD's project management
-- [[Indistractable]] — attention mastery that ensures GTD tasks get deep-focus execution
+- [[20-the-pomodoro-technique]] — time-boxing that pairs well with GTD's next-action discipline
+- [[25-essentialism]] — strategic filter for deciding which projects deserve a next action
+- [[23-make-time]] — daily tactics that complement GTD's project management
+- [[24-indistractable]] — attention mastery that ensures GTD tasks get deep-focus execution
