@@ -51,8 +51,8 @@ Test a person's character before trusting them:
 
 ## Related
 
-- [[The Art of War]] — ancient parallel on [[Military Strategy]] and [[Statecraft]]
+- [[13-the-art-of-war]] — ancient parallel on [[Military Strategy]] and [[Statecraft]]
 - [[48 Laws of Power]] — [[Power Dynamics]] and [[Political Strategy]]
-- [[Meditations]] — similar ancient [[Stoic]] [[Leadership Wisdom]]
+- [[03-meditations]] — similar ancient [[Stoic]] [[Leadership Wisdom]]
 - [[Stoicism]] — [[Chanakya]] and [[Marcus Aurelius]] share [[Detachment]] and [[Virtue]] emphasis
 - [[Incentives]] — [[Chanakya]]'s core insight on [[Human Behavior]]
