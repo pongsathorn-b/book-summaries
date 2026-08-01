@@ -30,8 +30,8 @@ The idea that most suffering is self-generated through agreement with others' be
 
 ## Related Books
 
-- [[Meditations]]
-- [[The Power of Now]]
+- [[03-meditations]]
+- [[51-the-power-of-now]]
 - [[Stoicism]]
 
 ## Similar Notes
