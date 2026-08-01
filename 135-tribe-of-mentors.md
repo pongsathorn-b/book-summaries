@@ -84,13 +84,13 @@ The book also skews heavily toward a particular Silicon Valley/NYC alpha-male ar
 
 ## Related Books
 
-- [[Tools of Titans]] — Ferriss's companion volume focused on tactics and routines
-- [[The Almanack of Naval Ravikant]] — Naval's independent synthesis of wisdom on wealth and happiness
-- [[Atomic Habits]] — The behavioral infrastructure to implement any mentor's advice
-- [[Deep Work]] — The focused capacity to do the work that mentor advice points toward
-- [[The 7 Habits of Highly Effective People]] — Covey's long-form framework for life design
-- [[Essentialism]] — The discipline of filtering mentor advice through a single question: what truly matters?
-- [[Indistractable]] — Practical tactics for protecting attention in a distraction economy
-- [[Make Time]] — Daily implementation of the energy and priority management mentors recommend
-- [[Think and Grow Rich]] — Hill's original "consult the masters" methodology
-- [[Getting Things Done]] — Allen's systematic approach to processing the chaos that mentor advice inevitably creates
+- [[134-tools-of-titans]] — Ferriss's companion volume focused on tactics and routines
+- [[91-the-almanack-of-naval-ravikant]] — Naval's independent synthesis of wisdom on wealth and happiness
+- [[01-atomic-habits]] — The behavioral infrastructure to implement any mentor's advice
+- [[06-deep-work]] — The focused capacity to do the work that mentor advice points toward
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's long-form framework for life design
+- [[25-essentialism]] — The discipline of filtering mentor advice through a single question: what truly matters?
+- [[24-indistractable]] — Practical tactics for protecting attention in a distraction economy
+- [[23-make-time]] — Daily implementation of the energy and priority management mentors recommend
+- [[150-think-and-grow-rich]] — Hill's original "consult the masters" methodology
+- [[18-getting-things-down]] — Allen's systematic approach to processing the chaos that mentor advice inevitably creates
