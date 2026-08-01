@@ -50,9 +50,9 @@ Expert [[Memory Athletes]] use dozens — hundreds — of linked [[Memory Palace
 ## Related
 
 - [[Memory Palace]] — the core technique
-- [[The Memory Book]] — [[Harry Lorayne]]'s classic treatment
-- [[Memory Craft]] — [[Lynne Kelly]]'s modern research
-- [[Learning How to Learn]] — [[Spaced Repetition]] and [[Chunking]] for academic learning
-- [[Unlimited Memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] techniques
+- [[10-the-memory-book]] — [[Harry Lorayne]]'s classic treatment
+- [[14-memory-craft]] — [[Lynne Kelly]]'s modern research
+- [[11-learning-how-to-learn]] — [[Spaced Repetition]] and [[Chunking]] for academic learning
+- [[17-unlimited-memory]] — [[Kevin Horsley]]'s [[World Memory Champion]] techniques
 - [[Spaced Repetition]] — the science of [[Memory Consolidation]]
 - [[Chunking]] — how [[Experts]] process information
