@@ -10,7 +10,7 @@ summary: Identify your single most important task each day and tackle it first �
 
 ## Overview
 
-[[Eat That Frog!]] by [[Brian Tracy]] is a tightly focused book with one central idea: identify your most difficult or important task — your "frog" — and complete it first thing every morning. The book draws from Parkinson's Law (work expands to fill available time) and the Eisenhower Matrix (urgent vs. important), wrapped in decades of Tracy's motivational coaching experience. Its power is in its refusal to complicate — the entire system fits on a single page of daily planning.
+[[21-eat-that-frog]] by [[Brian Tracy]] is a tightly focused book with one central idea: identify your most difficult or important task — your "frog" — and complete it first thing every morning. The book draws from Parkinson's Law (work expands to fill available time) and the Eisenhower Matrix (urgent vs. important), wrapped in decades of Tracy's motivational coaching experience. Its power is in its refusal to complicate — the entire system fits on a single page of daily planning.
 
 ## Core Concepts
 
@@ -39,7 +39,7 @@ summary: Identify your single most important task each day and tackle it first �
 
 1. Each night, write tomorrow's #1 frog on an index card. First thing morning, eat it before anything else.
 2. Apply ABCDE prioritization to your entire daily list — A-tasks are eaten before B-tasks
-3. Use [[The Pomodoro Technique]] to eat your frog — 1-2 focused pomodoros on your hardest task
+3. Use [[20-the-pomodoro-technique]] to eat your frog — 1-2 focused pomodoros on your hardest task
 4. Ban phones and inboxes until 10am — create a "frog protection zone" for morning focus
 5. Chain the frog to a reward: "finish this report, then get my coffee"
 6. Weekly: review what frogs you ate vs. skipped — your track record builds frog-eating identity
@@ -59,7 +59,7 @@ Willpower is a morning resource — eat your hardest, most important task first 
 
 ## Related Books
 
-- [[The 7 Habits of Highly Effective People]] — Covey's Habit 3 is the strategic foundation for frog-eating
-- [[The Pomodoro Technique]] — time-boxing method for actually eating your frog once you've identified it
-- [[Getting Things Done]] — GTD's project and next-action clarity makes identifying your true frog easier
-- [[Make Time]] — daily energy management that complements frog-eating
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's Habit 3 is the strategic foundation for frog-eating
+- [[20-the-pomodoro-technique]] — time-boxing method for actually eating your frog once you've identified it
+- [[18-getting-things-down]] — GTD's project and next-action clarity makes identifying your true frog easier
+- [[23-make-time]] — daily energy management that complements frog-eating
