@@ -82,9 +82,9 @@ Mukherjee, as an oncologist, brings special authority to cancer genetics. Cancer
 
 ## Related Books
 
-- [[124-the-code-breaker]] — Isaacson's account of CRISPR gene editing, which extends and updates Mukherjee's story into the editing era
-- [[04-thinking-fast-and-slow]] — Kahneman's exploration of cognitive biases is relevant to understanding why genetic determinism is so psychologically appealing
-- [[91-the-almanack-of-naval-ravikant]] — Naval's discussions of wealth and knowledge creation are relevant to the economics of genetic medicine
-- [[Thinking in Systems]] — Understanding genes as nodes in biological networks rather than discrete causal agents
-- [[01-atomic-habits]] — The science of habit formation intersects with genetic predispositions toward addiction and compulsion
-- [[94-skin-in-the-game]] — The importance of those affected by genetic decisions (children, future generations) having a voice in the decisions
+- [[20 Sources/Books/2024/124-the-code-breaker.md|124-the-code-breaker]] — Isaacson's account of CRISPR gene editing, which extends and updates Mukherjee's story into the editing era
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — Kahneman's exploration of cognitive biases is relevant to understanding why genetic determinism is so psychologically appealing
+- [[20 Sources/Books/2022/91-the-almanack-of-naval-ravikant.md|91-the-almanack-of-naval-ravikant]] — Naval's discussions of wealth and knowledge creation are relevant to the economics of genetic medicine
+- [[20 Sources/Books/2022/98-thinking-in-systems.md|Thinking in Systems]] — Understanding genes as nodes in biological networks rather than discrete causal agents
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — The science of habit formation intersects with genetic predispositions toward addiction and compulsion
+- [[20 Sources/Books/2022/94-skin-in-the-game.md|94-skin-in-the-game]] — The importance of those affected by genetic decisions (children, future generations) having a voice in the decisions

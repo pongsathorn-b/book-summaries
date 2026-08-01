@@ -10,7 +10,7 @@ summary: High-tech products must dominate the early mainstream market before att
 
 ## Overview
 
-[[Geoffrey Moore]]'s *Crossing the Chasm* is the definitive guide to marketing high-technology products. Based on the Technology Adoption Life Cycle (derived from Everett Rogers' diffusion of innovations model), the book identifies the gap between the early adopters — who are willing to take risks on unproven technology — and the early majority — who demand proven reliability and support. This gap, the "chasm," has destroyed more promising technologies than any competitive threat. Moore's central argument: the only way to cross is to target a specific niche in the mainstream market, dominate it completely, and use that beachhead to expand.
+[[Geoffrey Moore|Geoffrey Moore]]'s *Crossing the Chasm* is the definitive guide to marketing high-technology products. Based on the Technology Adoption Life Cycle (derived from Everett Rogers' diffusion of innovations model), the book identifies the gap between the early adopters — who are willing to take risks on unproven technology — and the early majority — who demand proven reliability and support. This gap, the "chasm," has destroyed more promising technologies than any competitive threat. Moore's central argument: the only way to cross is to target a specific niche in the mainstream market, dominate it completely, and use that beachhead to expand.
 
 ## Core Concepts
 
@@ -77,4 +77,4 @@ Innovators and early adopters inhabit different "worlds" — they value novelty,
 
 ---
 
-*Related: [[38-zero-to-one]], [[39-the-lean-startup]], [[The Innovator's Dilemma]], [[44-blue-ocean-strategy]], [[41-good-to-great]], [[28-influence]], [[29-contagious]]*
+*Related: [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[The Innovator's Dilemma|The Innovator's Dilemma]], [[20 Sources/Books/2020/44-blue-ocean-strategy.md|44-blue-ocean-strategy]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[20 Sources/Books/2019/28-influence.md|28-influence]], [[20 Sources/Books/2019/29-contagious.md|29-contagious]]*

@@ -47,7 +47,7 @@ Fung argues that body weight has a "set point" that is regulated hormonally, not
 - **Try a 24-hour water fast once per week**: Stop eating after dinner and don't eat again until dinner the next day (or breakfast the day after); monitor hunger waves that pass after 12–24 hours
 - **Adopt a "no snacking" policy**: Restrict eating to a defined 8-hour window (e.g., 12pm–8pm) to give insulin time to drop between meals
 - **Eliminate added sugar, especially fructose**: Remove soda, fruit juice, and desserts; use whole fruit sparingly and prioritize berries over high-fructose fruits like mangoes
-- **Prioritize sleep as a fat-loss tool**: Aim for 7–9 hours of quality sleep; use [[68-why-we-sleep]] protocols to optimize sleep architecture
+- **Prioritize sleep as a fat-loss tool**: Aim for 7–9 hours of quality sleep; use [[20 Sources/Books/2021/68-why-we-sleep.md|68-why-we-sleep]] protocols to optimize sleep architecture
 - **Combine dietary changes with short fasts**: Once insulin resistance is present, dietary changes alone may not lower insulin enough; fasting accelerates the process
 - **Use a CGM (continuous glucose monitor) if available**: Seeing real-time glucose responses to foods can reveal individual insulin dynamics and hidden problem foods
 
@@ -60,8 +60,8 @@ The book has been criticized by mainstream nutrition scientists for oversimplify
 The Obesity Code makes a compelling (if sometimes overstated) case that insulin is the primary driver of obesity, and that intermittent fasting and carbohydrate reduction — not calorie counting — is the key to sustainable weight loss.
 
 ## Related Books
-- [[68-why-we-sleep]] — Sleep optimization as a tool to lower cortisol and improve insulin sensitivity
-- [[102-deep-nutrition]] — Both challenge conventional dietary advice and focus on hormonal/metabolic mechanisms
-- [[103-salt-sugar-fat]] — Both examine how food industry practices drive metabolic dysfunction
-- [[01-atomic-habits]] — Sustainable behavior change frameworks for implementing dietary interventions
-- [[32-the-body-keeps-the-score]] — Trauma and stress responses as drivers of the hormonal dysregulation Fung describes
+- [[20 Sources/Books/2021/68-why-we-sleep.md|68-why-we-sleep]] — Sleep optimization as a tool to lower cortisol and improve insulin sensitivity
+- [[20 Sources/Books/2023/102-deep-nutrition.md|102-deep-nutrition]] — Both challenge conventional dietary advice and focus on hormonal/metabolic mechanisms
+- [[20 Sources/Books/2023/103-salt-sugar-fat.md|103-salt-sugar-fat]] — Both examine how food industry practices drive metabolic dysfunction
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — Sustainable behavior change frameworks for implementing dietary interventions
+- [[20 Sources/Books/2019/32-the-body-keeps-the-score.md|32-the-body-keeps-the-score]] — Trauma and stress responses as drivers of the hormonal dysregulation Fung describes

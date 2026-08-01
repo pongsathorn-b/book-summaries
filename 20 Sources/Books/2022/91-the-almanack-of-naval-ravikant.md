@@ -10,7 +10,7 @@ summary: Eric Jorgenson's curated collection of Naval Ravikant's wisdom distills
 
 ## Overview
 
-[[91-the-almanack-of-naval-ravikant]] was compiled by Eric Jorgenson from Naval's extensive writing on Twitter, his Naval Podcast, interviews, and essays. It distills the wisdom of Naval Ravikant — serial entrepreneur, angel investor (Uber, Twitter, Yammer, and 100+ others), and philosophical pragmatist — into a comprehensive guide to wealth and happiness. The book is not a how-to manual but a collection of mental models and principles that Naval has refined through decades of experience, reading, and reflection. Its power lies in the specificity and honesty of its advice, much of which contradicts conventional Silicon Valley and self-help wisdom.
+[[20 Sources/Books/2022/91-the-almanack-of-naval-ravikant.md|91-the-almanack-of-naval-ravikant]] was compiled by Eric Jorgenson from Naval's extensive writing on Twitter, his Naval Podcast, interviews, and essays. It distills the wisdom of Naval Ravikant — serial entrepreneur, angel investor (Uber, Twitter, Yammer, and 100+ others), and philosophical pragmatist — into a comprehensive guide to wealth and happiness. The book is not a how-to manual but a collection of mental models and principles that Naval has refined through decades of experience, reading, and reflection. Its power lies in the specificity and honesty of its advice, much of which contradicts conventional Silicon Valley and self-help wisdom.
 
 ## Core Concepts
 
@@ -70,7 +70,7 @@ Naval believes that in an increasingly automated world, judgment — the ability
 
 ## Related Books
 
-[[49-mans-search-for-meaning]] | [[20 Sources/Books/2021/62-stillness-is-the-way|62 stillness is the way]] | [[50-letters-from-a-stoic]] | [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people|19 the 7 habits of highly effective people]] | [[20 Sources/Books/2018/06-deep-work|06 deep work]] | [[20 Sources/Books/2019/38-zero-to-one|38 zero to one]]
+[[49-mans-search-for-meaning|49-mans-search-for-meaning]] | [[20 Sources/Books/2021/62-stillness-is-the-way|62 stillness is the way]] | [[50-letters-from-a-stoic|50-letters-from-a-stoic]] | [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people|19 the 7 habits of highly effective people]] | [[20 Sources/Books/2018/06-deep-work|06 deep work]] | [[20 Sources/Books/2019/38-zero-to-one|38 zero to one]]
 
 ## One-Line Takeaway
 

@@ -84,12 +84,12 @@ The book's philosophy also sits in tension with the research on sustainable high
 
 ## Related Books
 
-- [[Can't Hurt Me]] — Goggins's embrace of suffering and the 40% Rule; the extreme end of the intensity spectrum
-- [[The Way of the Fight]] — GSP's visualization and championship preparation methodology
-- [[131-the-war-of-art]] — Pressfield on Resistance as the barrier between amateur and professional
-- [[01-atomic-habits]] — The habit infrastructure that makes championship intensity sustainable
-- [[61-ego-is-the-enemy]] — The risk that Grover's championship mindset becomes mere ego
-- [[59-the-obstacle-is-the-way]] — Converting obstacles into fuel through stoic practice
-- [[Elon Musk]] — Musk's relentless, boundary-pushing approach to impossible engineering challenges
-- [[88-shoe-dog]] — Phil Knight's obsession with winning against Nike as the defining competitive fuel
-- [[05-12-rules-for-life]] — Peterson on channeling chaos through disciplined, meaningful action
+- [[Can't Hurt Me|Can't Hurt Me]] — Goggins's embrace of suffering and the 40% Rule; the extreme end of the intensity spectrum
+- [[20 Sources/Books/2024/137-the-way-of-the-fight.md|The Way of the Fight]] — GSP's visualization and championship preparation methodology
+- [[20 Sources/Books/2024/131-the-war-of-art.md|131-the-war-of-art]] — Pressfield on Resistance as the barrier between amateur and professional
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — The habit infrastructure that makes championship intensity sustainable
+- [[20 Sources/Books/2021/61-ego-is-the-enemy.md|61-ego-is-the-enemy]] — The risk that Grover's championship mindset becomes mere ego
+- [[20 Sources/Books/2020/59-the-obstacle-is-the-way.md|59-the-obstacle-is-the-way]] — Converting obstacles into fuel through stoic practice
+- [[20 Sources/Books/2022/89-elon-musk.md|Elon Musk]] — Musk's relentless, boundary-pushing approach to impossible engineering challenges
+- [[20 Sources/Books/2022/88-shoe-dog.md|88-shoe-dog]] — Phil Knight's obsession with winning against Nike as the defining competitive fuel
+- [[20 Sources/Books/2018/05-12-rules-for-life.md|05-12-rules-for-life]] — Peterson on channeling chaos through disciplined, meaningful action

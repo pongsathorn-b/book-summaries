@@ -61,8 +61,8 @@ Nutrition scientists have criticized Food Rules for oversimplifying complex nutr
 Food Rules is a wise, wry, and commonsensical guide that cuts through the noise of nutritional science with simple rules — eat real food, not too much, mostly plants — that our great-great-grandmothers would have recognized as simply "eating properly."
 
 ## Related Books
-- [[102-deep-nutrition]] — Shanahan's book provides the biochemical depth behind Pollan's intuition about traditional foods
-- [[103-salt-sugar-fat]] — Pollan's critique of the food industry complements Moss's detailed exposé
-- [[104-the-obesity-code]] — Pollan's "not too much" principle aligns with Fung's insulin-focused approach to weight management
-- [[01-atomic-habits]] — Building sustainable eating habits requires the same principles as building any habit
-- [[108-the-blue-zones]] — The Blue Zone dietary patterns are real-world examples of Pollan's "mostly plants" philosophy in action
+- [[20 Sources/Books/2023/102-deep-nutrition.md|102-deep-nutrition]] — Shanahan's book provides the biochemical depth behind Pollan's intuition about traditional foods
+- [[20 Sources/Books/2023/103-salt-sugar-fat.md|103-salt-sugar-fat]] — Pollan's critique of the food industry complements Moss's detailed exposé
+- [[20 Sources/Books/2023/104-the-obesity-code.md|104-the-obesity-code]] — Pollan's "not too much" principle aligns with Fung's insulin-focused approach to weight management
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — Building sustainable eating habits requires the same principles as building any habit
+- [[20 Sources/Books/2023/108-the-blue-zones.md|108-the-blue-zones]] — The Blue Zone dietary patterns are real-world examples of Pollan's "mostly plants" philosophy in action

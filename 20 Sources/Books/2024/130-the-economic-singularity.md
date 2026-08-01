@@ -86,12 +86,12 @@ Newport's practical prescription:
 
 ## Related Books
 
-- [[06-deep-work]] — Newport's foundational work on focused productivity, which *The Economic Singularity* builds on
-- [[129-the-second-machine-age]] — Brynjolfsson & McAfee's more empirically rigorous treatment of the same economic transformation
-- [[91-the-almanack-of-naval-ravikant]] — Naval's ideas about wealth creation in the age of AI and knowledge work
-- [[01-atomic-habits]] — The emphasis on habit formation as the mechanism for building deep work competence
-- [[25-essentialism]] — McKeown's framework for identifying what truly matters aligns with Newport's prescription to focus on rare and valuable skills
-- [[96-range]] — The advantage of generalists in an uncertain, rapidly changing environment
-- [[04-thinking-fast-and-slow]] — The cognitive science underlying why deep work produces better outcomes
-- [[39-the-lean-startup]] — The iterative approach to building valuable knowledge products
-- [[38-zero-to-one]] — Thiel's contrarian approach to creating genuinely new value, relevant to Newport's "creativity" argument
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — Newport's foundational work on focused productivity, which *The Economic Singularity* builds on
+- [[20 Sources/Books/2024/129-the-second-machine-age.md|129-the-second-machine-age]] — Brynjolfsson & McAfee's more empirically rigorous treatment of the same economic transformation
+- [[20 Sources/Books/2022/91-the-almanack-of-naval-ravikant.md|91-the-almanack-of-naval-ravikant]] — Naval's ideas about wealth creation in the age of AI and knowledge work
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — The emphasis on habit formation as the mechanism for building deep work competence
+- [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] — McKeown's framework for identifying what truly matters aligns with Newport's prescription to focus on rare and valuable skills
+- [[20 Sources/Books/2022/96-range.md|96-range]] — The advantage of generalists in an uncertain, rapidly changing environment
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — The cognitive science underlying why deep work produces better outcomes
+- [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]] — The iterative approach to building valuable knowledge products
+- [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]] — Thiel's contrarian approach to creating genuinely new value, relevant to Newport's "creativity" argument

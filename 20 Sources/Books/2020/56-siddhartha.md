@@ -76,13 +76,13 @@ The novel is structured as a literal journey across the river and a metaphorical
 
 ## Related Books
 
-- [[Victor Frankl]] — Finding meaning in the journey, not the destination
+- [[30 Knowledge/People/Victor-Frankl.md|Victor Frankl]] — Finding meaning in the journey, not the destination
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — The unity underlying opposites and the acceptance of what is
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Love of everything that happens, including the suffering
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The dissolution of time's power over us
-- [[Nietzsche]] — Hesse's interest in Dionysian unity and the death of conventional categories
-- [[09-the-art-of-seduction]] — Kamala's teaching as counterpoint to Greene's manipulation
-- [[13-the-art-of-war]] — The journey as campaign, with setbacks and necessary defeats
+- [[Nietzsche|Nietzsche]] — Hesse's interest in Dionysian unity and the death of conventional categories
+- [[20 Sources/Books/2018/09-the-art-of-seduction.md|09-the-art-of-seduction]] — Kamala's teaching as counterpoint to Greene's manipulation
+- [[20 Sources/Books/2018/13-the-art-of-war.md|13-the-art-of-war]] — The journey as campaign, with setbacks and necessary defeats
 
 ---
 

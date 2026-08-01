@@ -65,12 +65,12 @@ By designing choice environments thoughtfully, we can help people make better de
 
 ## Related
 
-- [[Thinking Fast and Slow]] — Kahneman's dual-system framework that underpins nudge theory
-- [[Predictably Irrational]] — Ariely's behavioral economics complement to Thaler's framework
-- [[The Paradox of Choice]] — Schwartz's paradox of choice maps directly onto Thaler's argument for defaults
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|Thinking Fast and Slow]] — Kahneman's dual-system framework that underpins nudge theory
+- [[20 Sources/Books/2019/36-predictably-irrational.md|Predictably Irrational]] — Ariely's behavioral economics complement to Thaler's framework
+- [[20 Sources/Books/2019/35-the-paradox-of-choice.md|The Paradox of Choice]] — Schwartz's paradox of choice maps directly onto Thaler's argument for defaults
 - [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — the systematic biases that nudge theory aims to counteract
 - [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]] — loss framing is a powerful nudge that Thaler discusses
-- [[Essentialism]] — the disciplined pursuit of less parallels nudge's focus on simplifying choice
-- [[Atomic Habits]] — habit formation as a nudge from the environment
-- [[Getting Things Done]] — systems that reduce decision overhead
-- [[Indistractable]] — understanding and counteracting distraction through environmental design
+- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — the disciplined pursuit of less parallels nudge's focus on simplifying choice
+- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — habit formation as a nudge from the environment
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — systems that reduce decision overhead
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — understanding and counteracting distraction through environmental design

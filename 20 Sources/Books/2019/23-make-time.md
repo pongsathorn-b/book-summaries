@@ -10,7 +10,7 @@ summary: Design your daily default state to create time and energy for what matt
 
 ## Overview
 
-[[30 Knowledge/Concepts/make-time|Make Time]] by [[Jake Knapp]] and [[John Zeratsky]] (former Google designers who created Design Sprints) offers 83 tactical, daily-level interventions for fighting distraction and creating time for what matters. Where [[Getting Things Done]] is a comprehensive system and [[Essentialism]] is a philosophy, Make Time is a daily playbook — each chapter is a short, independent tactic you can apply immediately. The book's framework: every day, pick one Highlight (your most important task), use daily tactics to protect time and energy for it, and close the day by reflecting.
+[[30 Knowledge/Concepts/make-time|Make Time]] by [[Jake Knapp|Jake Knapp]] and [[John Zeratsky|John Zeratsky]] (former Google designers who created Design Sprints) offers 83 tactical, daily-level interventions for fighting distraction and creating time for what matters. Where [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] is a comprehensive system and [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] is a philosophy, Make Time is a daily playbook — each chapter is a short, independent tactic you can apply immediately. The book's framework: every day, pick one Highlight (your most important task), use daily tactics to protect time and energy for it, and close the day by reflecting.
 
 ## Core Concepts
 
@@ -29,7 +29,7 @@ summary: Design your daily default state to create time and energy for what matt
 - Your environment is the most powerful behavior change tool — make the Highlight obvious and distractions invisible
 - End-of-day reflection (even 2 minutes) creates continuous improvement without formal reviews
 - Blocking highlight time on your calendar as "busy" protects it from meeting colonization
-- [[24-indistractable]] and Make Time are philosophical siblings — Eyal's internal triggers complement Knapp's environmental tactics
+- [[20 Sources/Books/2019/24-indistractable.md|24-indistractable]] and Make Time are philosophical siblings — Eyal's internal triggers complement Knapp's environmental tactics
 
 ## Practical Applications
 
@@ -37,7 +37,7 @@ summary: Design your daily default state to create time and energy for what matt
 2. Redesign your morning default: don't start with email. Start with your Highlight.
 3. Create a "distraction block" — a specific 30-minute window for email/social/news, not continuous access
 4. In Sprint mode: close everything, set a timer for 60-90 min, go deep on the Highlight
-5. Use [[21-eat-that-frog]] thinking for your Highlight: what's the one task whose completion makes the day a success?
+5. Use [[20 Sources/Books/2019/21-eat-that-frog.md|21-eat-that-frog]] thinking for your Highlight: what's the one task whose completion makes the day a success?
 6. Track highlights for 2 weeks: how many did you actually complete? Your hit rate reveals your capacity
 7. Design the physical environment: if you want to read more, leave the book on your pillow; if you want to scroll less, move your phone to another room
 
@@ -55,7 +55,7 @@ Design your daily default, pick one Highlight, and defend your time and energy f
 
 ## Related Books
 
-- [[Getting Things Done]] — GTD's comprehensive system provides the project/next-action structure that feeds into Make Time's Highlight
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — GTD's comprehensive system provides the project/next-action structure that feeds into Make Time's Highlight
 - [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — time-boxing for the Highlight; different sprint lengths but same underlying principle
-- [[Indistractable]] — Eyal's framework for managing internal triggers is the psychological complement to Knapp's environmental tactics
-- [[Eat That Frog!]] — your Highlight is your frog; eat it first thing before the day eats you
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — Eyal's framework for managing internal triggers is the psychological complement to Knapp's environmental tactics
+- [[Eat That Frog!|Eat That Frog!]] — your Highlight is your frog; eat it first thing before the day eats you

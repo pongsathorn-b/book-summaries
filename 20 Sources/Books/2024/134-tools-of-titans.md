@@ -84,14 +84,14 @@ The book's "pick and choose" philosophy can also produce analysis paralysis—re
 
 ## Related Books
 
-- [[The 4-Hour Workweek]] — Ferriss's foundational text on lifestyle design and escaping the 9-5 trap
-- [[Tribe of Mentors]] — Ferriss's companion volume focused on life advice rather than tactics
-- [[Atomic Habits]] — Building systems that make excellent tactics automatic
-- [[Deep Work]] — Cal Newport on focused work as the foundation of elite performance
-- [[The Almanack of Naval Ravikant]] — Naval's philosophy and tactics for wealth and happiness
-- [[The Compound Effect]] — The power of small, consistent actions compounding over time
-- [[Essentialism]] — Ruthless prioritization of the few things that actually matter
-- [[Indistractable]] — Understanding and defeating the modern epidemic of distraction
+- [[The 4-Hour Workweek|The 4-Hour Workweek]] — Ferriss's foundational text on lifestyle design and escaping the 9-5 trap
+- [[20 Sources/Books/2024/135-tribe-of-mentors.md|Tribe of Mentors]] — Ferriss's companion volume focused on life advice rather than tactics
+- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — Building systems that make excellent tactics automatic
+- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — Cal Newport on focused work as the foundation of elite performance
+- [[20 Sources/Books/2022/91-the-almanack-of-naval-ravikant.md|The Almanack of Naval Ravikant]] — Naval's philosophy and tactics for wealth and happiness
+- [[20 Sources/Books/2021/74-the-compound-effect.md|The Compound Effect]] — The power of small, consistent actions compounding over time
+- [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] — Ruthless prioritization of the few things that actually matter
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — Understanding and defeating the modern epidemic of distraction
 - [[30 Knowledge/Concepts/make-time|Make Time]] — Daily tactics for building energy and prioritizing meaningful work
-- [[The Power of Full Engagement]] — The science of managing energy, not time
-- [[Think and Grow Rich]] — Napoleon Hill's classic study of successful people's mental models
+- [[20 Sources/Books/2019/27-the-power-of-full-engagement.md|The Power of Full Engagement]] — The science of managing energy, not time
+- [[20 Sources/Books/2025/150-think-and-grow-rich.md|Think and Grow Rich]] — Napoleon Hill's classic study of successful people's mental models

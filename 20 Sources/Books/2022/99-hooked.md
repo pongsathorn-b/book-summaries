@@ -10,7 +10,7 @@ summary: Nir Eyal's Hooked explains how habit-forming products use a four-step c
 
 ## Overview
 
-[[Hooked]] by Nir Eyal is a practical guide to building habit-forming products. Drawing on psychology and behavioral economics research, Eyal identifies a four-step cycle — Trigger, Action, Variable Reward, and Investment — that successful habit-forming products use to create automatic user engagement. The framework is applicable to any product seeking to create habitual use: social media apps, games, productivity tools, consumer apps, and even B2B software. The book is notable for its combination of practical applicability with genuine ethical seriousness — Eyal devotes substantial attention to the ethical implications of building products designed to capture attention.
+[[20 Sources/Books/2022/99-hooked.md|Hooked]] by Nir Eyal is a practical guide to building habit-forming products. Drawing on psychology and behavioral economics research, Eyal identifies a four-step cycle — Trigger, Action, Variable Reward, and Investment — that successful habit-forming products use to create automatic user engagement. The framework is applicable to any product seeking to create habitual use: social media apps, games, productivity tools, consumer apps, and even B2B software. The book is notable for its combination of practical applicability with genuine ethical seriousness — Eyal devotes substantial attention to the ethical implications of building products designed to capture attention.
 
 ## Core Concepts
 

@@ -10,7 +10,7 @@ summary: Meaningful events don't happen by accident — Priya Parker's framework
 
 ## Overview
 
-Facilitator and strategist [[30 Knowledge/People/Priya-Parker|Priya Parker]] transforms how we think about hosting and attending gatherings — from dinner parties and birthday celebrations to business meetings and conferences. Her central argument: most gatherings fail to create genuine connection because they lack intentional design. They follow social scripts (mingle, eat, leave) without asking why the people are actually there or what they need from being together. [[The Art of Gathering]] provides a framework for creating gatherings — personal and professional — that generate meaning, connection, and memorable moments. Drawing from her background in conflict resolution and behavioral design, Parker challenges hosts to be purposeful hosts rather than passive social participants. The book's premise: the same principles that make a great TED talk or a transformative workshop also apply to a dinner party or a neighborhood potluck — when the host is clear about purpose and designs for connection.
+Facilitator and strategist [[30 Knowledge/People/Priya-Parker|Priya Parker]] transforms how we think about hosting and attending gatherings — from dinner parties and birthday celebrations to business meetings and conferences. Her central argument: most gatherings fail to create genuine connection because they lack intentional design. They follow social scripts (mingle, eat, leave) without asking why the people are actually there or what they need from being together. [[20 Sources/Books/2023/120-the-art-of-gathering.md|The Art of Gathering]] provides a framework for creating gatherings — personal and professional — that generate meaning, connection, and memorable moments. Drawing from her background in conflict resolution and behavioral design, Parker challenges hosts to be purposeful hosts rather than passive social participants. The book's premise: the same principles that make a great TED talk or a transformative workshop also apply to a dinner party or a neighborhood potluck — when the host is clear about purpose and designs for connection.
 
 ## Core Concepts
 
@@ -72,11 +72,11 @@ The book has been criticized for a certain elitism — the emphasis on \"purpose
 
 ## Related
 
-- [[66-talk-like-ted]] — Gall's framework for memorable presentations connects with Parker's attention to opening, tension, and purpose
-- [[Crucial Conversations]] — the facilitation skills Parker describes overlap with tools for high-stakes dialogue
-- [[How to Win Friends]] — Carnegie's warmth and hospitality wisdom complements Parker's more structured approach
-- [[25-essentialism]] — the discipline of focusing on what matters (essentialism) parallels Parker's insistence on clear purpose before gathering design
-- [[67-start-with-why]] — Simon Sinek's framework for purpose-driven leadership connects with Parker's emphasis on starting with why before designing how
+- [[20 Sources/Books/2021/66-talk-like-ted.md|66-talk-like-ted]] — Gall's framework for memorable presentations connects with Parker's attention to opening, tension, and purpose
+- [[20 Sources/Books/2021/65-crucial-conversations.md|Crucial Conversations]] — the facilitation skills Parker describes overlap with tools for high-stakes dialogue
+- [[How to Win Friends|How to Win Friends]] — Carnegie's warmth and hospitality wisdom complements Parker's more structured approach
+- [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] — the discipline of focusing on what matters (essentialism) parallels Parker's insistence on clear purpose before gathering design
+- [[20 Sources/Books/2021/67-start-with-why.md|67-start-with-why]] — Simon Sinek's framework for purpose-driven leadership connects with Parker's emphasis on starting with why before designing how
 
 ## One-Line Takeaway
 

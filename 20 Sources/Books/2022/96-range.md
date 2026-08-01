@@ -10,7 +10,7 @@ summary: David Epstein argues that delayed specialization and cultivating divers
 
 ## Overview
 
-[[96-range]] is David Epstein's response to the prevailing gospel of early specialization — the Tiger Woods/Serena Williams model of identifying a domain early and dedicating everything to it. Drawing on research in psychology, cognitive science, and extensive interviews with experts across domains, Epstein makes a compelling case that the "10,000 hours" and early specialization narrative — heavily influenced by Malcolm Gladwell's misinterpretation of K. Anders Ericsson — has been dramatically overextended. Most real-world problems, especially in complex, unpredictable, and interconnected domains, reward people who think broadly and connect across fields, not specialists who dive deep too early.
+[[20 Sources/Books/2022/96-range.md|96-range]] is David Epstein's response to the prevailing gospel of early specialization — the Tiger Woods/Serena Williams model of identifying a domain early and dedicating everything to it. Drawing on research in psychology, cognitive science, and extensive interviews with experts across domains, Epstein makes a compelling case that the "10,000 hours" and early specialization narrative — heavily influenced by Malcolm Gladwell's misinterpretation of K. Anders Ericsson — has been dramatically overextended. Most real-world problems, especially in complex, unpredictable, and interconnected domains, reward people who think broadly and connect across fields, not specialists who dive deep too early.
 
 ## Core Concepts
 

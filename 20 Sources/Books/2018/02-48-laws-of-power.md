@@ -8,9 +8,9 @@ summary: A playbook for understanding and navigating power dynamics — learn to
 
 ## Overview
 
-A playbook for understanding and navigating [[Power Dynamics]] in human relationships. Based on historical figures — Napoleon to Casanova. Greene extracts rules for gaining and maintaining [[Political Strategy]].
+A playbook for understanding and navigating [[Power Dynamics|Power Dynamics]] in human relationships. Based on historical figures — Napoleon to Casanova. Greene extracts rules for gaining and maintaining [[Political Strategy|Political Strategy]].
 
-**Important framing:** This book is descriptive, not prescriptive. It teaches you to recognize [[Power Plays]] — not necessarily to use them.
+**Important framing:** This book is descriptive, not prescriptive. It teaches you to recognize [[Power Plays|Power Plays]] — not necessarily to use them.
 
 ## The Most Important Laws
 
@@ -18,19 +18,19 @@ A playbook for understanding and navigating [[Power Dynamics]] in human relation
 Make those above you feel superior. If you outshine them, you invite resentment.
 
 ### Law 3: Conceal Your Intentions
-[[Deception]] and [[Strategic Misdirection]] — reveal just enough to intrigue and mislead.
+[[Deception|Deception]] and [[Strategic Misdirection|Strategic Misdirection]] — reveal just enough to intrigue and mislead.
 
 ### Law 4: Always Say Less Than Necessary
-[[Communication]] — the more you say, the more you appear weak.
+[[Communication|Communication]] — the more you say, the more you appear weak.
 
 ### Law 15: Crush Your Enemy Totally
-Partial victories are dangerous. Leave enemies alive and they regroup. [[Destruction]].
+Partial victories are dangerous. Leave enemies alive and they regroup. [[Destruction|Destruction]].
 
 ### Law 33: Discover Each Man's Thumbscrew
-Everyone has a [[Weakness]] — a fear, a need, an insecurity. Find it.
+Everyone has a [[Weakness|Weakness]] — a fear, a need, an insecurity. Find it.
 
 ### Law 48: Assume Formlessness
-The best [[Power]] is fluid. By being formless, you become impossible to counter.
+The best [[Power|Power]] is fluid. By being formless, you become impossible to counter.
 
 ## Top Laws Summary
 
@@ -54,13 +54,13 @@ The best [[Power]] is fluid. By being formless, you become impossible to counter
 
 ## For Founders
 
-- Understanding [[Power Dynamics]] helps in fundraising, hiring, [[Negotiation]]
-- Law 33 is essentially [[Customer Discovery]] — understand what people truly need
-- [[Reputation Management]] matters enormously in startup ecosystems
+- Understanding [[Power Dynamics|Power Dynamics]] helps in fundraising, hiring, [[Negotiation|Negotiation]]
+- Law 33 is essentially [[Customer Discovery|Customer Discovery]] — understand what people truly need
+- [[Reputation Management|Reputation Management]] matters enormously in startup ecosystems
 
 ## Related
 
-- [[12-chanakya-neeti]] — ancient Indian parallel on [[Statecraft]] and [[Power]]
-- [[13-the-art-of-war]] — [[Strategic Competition]] and [[Military Strategy]]
-- [[09-the-art-of-seduction]] — [[Seduction Principles]] applied to [[28-influence]]
-- [[48 Laws of Power]] — this book
+- [[20 Sources/Books/2018/12-chanakya-neeti.md|12-chanakya-neeti]] — ancient Indian parallel on [[Statecraft|Statecraft]] and [[Power|Power]]
+- [[20 Sources/Books/2018/13-the-art-of-war.md|13-the-art-of-war]] — [[Strategic Competition|Strategic Competition]] and [[Military Strategy|Military Strategy]]
+- [[20 Sources/Books/2018/09-the-art-of-seduction.md|09-the-art-of-seduction]] — [[Seduction Principles|Seduction Principles]] applied to [[20 Sources/Books/2019/28-influence.md|28-influence]]
+- [[20 Sources/Books/2018/02-48-laws-of-power.md|48 Laws of Power]] — this book

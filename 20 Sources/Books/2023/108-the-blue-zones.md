@@ -76,8 +76,8 @@ Some researchers have challenged the Blue Zone methodology — questioning wheth
 The Blue Zones offers an inspiring (if sometimes methodologically contested) portrait of the world's longest-lived populations and a practical set of principles — move naturally, eat plants, belong, and have purpose — that can extend healthspan regardless of where you live.
 
 ## Related Books
-- [[68-why-we-sleep]] — Both emphasize daily practices (sleep, stress management) as non-negotiable longevity interventions
-- [[102-deep-nutrition]] — Ancestral eating patterns in Blue Zones align with Shanahan's traditional food principles
-- [[107-younger-next-year]] — Both address the role of physical activity and purpose in extending healthspan
-- [[104-the-obesity-code]] — Both focus on the metabolic and dietary factors that drive or prevent chronic disease
-- [[01-atomic-habits]] — Building the small daily habits (community, movement, eating) that compound into longevity
+- [[20 Sources/Books/2021/68-why-we-sleep.md|68-why-we-sleep]] — Both emphasize daily practices (sleep, stress management) as non-negotiable longevity interventions
+- [[20 Sources/Books/2023/102-deep-nutrition.md|102-deep-nutrition]] — Ancestral eating patterns in Blue Zones align with Shanahan's traditional food principles
+- [[20 Sources/Books/2023/107-younger-next-year.md|107-younger-next-year]] — Both address the role of physical activity and purpose in extending healthspan
+- [[20 Sources/Books/2023/104-the-obesity-code.md|104-the-obesity-code]] — Both focus on the metabolic and dietary factors that drive or prevent chronic disease
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — Building the small daily habits (community, movement, eating) that compound into longevity

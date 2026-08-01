@@ -88,10 +88,10 @@ Kurzweil's most controversial claim: that consciousness is substrate-independent
 
 ## Related Books
 
-- [[121-the-singularity-is-near]] — The direct sequel and more comprehensive technical treatment; the two books should be read together
-- [[122-superintelligence]] — Bostrom's more cautious and philosophically rigorous analysis of the same phenomenon
-- [[123-life-3-0]] — Tegmark's more measured and interdisciplinary update on these questions
-- [[129-the-second-machine-age]] — Brynjolfsson & McAfee's empirically grounded economic analysis
-- [[04-thinking-fast-and-slow]] — Relevant to understanding which cognitive tasks AI has already surpassed and which remain difficult
-- [[93-the-black-swan]] — Taleb's skepticism about prediction is a useful counterweight to Kurzweil's confidence
-- [[95-fooled-by-randomness]] — Relevant to understanding the role of luck in technological success stories
+- [[20 Sources/Books/2024/121-the-singularity-is-near.md|121-the-singularity-is-near]] — The direct sequel and more comprehensive technical treatment; the two books should be read together
+- [[20 Sources/Books/2024/122-superintelligence.md|122-superintelligence]] — Bostrom's more cautious and philosophically rigorous analysis of the same phenomenon
+- [[20 Sources/Books/2024/123-life-3-0.md|123-life-3-0]] — Tegmark's more measured and interdisciplinary update on these questions
+- [[20 Sources/Books/2024/129-the-second-machine-age.md|129-the-second-machine-age]] — Brynjolfsson & McAfee's empirically grounded economic analysis
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — Relevant to understanding which cognitive tasks AI has already surpassed and which remain difficult
+- [[20 Sources/Books/2022/93-the-black-swan.md|93-the-black-swan]] — Taleb's skepticism about prediction is a useful counterweight to Kurzweil's confidence
+- [[20 Sources/Books/2022/95-fooled-by-randomness.md|95-fooled-by-randomness]] — Relevant to understanding the role of luck in technological success stories

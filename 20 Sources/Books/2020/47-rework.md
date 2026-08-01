@@ -10,7 +10,7 @@ summary: The best way to grow a business is to stop planning, stop hiring premat
 
 ## Overview
 
-[[30 Knowledge/People/Jason-Fried|Jason Fried]] and [[David Heinemeier Hansson (DHH)]], founders of Basecamp (formerly 37signals), wrote *Rework* as a frontal assault on conventional business wisdom. The book's premise: most business advice is written by consultants who have never built anything, for companies that don't need to exist. It rejects the cult of the business plan, the necessity of venture capital, the mythology of the "overnight success," and the idea that you need to "scale" or "crush it" to build a great company. Instead, it argues for starting small, staying small, making real things, and building a business that serves its owners' lives rather than consuming them. The tone is direct, often provocative, and backed by the authors' own experience running a profitable, bootstrapped software company.
+[[30 Knowledge/People/Jason-Fried|Jason Fried]] and [[David Heinemeier Hansson (DHH)|David Heinemeier Hansson (DHH)]], founders of Basecamp (formerly 37signals), wrote *Rework* as a frontal assault on conventional business wisdom. The book's premise: most business advice is written by consultants who have never built anything, for companies that don't need to exist. It rejects the cult of the business plan, the necessity of venture capital, the mythology of the "overnight success," and the idea that you need to "scale" or "crush it" to build a great company. Instead, it argues for starting small, staying small, making real things, and building a business that serves its owners' lives rather than consuming them. The tone is direct, often provocative, and backed by the authors' own experience running a profitable, bootstrapped software company.
 
 ## Core Concepts
 
@@ -71,4 +71,4 @@ Marketing isn't a department or a campaign — it's the consequence of making so
 
 ---
 
-*Related: [[The Lean Startup]], [[Zero to One]], [[The 4-Hour Workweek]], [[Deep Work]], [[Essentialism]], [[Getting Things Done]], [[Indistractable]], [[30 Knowledge/Concepts/make-time|Make Time]]*
+*Related: [[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]], [[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]], [[The 4-Hour Workweek|The 4-Hour Workweek]], [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]], [[20 Sources/Books/2019/25-essentialism.md|Essentialism]], [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]], [[20 Sources/Books/2019/24-indistractable.md|Indistractable]], [[30 Knowledge/Concepts/make-time|Make Time]]*

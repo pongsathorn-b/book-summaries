@@ -10,7 +10,7 @@ summary: Identify your single most important task each day and tackle it first �
 
 ## Overview
 
-[[Eat That Frog!]] by [[30 Knowledge/People/Brian-Tracy|Brian Tracy]] is a tightly focused book with one central idea: identify your most difficult or important task — your "frog" — and complete it first thing every morning. The book draws from Parkinson's Law (work expands to fill available time) and the Eisenhower Matrix (urgent vs. important), wrapped in decades of Tracy's motivational coaching experience. Its power is in its refusal to complicate — the entire system fits on a single page of daily planning.
+[[Eat That Frog!|Eat That Frog!]] by [[30 Knowledge/People/Brian-Tracy|Brian Tracy]] is a tightly focused book with one central idea: identify your most difficult or important task — your "frog" — and complete it first thing every morning. The book draws from Parkinson's Law (work expands to fill available time) and the Eisenhower Matrix (urgent vs. important), wrapped in decades of Tracy's motivational coaching experience. Its power is in its refusal to complicate — the entire system fits on a single page of daily planning.
 
 ## Core Concepts
 
@@ -32,7 +32,7 @@ summary: Identify your single most important task each day and tackle it first �
 - Procrastination is emotional, not rational. "Eating the frog" removes the psychological weight of dread all day.
 - Parkinson + Frogs: setting artificial deadlines ("I'll finish this in one pomodoro") beats vague "I'll work on this later"
 - You can only do one frog per day meaningfully — resist the temptation to multitask frogs
-- [[The 7 Habits of Highly Effective People|Habit 3]] ("Put First Things First") is Covey's intellectual version of Eat That Frog!
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|Habit 3]] ("Put First Things First") is Covey's intellectual version of Eat That Frog!
 - If you eat your frog first thing, the rest of the day is a series of bonuses
 
 ## Practical Applications
@@ -59,7 +59,7 @@ Willpower is a morning resource — eat your hardest, most important task first 
 
 ## Related Books
 
-- [[The 7 Habits of Highly Effective People]] — Covey's Habit 3 is the strategic foundation for frog-eating
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|The 7 Habits of Highly Effective People]] — Covey's Habit 3 is the strategic foundation for frog-eating
 - [[30 Knowledge/Concepts/the-pomodoro-technique|The Pomodoro Technique]] — time-boxing method for actually eating your frog once you've identified it
-- [[Getting Things Done]] — GTD's project and next-action clarity makes identifying your true frog easier
+- [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]] — GTD's project and next-action clarity makes identifying your true frog easier
 - [[30 Knowledge/Concepts/make-time|Make Time]] — daily energy management that complements frog-eating

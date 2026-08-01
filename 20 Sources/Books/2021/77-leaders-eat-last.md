@@ -59,11 +59,11 @@ Sinek makes the counterintuitive argument that great leaders are also great foll
 
 ## Related
 
-- [[67-start-with-why]] — the foundational "why first" framework [[67-start-with-why]] that precedes this book's how
-- [[19-the-7-habits-of-highly-effective-people]] — Covey's "seek first to understand, then to be understood" [[19-the-7-habits-of-highly-effective-people]] is the relational foundation Sinek builds on
-- [[06-deep-work]] — Cal Newport's [[06-deep-work]] is possible only in environments where people feel safe from interruption and surveillance
-- [[25-essentialism]] — Greg McKeown's [[25-essentialism]] — saying no to the urgent in service of the important — is easier in a circle of safety
-- [[24-indistractable]] — Nir Eyal's [[24-indistractable]] explores how psychological safety and belonging relate to the modern epidemic of distraction
+- [[20 Sources/Books/2021/67-start-with-why.md|67-start-with-why]] — the foundational "why first" framework [[20 Sources/Books/2021/67-start-with-why.md|67-start-with-why]] that precedes this book's how
+- [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] — Covey's "seek first to understand, then to be understood" [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]] is the relational foundation Sinek builds on
+- [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] — Cal Newport's [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] is possible only in environments where people feel safe from interruption and surveillance
+- [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] — Greg McKeown's [[20 Sources/Books/2019/25-essentialism.md|25-essentialism]] — saying no to the urgent in service of the important — is easier in a circle of safety
+- [[20 Sources/Books/2019/24-indistractable.md|24-indistractable]] — Nir Eyal's [[20 Sources/Books/2019/24-indistractable.md|24-indistractable]] explores how psychological safety and belonging relate to the modern epidemic of distraction
 
 ## One-Line Takeaway
 

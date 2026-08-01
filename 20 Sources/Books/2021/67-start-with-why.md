@@ -95,7 +95,7 @@ Sinek provides numerous case studies:
 
 ## Related Concepts
 
-This book connects to [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (the availability heuristic and narrative fallacy that make Why-driven stories compelling), [[Atomic Habits]] (the importance of purpose as a motivational anchor), [[Essentialism]] (saying no to anything that doesn't serve your core purpose), and [[Deep Work]] (aligning your deepest work with your Why).
+This book connects to [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] (the availability heuristic and narrative fallacy that make Why-driven stories compelling), [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] (the importance of purpose as a motivational anchor), [[20 Sources/Books/2019/25-essentialism.md|Essentialism]] (saying no to anything that doesn't serve your core purpose), and [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] (aligning your deepest work with your Why).
 
 ## One-Line Takeaway
 

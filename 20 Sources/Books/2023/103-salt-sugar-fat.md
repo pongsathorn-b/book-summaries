@@ -59,8 +59,8 @@ Food industry representatives have disputed Moss's characterization of intention
 Salt, Sugar, Fat is a meticulously researched exposé revealing that the processed food industry's deliberate engineering of hyper-palatable products is the primary driver of the obesity epidemic — not lack of willpower or personal responsibility.
 
 ## Related Books
-- [[Why We Sleep]] — Sleep deprivation disrupts the hormones (leptin, ghrelin) that regulate appetite and satiety
-- [[The Obesity Code]] — Both books examine the hormonal mechanisms behind overeating beyond simple willpower
+- [[20 Sources/Books/2021/68-why-we-sleep.md|Why We Sleep]] — Sleep deprivation disrupts the hormones (leptin, ghrelin) that regulate appetite and satiety
+- [[20 Sources/Books/2023/104-the-obesity-code.md|The Obesity Code]] — Both books examine the hormonal mechanisms behind overeating beyond simple willpower
 - [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — Food companies exploit predictable cognitive biases in consumers
-- [[Indistractable]] — Understanding how engineered products steal attention and drive consumption
-- [[The Body Keeps the Score]] — Chronic overconsumption of processed foods affects systemic inflammation and trauma responses
+- [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] — Understanding how engineered products steal attention and drive consumption
+- [[20 Sources/Books/2019/32-the-body-keeps-the-score.md|The Body Keeps the Score]] — Chronic overconsumption of processed foods affects systemic inflammation and trauma responses

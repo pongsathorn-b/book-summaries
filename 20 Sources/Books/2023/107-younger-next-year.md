@@ -27,7 +27,7 @@ Every cell in your body is constantly receiving either "grow" signals (exercise,
 The book emphasizes two non-negotiable pillars of the Younger Next Year program: **1) Six days per week of vigorous exercise** — with specific prescriptions for aerobic exercise (increases in heart rate, 4+ hours per week total) and strength training (30 minutes, full-body, with enough weight to fatigue muscles in 12–15 reps); and **2) A healthy diet** — emphasizing whole foods, vegetables, lean protein, and healthy fats while avoiding processed foods, excessive sugar, and refined carbohydrates. The nutrition section is less detailed than the exercise prescription but aligns with Mediterranean-style eating patterns.
 
 ### The "Power of Half": Consistency Over Intensity
-The authors argue that the single most important variable is consistency — showing up six days per week, every week, for years. They call this the "power of half" — the idea that doing something 50% as hard but showing up 100% of the time produces dramatically better results than sporadic bursts of heroic effort followed by long periods of inactivity. This is essentially a [[01-atomic-habits]] philosophy applied to fitness: the compound interest of daily practice.
+The authors argue that the single most important variable is consistency — showing up six days per week, every week, for years. They call this the "power of half" — the idea that doing something 50% as hard but showing up 100% of the time produces dramatically better results than sporadic bursts of heroic effort followed by long periods of inactivity. This is essentially a [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] philosophy applied to fitness: the compound interest of daily practice.
 
 ## Key Lessons
 
@@ -53,15 +53,15 @@ The authors argue that the single most important variable is consistency — sho
 
 ## Controversy/Criticism
 
-The book's exercise prescription (six days per week of vigorous exercise for people in their 60s, 70s, and beyond) has been questioned by some physicians who worry about injury risk in sedentary older adults starting a new program. The advice to begin vigorous exercise without more individualized gradual progression may not be appropriate for everyone. Some critics argue the nutrition section is too simplistic compared to more detailed dietary protocols in books like [[104-the-obesity-code]] or [[102-deep-nutrition]]. The book's optimism about reversing aging may also set unrealistic expectations — while exercise dramatically improves healthspan, it does not halt chronological aging or prevent all age-related decline.
+The book's exercise prescription (six days per week of vigorous exercise for people in their 60s, 70s, and beyond) has been questioned by some physicians who worry about injury risk in sedentary older adults starting a new program. The advice to begin vigorous exercise without more individualized gradual progression may not be appropriate for everyone. Some critics argue the nutrition section is too simplistic compared to more detailed dietary protocols in books like [[20 Sources/Books/2023/104-the-obesity-code.md|104-the-obesity-code]] or [[20 Sources/Books/2023/102-deep-nutrition.md|102-deep-nutrition]]. The book's optimism about reversing aging may also set unrealistic expectations — while exercise dramatically improves healthspan, it does not halt chronological aging or prevent all age-related decline.
 
 ## One-Line Takeaway
 
 Younger Next Year presents a compelling (if sometimes overly simplistic) case that aging is primarily a choice driven by inactivity, and that committing to six days per week of vigorous exercise can dramatically extend healthspan and postpone mortality.
 
 ## Related Books
-- [[68-why-we-sleep]] — Sleep optimization as a complementary anti-aging strategy
-- [[32-the-body-keeps-the-score]] — Exercise as a treatment for trauma and its physical manifestations
-- [[01-atomic-habits]] — The consistency philosophy and habit-building framework for maintaining the exercise prescription
-- [[27-the-power-of-full-engagement]] — Managing energy across the lifespan through structured exercise and recovery
-- [[21-eat-that-frog]] — Prioritizing the most important health task (exercise) before anything else
+- [[20 Sources/Books/2021/68-why-we-sleep.md|68-why-we-sleep]] — Sleep optimization as a complementary anti-aging strategy
+- [[20 Sources/Books/2019/32-the-body-keeps-the-score.md|32-the-body-keeps-the-score]] — Exercise as a treatment for trauma and its physical manifestations
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — The consistency philosophy and habit-building framework for maintaining the exercise prescription
+- [[20 Sources/Books/2019/27-the-power-of-full-engagement.md|27-the-power-of-full-engagement]] — Managing energy across the lifespan through structured exercise and recovery
+- [[20 Sources/Books/2019/21-eat-that-frog.md|21-eat-that-frog]] — Prioritizing the most important health task (exercise) before anything else

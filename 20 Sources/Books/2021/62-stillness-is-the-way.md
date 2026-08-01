@@ -20,7 +20,7 @@ Drawing on Marcus Aurelius's *Meditations*, Epictetus's teachings, Buddhist mind
 
 Holiday's central argument: **stillness is not inaction — it is the soil from which right action grows.** The Stoics didn't retreat from the world; they engaged it more deeply than others. But that engagement required regular periods of withdrawal — meditation, journaling, solitude — to see the world accurately. Without stillness, we are prisoners of our reactive impulses, our [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]], and our emotional reactivity.
 
-This connects to the [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] in neuroscience — the brain's resting state where deep integration and insight occur. [[30 Knowledge/Concepts/focused-mode|Focused Mode]] constantly is the path to burnout; what [[Deep Work]] needs is not just intensity but rhythm.
+This connects to the [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] in neuroscience — the brain's resting state where deep integration and insight occur. [[30 Knowledge/Concepts/focused-mode|Focused Mode]] constantly is the path to burnout; what [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] needs is not just intensity but rhythm.
 
 ### The Stoic Practice of Morning Meditation
 
@@ -41,7 +41,7 @@ The Stoics were prolific journalers. Marcus Aurelius's *Meditations* is itself a
 - Identify patterns in your emotional responses
 - Hold yourself accountable to your own standards
 
-This practice is also central to [[18-getting-things-down]] — capturing thoughts so they don't occupy working memory.
+This practice is also central to [[18-getting-things-down|18-getting-things-down]] — capturing thoughts so they don't occupy working memory.
 
 ### What You Can't Control: The Stoic Boundary
 
@@ -49,7 +49,7 @@ The core Stoic teaching, from Epictetus: **some things are up to us, some are no
 
 ### The Danger of Distraction
 
-Holiday is particularly sharp on **distraction as the enemy of purpose.** When we fill every moment with noise — social media, news, entertainment — we lose the capacity for the kind of deep thought that produces meaningful work. The connection to [[Indistractable]] and [[30 Knowledge/Concepts/make-time|Make Time]] is clear: the war on distraction is not a productivity hack but a prerequisite for a meaningful life.
+Holiday is particularly sharp on **distraction as the enemy of purpose.** When we fill every moment with noise — social media, news, entertainment — we lose the capacity for the kind of deep thought that produces meaningful work. The connection to [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] and [[30 Knowledge/Concepts/make-time|Make Time]] is clear: the war on distraction is not a productivity hack but a prerequisite for a meaningful life.
 
 ### Acceptance and Amor Fati
 
@@ -64,9 +64,9 @@ The deepest form of stillness is **acceptance** — loving what is, not just tol
 5. **Accept what happens as necessary.** *Amor fati* is not resignation — it is the recognition that reality is already unfolding, and resistance only causes suffering.
 6. **Protect your attention.** Distraction is not a minor inconvenience — it is a fundamental threat to a meaningful life. Build systems around your attention the way you'd build systems around any other precious resource.
 7. **Purpose requires solitude.** Some decisions, some creativity, some leadership — all of it requires time alone. Without it, you are always reacting instead of choosing.
-8. **Busyness is not productivity.** The person who never stops moving is usually the one getting the least done. [[06-deep-work]] requires periods of nothing.
+8. **Busyness is not productivity.** The person who never stops moving is usually the one getting the least done. [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]] requires periods of nothing.
 9. **Retreat to advance.** Every significant strategic decision in history was made after a period of withdrawal. The general who retreats to consider the battle often wins it.
-10. **Make stillness a practice, not a treat.** It shouldn't be something you do on vacation — it should be as regular as brushing your teeth. [[01-atomic-habits]] and habit stacking apply here.
+10. **Make stillness a practice, not a treat.** It shouldn't be something you do on vacation — it should be as regular as brushing your teeth. [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] and habit stacking apply here.
 
 ## Practical Applications
 
@@ -86,7 +86,7 @@ The deepest form of stillness is **acceptance** — loving what is, not just tol
 
 ## Related Concepts
 
-This book connects deeply to [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own journal of Stoic reflection), [[30 Knowledge/Concepts/stoicism|Stoicism]] more broadly, [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] and [[30 Knowledge/Concepts/focused-mode|Focused Mode]] neuroscience, [[Deep Work]] (stillness as prerequisite for depth), [[Indistractable]] (protecting attention from distraction), [[30 Knowledge/Concepts/make-time|Make Time]] (designing for priorities rather than reacting to demands), and [[Brain Plasticity]] (the brain physically changes with contemplative practice).
+This book connects deeply to [[30 Knowledge/Concepts/meditations|Meditations]] (Marcus Aurelius's own journal of Stoic reflection), [[30 Knowledge/Concepts/stoicism|Stoicism]] more broadly, [[30 Knowledge/Concepts/diffuse-mode|Diffuse Mode]] and [[30 Knowledge/Concepts/focused-mode|Focused Mode]] neuroscience, [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] (stillness as prerequisite for depth), [[20 Sources/Books/2019/24-indistractable.md|Indistractable]] (protecting attention from distraction), [[30 Knowledge/Concepts/make-time|Make Time]] (designing for priorities rather than reacting to demands), and [[30 Knowledge/Concepts/Brain-Plasticity.md|Brain Plasticity]] (the brain physically changes with contemplative practice).
 
 ## One-Line Takeaway
 

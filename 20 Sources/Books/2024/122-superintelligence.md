@@ -91,10 +91,10 @@ Because an intelligence explosion could occur rapidly (a self-improving AI could
 
 ## Related Books
 
-- [[123-life-3-0]] — Max Tegmark's more optimistic but still rigorous companion volume, emphasizing the importance of AI governance
-- [[121-the-singularity-is-near]] — Kurzweil's more bullish, technology-focused treatment of the same subject; Bostrom is a useful counterweight
-- [[128-the-age-of-spiritual-machines]] — Kurzweil's earlier exploration of machine intelligence
-- [[04-thinking-fast-and-slow]] — Relevant to understanding the cognitive limitations superintelligence would surpass
-- [[93-the-black-swan]] — Taleb's framework for thinking about low-probability, high-consequence events is directly applicable
-- [[94-skin-in-the-game]] — The importance of having stake in outcomes applies to AI developers and researchers
-- [[95-fooled-by-randomness]] — The difficulty of predicting complex systems is relevant to forecasting AI trajectories
+- [[20 Sources/Books/2024/123-life-3-0.md|123-life-3-0]] — Max Tegmark's more optimistic but still rigorous companion volume, emphasizing the importance of AI governance
+- [[20 Sources/Books/2024/121-the-singularity-is-near.md|121-the-singularity-is-near]] — Kurzweil's more bullish, technology-focused treatment of the same subject; Bostrom is a useful counterweight
+- [[20 Sources/Books/2024/128-the-age-of-spiritual-machines.md|128-the-age-of-spiritual-machines]] — Kurzweil's earlier exploration of machine intelligence
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|04-thinking-fast-and-slow]] — Relevant to understanding the cognitive limitations superintelligence would surpass
+- [[20 Sources/Books/2022/93-the-black-swan.md|93-the-black-swan]] — Taleb's framework for thinking about low-probability, high-consequence events is directly applicable
+- [[20 Sources/Books/2022/94-skin-in-the-game.md|94-skin-in-the-game]] — The importance of having stake in outcomes applies to AI developers and researchers
+- [[20 Sources/Books/2022/95-fooled-by-randomness.md|95-fooled-by-randomness]] — The difficulty of predicting complex systems is relevant to forecasting AI trajectories

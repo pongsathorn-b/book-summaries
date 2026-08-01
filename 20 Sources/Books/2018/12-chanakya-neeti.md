@@ -10,32 +10,32 @@ summary: Ancient Indian political philosophy from the advisor who founded the Ma
 
 ## Overview
 
-Written by [[Chanakya]] (Kautilya, [[Vishnu Gupta]]), the political strategist who unified ancient India and founded the [[Mauryan Empire]] in 4th century BCE. [[Political Wisdom]] on [[Statecraft]], [[Wealth]], [[Ethics]], and [[Human Nature]].
+Written by [[30 Knowledge/People/Chanakya.md|Chanakya]] (Kautilya, [[30 Knowledge/People/Vishnu-Gupta.md|Vishnu Gupta]]), the political strategist who unified ancient India and founded the [[Mauryan Empire|Mauryan Empire]] in 4th century BCE. [[Political Wisdom|Political Wisdom]] on [[Statecraft|Statecraft]], [[Wealth|Wealth]], [[Ethics|Ethics]], and [[Human Nature|Human Nature]].
 
 ## Key Themes
 
-### On [[Self-Interest]]
+### On [[Self-Interest|Self-Interest]]
 
-People serve their own interests first. Structure [[Incentives]] accordingly. Realistic, not cynical — practical.
+People serve their own interests first. Structure [[Incentives|Incentives]] accordingly. Realistic, not cynical — practical.
 
 ### On Testing Character
 
 Test a person's character before trusting them:
 
-- Test [[Gold by Fire]] — test people under [[Pressure]]
+- Test [[Gold by Fire|Gold by Fire]] — test people under [[Pressure|Pressure]]
 - Test a friend by creating need
-- Test a servant with a [[Difficult Task]]
+- Test a servant with a [[Difficult Task|Difficult Task]]
 
-### On [[Wealth]]
+### On [[Wealth|Wealth]]
 
-- [[Wealth]] acquired easily is spent easily
-- [[Greed]] destroys [[Wealth]] — [[Generosity]] protects it
+- [[Wealth|Wealth]] acquired easily is spent easily
+- [[Greed|Greed]] destroys [[Wealth|Wealth]] — [[Generosity|Generosity]] protects it
 
-### On [[Relationships]]
+### On [[Relationships|Relationships]]
 
 - A friend in need is a friend indeed
-- [[Flattery]] is the enemy of [[Truth]]
-- [[Company You Keep]] shapes your character
+- [[Flattery|Flattery]] is the enemy of [[Truth|Truth]]
+- [[Company You Keep|Company You Keep]] shapes your character
 
 ## Key Maxims
 
@@ -45,14 +45,14 @@ Test a person's character before trusting them:
 
 ## For Founders
 
-- [[Chanakya]] on [[Incentives]]: people optimize for what they're measured on
-- On [[Truth-Tellers]]: surround yourself with [[Advisors]] who tell truth, not [[Sycophants]]
-- On [[Power]]: [[Legitimacy]] comes from delivering value, not extracting it
+- [[30 Knowledge/People/Chanakya.md|Chanakya]] on [[Incentives|Incentives]]: people optimize for what they're measured on
+- On [[Truth-Tellers|Truth-Tellers]]: surround yourself with [[Advisors|Advisors]] who tell truth, not [[Sycophants|Sycophants]]
+- On [[Power|Power]]: [[Legitimacy|Legitimacy]] comes from delivering value, not extracting it
 
 ## Related
 
-- [[13-the-art-of-war]] — ancient parallel on [[Military Strategy]] and [[Statecraft]]
-- [[48 Laws of Power]] — [[Power Dynamics]] and [[Political Strategy]]
-- [[30 Knowledge/Concepts/meditations|Meditations]] — similar ancient [[Stoic]] [[Leadership Wisdom]]
-- [[30 Knowledge/Concepts/stoicism|Stoicism]] — [[Chanakya]] and [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] share [[30 Knowledge/Concepts/detachment|Detachment]] and [[Virtue]] emphasis
-- [[Incentives]] — [[Chanakya]]'s core insight on [[Human Behavior]]
+- [[20 Sources/Books/2018/13-the-art-of-war.md|13-the-art-of-war]] — ancient parallel on [[Military Strategy|Military Strategy]] and [[Statecraft|Statecraft]]
+- [[20 Sources/Books/2018/02-48-laws-of-power.md|48 Laws of Power]] — [[Power Dynamics|Power Dynamics]] and [[Political Strategy|Political Strategy]]
+- [[30 Knowledge/Concepts/meditations|Meditations]] — similar ancient [[Stoic|Stoic]] [[Leadership Wisdom|Leadership Wisdom]]
+- [[30 Knowledge/Concepts/stoicism|Stoicism]] — [[30 Knowledge/People/Chanakya.md|Chanakya]] and [[30 Knowledge/People/Marcus-Aurelius|Marcus Aurelius]] share [[30 Knowledge/Concepts/detachment|Detachment]] and [[Virtue|Virtue]] emphasis
+- [[Incentives|Incentives]] — [[30 Knowledge/People/Chanakya.md|Chanakya]]'s core insight on [[Human Behavior|Human Behavior]]

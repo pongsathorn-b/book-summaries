@@ -15,7 +15,7 @@ Former Princeton psychology professor [[30 Knowledge/People/Shawn-Achor|Shawn Ac
 ## Core Concepts
 
 ### The Broaden-and-Build Theory of Positive Emotions
-Achor's research builds on psychologist [[Barbara Fredrickson]]'s **broaden-and-build theory**: positive emotions broaden thinking and build lasting personal resources. When you are in a positive state, your brain's dopamine and serotonin systems activate, which enhances **cognitive flexibility**, **creative problem-solving**, and **information processing**. Positive people literally see more possibilities in any situation. This means happiness is not a luxury — it is a performance enhancer.
+Achor's research builds on psychologist [[Barbara Fredrickson|Barbara Fredrickson]]'s **broaden-and-build theory**: positive emotions broaden thinking and build lasting personal resources. When you are in a positive state, your brain's dopamine and serotonin systems activate, which enhances **cognitive flexibility**, **creative problem-solving**, and **information processing**. Positive people literally see more possibilities in any situation. This means happiness is not a luxury — it is a performance enhancer.
 
 ### The Tetra Model of Success
 Achor proposes that most people follow the **Tetra Success** model: **Thoughts → Attitude → Choices → Behaviors → Results**. But the traditional model has it backwards. If you invert it — **Results → Thoughts** — you put the cart before the horse because results (achievement, recognition, money) are lagging indicators that come last. The correct model starts with **Thoughts** (training your brain to be positive) first, which changes **Attitude**, which changes **Choices**, which changes **Behaviors**, which produces **Results**.
@@ -66,10 +66,10 @@ Achor's work has been criticized for overstating the evidence for positive psych
 
 ## Related
 
-- [[Deep Work]] — [[30 Knowledge/People/Cal-Newport|Cal Newport]] would agree: a positive, energized brain [[Deep Work]] is essential for the focused work that produces rare and valuable results
-- [[The Body Keeps the Score]] — [[Bessel van der Kolk]] reminds us that not all unhappiness can be thought away; trauma and the body shape mood in ways beyond cognitive reframing
-- [[Atomic Habits]] — building happiness habits [[Atomic Habits]] daily compounds theappinessadvantage Achor describes
-- [[30 Knowledge/Concepts/make-time|Make Time]] — [[Jake Knapp]]'s emphasis on energy [[30 Knowledge/Concepts/make-time|Make Time]] aligns with Achor's daily practices for positive brain states
+- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — [[30 Knowledge/People/Cal-Newport|Cal Newport]] would agree: a positive, energized brain [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] is essential for the focused work that produces rare and valuable results
+- [[20 Sources/Books/2019/32-the-body-keeps-the-score.md|The Body Keeps the Score]] — [[Bessel van der Kolk|Bessel van der Kolk]] reminds us that not all unhappiness can be thought away; trauma and the body shape mood in ways beyond cognitive reframing
+- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — building happiness habits [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] daily compounds theappinessadvantage Achor describes
+- [[30 Knowledge/Concepts/make-time|Make Time]] — [[Jake Knapp|Jake Knapp]]'s emphasis on energy [[30 Knowledge/Concepts/make-time|Make Time]] aligns with Achor's daily practices for positive brain states
 - [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius's practice [[30 Knowledge/Concepts/meditations|Meditations]] of negative visualization and gratitude predates modern positive psychology
 
 ## One-Line Takeaway

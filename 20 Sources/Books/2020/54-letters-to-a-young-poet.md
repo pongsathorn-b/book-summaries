@@ -77,13 +77,13 @@ Rilke believed each person has a **unique way of being in the world** that must 
 
 ## Related Books
 
-- [[Victor Frankl]] — Finding meaning in solitude and suffering
+- [[30 Knowledge/People/Victor-Frankl.md|Victor Frankl]] — Finding meaning in solitude and suffering
 - [[30 Knowledge/Concepts/meditations|Meditations]] — Marcus Aurelius on living an examined inner life
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — Patience and the acceptance of what cannot be controlled
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Love of fate including its difficult passages
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the great simplifier and clarifier
-- [[Nietzsche]] — The inward journey and the death of conventional values
-- [[09-the-art-of-seduction]] — The interior life Rilke would have found vulgar but instructive as contrast
+- [[Nietzsche|Nietzsche]] — The inward journey and the death of conventional values
+- [[20 Sources/Books/2018/09-the-art-of-seduction.md|09-the-art-of-seduction]] — The interior life Rilke would have found vulgar but instructive as contrast
 
 ---
 

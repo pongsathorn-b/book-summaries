@@ -10,7 +10,7 @@ summary: The compound effect is the principle that small, consistent daily actio
 
 ## Overview
 
-Publisher and success coach [[Darren Hardy]] distills the core principle behind all lasting achievement into one book: **small, smart choices, consistently executed over time, compound into extraordinary results**. Drawing on his own journey from failing entrepreneur to successful publisher, as well as lessons from iconic leaders and organizations, Hardy argues that there are no secrets, shortcuts, or quantum leaps — only the relentless execution of basic disciplines. The compound effect is not flashy or dramatic, which is precisely why most people underestimate it and abandon the disciplines that would transform their lives.
+Publisher and success coach [[Darren Hardy|Darren Hardy]] distills the core principle behind all lasting achievement into one book: **small, smart choices, consistently executed over time, compound into extraordinary results**. Drawing on his own journey from failing entrepreneur to successful publisher, as well as lessons from iconic leaders and organizations, Hardy argues that there are no secrets, shortcuts, or quantum leaps — only the relentless execution of basic disciplines. The compound effect is not flashy or dramatic, which is precisely why most people underestimate it and abandon the disciplines that would transform their lives.
 
 ## Core Concepts
 
@@ -61,13 +61,13 @@ Hardy emphasizes **personal responsibility** — that the events of your past, w
 
 ## Controversy/Criticism
 
-*The Compound Effect* has been criticized for being more motivational than practical — while its core principle (small daily actions compound) is valid and well-established, the book's advice on executing that principle is not significantly more detailed than what can be found in works like [[01-atomic-habits]] or [[19-the-7-habits-of-highly-effective-people]]. Some readers find Hardy preachy or self-congratulatory about his own discipline, and his framing can feel blame-y toward people who struggle with self-control due to circumstances, trauma, or neurodivergence. The book's emphasis on personal responsibility, while empowering for some, can inadvertently suggest that anyone who isn't succeeding simply isn't trying hard enough.
+*The Compound Effect* has been criticized for being more motivational than practical — while its core principle (small daily actions compound) is valid and well-established, the book's advice on executing that principle is not significantly more detailed than what can be found in works like [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] or [[20 Sources/Books/2018/19-the-7-habits-of-highly-effective-people.md|19-the-7-habits-of-highly-effective-people]]. Some readers find Hardy preachy or self-congratulatory about his own discipline, and his framing can feel blame-y toward people who struggle with self-control due to circumstances, trauma, or neurodivergence. The book's emphasis on personal responsibility, while empowering for some, can inadvertently suggest that anyone who isn't succeeding simply isn't trying hard enough.
 
 ## Related
 
-- [[Atomic Habits]] — James Clear's system [[Atomic Habits]] is the practical implementation of Hardy's principle
+- [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] — James Clear's system [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]] is the practical implementation of Hardy's principle
 - [[30 Knowledge/Concepts/make-time|Make Time]] — Jake Knapp's energy management [[30 Knowledge/Concepts/make-time|Make Time]] provides day-level tactics for compounding
-- [[Deep Work]] — Cal Newport's focused work discipline [[Deep Work]] compounds into rare and valuable skills
+- [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] — Cal Newport's focused work discipline [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]] compounds into rare and valuable skills
 - [[30 Knowledge/Concepts/willpower|Willpower]] — the faculty that drives consistent daily choices [[30 Knowledge/Concepts/willpower|Willpower]] is itself a depletable resource
 
 ## One-Line Takeaway

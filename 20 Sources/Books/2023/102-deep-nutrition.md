@@ -59,8 +59,8 @@ The book has been criticized for making overstated claims about epigenetics and 
 Deep Nutrition makes a compelling (if sometimes overreaching) case that returning to the food principles our ancestors evolved with — organ meats, fermented foods, animal fats, and avoiding industrial seed oils — can reverse the modern chronic disease epidemic.
 
 ## Related Books
-- [[68-why-we-sleep]] — Both discuss the importance of proper biological function and disruption through modern lifestyle
-- [[104-the-obesity-code]] — Both challenge conventional dietary advice and focus on hormonal mechanisms
-- [[110-genius-foods]] — Both discuss brain-healthy fats and the dangers of industrial seed oils
-- [[21-eat-that-frog]] — Food as the foundation for productivity and energy optimization
-- [[32-the-body-keeps-the-score]] — Food as a factor in systemic inflammation and health
+- [[20 Sources/Books/2021/68-why-we-sleep.md|68-why-we-sleep]] — Both discuss the importance of proper biological function and disruption through modern lifestyle
+- [[20 Sources/Books/2023/104-the-obesity-code.md|104-the-obesity-code]] — Both challenge conventional dietary advice and focus on hormonal mechanisms
+- [[20 Sources/Books/2023/110-genius-foods.md|110-genius-foods]] — Both discuss brain-healthy fats and the dangers of industrial seed oils
+- [[20 Sources/Books/2019/21-eat-that-frog.md|21-eat-that-frog]] — Food as the foundation for productivity and energy optimization
+- [[20 Sources/Books/2019/32-the-body-keeps-the-score.md|32-the-body-keeps-the-score]] — Food as a factor in systemic inflammation and health

@@ -10,7 +10,7 @@ summary: Charisma is not a gift some people are born with — it is a set of spe
 
 ## Overview
 
-Motivational speaker and YouTuber [[30 Knowledge/People/Charlie-Houpert|Charlie Houpert]] wrote [[Charisma on Command]] after years of studying what makes certain people magnetically compelling — in business, politics, romance, and everyday life. The book's premise is explicit: charisma is not a personality trait you either have or don't have; it is a set of specific, learnable behaviors that anyone can practice and master. Houpert dissects charisma into its component parts — body language, vocal tonality, conversational techniques, presence, and emotional intelligence — and provides concrete, actionable drills for improving each. The book is notable for being highly practical — each chapter ends with specific exercises and \"charisma challenges\" designed to rewire habitual patterns. Houpert's approach draws from Dale Carnegie's foundational wisdom ([[How to Win Friends]]), behavioral psychology, and his own analysis of charismatic figures including Tony Robbins, Oprah, and world leaders.
+Motivational speaker and YouTuber [[30 Knowledge/People/Charlie-Houpert|Charlie Houpert]] wrote [[20 Sources/Books/2023/118-charisma-on-command.md|Charisma on Command]] after years of studying what makes certain people magnetically compelling — in business, politics, romance, and everyday life. The book's premise is explicit: charisma is not a personality trait you either have or don't have; it is a set of specific, learnable behaviors that anyone can practice and master. Houpert dissects charisma into its component parts — body language, vocal tonality, conversational techniques, presence, and emotional intelligence — and provides concrete, actionable drills for improving each. The book is notable for being highly practical — each chapter ends with specific exercises and \"charisma challenges\" designed to rewire habitual patterns. Houpert's approach draws from Dale Carnegie's foundational wisdom ([[How to Win Friends|How to Win Friends]]), behavioral psychology, and his own analysis of charismatic figures including Tony Robbins, Oprah, and world leaders.
 
 ## Core Concepts
 
@@ -105,11 +105,11 @@ Critics have noted that Houpert's charisma framework, while practical, can veer 
 
 ## Related
 
-- [[How to Win Friends]] — Dale Carnegie's foundational wisdom on making people feel important predates Houpert's behavioral framework
-- [[28-influence]] — Cialdini's persuasion research provides the psychological depth that Houpert's practical tips lack
-- [[66-talk-like-ted]] — Gall's public speaking framework complements Houpert's charisma techniques
-- [[117-captivate]] — Van Edwards' behavioral science approach to social skills provides complementary research backing
-- [[34-social-intelligence]] — Goleman's emotional intelligence work connects with Houpert's warmth and resonance pillars
+- [[How to Win Friends|How to Win Friends]] — Dale Carnegie's foundational wisdom on making people feel important predates Houpert's behavioral framework
+- [[20 Sources/Books/2019/28-influence.md|28-influence]] — Cialdini's persuasion research provides the psychological depth that Houpert's practical tips lack
+- [[20 Sources/Books/2021/66-talk-like-ted.md|66-talk-like-ted]] — Gall's public speaking framework complements Houpert's charisma techniques
+- [[20 Sources/Books/2023/117-captivate.md|117-captivate]] — Van Edwards' behavioral science approach to social skills provides complementary research backing
+- [[20 Sources/Books/2019/34-social-intelligence.md|34-social-intelligence]] — Goleman's emotional intelligence work connects with Houpert's warmth and resonance pillars
 
 ## One-Line Takeaway
 

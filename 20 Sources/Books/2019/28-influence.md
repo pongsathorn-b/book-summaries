@@ -62,8 +62,8 @@ Understanding the six universal principles of influence lets you persuade ethica
 ## Related
 
 - [[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]] — shared foundation in systematic decision-making patterns
-- [[48 Laws of Power]] — more cynical application of social dynamics
-- [[Contagious]] — why ideas and products spread via social proof and emotion
-- [[The Art of War]] — strategic application of psychological principles
-- [[Thinking Fast and Slow]] — System 1 and System 2 processing underlying automatic compliance
+- [[20 Sources/Books/2018/02-48-laws-of-power.md|48 Laws of Power]] — more cynical application of social dynamics
+- [[20 Sources/Books/2019/29-contagious.md|Contagious]] — why ideas and products spread via social proof and emotion
+- [[20 Sources/Books/2018/13-the-art-of-war.md|The Art of War]] — strategic application of psychological principles
+- [[20 Sources/Books/2018/04-thinking-fast-and-slow.md|Thinking Fast and Slow]] — System 1 and System 2 processing underlying automatic compliance
 - [[30 Knowledge/Concepts/loss-aversion|Loss Aversion]] — scarcity taps directly into loss aversion biases

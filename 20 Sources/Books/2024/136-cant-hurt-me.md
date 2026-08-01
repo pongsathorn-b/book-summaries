@@ -84,13 +84,13 @@ Goggins also has a complicated relationship with his own mental health. He openl
 
 ## Related Books
 
-- [[131-the-war-of-art]] — Pressfield's concept of Resistance is essentially the Goggins "parasite" under another name
-- [[01-atomic-habits]] — The habit-systems framework that makes Goggins's intensity sustainable
-- [[59-the-obstacle-is-the-way]] — The stoic framework for transforming obstacles into fuel
-- [[61-ego-is-the-enemy]] — The ego as the obstacle that Goggins's intensity must continually defeat
-- [[05-12-rules-for-life]] — Peterson on standing up to chaos with discipline and meaning
-- [[Man's Search for Meaning]] — Frankl's finding purpose through the acceptance of unavoidable suffering
+- [[20 Sources/Books/2024/131-the-war-of-art.md|131-the-war-of-art]] — Pressfield's concept of Resistance is essentially the Goggins "parasite" under another name
+- [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]] — The habit-systems framework that makes Goggins's intensity sustainable
+- [[20 Sources/Books/2020/59-the-obstacle-is-the-way.md|59-the-obstacle-is-the-way]] — The stoic framework for transforming obstacles into fuel
+- [[20 Sources/Books/2021/61-ego-is-the-enemy.md|61-ego-is-the-enemy]] — The ego as the obstacle that Goggins's intensity must continually defeat
+- [[20 Sources/Books/2018/05-12-rules-for-life.md|05-12-rules-for-life]] — Peterson on standing up to chaos with discipline and meaning
+- [[Man's Search for Meaning|Man's Search for Meaning]] — Frankl's finding purpose through the acceptance of unavoidable suffering
 - [[30 Knowledge/Concepts/stoicism|Stoicism]] — The philosophical tradition that underpins Goggins's acceptance of pain
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — Loving the fate that includes the suffering required for greatness
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — Death as the ultimate accountability partner and motivator
-- [[Shoe Dog]] — Knight's memoir of building Nike through relentless obsession and suffering
+- [[20 Sources/Books/2022/88-shoe-dog.md|Shoe Dog]] — Knight's memoir of building Nike through relentless obsession and suffering

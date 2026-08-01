@@ -83,8 +83,8 @@ Epictetus treated **death as one of the "indifferents"** — neither good nor ba
 - [[30 Knowledge/Concepts/dichotomy-of-control|Dichotomy of Control]] — Epictetus's most famous contribution to Stoic psychology
 - [[30 Knowledge/Concepts/memento-mori|Memento Mori]] — The death contemplation practice
 - [[30 Knowledge/Concepts/amor-fati|Amor Fati]] — The Stoic embrace of everything that happens
-- [[Victor Frankl]] — Logotherapy as the modern heir to Stoic meaning-making
-- [[Machiavelli]] — The Prince as a counterpoint: control of external power vs. inner freedom
+- [[30 Knowledge/People/Victor-Frankl.md|Victor Frankl]] — Logotherapy as the modern heir to Stoic meaning-making
+- [[30 Knowledge/People/Machiavelli.md|Machiavelli]] — The Prince as a counterpoint: control of external power vs. inner freedom
 
 ---
 
