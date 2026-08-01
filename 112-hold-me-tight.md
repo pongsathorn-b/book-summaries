@@ -10,7 +10,7 @@ summary: Emotional food attachment theory shows that lasting love isn't about le
 
 ## Overview
 
-Psychologist [[Sue Johnson]], developer of Emotionally Focused Therapy (EFT), revolutionized couples therapy by showing that relationship distress is not primarily a communication problem — it is an attachment problem. Drawing on attachment theory (pioneered by John Bowlby) and her own clinical research, Johnson argues that humans are biologically wired for emotional connection, and when that connection is threatened or lost, we experience it as life-threatening. [[Hold Me Tight]] translates the clinical insights of EFT into a guide for couples, presenting seven conversations that can reshape the emotional architecture of any relationship. The book offers couples a roadmap from isolation and defensive arguing to deep emotional safety and responsiveness — not by learning better communication scripts, but by learning to reach for each other in ways that create lasting secure attachment.
+Psychologist [[Sue Johnson]], developer of Emotionally Focused Therapy (EFT), revolutionized couples therapy by showing that relationship distress is not primarily a communication problem — it is an attachment problem. Drawing on attachment theory (pioneered by John Bowlby) and her own clinical research, Johnson argues that humans are biologically wired for emotional connection, and when that connection is threatened or lost, we experience it as life-threatening. [[112-hold-me-tight]] translates the clinical insights of EFT into a guide for couples, presenting seven conversations that can reshape the emotional architecture of any relationship. The book offers couples a roadmap from isolation and defensive arguing to deep emotional safety and responsiveness — not by learning better communication scripts, but by learning to reach for each other in ways that create lasting secure attachment.
 
 ## Core Concepts
 
@@ -75,11 +75,11 @@ Some critics argue that Johnson's EFT model, while effective for many couples, m
 
 ## Related
 
-- [[Attached]] — Amir Levi's book applies adult attachment theory to dating and relationships
-- [[The 5 Love Languages]] — complements Hold Me Tight by identifying the specific languages through which partners give and receive love
-- [[Nonviolent Communication]] — Marshall Rosenberg's model provides the communication tools for expressing the vulnerable needs Johnson identifies
-- [[The Seven Principles for Making Marriage Work]] — Gottman's research on marriage repair complements EFT's attachment focus
-- [[The Power of Vulnerability]] — Brené Brown's research on vulnerability and shame aligns with Johnson's emphasis on emotional courage in relationships
+- [[33-attached]] — Amir Levi's book applies adult attachment theory to dating and relationships
+- [[111-the-5-love-languages]] — complements Hold Me Tight by identifying the specific languages through which partners give and receive love
+- [[113-nonviolent-communication]] — Marshall Rosenberg's model provides the communication tools for expressing the vulnerable needs Johnson identifies
+- [[114-the-seven-principles-for-making-marriage-work]] — Gottman's research on marriage repair complements EFT's attachment focus
+- [[70-the-power-of-vulnerability]] — Brené Brown's research on vulnerability and shame aligns with Johnson's emphasis on emotional courage in relationships
 
 ## One-Line Takeaway
 
