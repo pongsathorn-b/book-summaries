@@ -10,7 +10,7 @@ summary: Jack Schafer's \"friendship formula\" shows that liking is triggered by
 
 ## Overview
 
-Former FBI agent and behavioral analyst [[Jack Schafer]] spent over two decades studying what makes people like each other — initially to catch spies and detect deception, later as the foundation of a systematic approach to building social connection. [[The Like Switch]] distills Schafer's friendship formula into a practical, research-grounded guide to making anyone like you. Schafer's key insight is that liking operates like a biological switch: specific triggers — eye contact, body language, disclosed vulnerability, disclosed secrets, selective self-deprecation — activate the brain's trust and connection centers predictably. Unlike general social advice, Schafer's approach is precise and tactical: he identifies specific behaviors that cause specific social outcomes. The book is notable for being written by someone who used these techniques in high-stakes intelligence work — where making someone trust you could literally be a matter of life and death.
+Former FBI agent and behavioral analyst [[Jack Schafer]] spent over two decades studying what makes people like each other — initially to catch spies and detect deception, later as the foundation of a systematic approach to building social connection. [[119-the-like-switch]] distills Schafer's friendship formula into a practical, research-grounded guide to making anyone like you. Schafer's key insight is that liking operates like a biological switch: specific triggers — eye contact, body language, disclosed vulnerability, disclosed secrets, selective self-deprecation — activate the brain's trust and connection centers predictably. Unlike general social advice, Schafer's approach is precise and tactical: he identifies specific behaviors that cause specific social outcomes. The book is notable for being written by someone who used these techniques in high-stakes intelligence work — where making someone trust you could literally be a matter of life and death.
 
 ## Core Concepts
 
@@ -92,10 +92,10 @@ The book has been criticized for its explicitly manipulative framing — present
 ## Related
 
 - [[How to Win Friends]] — Carnegie's foundational advice on making people feel important predates Schafer's formula but remains complementary
-- [[Captivate]] — Van Edwards' behavioral science framework provides broader context for Schafer's friendship formula
-- [[Influence]] — Cialdini's persuasion research provides additional depth on the triggers that influence human behavior
-- [[Social Intelligence]] — Goleman's emotional intelligence work connects with Schafer's body language and microexpression insights
-- [[Charisma on Command]] — Houpert's practical charisma guide takes Schafer's science into more applied, presence-focused territory
+- [[117-captivate]] — Van Edwards' behavioral science framework provides broader context for Schafer's friendship formula
+- [[28-influence]] — Cialdini's persuasion research provides additional depth on the triggers that influence human behavior
+- [[34-social-intelligence]] — Goleman's emotional intelligence work connects with Schafer's body language and microexpression insights
+- [[118-charisma-on-command]] — Houpert's practical charisma guide takes Schafer's science into more applied, presence-focused territory
 
 ## One-Line Takeaway
 
