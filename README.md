@@ -1,11 +1,10 @@
 # 📚 Jam's Book Vault
 
-157 book summaries. 8 years of reading (2018–2025). Personal knowledge graph maintained by Hermes AI on Raspberry Pi.
+157 book summaries. 8 years of reading (2018–2025). Personal knowledge graph built from 8 years of reading.
 
 **Knowledge layer:** 45 concepts · 33 people · 11 Maps of Content
 
 → [github.com/pongsathorn-b/book-summaries](https://github.com/pongsathorn-b/book-summaries)
-→ [Phase 6 branch](https://github.com/pongsathorn-b/book-summaries/tree/migration/knowledge-architecture) (pending review)
 
 ---
 
@@ -259,4 +258,4 @@ Everything is linked. Every book connects to other books and concepts. That's th
 
 ---
 
-*Maintained by Hermes AI on Raspberry Pi*
+*Built from 8 years of reading*
