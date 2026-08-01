@@ -1,65 +1,77 @@
 ---
 tags: [startups, innovation, entrepreneurship, peter-thiel, competition]
-category: Strategy
-summary: Progress comes from going from 0 to 1, not 1 to n — vertical progress creates new things; horizontal progress just copies what works.
+category: Productivity
+summary: Progress comes from going from 0 to 1 — creating something new, not copying what exists; vertical progress, not horizontal.
 ---
 
 # Zero to One — Peter Thiel
 
 ## Overview
 
-Peter Thiel, co-founder of PayPal and Palantir, delivers a contrarian view of startups and innovation. The core thesis: progress comes from going from 0 to 1 (creating something new) rather than from 1 to n (copying what works). Most people and companies spend their energy on horizontal progress (globalization, competition) when they should focus on vertical progress (technology, new things). The book is a manifesto for building companies that create the future.
+PayPal co-founder and investor Peter Thiel's contrarian view of startups and innovation. The core argument: progress comes from going from 0 to 1 — creating something genuinely new. Horizontal progress (1 to n, copying what works) produces globalization. Vertical progress (0 to 1, creating what didn't exist) produces technology. The book is a manifesto for founders who want to build enduring companies.
 
 ## Core Concepts
 
-### Zero to One vs. 1 to N
-Horizontal progress: copying things that work, scaling existing models, globalization. Vertical progress: doing new things, technology, going from 0 to 1. Most competition is 1 to n — competing over shares of existing markets. The real opportunity is 0 to 1 — creating new markets.
+### Zero to One vs. One to N
+Zero to one: vertical progress — creating something new that didn't exist before. One to n: horizontal progress — copying things that work and expanding them. Globalization (copying what works in other countries) is one to n. Technology is zero to one. Thiel's concern: we've been focused on globalization at the expense of technology.
 
-### Monopoly Is the Goal
-Competition is not the goal — competition means no profits for anyone. The goal is monopoly: a company so good at what it does that no alternative exists. Monopoly allows sustained profitability, which funds the research and development that enables further innovation.
+### The Monopoly Advantage
+Competition is for losers. Competitive markets have razor-thin margins; monopolies have sustainable profits that fund innovation. The goal is not to compete — it's to own a category. A monopoly that appears to have competitors is still a monopoly if there's no close substitute. Think: Google has no close substitute for search — even Bing is not really an alternative.
+
+### The Seven Questions Every Business Must Answer
+
+1. The Engineering Question: Can you create breakthrough technology, not just incremental improvement?
+2. The Timing Question: Is now the right time to start this particular business?
+3. The Monopoly Question: Are you starting with a big share of a small market?
+4. The People Question: Do you have the right team?
+5. The Distribution Question: Can you deliver your product?
+6. The Durability Question: Will your position be defensible 10-20 years in the future?
+7. The Secret Question: Have you identified an opportunity that others don't see?
+
+### The Power Law
+Most outcomes follow a power law — a few things matter enormously, most things matter very little. In venture capital, one investment returns the entire fund. In careers, one skill or relationship matters more than all others. The power law means: focus on the few things that really matter, not the many that don't.
+
+### Starting Small
+Start with a small market and dominate it. The path to a big business is: small market → monopoly → expand. The mistake is starting with a large market where you can't dominate. Find the small market that you can own completely.
 
 ### Secrets
-Every great business is built around a secret — something true that no one else believes. Thiel identifies two types of secrets: secrets about nature (physics, biology) and secrets about people (what they want, what they don't know about themselves). Great companies are built on secrets that their founders discovered through careful observation.
+Every important truth is something that most people believe is false. Finding secrets — truths that others don't see — is the foundation of zero to one ventures. There are still secrets to be found, in science, business, and engineering. The question is: are you looking?
 
-### The Founder's Paradox
-Founders are never normal — they combine extraordinary ability with a willingness to take risks that others won't take. Founders matter enormously — their quirks, obsessions, and vision shape the companies they build. This is not a bug but a feature of how great companies get built.
-
-### Vertical vs. Horizontal Thinking
-Start with a specific goal and work backward — vertical thinking. Or start with where you are and iterate forward — horizontal thinking. Thiel argues for vertical: start with the future you want to create and build backward to the present.
-
-### Competition Is for Losers
-In competition, profits go to no one. Competing in existing markets means competing on price, which destroys margins. The founder's job is to escape competition by creating something only you can offer. The best businesses dominate small markets first — PayPal targeted eBay power sellers, not all consumers.
+### The Founder Paradox
+Founders are often misfits — people with extreme qualities that would be liabilities in a normal context but assets in building something new. The founder's unusual combination of qualities is often what makes the company extraordinary.
 
 ## Key Lessons
 
-1. Progress is not about copying the future — it's about creating it. Zero to one, not one to n.
-2. Monopoly is the goal — competition means no profits. Find a market you can dominate.
-3. Every great company is built on a secret — something true that others don't see.
-4. The best businesses start small and dominate — dominate a niche first, then expand.
-5. Technology is vertical progress — globalization without technology is copying, not creating.
-6. Founders matter — their weirdness, vision, and willingness to risk are essential ingredients.
-7. The question "what valuable company is nobody building?" is the only question that matters for entrepreneurs.
-8. Competition is for losers — if you find yourself competing intensely, you've probably chosen the wrong market.
+1. Progress comes from zero to one — creating something new, not copying what exists.
+2. Competition is for losers — aim for monopoly, not competition.
+3. Start with a small market and dominate it — then expand.
+4. Power law: most things don't matter — focus on the few that do.
+5. Secrets exist — find the truths that others don't see.
+6. Technology is vertical progress — it's what actually advances civilization.
+7. The right time, the right team, the right market — all matter.
+8. Founders are often misfits — extreme qualities that create extraordinary companies.
 
 ## Practical Applications
 
-- Ask: what secret do I know that others don't? What do I believe that most people think is false?
-- Start small: find a niche market you can dominate, then expand from there.
-- Build for monopoly: when choosing markets, prefer ones where you can be the only option.
-- Think vertically first: start with the future you want and work backward.
-- Evaluate opportunities by asking: is this 0 to 1 or 1 to n? Prefer 0 to 1.
+- Ask the seven questions before starting any venture.
+- Find your secret: what truth do you see that others don't?
+- Target a small market you can dominate — not a large market where you're a minor player.
+- Think monopoly: how will you own this category?
+- Apply the power law: focus on the few things that really matter.
+- Build technology, not just business — the technology is the defensible advantage.
+- Choose co-founders carefully: the founder relationship is like marriage.
 
 ## Controversy/Criticism
 
-Thiel's views are controversial. His argument that competition is for losers has been criticized as ignoring the benefits of competitive markets. His monopsony capitalism critics argue he overstates the case for monopoly. His contrarian approach to education (fellows who drop out) is not universally applicable.
+Thiel's views are controversial — his anti-competitive stance is seen by some as defending incumbents. Critics argue that monopoly is often achieved through anti-competitive practices. Others find his contrarianism refreshing in a world of groupthink.
 
 ## One-Line Takeaway
 
-> The most valuable businesses of the next century will come from entrepreneurs who seek to create new things, not copy existing ones — zero to one, not one to n.
+> Progress comes from going from 0 to 1 — creating something genuinely new; competition is for losers, and the goal is monopoly through technology, not market share.
 
 ## Related Books
 
 [[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]]
 [[20 Sources/Books/2019/40-crossing-the-chasm.md|Crossing the Chasm]]
-[[20 Sources/Books/2020/44-blue-ocean-strategy.md|Blue Ocean Strategy]]
-[[20 Sources/Books/2019/47-rework.md|Rework]]
+[[30 Knowledge/Concepts/innovation|Innovation]]
+[[30 Knowledge/Concepts/monopoly|Monopoly]]

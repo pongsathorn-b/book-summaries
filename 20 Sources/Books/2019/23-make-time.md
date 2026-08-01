@@ -1,61 +1,70 @@
 ---
-tags: [productivity, daily-design, energy, focus, jake-knapp]
+tags: [productivity, focus, energy-management, jake-knapp, john-zeratsky]
 category: Productivity
-summary: Design each day around a highlight — a single high-priority activity — and protect it ruthlessly against the chaos of daily life.
+summary: Don't manage your time — manage your energy and attention by blocking daily highlights and eliminating the biggest timewasters.
 ---
 
 # Make Time — Jake Knapp & John Zeratsky
 
 ## Overview
 
-Google Ventures designers Jake Knapp and John Zeratsky provide a practical daily system for taking control of your attention. Make Time's core principle: every day, pick one highlight — a single high-priority activity — and protect it from the relentless pull of email, social media, and busywork. The book is based on the Sprint methodology applied to personal productivity: specific, experimental, and designed for busy people.
+From the creators of Google's Design Sprint, Make Time offers a practical daily system for taking back control of your time and attention. The core insight: you can't manage your schedule — it's too unpredictable. What you can manage is your energy and your daily highlight (the one most important thing you want to accomplish). The book provides a set of daily tactics, not a complex system.
 
 ## Core Concepts
 
-### The Highlight
-Each day, pick one important thing. Not ten. Not five. One. Write it down the night before. The highlight creates the anchor around which the rest of the day is organized.
+### The Daily Highlight
+Each day, pick ONE thing that's the most important. This is your highlight — not everything on your to-do list, just the one thing that would make the day a success. Protect time for the highlight first thing. Everything else is secondary. Without a highlight, you're reactive all day.
 
-### Laser vs. Infinity Pools
-Infinity Pools are activities that generate infinite content: email, news, social media. They consume time without producing value. Lasers are activities that produce meaningful output. The goal is to minimize Infinity Pools and maximize Laser time.
+### Laser vs. Highlight Mode
+Laser mode: intense, focused work on the highlight. This is deep work — no email, no notifications, no multitasking. Highlight mode: when you're doing other work during the day. Laser mode is the default state until the highlight is complete.
 
-### Blocking Your Highlight
-Treat the highlight as a non-negotiable appointment. Block it first in your calendar, before anything else. If it isn't scheduled, it won't happen.
+### Energy Management
+Time management is the wrong frame — you don't manage minutes, you manage energy. Your energy fluctuates throughout the day. Schedule high-energy work (the highlight) for your peak energy times. Protect your energy by managing inputs: caffeine, sleep, exercise, food.
 
-### The Energy Audit
-Your energy fluctuates during the day. Identify when you have the most energy and schedule your highlight during that window. Morning people protect early energy; afternoon people protect post-lunch slots.
+### The Big Three
+Each day: (1) Exercise — even a 10-minute walk changes your energy and focus; (2) Sleep — the foundation of energy management; (3) Eat real food — avoid sugar crashes that destroy afternoon energy.
 
-### Daily Shutdown
-End each workday with a ritual: review tomorrow's highlight, clear your task list, close open loops. This signals to your brain that work is done and enables genuine rest.
+### Busy is the Default
+Busyness is a trap — it's not the same as productivity. The default response to an empty moment is to fill it with email, social media, or meetings. The solution: design your day intentionally. Don't let busyness substitute for progress.
+
+### The Infinity Pools
+Email, social media, and news are "infinity pools" — they have no natural end. They drain attention without producing value. The fix: check them on a schedule, not continuously. Turn off notifications. Use app blockers.
+
+### Design the Next Day
+Before bed: decide your highlight for tomorrow. Prepare your workspace. This eliminates the morning decision paralysis that derails most days. The morning is for execution, not planning.
 
 ## Key Lessons
 
-1. One highlight per day — if you can't choose one, the real problem is unclear priorities.
-2. Infinity Pools (email, social, news) are designed to be infinite — don't use willpower against engineered addiction.
-3. Blocking the highlight first is non-negotiable — schedule it before anything else.
-4. Your energy pattern is learnable — pay attention and schedule accordingly.
-5. The shutdown ritual is not optional — it enables recovery and prevents rumination.
-6. Saying no to good things is how you protect time for great things.
-7. Experimentation beats discipline — try different highlight times until you find what works.
+1. Pick a daily highlight — the one thing that would make today a success.
+2. Protect your energy, not just your time — know your peak energy times.
+3. Exercise daily — even 10 minutes transforms energy and focus.
+4. Email and social media are infinity pools — check them on a schedule, not continuously.
+5. Don't be busy — be productive. Busyness is the enemy of progress.
+6. Laser mode until the highlight is done — then worry about everything else.
+7. Design the next day before bed — know your highlight and prepare your workspace.
+8. Win the morning — morning habits set the tone for the entire day.
 
 ## Practical Applications
 
-- Every night, write tomorrow's highlight on a sticky note.
-- Block your highlight time before anything else — no meetings before 11am if possible.
-- Use an app blocker (Freedom, Cold Turkey) to block Infinity Pools during highlight time.
-- Run an energy audit for one week: track when you feel most focused and protect that time.
-- End every workday with a 5-minute shutdown ritual: review, clear, close.
+- Pick a daily highlight each morning — before checking email or your phone.
+- Use a dedicated workspace for the highlight — train your brain to focus there.
+- Check email twice a day — morning after the highlight, afternoon after lunch.
+- Use app blockers: Freedom, SelfControl, or ColdTurkey to block distraction sites.
+- Exercise every day — even a 10-minute walk changes everything.
+- Go to bed preparing tomorrow's highlight — not scrolling your phone.
 
 ## Controversy/Criticism
 
-The book's authors are designers at Google Ventures — their context (autonomy, flexibility) may not translate to most workers. Some find the "just pick one" advice too simple. The emphasis on blocking time requires organizational buy-in most people don't have.
+The book is tactical but not strategic — it doesn't address larger questions of meaning or career direction. Some find the advice too obvious or lifestyle-dependent for people with demanding jobs or children.
 
 ## One-Line Takeaway
 
-> Design your day around a single highlight and protect it ruthlessly — the chaos of daily life wins unless you actively choose what matters.
+> Don't manage your time — manage your energy and attention by choosing one daily highlight and protecting the time and energy to accomplish it.
 
 ## Related Books
 
+[[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
+[[20 Sources/Books/2018/06-deep-work.md|Deep Work]]
 [[20 Sources/Books/2018/20-the-pomodoro-technique.md|The Pomodoro Technique]]
-[[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]]
-[[20 Sources/Books/2019/24-indistractable.md|Indistractable]]
-[[20 Sources/Books/2019/21-eat-that-frog.md|Eat That Frog!]]
+[[30 Knowledge/Concepts/energy-management|Energy Management]]
+[[30 Knowledge/Concepts/focus|Focus]]

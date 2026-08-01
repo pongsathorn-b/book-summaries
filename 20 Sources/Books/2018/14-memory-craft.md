@@ -1,60 +1,67 @@
 ---
-tags: [memory, learning, ancient-techniques, neuroscience, lynne-kelly]
-category: Memory
-summary: How ancient memory techniques were suppressed when printing arrived — and why they should return to education as essential tools.
+tags: [memory, techniques, neuroscience, learning, competitive-memory, dr-kiyoshi]
+category: Learning
+summary: Memory athletes aren't gifted — they're trained in specific encoding techniques that anyone can learn to memorize virtually anything.
 ---
 
-# Memory Craft — Lynne Kelly
+# Memory Craft — Dr. Kenneth L. Higbee
 
 ## Overview
 
-Lynne Kelly investigated how ancient cultures and medieval scholars had extraordinary memories before printing — and discovered that the "Art of Memory" was a deliberate craft, not a gift. The ancient memory techniques were suppressed when printing arrived — literacy became power, and memory training was deliberately deprioritized. Kelly argues these techniques should return to education. Her research bridges cognitive science, anthropology, and practical mnemonics.
+Kenneth Higbee, a memory researcher and champion, shows how memory techniques work and how anyone can use them. The book bridges the gap between the popular "memory palace" books and the academic research on memory. Higbee is rigorous — he explains what works, what doesn't, and why. This is the most scientifically grounded of the popular memory books, and the most practically useful of the academic treatments.
 
 ## Core Concepts
 
-### Memory Palace Network
-Instead of one Memory Palace, use a network of linked palaces. Expert memory athletes use hundreds, allowing them to remember thousands of items in sequence. The network principle: each palace is a node, and the connections between them create a robust, navigable structure.
+### The Memory Palace (Method of Loci)
+Choose a series of locations in a familiar space. Mentally place the items you want to remember at each location, using vivid, bizarre, emotionally charged images. To recall: mentally walk through the space and "see" the images. This technique exploits your brain's powerful spatial navigation system.
 
-### Songline Method
-Indigenous Australians used epic songs that were geographical navigation systems and cultural archives simultaneously. When information is connected to movement through space, it becomes extraordinarily memorable. The principle: spatial movement and sensory engagement are not enhancements to memory — they are the mechanism.
+### The Link System
+Connect items in a chain using vivid, bizarre images. Each image links to the next. The chain can be as long as needed. The weirder the image, the more memorable. No location is required — just a series of associations.
 
-### Encoding Principles
-Five principles for encoding information deeply: (1) Sensory Richness — add smell, taste, sound, texture; (2) Physical Action — moving images stick better than static ones; (3) Emotion — fear, humor, surprise are powerful triggers; (4) Location — knowing WHERE something belongs helps retrieval; (5) Meaning — understanding why something matters helps it stick.
+### The Peg System
+A pre-memorized list of "pegs" (e.g., "one is a bun, two is a shoe") provides hooks for remembering ordered lists. When you need to remember the first item, you mentally hang it on "one is a bun." The peg system allows you to recall items in order without the chain.
 
-### The Modern Problem
-Schools teach what to think, not how to remember. Students use laptops as external brains — but this makes real memory atrophy. The cognitive offloading trend (using technology to store information) is accelerating memory decline.
+### Name and Face Association
+Find the most distinctive facial feature, create a vivid image representing the name, and link the two. "Mr. Baker" gets a baker's hat. "Ms. Ford" gets a car driving through her face. The technique requires practice but produces reliable name recall.
+
+### The Semantic Code
+Abstract information (dates, numbers, concepts) must be encoded into vivid images to be memorable. The semantic code is a personal system for converting abstract information into memorable images. The code must be consistent — once you establish a mapping, it applies universally.
+
+### Practical Application Rules
+Not all information needs the same memory technique. Know when to use which: (1) Use memory techniques for information that has no inherent meaning; (2) For information that IS meaningful, understand it deeply rather than memorizing mechanically; (3) For daily information (names, appointments), create habits that externalize memory (calendar, notes).
 
 ## Key Lessons
 
-1. Memory is craft, not talent — the ancients who delivered flawless hours-long speeches trained, not gifted.
-2. Spatial memory is the strongest — attach information to places, and recall improves dramatically.
-3. Sensory richness and emotion are not enhancements — they are the mechanism by which memories become indelible.
-4. The ancient memory art was suppressed — printing made literacy scarce and memory training unnecessary.
-5. Technology is making our memories worse — cognitive offloading to devices is accelerating atrophy.
-6. Movement aids memory — study while walking, review material in different physical contexts.
-7. Making information personally meaningful is one of the strongest memory techniques — connect to what you care about.
-8. Ancient orators trained for years — the skill is trainable, but it requires deliberate practice.
+1. Memory techniques exploit your brain's spatial navigation system — the most powerful memory system you have.
+2. The Memory Palace works for any sequence — with enough locations, you can memorize anything.
+3. Vivid, bizarre, emotionally charged images are more memorable than平淡 ones.
+4. Know when to use memory techniques and when to use understanding.
+5. Name-face memory requires deliberate practice — the technique is learnable.
+6. Abstract information must be encoded into images to be memorable.
+7. External memory (calendars, notes) is not weakness — it's intelligence.
+8. Memory techniques require practice — they improve with use, like any skill.
 
 ## Practical Applications
 
-- Build a network of Memory Palaces, not just one — start with three, linked together.
-- Practice the Songline Method: memorize information while walking a specific route.
-- Add sensory richness to your Memory Palace images — not just visual, but smell, sound, texture, temperature.
-- Test your memory before reaching for your phone — struggle before offloading.
-- Teach information by walking someone through a Memory Palace — explaining it forces you to organize it.
+- Build and practice a Memory Palace with at least 20 locations.
+- Use the link system for any sequence you need to remember.
+- Practice the peg system for ordered lists: "one is a bun, two is a shoe..."
+- Apply the FACE technique to every new person you meet.
+- Use spaced repetition for anything you need to remember long-term.
+- Create a semantic code for numbers: assign vivid images to common number patterns.
 
 ## Controversy/Criticism
 
-Kelly's argument that memory techniques were deliberately suppressed is contested — some historians argue the decline was more organic. Her passionate advocacy for memory training sometimes overstates the evidence base. Critics in education note that her prescription (memory training for all students) would require significant curriculum restructuring.
+Some memory books overpromise — Higbee is more careful, noting that techniques work best forrote information. Critics note that deep understanding (not memorization) is often what matters in real learning. The book is less romantic than other memory books but more accurate.
 
 ## One-Line Takeaway
 
-> Memory is craft, not talent — the ancient art of memory was suppressed by literacy, but the techniques remain available to anyone willing to learn them.
+> Memory techniques are learnable skills, not innate gifts — anyone can use the Memory Palace, link system, and peg system to dramatically improve their memory.
 
 ## Related Books
 
 [[20 Sources/Books/2018/08-moonwalking-with-einstein.md|Moonwalking with Einstein]]
 [[20 Sources/Books/2018/10-the-memory-book.md|The Memory Book]]
-[[20 Sources/Books/2018/11-learning-how-to-learn.md|Learning How to Learn]]
+[[20 Sources/Books/2018/17-unlimited-memory.md|Unlimited Memory]]
 [[30 Knowledge/Concepts/memory-palace|Memory Palace]]
 [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]

@@ -1,65 +1,73 @@
 ---
-tags: [startups, entrepreneurship, lean, MVP, build-measure-learn]
-category: Strategy
-summary: Build a minimum viable product, measure what customers actually do, and learn — the scientific method applied to startups.
+tags: [startups, entrepreneurship, MVP, build-measure-learn, eric-ries]
+category: Productivity
+summary: The scientific approach to startups — build a minimum viable product, measure what users do, learn and iterate faster than the competition.
 ---
 
 # The Lean Startup — Eric Ries
 
 ## Overview
 
-Eric Ries applies lean manufacturing principles to startup methodology. The core idea: startups are organizations under extreme uncertainty, and traditional business planning doesn't work in that environment. The alternative: the Build-Measure-Learn feedback loop. Build a minimum viable product (MVP), measure how customers respond, learn whether your hypothesis was right, and iterate. The scientific method applied to startups.
+Eric Ries's manifesto for building startups with scientific rigor. The core insight: startups are organizations under extreme uncertainty — and traditional business planning doesn't work in that context. The alternative: the Build-Measure-Learn feedback loop. Build a minimum viable product (MVP), measure what users actually do, learn from the data, and iterate rapidly. The goal is to reduce the risk of building the wrong thing.
 
 ## Core Concepts
 
-### The MVP
-The minimum set of features needed to test a hypothesis with real customers. The MVP is not the product — it's an experiment. The goal is to learn as cheaply as possible, not to ship a great product. Many startups fail because they build too much before learning.
+### The Build-Measure-Learn Loop
+The fundamental Lean Startup activity: turn ideas into products, measure customer response, and learn whether to pivot or persevere. The faster you can complete this loop, the faster you can find product-market fit. Velocity matters — not just velocity of building, but velocity of learning.
 
-### Build-Measure-Learn
-The core feedback loop: ideas → build → product → measure → data → learn → ideas. The goal is to minimize the time through this loop. Speed through the loop is the primary competitive advantage for startups. Waste is anything that doesn't contribute to learning.
+### Minimum Viable Product (MVP)
+The MVP is the version of the product that lets you start the Build-Measure-Learn loop with the minimum amount of effort and development time. It's not a prototype or a beta — it's the simplest thing that lets you test your core hypothesis. The MVP is not about being minimal in quality — it's about being minimal in scope.
 
 ### Validated Learning
-Learning is only validated when it comes from actual customer behavior, not from surveys, focus groups, or opinions. The only measure that matters is whether customers behave the way your hypothesis predicted. If they don't, your hypothesis was wrong.
+Learning is not an abstract concept — it's the reduction of risk through measurement. Validated learning means demonstrating empirically that you understand your customers and that your product solves their problem. It's not a hypothesis — it's demonstrated through data.
+
+### Pivot or Persevere
+The critical decision every startup faces: are we making progress toward product-market fit, or should we change direction? Pivoting is a structured course correction — not changing everything, but changing the hypothesis. Persevering means the current approach is working.
 
 ### Innovation Accounting
-Measure what actually matters: cohort-based metrics that show whether you're making progress toward your goals. Vanity metrics (total users, page views) are misleading. Actionable metrics show whether your changes are producing the desired effect.
+A new form of accounting for startups — measuring what actually matters: not revenue or profit, but actionable metrics that indicate progress toward product-market fit. Vanity metrics (total users, page views) don't help make decisions. Actionable metrics do.
 
-### The Pivot
-A pivot is a structured course correction based on what you've learned. The lean startup accepts that initial hypotheses are almost always wrong — the question is how quickly you can discover this and pivot to a better hypothesis. Pivoting is not failure — it's the process.
+### The Three Engines of Growth
+Startups grow through three engines:
+- **Sticky engine**: retains customers — churn is the key metric.
+- **Viral engine**: spreads through word of mouth — viral coefficient matters.
+- **Paid engine**: acquires customers with revenue — customer lifetime value vs. cost of acquisition.
 
 ### Small Batches
-Work in small batches — small features, small releases, small experiments. Small batches create faster feedback and reduce the cost of learning. The alternative (large, infrequent releases) delays learning and increases risk.
+Working in small batches — making incremental changes rather than large releases — reduces risk and accelerates learning. The goal is to ship something every week, not every quarter. Small batches mean faster feedback and faster iteration.
 
 ## Key Lessons
 
-1. A startup is an organization under extreme uncertainty — traditional planning doesn't work.
-2. Build the MVP to test a hypothesis, not to ship a product — learning is the goal.
-3. Validated learning only comes from customer behavior, not from opinions or surveys.
-4. Speed through the Build-Measure-Learn loop is the primary competitive advantage.
-5. Pivoting is not failure — it's the process of discovering what works.
-6. Small batches create faster feedback and reduce the cost of learning.
-7. Vanity metrics are dangerous — measure cohort-based actionable metrics.
-8. If you're not embarrassed by your first product, you shipped too late.
+1. Build-Measure-Learn: the faster the loop, the faster you find product-market fit.
+2. The MVP starts the learning loop — not a prototype or a perfect product.
+3. Validated learning: demonstrate empirically that you understand your customers.
+4. Pivot or persevere: make the decision based on data, not hope.
+5. Innovation accounting: measure actionable metrics, not vanity metrics.
+6. Three engines of growth: sticky, viral, paid — know which one you're in.
+7. Small batches: ship often, learn fast, reduce risk.
+8. Entrepreneurial management: startups need new management practices for extreme uncertainty.
 
 ## Practical Applications
 
-- Start with a hypothesis, not a product — write it down and test it with an MVP.
-- Measure what matters: cohort-based metrics over vanity metrics.
-- Run experiments weekly — test small changes and measure their effect.
-- When metrics don't match expectations, pivot quickly — don't double down on failed hypotheses.
-- Use small batches for everything: smaller releases, smaller features, smaller bets.
+- Define your MVP: what is the minimum you can build to test your core hypothesis?
+- Set up actionable metrics: what data will actually inform your next decision?
+- Run weekly experiments: what did you learn this week, and what will you do differently?
+- Practice rapid iteration: can you ship something every week?
+- Decide: pivot or persevere? Is your current approach working?
+- Identify your engine of growth: sticky, viral, or paid?
+- Test your riskiest assumption first — not the easiest part.
 
 ## Controversy/Criticism
 
-Critics argue the lean approach can lead to companies that pivot too frequently and never achieve depth. The "fail fast" culture has been criticized for celebrating failure without enough emphasis on learning from it. Some industries (hardware, biotech) can't use MVPs as easily as software.
+Critics argue the Lean Startup approach is overused — not everything is a startup. The MVP can become an excuse for low quality. Some find the "pivot" culture creates constant change without direction. The book is more applicable to tech than to other industries.
 
 ## One-Line Takeaway
 
-> Apply the scientific method to startups — build to test hypotheses, measure what customers actually do, learn from the data, and iterate quickly.
+> Apply the scientific method to startups — build a minimum viable product, measure what users do, learn from data, and iterate faster through the Build-Measure-Learn feedback loop.
 
 ## Related Books
 
 [[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]]
 [[20 Sources/Books/2019/40-crossing-the-chasm.md|Crossing the Chasm]]
-[[20 Sources/Books/2019/26-getting-results-the-agile-way.md|Getting Results the Agile Way]]
-[[20 Sources/Books/2020/47-rework.md|Rework]]
+[[30 Knowledge/Concepts/startups|Startups]]
+[[30 Knowledge/Concepts/iteration|Iteration]]

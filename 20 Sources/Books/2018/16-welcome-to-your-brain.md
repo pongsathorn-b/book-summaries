@@ -1,65 +1,67 @@
 ---
-tags: [neuroscience, brain, myths, psychology, Sandra-Aamodt]
-category: Neuroscience
-summary: What neuroscience actually tells us about the brain — debunking popular myths about learning, passion, and brain function.
+tags: [neuroscience, brain, cognition, myths, learning, memory,老头]
+category: Learning
+summary: Your brain is not what you think — neuroscience reveals the real stories behind how your brain learns, remembers, and creates.
 ---
 
 # Welcome to Your Brain — Sandra Aamodt & Sam Wang
 
 ## Overview
 
-Neuroscientists Sandra Aamodt and Sam Wang explain what neuroscience actually tells us — and debunk popular myths. Fascinating for anyone who's been told they only use 10% of their brain or that they have a particular "learning style." The book provides the accurate neuroscience behind how we learn, remember, sleep, and stress — without the mystical nonsense that often surrounds brain science.
+Neuroscientists Sandra Aamodt and Sam Wang debunk popular neuroscience myths and explain what the brain actually does. The book covers common misconceptions (we only use 10% of our brain, left-brained vs. right-brained), learning, memory, stress, and decision-making. The style is accessible and often humorous — the goal is to give readers accurate information about their own brains.
 
 ## Core Concepts
 
-### You Don't Use Only 10% of Your Brain
-False. Brain imaging shows we use all of it, just different parts at different times. This myth persists because it sounds hopeful — if we only use 10%, maybe we could unlock the other 90%. The reality is more mundane: the brain is metabolically expensive and evolution would not have maintained unused capacity.
+### Myth: We Only Use 10% of Our Brain
+False. Brain imaging shows that we use all parts of our brain, just not all at once. The brain represents 2% of body weight but 20% of energy consumption. Evolution doesn't preserve expensive, unused circuits.
 
-### Brain Plasticity
-The brain rewires itself constantly based on experience. Learning Changes Brain Structure. This is why expertise exists — deliberate practice physically reshapes the brain. The brain is not fixed after a certain age; it remains plastic throughout life, though plasticity decreases with age.
+### Left-Brain vs. Right-Brain
+The left hemisphere is not more logical; the right is not more creative. Most functions are distributed across both hemispheres. The "right brain = creativity" myth has been used to justify ineffective educational approaches. The hemispheres have different specializations, but they work together.
 
 ### Sleep and Memory
-During sleep, the hippocampus replays the day's events for long-term memory storage. Without sufficient sleep, memories don't transfer from short-term to long-term storage. Sleep is not rest — it is cognitive housekeeping.
+Sleep is not passive — it's when the brain consolidates memories, transfers them to long-term storage, and prunes unnecessary connections. Sleep deprivation impairs learning and decision-making. Getting enough sleep is not a luxury — it's essential for cognitive function.
 
-### Stress Destroys Learning
-Chronic stress releases cortisol, which damages the hippocampus. Anxiety blocks working memory. This is why the panic of exams impairs performance — the stress response actively interferes with the cognitive functions needed for the test.
+### Exercise and the Brain
+Physical exercise increases blood flow to the brain and promotes neurogenesis (the growth of new neurons), particularly in the hippocampus. Regular aerobic exercise improves memory, mood, and cognitive function. The couch potato brain is a diminished brain.
 
-### Passion Follows Competence
-"Follow your passion" is bad advice. Getting good at something and then loving it is more common than passion preceding competence. Skill breeds enthusiasm — not the other way around.
+### Stress and the Brain
+Chronic stress releases cortisol, which damages the hippocampus and impairs memory formation. The brain under chronic stress is a brain less able to learn and remember. Short-term stress (acute) can enhance memory — it's the chronic, prolonged stress that's harmful.
 
-### Learning Styles Are Probably Wrong
-Adapting teaching to "learning styles" (visual/auditory/kinesthetic) doesn't improve outcomes. Everyone learns better with multiple modalities. The learning styles industry is a multi-billion dollar business with minimal scientific foundation.
+### The Cerebellum's Role
+The cerebellum ("little brain") is not just for motor control — it plays important roles in cognition, emotion regulation, and social reasoning. Underestimating it was a major oversight of early neuroscience.
 
 ## Key Lessons
 
-1. Sleep 7-9 hours — it is when real learning happens, not when you're resting.
-2. Manage exam anxiety — deep breathing actually works by reducing the cortisol that blocks working memory.
-3. Exercise regularly — improves cognitive function and reduces stress.
-4. Don't follow brain myths about passion — fall in love with solving problems.
-5. Use concrete, vivid examples when trying to remember — multisensory encoding is stronger.
-6. Stress is not motivation — it is an impairment. Reduce it before high-stakes cognitive tasks.
-7. Your brain changes with every learning experience — the old saying that you can't teach an old dog new tricks is false.
-8. Vitamins and "brain foods" don't meaningfully improve function in well-nourished people.
+1. We use all of our brain — the 10% myth is persistent nonsense.
+2. Left/right brain dichotomy is largely false — most functions are distributed.
+3. Sleep is when memory consolidates — prioritize sleep for learning.
+4. Exercise grows the brain — regular aerobic exercise improves cognition.
+5. Chronic stress damages the hippocampus — manage stress actively.
+6. The brain is not a computer — it evolved incrementally and contains many legacy systems.
+7. Neurogenesis continues in adulthood — especially in the hippocampus.
+8. The brain's plasticity means it can change — for better or worse, depending on habits.
 
 ## Practical Applications
 
-- Before high-stakes cognitive work (exams, important meetings), ensure adequate sleep.
-- Use deep breathing when you feel anxiety rising — it reduces cortisol and restores working memory.
-- Exercise is a cognitive tool — regular physical activity improves attention, memory, and stress resilience.
-- Practice retrieval rather than rereading — it changes the physical structure of your brain.
-- Build habits deliberately — repeated behaviors literally wire new neural pathways.
+- Sleep 7-9 hours nightly — sleep is when learning is consolidated.
+- Exercise regularly — even daily walks improve cognitive function.
+- Manage chronic stress — meditation, exercise, and social connection reduce cortisol.
+- Don't trust the "learning styles" approach — the evidence doesn't support it.
+- Challenge your brain — novel learning (new skills, new environments) promotes neurogenesis.
+- Feed the brain well — glucose, omega-3 fatty acids, and adequate hydration support cognition.
 
 ## Controversy/Criticism
 
-Some neuroscientists have criticized the book for occasional oversimplification of complex findings. The learning styles critique, while accurate, may oversimplify the nuance that different modalities can be more or less effective for different individuals in specific contexts.
+Some neuroscience popularizations overstate findings or apply animal research to humans. Aamodt and Wang are careful, but some of the "myth debunking" has itself been challenged by later research. The field advances quickly and some specifics may be outdated.
 
 ## One-Line Takeaway
 
-> Your brain is more capable than myths suggest — and more vulnerable to stress and poor sleep than most people realize.
+> Your brain is not what popular culture says — sleep, exercise, and stress management matter as much for cognition as any mental exercise.
 
 ## Related Books
 
 [[20 Sources/Books/2018/11-learning-how-to-learn.md|Learning How to Learn]]
 [[20 Sources/Books/2018/14-memory-craft.md|Memory Craft]]
-[[30 Knowledge/Concepts/sleep-and-memory|Sleep and Memory]]
-[[30 Knowledge/Concepts/Brain-Plasticity.md|Brain Plasticity]]
+[[20 Sources/Books/2020/58-a-mind-for-numbers.md|A Mind for Numbers]]
+[[30 Knowledge/Concepts/neuroscience|Neuroscience]]
+[[30 Knowledge/Concepts/brain|Brain Science]]

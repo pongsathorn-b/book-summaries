@@ -1,62 +1,66 @@
 ---
-tags: [agile, productivity, self-management, autonomy, peter-stephens]
+tags: [productivity, agile, results, self-management, peter-voelman]
 category: Productivity
-summary: Use agile methodology for personal productivity — sprints, retrospectives, and continuous improvement applied to your own work.
+summary: A self-sustaining system for getting results — work in timeboxed sprints, focus on outcomes, and build feedback loops that let you adapt and improve.
 ---
 
-# Getting Results the Agile Way — Peter Stephens
+# Getting Results the Agile Way — Peter Voelman
 
 ## Overview
 
-Peter Stephens applies agile software development principles to personal productivity. The core insight: knowledge workers produce intangible output that can't be managed by traditional task lists. Agile principles — sprints, retrospectives, continuous improvement — solve the unique problems of personal knowledge work better than any static productivity system.
+Peter Voelman adapted agile software development principles for personal productivity. The core insight: most productivity systems fail because they don't have feedback loops. Agile methods succeed because they build in iteration, review, and adaptation. The book provides a personal system that applies these principles to individual work.
 
 ## Core Concepts
 
-### Personal Sprints
-Work in 1-2 week sprints with a clear goal. At sprint start, choose 3-5 results that would make the sprint successful. This replaces the traditional to-do list with outcome-focused thinking. What matters is what you deliver, not how many tasks you complete.
+### Timeboxed Results
+Work in fixed time periods (1-2 weeks), not open-ended projects. Each period has a defined goal — the "sprint." This creates urgency and prevents perfectionism-driven procrastination. You don't have unlimited time — work with what you have.
 
-### The Weekly Review as Retrospective
-At sprint end, run a personal retrospective: What went well? What didn't? What will I do differently? This is the agile retrospective applied to personal productivity — it creates a feedback loop that continuously improves.
+### The Last Responsible Moment
+Don't decide until you have to. This is not procrastination — it's strategic deferral. Decisions made too early (before you have enough information) are usually wrong. The "last responsible moment" is when delaying further would create problems.
 
-### Parking Lots
-Keep a parking lot of ideas, tasks, and commitments that arise during the sprint but aren't aligned with current goals. Don't address them during the sprint — add them to the parking lot for the next sprint planning.
+### The Reflection Cycle
+Every two weeks: review what worked, what didn't, what you'll do differently. This is the core feedback loop that most productivity systems lack. Without reflection, you repeat the same mistakes. With it, you compound learning.
 
-### Small Batch Sizes
-Work in small batches rather than large batches. Instead of "work on project X all week," break it into: day 1-2: research, day 3: outline, day 4: draft. Small batches create more feedback loops and faster learning.
+### The Next Action Map
+For each project, map the path to completion: what needs to happen, in what order, by when. This is not a detailed project plan — it's a high-level map that identifies dependencies and blockers. The goal is visibility, not perfection.
 
-### The 6-Hour Sprint
-If you have 6 productive hours per day (after meetings, email, admin), sprint for 6 hours. This reframes the workday: you're not working 8 hours and failing — you're working 6 focused hours and succeeding.
+### Energy Management
+Results come from energy, not time. Managing your energy — through exercise, sleep, food, and breaks — is as important as managing your schedule. Exhausted workers produce less in 10 hours than energized workers produce in 6.
+
+### Focus on Outcomes, Not Tasks
+It's not about what you did — it's about what you produced. Tasks are activities; outcomes are results. Measuring by tasks creates busy work; measuring by outcomes creates value. Define success by outcomes, not activity levels.
 
 ## Key Lessons
 
-1. Outcome focus beats task focus — what matters is what you deliver, not what you complete.
-2. Sprints create commitment — a fixed endpoint focuses effort in a way open-ended lists never do.
-3. Weekly retrospectives create continuous improvement — without reflection, experience doesn't translate to learning.
-4. Parking lots prevent scope creep — new ideas get recorded, not acted on mid-sprint.
-5. Small batches create more feedback — break work into deliverable chunks.
-6. The 6-hour sprint reframes what "enough" looks like — 6 focused hours is a successful day.
-7. Autonomy requires accountability — agile self-management only works with honest retrospectives.
-8. Backlog grooming is personal too — regularly cull your parking lot to prevent accumulation.
+1. Timebox your work — work in sprints, not open-ended projects.
+2. Reflect every two weeks — what worked, what didn't, what will you change?
+3. Focus on outcomes, not tasks — measure results, not busyness.
+4. Make decisions at the last responsible moment — don't decide before you have enough information.
+5. Manage energy, not just time — exercise, sleep, food, and breaks matter.
+6. Create a next action map — visibility into your project prevents surprises.
+7. Limit work in progress — finish things before starting new ones.
+8. Iterate and improve — build feedback loops into your system.
 
 ## Practical Applications
 
-- Run a weekly review: what did I deliver? What will I do differently?
-- Start every sprint with 3-5 measurable results — not a task list.
-- Keep a parking lot: when a good idea surfaces mid-sprint, add it to the list and continue.
-- Break big projects into sprint-sized chunks: what can I deliver in 2 weeks?
-- Practice the 6-hour sprint: 6 focused hours is enough — build your system around it.
+- Run a 2-week sprint: define your goal, work toward it, review at the end.
+- Add reflection to your calendar: every 2 weeks, 30 minutes for review.
+- Create next action maps for any project longer than a week.
+- Limit your work in progress: never have more than 3 active projects.
+- Practice the last responsible moment: don't decide until you have to.
+- Track energy levels: when are you most focused? Schedule hard work for those times.
 
 ## Controversy/Criticism
 
-Agile was designed for teams, not individuals — some principles don't translate cleanly to personal productivity. Critics note that the sprint model works better for defined projects than for ongoing operational work.
+The book is less well-known than other productivity titles — some find the agile framework hard to apply to non-project work. Others find the system too loose — without detailed task management, projects can lose structure.
 
 ## One-Line Takeaway
 
-> Work in sprints with clear results, review weekly, and continuously improve — applying agile to personal productivity creates accountability without micromanagement.
+> Build feedback loops into your work — timebox your sprints, focus on outcomes, reflect regularly, and iterate your system based on what actually works.
 
 ## Related Books
 
 [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]]
-[[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]]
 [[20 Sources/Books/2019/25-essentialism.md|Essentialism]]
-[[20 Sources/Books/2019/23-make-time.md|Make Time]]
+[[30 Knowledge/Concepts/agile-thinking|Agile Thinking]]
+[[30 Knowledge/Concepts/feedback-loops|Feedback Loops]]

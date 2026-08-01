@@ -1,80 +1,74 @@
 ---
-tags: [startups, customer-development, entrepreneurship, product-market-fit, methodology]
-category: Entrepreneurship
-summary: Build products customers want by getting out of the building and testing every assumption through systematic customer discovery.
+tags: [startups, entrepreneurship, product-market-fit, methodology, steve-blank]
+category: Productivity
+summary: A startup is not a smaller version of a large company — it's a temporary organization designed to search for a repeatable and scalable business model.
 ---
 
 # The Startup Owner's Manual — Steve Blank
 
-> "There are no facts inside the building, so get the hell outside."
-
 ## Overview
 
-[[Steve Blank|Steve Blank]], who pioneered the customer development methodology that inspired The Lean Startup, wrote *The Startup Owner's Manual* as the definitive operational guide for early-stage companies. Where Eric Ries distilled Blank's ideas into a methodology, this book is the comprehensive, step-by-step playbook. Blank's central insight: a startup is not a smaller version of a large company — it is a temporary organization designed to search for a repeatable and scalable business model. The book is a rigorous, phase-by-phase breakdown of the Customer Development process: who does what, when, and how. It also introduces the concept of "Get, Keep, Grow" — the three customer-related activities that determine whether a startup has found a viable business model.
+Steve Blank's comprehensive guide to the customer development method for startups. The core insight: a startup is not a smaller version of a large company. A large company executes a known business model. A startup searches for a repeatable and scalable business model. The search requires a fundamentally different methodology — one that treats assumptions as hypotheses to be tested, not facts to be executed.
 
 ## Core Concepts
 
-### 1. Startups Are Search Experiments, Not Execution Engines
-Most business plans assume execution of a known model. A startup's job is to *find* that model through experimentation. The startup's initial plan is always wrong — not because it's badly written, but because no initial plan can be correct given the uncertainty. The goal is to find the right model, not to execute the original one.
+### The Startup Search
+A startup is a temporary organization designed to search for a repeatable and scalable business model. The search is not planning — it's discovery. Most business plans assume you know what customers want. The startup owner assumes nothing — everything is a hypothesis to be tested with real customers.
 
-### 2. The Four Steps of Customer Development
-- **Customer Discovery**: Test your hypothesis about customers, their problem, and your solution. Get out of the building and *get* early adopters.
-- **Customer Validation**: Verify that you have a repeatable sales process — that you can sell to customers who don't already know you.
-- **Company Creation**: Transition from search to execution. Formalize sales, marketing, and product development functions.
-- **Company Building**: Scale what works. Build the engine of growth.
+### Customer Development
+The customer development method has four steps:
+1. **Customer Discovery**: test your hypothesis about customers, their problem, and your solution.
+2. **Customer Validation**: verify that you have found a repeatable and scalable sales process.
+3. **Company Creation**: transition from search to execution, from founder-led to organization.
+4. **Scaling**: build the organization to execute the validated business model.
 
-### 3. The Get, Keep, Grow Framework
-- **Get**: Acquiring new customers efficiently
-- **Keep**: Ensuring customers stay and find ongoing value
-- **Grow**: Expanding revenue from existing customers through upsell, cross-sell, or viral growth
+### Get Out of the Building
+The most important advice: get out of the building. Don't test assumptions in conference rooms — test them with real customers. The building is where your assumptions live. The market is where they get tested. Every day outside the building is a day of learning.
 
-Most failed startups fail not because they can't build a product, but because they can't solve Get, Keep, and Grow. These are separate problems requiring separate solutions.
+### The Buggy Whip Problem
+If your product doesn't solve a burning problem, no amount of sales and marketing will save it. The "buggy whip" problem: even with great sales, buggy whips are irrelevant because nobody needs them. Solve a problem people have, not a problem you wish they had.
 
-### 4. The "Zero" in Front of Every Business Plan
-Every business plan contains a zero — a hidden assumption about the customer that turns out to be wrong. The job of customer development is to find and fix all the zeros before they destroy the company. The most dangerous zeros are those that are invisible to the founding team.
+### The Minimum Viable Product
+The MVP is the minimum product that lets you start the learning process with real customers. It's not about being minimal in quality — it's about being minimal in scope while still testing your core hypothesis. The MVP is the beginning of customer learning, not the end.
 
-### 5. Pivots Are Not Failures
-Blank defines pivot as a major change to one or more of the nine business model components: customer segment, value proposition, channel, revenue model, partner channel, customer relationships, key activities, key resources, or cost structure. A structured pivot based on evidence is not defeat — it's the whole point of customer development.
+### Pivoting
+When your hypothesis is wrong, change direction. A pivot is a structured course correction — not a change in vision, but a change in strategy to test a new hypothesis. Pivoting is not failure — it's learning. The failure is staying on a wrong hypothesis too long.
 
-### 6. Agile Engineering + Customer Development = Minimum Feature Set
-Product development should be agile, with continuous deployment and iteration. But agile without customer development is just fast building of the wrong thing. The intersection of what engineering can build quickly and what customers actually need defines the minimum feature set for the MVP.
+### The Sales and Marketing Myth
+Most startups hire a sales team and a marketing team to sell what the engineers built. This is backwards. The founder must sell first — to understand the customer, the sale, and the feedback. Then hire salespeople who can replicate what the founder learned.
 
 ## Key Lessons
 
-1. **Get out of the building every day.** Every day you spend inside assuming you know what customers want is a day of potential waste. Customer conversations are not optional — they're the work.
-2. **Every assumption in your business plan is a hypothesis.** Treat them all as falsifiable. The ones that survive contact with customers are not "validated" — they're merely not yet disproven.
-3. **Customer Discovery is about listening, not selling.** Your job is to understand the customer's problem deeply, not to pitch your solution.
-4. **The MVP is the minimum experiment, not the minimum product.** An MVP should test a specific hypothesis, not deliver a feature set.
-5. **Customer Validation requires a sales replicable process.** If you can only sell because the founder personally knows the customer, you don't yet have a business model — you have a relationship.
-6. **Don't scale until you've validated.** Premature scaling — hiring a sales team, building a marketing function, or investing in infrastructure — before validation is the most common killer of startups.
-7. **The nine business model components must all be validated.** If even one is wrong (pricing, channel, customer segment), the whole model can fail.
-8. **Customer development continues after product-market fit.** Even after finding fit, Get, Keep, and Grow require ongoing optimization.
-9. **Pivots should be documented and tracked.** Don't just "pivot" — measure whether your new direction is working and be willing to pivot again if needed.
-10. **Corporate innovation programs** should use customer development methodology too — the same uncertainty that kills startups kills internal ventures if treated like normal operations.
+1. A startup is a search for a business model — not an execution of a known one.
+2. Get out of the building — test assumptions with real customers, not in conference rooms.
+3. Every assumption is a hypothesis — treat it as such, not as fact.
+4. If there's no burning problem, no amount of sales will save you.
+5. The MVP starts the learning process — it's not the end product.
+6. Pivoting is learning — stay on a wrong hypothesis too long is the real failure.
+7. Founders must sell first — before hiring a sales team.
+8. Customer development before company building — search before execution.
 
 ## Practical Applications
 
-- **Map every assumption in your business plan as a hypothesis.** Write each on an index card. Then design the cheapest possible experiment to test each.
-- **Conduct 10+ customer discovery interviews per week** in the earliest stages. Track what you heard, what surprised you, and what it changes about your hypothesis.
-- **Build an MVP that tests a specific hypothesis** — not a prototype, not a minimum viable product in the vague sense, but an actual experiment with a measurable outcome.
-- **Track your sales process from first contact to close** and look for where qualified leads die. If you can't identify the failure point, you can't fix it.
-- **Apply the Get, Keep, Grow framework** to every product decision: does this feature help get new customers, keep existing ones, or grow revenue from current customers?
-- **Before scaling any function**, do a "validation checkpoint" — is there evidence that this function works at small scale before investing in it at large scale?
-- **Document your pivots** — write down what changed, why, and what evidence prompted the change. Review quarterly.
-- **Use the "Mom Test"**: ask customers about their life, their problems, and their behavior — not about your solution or whether they'd buy it. People will lie to be polite about hypothetical products.
+- Before building anything, list your top 10 hypotheses about customers and their problems.
+- Get out of the building: conduct 100+ customer interviews in the first 10 weeks.
+- Build an MVP that tests the riskiest hypothesis, not the easiest feature.
+- Track the number of demos, trials, and pivots — these are learning metrics.
+- Practice "first sales" yourself: as founder, you must understand every sale.
+- Run weekly hypothesis tests: what did you learn this week about customers?
+- When pivoting, be structured: what specific hypothesis is wrong?
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- **The methodology is time-intensive.** For small teams, the constant cycle of hypothesis-experiment-learning can feel like it's slowing down product development.
-- **Some critics argue it over-indexes on customer feedback** at the expense of visionary product creation — the best products sometimes come from founders who ignored what customers said they wanted.
-- **The book is very long** (over 600 pages) and can be overwhelming for first-time founders — the essence is often obscured by the density of detail.
-- **Customer Development was designed for B2B software**, and its application to B2C, hardware, biotech, and other sectors requires significant adaptation.
-- **The "get out of the building" mantra** can become performative if teams are collecting anecdotes rather than rigorous data about customer behavior.
+Some find the methodology too rigid — startups should also execute while searching. Critics argue that "lean" methods can lead to under-investment in product quality. The book is dense and lengthy — harder to apply than to understand.
 
 ## One-Line Takeaway
 
-> Every business plan assumption is a hypothesis to be tested — get outside, talk to customers relentlessly, and don't scale anything until you've validated it.
+> A startup is a search for a repeatable and scalable business model — get out of the building, test every assumption with real customers, and pivot when the hypothesis is wrong.
 
----
+## Related Books
 
-*Related: [[20 Sources/Books/2019/39-the-lean-startup.md|39-the-lean-startup]], [[20 Sources/Books/2019/38-zero-to-one.md|38-zero-to-one]], [[20 Sources/Books/2019/40-crossing-the-chasm.md|40-crossing-the-chasm]], [[20 Sources/Books/2020/41-good-to-great.md|41-good-to-great]], [[18-getting-things-down|18-getting-things-down]], [[20 Sources/Books/2018/01-atomic-habits.md|01-atomic-habits]], [[20 Sources/Books/2018/06-deep-work.md|06-deep-work]]*
+[[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]]
+[[20 Sources/Books/2019/40-crossing-the-chasm.md|Crossing the Chasm]]
+[[30 Knowledge/Concepts/startups|Startups]]
+[[30 Knowledge/Concepts/customer-development|Customer Development]]

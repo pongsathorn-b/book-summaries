@@ -1,66 +1,67 @@
 ---
-tags: [learning, education, exams, productivity, study-skills]
+tags: [exams, study-techniques, academic-performance, testing, preparation]
 category: Learning
-summary: Evidence-based study techniques that actually work — active recall and spaced repetition over rereading and cramming.
+summary: Exam success is a learnable skill — the research-backed strategies that separate top performers from everyone else are not what most students do.
 ---
 
-# How to Pass Exams
+# How to Pass Exams — Dominic O'Brien
 
 ## Overview
 
-No single definitive book — "How to Pass Exams" is a genre. Core principles synthesized from exam science, cognitive psychology, and proven study technique research. The problem is universal: most students use the most ineffective methods (rereading, highlighting, cramming) because they feel productive, while the most effective methods (active recall, spaced repetition) feel hard. This is the science of studying smarter.
+Dominic O'Brien, multiple memory champion, applies his mnemonic expertise specifically to exam preparation. The core insight: most students prepare inefficiently because they don't understand how memory works. The book provides specific techniques for memorizing course material, organizing revision, and performing under exam conditions. The methods are based on the same spatial memory and encoding principles used by competitive memory athletes.
 
 ## Core Concepts
 
-### Active Recall
-The single most effective study technique: close the book and test yourself. Read → close the book → write everything you remember. The struggle is the point — it strengthens the memory trace. Rereading creates fluency that masquerades as understanding; recall reveals what you actually know.
+### Exam Preparation Is Memory Preparation
+Exams test memory — specifically, your ability to retrieve information under pressure. This means preparation should be designed around how memory works, not around how it feels. Rereading and highlighting feel productive; they're not. Active recall and spaced repetition are boring; they work.
 
-### Spaced Repetition
-Study across multiple sessions, not one marathon cramming session. Review at expanding intervals: Day 1 → Day 3 → Day 7 → Day 14 → Day 28. Spaced repetition exploits the brain's natural forgetting curve — each retrieval strengthens the memory more than the previous one.
+### The Memory Palace for Study Material
+Large bodies of information can be memorized using the Memory Palace technique. Break the material into chunks, identify locations in a familiar space, and place each chunk as a vivid image. Walk through the space to review. This is far more effective than reading notes repeatedly.
 
-### The Testing Effect
-Being tested is more effective than restudying. One of the most replicated findings in cognitive science. Testing is not just assessment — it is the mechanism of learning itself. Every test is a learning event.
+### Active Recall Practice
+Before each study session, close your notes and write everything you know about the topic. Only then check your notes. The act of retrieving — even imperfect retrieval — dramatically strengthens the memory. This is the most research-supported learning technique available.
 
-### Interleaving
-Don't study one topic until mastery — switch between topics while learning. Forces context switching and adaptive learning. Mixed practice builds more flexible knowledge than blocked practice.
+### Organizing Revision
+Use a timeline or spider diagram to map how topics connect. Don't study topics in isolation — understand their relationships. This creates multiple retrieval paths to each piece of information, making recall more reliable under pressure.
 
-### Elaboration
-Ask: "Why is this true? How does this connect to what I already know?" Multiple retrieval paths equals robust memory. Understanding why something is true is as important as knowing that it is true.
+### Exam Day Techniques
+On exam day: arrive early, read the paper before writing, start with the question you know best, and use the Memory Palace walk-through for the material you memorized. The walk-through "unfreezes" the material in the same order you encoded it.
 
-### Sleep Before the Exam
-Sleep deprivation impairs memory formation more than alcohol intoxication. 7-8 hours is a performance strategy, not a luxury. The night before an exam should include sleep, not cramming.
+### The Dominic System
+A mnemonic for memorizing sequences of information: each number from 0-99 has an associated sound and image. Numbers (dates, formulas, statistics) can be memorized by converting them to vivid images using this system.
 
 ## Key Lessons
 
-1. Stop rereading — start retrieving. The feeling of knowing is not the same as the ability to recall.
-2. Cramming is short-term memory theater — it works for the moment and vanishes within days.
-3. Sleep is not optional before exams — it is when memory consolidation actually happens.
-4. Interleaving builds flexible knowledge — blocked practice gives you the illusion of mastery.
-5. Highlighting and rereading feel productive and produce poor retention — they are the laziest forms of studying.
-6. The testing effect is one of the most robust findings in cognitive science — use it.
-7. Elaboration is asking why — the more connections you make, the more robust the memory.
-8. Fluency is the enemy of learning — when something feels easy, you are probably not learning.
+1. Exams test memory under pressure — prepare around how memory actually works, not how it feels.
+2. Active recall is the most powerful learning technique — test yourself before checking notes.
+3. The Memory Palace works for large bodies of information — not just lists.
+4. Spaced repetition: review material at Day 1, Day 3, Day 7, Day 14, Day 28.
+5. Understand material holistically — create concept maps that show how topics connect.
+6. Exam technique matters: read the paper before writing; start with what you know.
+7. Physical preparation (sleep, food, rest) is as important as study.
+8. The night before: light review, early sleep, not cramming.
 
 ## Practical Applications
 
-- After every study session: close the book and write everything you can recall — this is the most important study activity.
-- Use spaced repetition: review material at day 1, 3, 7, 14, 28 — even 15 minutes of review dramatically improves retention.
-- Create practice tests from your notes: the act of creating the test is itself a learning event.
-- Sleep 7-8 hours before exams: it is more effective than any last-minute study session.
-- Switch between topics in a single study session rather than mastering one before moving to the next.
+- Use active recall for every study session: close the book first, write what you know, then check.
+- Build Memory Palaces for each major course — place key concepts at locations in your home.
+- Practice exam conditions: do past papers under timed conditions, not just for review.
+- Use the Dominic System for memorizing numbers: dates, formulas, statistics.
+- Create concept maps for each subject: see how topics connect before memorizing details.
+- Sleep well before exams: sleep is when memory consolidation happens.
 
 ## Controversy/Criticism
 
-Most criticism is directed at the gap between evidence and common practice — not at the science itself. Some students with learning disabilities require accommodations that don't fit the standard evidence-based recommendations. Critics note that test design itself often rewards surface-level recall over deep understanding.
+Some techniques require significant practice — the Dominic System for numbers takes time to learn. Critics note that memorizing for exams doesn't equal understanding — and that conceptual understanding matters more thanrote recall in most fields.
 
 ## One-Line Takeaway
 
-> Stop rereading. Start retrieving — the hardest part of studying (testing yourself) is also the most effective.
+> Exam success is a learnable skill — using active recall, Memory Palaces, and spaced repetition will beat traditional study methods every time.
 
 ## Related Books
 
 [[20 Sources/Books/2018/11-learning-how-to-learn.md|Learning How to Learn]]
-[[20 Sources/Books/2018/16-welcome-to-your-brain.md|Welcome to Your Brain]]
-[[30 Knowledge/Concepts/active-recall|Active Recall]]
+[[20 Sources/Books/2018/14-memory-craft.md|Memory Craft]]
+[[20 Sources/Books/2018/17-unlimited-memory.md|Unlimited Memory]]
 [[30 Knowledge/Concepts/spaced-repetition|Spaced Repetition]]
-[[30 Knowledge/Concepts/testing-effect|Testing Effect]]
+[[30 Knowledge/Concepts/active-recall|Active Recall]]

@@ -1,74 +1,74 @@
 ---
-tags: [entrepreneurship, business, productivity, startup-culture, unconventional-wisdom]
-category: Entrepreneurship
-summary: The best way to grow a business is to stop planning, stop hiring prematurely, and start making things people want.
+tags: [startups, business, productivity, simplicity, jason-fried, 37signals]
+category: Productivity
+summary: The conventional startup advice is mostly wrong — you don't need a business plan, investors, or a big team; you need to start, stay lean, and make money.
 ---
 
 # Rework — Jason Fried & David Heinemeier Hansson
 
-> "The best way to grow a alone? Grow a business? Start making stuff people want, instead of planning, pitching, and raising money."
-
 ## Overview
 
-[[30 Knowledge/People/Jason-Fried|Jason Fried]] and [[David Heinemeier Hansson (DHH)|David Heinemeier Hansson (DHH)]], founders of Basecamp (formerly 37signals), wrote *Rework* as a frontal assault on conventional business wisdom. The book's premise: most business advice is written by consultants who have never built anything, for companies that don't need to exist. It rejects the cult of the business plan, the necessity of venture capital, the mythology of the "overnight success," and the idea that you need to "scale" or "crush it" to build a great company. Instead, it argues for starting small, staying small, making real things, and building a business that serves its owners' lives rather than consuming them. The tone is direct, often provocative, and backed by the authors' own experience running a profitable, bootstrapped software company.
+37signals founders Jason Fried and David Heinemeier Hansson's contrarian guide to business. The core message: most conventional startup advice is wrong. You don't need a business plan, investors, long meetings, or a big team. What you need is to start, stay lean, make money, and build a business that serves your life — not the other way around. The book is short, direct, and deliberately provocative.
 
 ## Core Concepts
 
-### 1. Stop Planning, Start Making
-Business plans are fantasies. You don't know what the market will look like in two years, let alone five. The alternative isn't "not having a plan" — it's *making things* that people want to buy. The plan should be: build something, sell it, iterate. Planning is a way of avoiding the only question that matters: will anyone actually pay for this?
+### Planning is Guessing
+Business plans are guesses dressed up as analysis. The future is unknowable — the business plan you write today will be obsolete by the time you read it. Instead of planning, do. Launch something and see what happens. Real business comes from real customers, not projected ones.
 
-### 2. Meet the "Real" Competition: Silence
-The authors argue that the real enemy of most businesses isn't a competitor — it's the silence. The absence of customers, attention, and revenue. This reframes the competitive landscape: instead of worrying about what other companies are doing, focus on whether you're actually reaching and serving people who need what you make.
+### Why Grow?
+Growth for growth's sake is a disease. A small, profitable business that serves its customers well is better than a large, stressed one. The goal isn't to scale, it's to build something that works — for owners, employees, and customers. The question isn't "how big can this get?" but "does this work?"
 
-### 3. Small is Beautiful
-The obsession with scale is misguided. A small team can be more productive, more creative, and more profitable than a large one. The authors deliberately kept 37signals small — around a dozen people for years — while generating tens of millions in revenue. The goal isn't to grow for growth's sake; it's to build a sustainable business that works for the people running it.
+### Meetings are Toxic
+Meetings are usually a waste of time. They interrupt work, fragment attention, and produce vague commitments. Most meetings could be emails. When you do need a meeting, use a timer — and end it early if the problem is solved.
 
-### 4. Working from Home and Async-first
-Fried and Hansson pioneered remote work and async-first communication long before it was mainstream. Their argument: the office is a place for interruption, not deep work. Most work doesn't need to happen in real-time. The default should be asynchronous, with synchronous communication used only when necessary.
+### Make Money
+The purpose of a business is to make money — not to build a product, not to serve customers, not to change the world. Making money is how a business sustains itself and its mission. If you're not making money, you're not running a business, you're running a hobby.
 
-### 5. "Pick a Problem, Not a Solution"
-Before building anything, you need to understand the problem deeply. Too many entrepreneurs build a solution looking for a problem. The authors advocate for starting with the customer's pain, not with your clever technical solution.
+### Underdo Your Competition
+Don't try to out-feature your competition. Instead, do less — but do it better. Find the minimum viable feature set and ship that. Your competition has more resources — you can't outdo them on features. But you can outdo them on simplicity, speed, and focus.
 
-### 6. The Anti-Secret of Marketing
-Marketing isn't a department or a campaign — it's the consequence of making something worth talking about. If you need a marketing plan beyond "make a great product," you probably don't have a great product yet.
+### Draw a Line in the Sand
+Have a point of view — and be willing to defend it. Don't try to please everyone. "We're the company that does X" is more powerful than "we do a little bit of everything." The companies people love have opinions. The companies people ignore are the ones without a clear identity.
+
+### Ignore the Details Early
+Details matter — but not as early as you think. Don't spec out every feature, every screen, every interaction before building. Build the thing and see. The details you thought mattered often don't, and the ones that matter most are ones you'd never have anticipated.
+
+### Launch Now
+The best way to start is to start. Don't wait for the perfect product, the perfect plan, or the perfect time. Launch something — and see what happens. The feedback from real users is the only data that matters. Everything before launch is speculation.
 
 ## Key Lessons
 
-1. **The best time to start is when you can start** — not when you have more money, more time, or a better idea. Start now with what you have. Perfection is the enemy of shipped.
-2. **You don't need more people — you need more focus.** Most teams are bloated. The best work comes from small teams with clear missions and no excess baggage.
-3. **Ignore the growth-at-all-costs mentality.** Growth is only a means to an end: sustainable, profitable business that serves real customers. If you can be profitable at your current size, that's a success, not a limitation.
-4. **Raise money only if you must.** Venture capital comes with strings: investors want returns, which means an exit, which means a specific kind of growth. Bootstrapping keeps you in control of your own destiny.
-5. **The best marketing is a great product.** If you need a marketing campaign, your product isn't remarkable enough yet.
-6. **You don't need a co-founder.** The mythology of the essential co-founder is overstated. Many successful companies were solo-founded. The right co-founder can be valuable; the wrong co-founder can be catastrophic.
-7. **Fire your worst customers.** Not all customers are good customers. Some take more than they give. Cutting them loose improves everything — your product, your culture, your focus.
-8. **Be a curator, not a manufacturer.** Most successful products became great by removing things, not adding them. The default to every feature request should be "no" until it has been proven essential.
-9. **The 40-hour work week is a target, not a ceiling.** Working more doesn't mean working better. Exhausted people make worse decisions and produce worse work.
-10. **Build for the long term.** The obsession with "disruption" and "scale" produces fragile companies. The obsession with sustainability and profitability produces resilient ones.
+1. Business plans are guesses — real business comes from real customers.
+2. Growth for growth's sake is a disease — build something that works, not something that's big.
+3. Meetings are toxic — most could be emails; when you have them, use a timer.
+4. The purpose is to make money — without profit, you don't have a business.
+5. Underdo your competition — do less, but do it better.
+6. Have a point of view — don't try to please everyone.
+7. Ignore details early — build the thing, then refine.
+8. Launch now — the only real data comes from real users.
 
 ## Practical Applications
 
-- **Ship before you're ready.** Get a real product to real customers as fast as possible. The feedback loop of real use is worth more than any amount of planning.
-- **Start an async-first communication culture.** Default to written communication that can be consumed on the recipient's schedule. Reserve meetings for things that genuinely require real-time discussion.
-- **Do a "less is more" audit** of your product. What can you remove? What features are you maintaining for the 10% of users who need them at the cost of clarity for the 90% who don't?
-- **Cut your feature request list by 50%.** Most feature requests are solutions looking for problems. Implement only what customers have demonstrated they need through actual usage, not through surveys or interviews.
-- **Reframe your competitive anxiety** by focusing on silence — the absence of customers. Your competitor is rarely another company; it's the customer's indifference.
-- **If you're raising money, ask yourself why.** Is it because you need it, or because investors are offering it? Bootstrapping is not a backup plan — it's a legitimate primary strategy.
-- **Test the "would you miss this if it were gone" test** on every product feature, meeting, and process. If you wouldn't notice its absence, it shouldn't exist.
-- **Work fewer hours with more intensity.** Deep work in four focused hours produces more than scattered work in eight unfocused hours. Protect your best hours for your most important work.
+- Replace your business plan with a simple landing page and see who signs up.
+- Cancel your next meeting and send an email instead.
+- Use the "make money" test: is this helping us make money?
+- Underdo on features: what's the minimum viable product?
+- Define your point of view: what do we stand for? What do we refuse to do?
+- Launch something today — even if it's not perfect.
+- Ignore long-term planning — focus on this week, not this year.
+- Say no to most opportunities — the things you don't do define you.
 
-## Controversy / Criticism
+## Controversy/Criticism
 
-- **The book can feel like survivor bias** — DHH and Fried built a successful company, but their path (bootstrapped, profitable, small team) is not the only path to success.
-- **The anti-VC stance is controversial** — many companies that changed the world (Google, Amazon, Airbnb) required venture capital to achieve their scale. The book may overstate the bootstrapping case.
-- **"Just ship" culture can produce quality problems** in products where reliability and polish are essential (medical software, aerospace, etc.).
-- **The book's tone is sometimes dismissive** of approaches other than the authors' own — which can feel refreshingly honest or arrogantly dismissive depending on the reader.
-- **Some of the advice (stay small, don't hire) doesn't scale** to businesses that genuinely need to grow to capture market opportunity or achieve economies of scale.
-- **The book was written from a software company's perspective** and its applicability to hardware, biotech, and other capital-intensive industries is limited.
+Critics argue that the book's advice is too casual — not all businesses can launch without a plan. Others find the contrarianism refreshing. Some note that the book is easier to apply to software businesses than to others.
 
 ## One-Line Takeaway
 
-> Stop planning and start making — the best business is built by shipping real things people want, staying small enough to stay nimble, and refusing to scale until there's a reason to.
+> Most conventional startup advice is wrong — start now, stay lean, make money, and ignore the rest.
 
----
+## Related Books
 
-*Related: [[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]], [[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]], [[The 4-Hour Workweek|The 4-Hour Workweek]], [[30 Knowledge/Concepts/Deep-Work.md|Deep Work]], [[20 Sources/Books/2019/25-essentialism.md|Essentialism]], [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]], [[20 Sources/Books/2019/24-indistractable.md|Indistractable]], [[30 Knowledge/Concepts/make-time|Make Time]]*
+[[20 Sources/Books/2019/39-the-lean-startup.md|The Lean Startup]]
+[[20 Sources/Books/2019/38-zero-to-one.md|Zero to One]]
+[[30 Knowledge/Concepts/startups|Startups]]
+[[30 Knowledge/Concepts/simplicity|Simplicity]]

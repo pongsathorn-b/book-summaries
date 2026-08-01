@@ -1,65 +1,72 @@
 ---
-tags: [productivity, gtd, task-management, focus, david-allen]
+tags: [productivity, GTD, task-management, focus, david-allen, workflow]
 category: Productivity
-summary: Capture everything, clarify decisions, organize by context, and review regularly to achieve stress-free productivity.
+summary: Your mind is for having ideas, not holding them — capture everything external, clarify what it means, and organize action outside your head.
 ---
 
 # Getting Things Done — David Allen
 
 ## Overview
 
-Getting Things Done (GTD) is a task management system that externalizes all commitments, projects, and tasks from your mind into a trusted external system. The core premise: relaxed control of your commitments equals maximum productivity. Your mind is for having ideas, not holding them. Allen's system — Capture, Clarify, Organize, Reflect, Engage — has become the most influential productivity methodology for knowledge workers worldwide.
+David Allen's GTD is the most influential productivity system for knowledge workers. The core insight: your brain is not a reliable storage system — it's for processing, not storing. The moment you have a thought about something you need to do, you should capture it externally and clear your mind. The system provides a complete workflow for capturing, processing, organizing, and completing work.
 
 ## Core Concepts
 
-### Externalize Everything
-Move every commitment, idea, and task out of your head and into an inbox — your brain is for processing, not storage. The act of capturing clears cognitive load immediately.
+### The Core Principle: Capture
+Your mind is for having ideas, not holding them. Every open loop — every commitment, task, or obligation — that lives in your head consumes cognitive energy. The moment you have a thought about something you need to do, capture it in an external system. This frees your mind to focus on actually doing the work.
 
 ### The Five Stages of Workflow
-Capture → Clarify → Organize → Reflect → Engage. Every item enters the system through capture, gets clarified (what is it? what's the next action?), organized (where does it go?), reflected on (weekly review), and engaged (worked on).
 
-### The Two-Minute Rule
-If a task takes less than two minutes, do it immediately. This prevents small tasks from accumulating and keeps the system from being clogged with trivial items.
+1. **Capture**: Collect everything that has your attention — into an "inbox."
+2. **Clarify**: What is this? Is it actionable? If yes: what's the next action? If no: trash, reference, or someday/maybe.
+3. **Organize**: Put each item where it belongs — project lists, calendar, next action lists, waiting for, someday/maybe.
+4. **Reflect**: Review your system regularly — daily, weekly, monthly.
+5. **Engage**: Choose what to work on based on context, time, energy, and priority.
 
-### Projects vs. Next Actions
-Identify every project and its next physical, visible action. Nothing should sit in your system as an undefined commitment — if it's a project, it needs a next action.
+### Next Actions
+Every actionable item must have a defined next action — the specific physical action that moves it forward. "Work on the website" is not a next action. "Call John to get the hosting credentials" is. If a project requires multiple steps, identify the single next physical action.
 
-### Context-Based Lists
-Organize tasks by context (Calls, @Computer, @Errands) so you batch similar actions. When you're at your phone, do all your calls. When you're at your computer, do all your computer tasks.
+### The Natural Planning Model
+For any project: define purpose and principles → vision the outcome → brainstorm → organize → identify next actions. This model applies to both professional and personal projects and produces more complete planning than traditional top-down approaches.
 
 ### Weekly Review
-Empty your head and update all lists every week — the cascade that keeps the system alive. Without the weekly review, GTD decays into irrelevance.
+The weekly review is the critical maintenance ritual: get clear, get current, get creative. Empty your inboxes, review all lists and calendars, update project status, and identify priorities for the coming week. Without the weekly review, the system decays.
+
+### Context-Based Task Management
+Tasks are organized by context (calls, @computer, @errands, @office). When you're in a given context, you only see relevant tasks. This prevents the cognitive load of scanning irrelevant items and makes task selection faster.
 
 ## Key Lessons
 
-1. Stress comes not from having too much to do, but from uncollected commitments.
-2. You must have exactly one "next action" for every open loop — vague reminders create cognitive load.
-3. Horizons of Focus: from 50,000 ft (Life/Values) to Ground level (Current actions).
-4. "No" is the most important productivity word — it protects your capacity for what matters.
-5. If something is on your mind, either capture it, decide its next action, or let it go.
-6. The weekly review is not optional — it is the maintenance that keeps the system alive.
-7. Natural Planning Model: for any project, define purpose → vision → brainstorming → organizing → next actions.
-8. Small tasks completed create momentum — the two-minute rule keeps things moving.
+1. Your mind is for ideas, not storage — capture everything externally.
+2. Every commitment needs a defined next action — "work on it" is not a next action.
+3. The weekly review is non-negotiable — without it, the system collapses.
+4. Projects are outcomes that require more than one action — track them separately from tasks.
+5. Context determines what you can work on — @calls when you can make calls, @errands when you're out.
+6. The calendar holds time-specific commitments — tasks go on lists, not on the calendar (except time-specific).
+7. Waiting for lists track delegated items — review to ensure nothing falls through the cracks.
+8. Horizons of focus: from next action to current project to area of responsibility to one-year goals to three-year vision.
 
 ## Practical Applications
 
-- Start a physical or digital inbox and capture every open item for 2 days.
-- Process your inbox: trash, delegate, do (2-min rule), or file with a next action.
-- Create context lists: @Calls, @Computer, @Home, @Office, @Read/Review.
-- Run a weekly review every Friday or Sunday — update all lists and projects.
-- For each project, identify its next physical action and put it on the right context list.
+- Start today: capture every open loop you can think of into an inbox.
+- Practice the two-minute rule: if a task takes less than two minutes, do it immediately.
+- Map every project to a next action — if you can't, you don't yet know what to do.
+- Run a weekly review every Friday — empty inboxes, update lists, plan the next week.
+- Organize by context: @calls, @computer, @errands, @office — only see what's relevant now.
+- Maintain a waiting-for list for all delegated items.
 
 ## Controversy/Criticism
 
-Some find the system too rigid and bureaucratic — setup overhead discourages adoption. Critics argue it optimizes task execution but misses strategic alignment. The 2-minute rule can interrupt deep work flow if applied too literally. Modern tools (Notion, Obsidian) have implemented GTD natively, but Allen's original is analog-first.
+Some find GTD too system-heavy — the overhead of maintaining the system can feel like work itself. Critics argue it focuses ontask management rather than goal-setting — it doesn't tell you what to do, only how to manage what you already have to do. The system can feel overwhelming to implement all at once.
 
 ## One-Line Takeaway
 
-> Move everything off your mind into a trusted system, decide next actions clearly, and review weekly — a calm, controlled mind does its best work.
+> Your mind is for having ideas, not holding them — capture everything externally, define the next action for each item, and maintain the system through weekly review.
 
 ## Related Books
 
-[[20 Sources/Books/2018/20-the-pomodoro-technique.md|The Pomodoro Technique]]
+[[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
+[[20 Sources/Books/2018/06-deep-work.md|Deep Work]]
 [[20 Sources/Books/2019/25-essentialism.md|Essentialism]]
-[[20 Sources/Books/2019/23-make-time.md|Make Time]]
-[[20 Sources/Books/2019/24-indistractable.md|Indistractable]]
+[[30 Knowledge/Concepts/productivity-systems|Productivity Systems]]
+[[30 Knowledge/Concepts/task-management|Task Management]]

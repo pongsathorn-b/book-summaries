@@ -1,62 +1,67 @@
 ---
 tags: [productivity, procrastination, time-management, priorities, mark-cuban]
 category: Productivity
-summary: If it's your worst task, do it first — one rule to rule them all: tackle your biggest, scariest thing before anything else.
+summary: If it's your worst task, do it first — the biggest task on your list is the one that will create the most resistance, and doing it first changes everything.
 ---
 
-# Eat That Frog! — Mark Twain (Brian Tracy)
+# Eat That Frog! — Brian Tracy
 
 ## Overview
 
-Based on a Mark Twain quote ("Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day"), Brian Tracy's book gives procrastination-killing advice for anyone who struggles to start difficult tasks. The core principle: identify your single most important task and do it first, before anything else. One rule, executed ruthlessly, beats a dozen half-hearted strategies.
+Based on a Mark Twain quote ("Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day"), Brian Tracy's system is brutally simple: identify your worst task (the one you're most likely to procrastinate on) and do it first. The frog is your biggest, most important task — the one that will create the most psychological resistance. By doing it first, you build momentum, eliminate the day's worst energy drain, and set a tone of accomplishment.
 
 ## Core Concepts
 
-### The Frog Is Your Worst Task
-Your "frog" is the task you are most likely to procrastinate on — the one that matters most and that you find most uncomfortable. The frog is not a big task; it's a dreaded task. If you eat it first, everything else feels lighter by comparison.
+### The Frog Is the Hardest Task
+Your "frog" is the task that requires the most willpower, that you've been avoiding, that represents your biggest source of procrastination. It's not necessarily the most important task by urgency — it's the one you'll most want to delay. Finding your frog each day and eating it first is the entire method.
 
-### Rule of 3
-Every morning, identify the three tasks you most want to accomplish. The Rule of 3 forces prioritization — if you can't identify three, you haven't thought clearly about what matters. Pick one of those three as your frog.
+### The Law of the Frog
+Whatever you don't do first thing in the morning will be what you don't do at all. This is not hyperbole — it's the psychological reality of procrastination. The energy to do hard things is highest in the morning. By afternoon, decision fatigue has depleted your reserves.
 
-### Technology Tactics
-Turn off email and social media notifications during frog time. The average knowledge worker checks email 50+ times daily — each check fragments focus. Schedule email blocks, not email constant.
+### The 90/10 Principle
+10% of your tasks produce 90% of your results. Identify the 10% that matters and protect that time ruthlessly. Most people do the opposite — they spend the best hours on trivial tasks and save the important ones for when they're exhausted.
 
 ### Time Blocking
-Block time on your calendar for your frog. Treat it as a non-negotiable appointment. Unscheduled time gets filled with trivia; only scheduled time gets protected.
+Block your frog time: 8-10 AM is for the frog. No email, no meetings, no calls. This is the most productive time and it must be protected for the most important work. Time blocking turns intention into commitment.
 
-### ABCDE Method
-Prioritize your task list: A = must do today, B = should do, C = nice to do, D = delegate, E = eliminate. The A tasks get done first; everything else is subordinate.
+### The Power of Single Handling
+When you start a task, work on it until it's complete. Don't switch between tasks. Don't start the frog, abandon it for an easier task, and return later. Single handling: one task, complete, then move on. This produces far more output than multitasking.
+
+### Preparation and Planning
+Before the day ends, plan the next day: identify your frog, prepare your workspace, gather everything you need. The morning is for execution, not planning. Preparation eliminates the "where do I start?" paralysis that derails most days.
 
 ## Key Lessons
 
-1. If the first thing you do each day is the hardest, the rest of your day feels easy by comparison.
-2. Willpower is highest in the morning — use it for your frog, not for deciding what to do.
-3. Procrastination is a habit — treat it as such, not as a character flaw.
-4. Planning your day the night before eliminates morning decision fatigue.
-5. Never start your day with small tasks — they expand to fill the morning and steal the frog's time.
-6. The 80/20 rule applies to tasks: 20% of tasks produce 80% of results. Find your 20%.
-7. External distractions (email, social) should be blocked during frog time.
-8. If you have two important tasks, start the bigger, harder one — the smaller one will get done faster after.
+1. Eat the frog first — do your hardest, most avoided task first thing in the morning.
+2. The frog is the task you're most likely to procrastinate on — not necessarily the most urgent.
+3. 10% of tasks produce 90% of results — find that 10% and protect your best time for it.
+4. Time block your frog time — no email, no calls, no meetings until the frog is eaten.
+5. Single handling: complete one task before starting another — no task switching.
+6. Prepare the night before — know your frog and lay out everything you need.
+7. The morning energy is the most valuable — don't waste it on trivial tasks.
+8. If you have two frogs, eat the ugliest one first — tackle the hardest first.
 
 ## Practical Applications
 
-- Every night, write tomorrow's three most important tasks and circle the frog.
-- First 30 minutes of every workday: frog only, no email, no chat, no meetings.
-- Use the ABCDE method on your task list before starting any day.
-- Turn off all notifications during frog time — treat it as sacred focus time.
-- After eating the frog, immediately move to the next important task before checking email.
+- Each night: identify your frog for tomorrow and prepare your workspace.
+- Block 8-10 AM for deep work: no email, no meetings, no calls.
+- When you start the frog, work until it's complete — no switching.
+- Apply the 90/10 test: is this in the 10% that produces 90% of results?
+- Use the 2-minute rule: if a task takes less than 2 minutes, do it immediately.
+- Build a "do it now" reflex: when you think of something that needs doing, do it or schedule it immediately.
 
 ## Controversy/Criticism
 
-Some find the book's simplicity refreshing after more complex productivity systems. Critics argue it doesn't address root causes of procrastination (fear, perfectionism, lack of meaning). The "just do it" approach can feel dismissive of executive function challenges.
+Some find the book too simple — the "eat the frog" metaphor doesn't provide deep strategic insight. Others note it can create excessive focus on single tasks at the expense of broader perspective. The advice is essentially tactical — it doesn't address deeper issues of motivation or meaning.
 
 ## One-Line Takeaway
 
-> Eat your ugliest frog first thing in the morning and nothing worse happens all day — tackle your biggest, scariest task before the day has a chance to dilute your resolve.
+> Identify your worst task and do it first thing in the morning — eating the frog changes your energy, your momentum, and your entire day.
 
 ## Related Books
 
 [[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
 [[20 Sources/Books/2018/18-getting-things-done.md|Getting Things Done]]
-[[20 Sources/Books/2018/20-the-pomodoro-technique.md|The Pomodoro Technique]]
-[[20 Sources/Books/2019/24-indistractable.md|Indistractable]]
+[[20 Sources/Books/2019/25-essentialism.md|Essentialism]]
+[[30 Knowledge/Concepts/procrastination|Procrastination]]
+[[30 Knowledge/Concepts/prioritization|Prioritization]]

@@ -1,79 +1,70 @@
 ---
-tags: [design, usability, psychology, product-design, human-factors, ux]
-category: Design
-summary: Don Norman's classic work on design introduces the principles of visibility, feedback, mapping, and conceptual models that separate products people love from products that frustrate them.
+tags: [design, usability, UX, Don Norman, affordances, cognitive-load, user-centered-design]
+category: Productivity
+summary: Don Norman's Design of Everyday Things reveals why so many objects and systems are frustrating to use — and the design principles that make some objects intuitive while others confuse and infuriate.
 ---
 
 # The Design of Everyday Things — Don Norman
 
-> "The problem with the designs we use is that they were designed by people who thought only of themselves and their own view of the world. Good design begins with an understanding of people."
-
 ## Overview
 
-[[20 Sources/Books/2022/97-the-design-of-everyday-things.md|The Design of Everyday Things]] (originally published as *The Psychology of Everyday Things*) is a foundational text in the field of design thinking and human-computer interaction. Don Norman, a cognitive scientist with a deep understanding of both psychology and practical design, argues that most of the frustration people experience with everyday objects — door handles, stoves, phones, software — stems not from user stupidity but from design failure. The book is a masterwork of applied psychology, making complex concepts about cognition, affordances, and mental models accessible and immediately actionable for anyone who builds, designs, or specifies products.
+Don Norman's *The Design of Everyday Things* (originally *The Psychology of Everyday Things*, 1988) is the foundational text of user experience design. Norman argues that most of the frustration we experience with everyday objects — from doors to coffee makers to software — is not our fault. It is the designer's fault. Good design communicates how an object should be used through its form; bad design forces users to guess, experiment, or consult manuals. The book distills decades of cognitive science into practical design principles that remain essential reading for anyone building products, services, or systems.
 
 ## Core Concepts
 
 ### Affordances
-Affordances are the perceived and actual properties of an object that determine how it could be used. A door handle affords pulling; a flat button affords pushing; a rounded handle affords turning. When affordances are clear, people know intuitively what to do without instruction. When they are unclear or misleading — a door handle that looks like it should be pushed but requires pulling — frustration results. Good design makes affordances visible; bad design hides or misleads.
+Affordances are the relationship between an object's properties and a person's ability to perform an action. A door handle affords pulling. A flat button affords pushing. A ball affords throwing. When an object is designed correctly, its affordances are visible — the form communicates how it should be used. When affordances are invisible or misleading, users experience frustration and error.
 
 ### Signifiers
-Even when affordances exist, people need signals to know where to act. These signals are called "signifiers" — visible indicators of what actions are possible and how they should be performed. A door handle itself is an affordance; the plate around it, the arrows indicating push or pull, the location relative to the door's hinge side — these are signifiers. Without adequate signifiers, even clear affordances go unnoticed.
-
-### Feedback
-Every action requires feedback — immediate confirmation that the action was received and is being processed. When you press a button, you need to see or feel it respond. When you submit a form, you need confirmation that it was submitted. Without feedback, users don't know if their actions had any effect, leading to repeated actions, confusion, and frustration. The lack of feedback is among the most common and severe design failures.
-
-### Conceptual Models
-People carry mental models — simplified representations of how things work — that they apply when interacting with objects and systems. When the designer's conceptual model matches the user's mental model, interaction is intuitive. When they diverge, confusion results. Designers can bridge this gap through visibility, feedback, and consistent metaphorical frameworks that align with users' existing knowledge.
+Even when affordances are present, users need **signifiers** — signals that indicate where an action should take place. A push plate on a door is a signifier indicating where to push. A blinking light indicating "insert card" is a signifier. Without signifiers, even well-designed affordances can be invisible to users.
 
 ### Mapping
-Mapping is the relationship between controls and their effects. A stovetop with burners arranged in a square and controls arranged in a row creates poor mapping (which control affects which burner?); controls arranged in the same spatial pattern as burners creates good mapping. Good mapping exploits spatial correspondence and cultural conventions to make the relationship between action and effect immediately comprehensible.
+**Mapping** is the relationship between controls and their effects. Good mapping uses spatial correspondence (the switch that looks like it controls the thing it controls), cultural convention (up = on, right = forward), and natural relationships. Poor mapping forces users to guess.
 
-### The Gulfs of Execution and Evaluation
-Norman introduces two fundamental problems in human-computer interaction: the Gulf of Execution (the gap between the user's goal and the system's controls — can the user figure out how to make the system do what they want?) and the Gulf of Evaluation (the gap between the system's state and what the user can perceive — can the user tell what the system has done?). Good design minimizes both gulfs through visibility, feedback, and intuitive mapping.
+### Feedback
+Every action requires immediate, visible feedback confirming that the action was received and is being processed. The button that doesn't respond when pressed — was it pressed? The email that seems to hang after sending — did it go? Lack of feedback is one of the most common design failures. Good feedback eliminates the anxiety of uncertainty.
 
-### Constraints and Forced Functions
-Constraints limit the actions a user can take in ways that guide toward correct use and prevent errors. A USB plug that only fits one way up uses physical constraints to prevent incorrect insertion. A software interface that greys out unavailable options constrains possible actions to valid ones. "Forced functions" are constraints so powerful they make certain errors physically impossible — like an alarm that goes off if you don't complete a step.
+### The Seven Stages of Action
+**(1) Goal formation** — What do I want to achieve? **(2) Plan** — How will I achieve it? **(3) Specify** — What action do I need to perform? **(4) Execute** — I perform the physical action. **(5) Perceive** — I perceive what happened. **(6) Interpret** — I interpret what the result means. **(7) Compare** — I compare outcome to goal. Design failures can occur at any stage, but most failures occur in the Specify and Execute stages when affordances are unclear.
+
+### Conceptual Models
+Users build mental **conceptual models** — simplified explanations of how something works. Good design provides a correct and useful conceptual model through visible controls, clear signifiers, and consistent mapping. Poor design provides no model or a misleading one, leading users to form incorrect mental models that cause errors.
+
+### The Gulf of Evaluation and Execution
+**The Gulf of Execution** — The gap between the user's goal and the system's controls. Can the user figure out how to make the system do what they want? **The Gulf of Evaluation** — The gap between the system's state and the user's understanding. Can the user figure out what the system did? Good design minimizes both gulfs.
 
 ## Key Lessons
 
-1. **Design for how people actually think, not how designers wish people thought** — User psychology is the constraint; design must conform to it
-2. **Visibility is the foundation of intuitive design** — If users can't see the controls and how they relate to possible actions, they cannot interact intuitively
-3. **Feedback is non-negotiable** — Every user action must produce immediate, perceivable feedback; absence of feedback is always a design failure
-4. **Errors are usually system errors, not user errors** — When users consistently make errors, the design should be changed, not the users scolded
-5. **Affordances should match actions** — The physical form of an object should clearly indicate what can be done with it
-6. **Consistency in design reduces cognitive load** — Once learned, patterns should apply consistently across similar situations
-7. **Use mapping that exploits spatial and cultural conventions** — Controls should be arranged in ways that match users' expectations based on experience
-8. **Constraints are a feature, not a limitation** — Well-designed constraints prevent errors and guide users toward correct use
-9. **Mental models must align with conceptual models** — Designers should test whether their understanding of how a product works matches users' understanding
-10. **Good design is invisible; bad design is all you notice** — When design works perfectly, users don't think about the design at all — the product just does what they expect
+1. Most user frustration is the designer's fault, not the user's.
+2. Good design communicates through form — the object should make clear how it should be used.
+3. Affordances must be perceivable — invisible affordances might as well not exist.
+4. Signifiers provide the signals that tell users where to act.
+5. Every action requires immediate feedback — the anxiety of uncertainty is a design failure.
+6. Mapping should use spatial correspondence, convention, and natural relationships.
+7. Users form conceptual models — if the design doesn't provide a correct model, users will form incorrect ones.
+8. Design for all seven stages of action — most failures occur at Specify and Execute.
+9. Minimize the Gulf of Execution and the Gulf of Evaluation.
+10. When in doubt, follow conventions — users apply mental models from previous experiences.
 
 ## Practical Applications
 
-- Before using any product, ask: what can I do with this, and how do I know? If the answers aren't immediately obvious, the design has failed
-- When designing anything with users, test early and often — watch real people struggle with your design and resist defending it
-- Apply the visibility test: can users see all the controls and understand what each does?
-- Apply the feedback test: after every action, can users perceive what happened?
-- Use consistent design patterns across products and features — consistency reduces learning burden
-- Build in constraints that prevent common errors before they occur
-- Use progressive disclosure — show only what users need at each stage, not everything at once
-- Design for the "edge cases" that most users will eventually encounter, not just the happy path
-- Make default options sensible — users often don't change defaults, so defaults become de facto standards
-- Test your designs with people who have no familiarity with the product — if they can't figure it out without explanation, the design has failed
+- **Before using any new product**, ask: what can I do with this? Do the affordances make it clear?
+- **When designing anything**, explicitly consider: affordances, signifiers, mapping, feedback, conceptual model, and the seven stages of action.
+- **Use conventions** — follow what users expect from previous experience unless you have a compelling reason to deviate.
+- **Test with real users** — cognitive walkthroughs and usability testing catch failures before shipping.
+- **Provide immediate feedback** — every action should produce visible confirmation within milliseconds.
+- **Make the system state visible** — users should always know where they are in the system.
 
 ## Controversy/Criticism
 
-- **Norman's principles are now widely adopted — some argue the book has become outdated** — While revolutionary in 1988, the principles are now standard design education and the book may feel obvious
-- **Often misunderstood as a book about aesthetics** — The book's focus is usability, not beauty; many readers come expecting guidance on visual design
-- **The "user-centered design" movement it inspired has its own problems** — Excessive focus on user testing can produce incremental improvements while missing transformative innovations
-- **Cultural and contextual limitations** — Design conventions vary across cultures; Norman's examples are heavily American/Western
-- **Some affordances are genuinely ambiguous** — In complex systems, not all affordances can be made clear without overwhelming the interface
-- **Doesn't address business model or economic constraints on design** — Real products are constrained by cost, manufacturing, and business models in ways the book's principles don't fully address
-
-## Related Books
-
-[[20 Sources/Books/2018/11-learning-how-to-learn|11 learning how to learn]] | [[20 Sources/Books/2022/98-thinking-in-systems|98 thinking in systems]] | [[20 Sources/Books/2020/47-rework|47 rework]] | [[20 Sources/Books/2021/66-talk-like-ted|66 talk like ted]] | [[20 Sources/Books/2020/58-a-mind-for-numbers|58 a mind for numbers]] | [[20 Sources/Books/2019/37-nudge|37 nudge]]
+Some argue that Norman's principles, while foundational, have become so widely known in the design community that they no longer provide competitive advantage. Others note that the book's examples (doors, phones, appliances) are now somewhat dated and less relevant to software and digital product design. The book's emphasis on discoverability and learnability may underweight other important design values like beauty, delight, and emotional resonance.
 
 ## One-Line Takeaway
 
-Good design is not about aesthetics — it is about understanding human cognition well enough to create objects and systems whose behavior is immediately comprehensible without instruction; the difference between a product people love and one they curse is the designer's understanding of psychology.
+> Most frustration with everyday objects is a design failure, not a user failure — good design communicates through affordances, signifiers, mapping, and feedback; bad design forces users to guess.
+
+## Related Books
+
+[[20 Sources/Books/2018/01-atomic-habits.md|Atomic Habits]]
+[[20 Sources/Books/2022/98-thinking-in-systems.md|Thinking in Systems]]
+[[30 Knowledge/Concepts/cognitive-biases|Cognitive Biases]]
