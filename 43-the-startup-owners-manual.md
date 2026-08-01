@@ -77,4 +77,4 @@ Product development should be agile, with continuous deployment and iteration. B
 
 ---
 
-*Related: [[The Lean Startup]], [[Zero to One]], [[Crossing the Chasm]], [[Good to Great]], [[Getting Things Done]], [[Atomic Habits]], [[Deep Work]]*
+*Related: [[39-the-lean-startup]], [[38-zero-to-one]], [[40-crossing-the-chasm]], [[41-good-to-great]], [[18-getting-things-down]], [[01-atomic-habits]], [[06-deep-work]]*
