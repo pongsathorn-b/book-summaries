@@ -58,10 +58,10 @@ The most important quality Hill identified in all successful people is **persist
 
 ## Related
 
-- [[Atomic Habits]] — the compounding principle [[Atomic Habits]] echoes Hill's emphasis on small, consistent actions
-- [[The 7 Habits]] — beginning with the end in mind [[The 7 Habits]] mirrors Hill's definite purpose
-- [[Deep Work]] — applying focused expertise [[Deep Work]] is how specialized knowledge converts to value
-- [[Essentialism]] — Hill's focus on a definite purpose [[Essentialism]] resonates with the "less but better" approach
+- [[01-atomic-habits]] — the compounding principle [[01-atomic-habits]] echoes Hill's emphasis on small, consistent actions
+- [[19-the-7-habits-of-highly-effective-people]] — beginning with the end in mind [[19-the-7-habits-of-highly-effective-people]] mirrors Hill's definite purpose
+- [[06-deep-work]] — applying focused expertise [[06-deep-work]] is how specialized knowledge converts to value
+- [[25-essentialism]] — Hill's focus on a definite purpose [[25-essentialism]] resonates with the "less but better" approach
 - [[Willpower]] — persistence requires [[Willpower]] — the ability to stick to your vision despite resistance
 
 ## One-Line Takeaway
