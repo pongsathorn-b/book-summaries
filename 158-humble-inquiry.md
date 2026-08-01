@@ -30,12 +30,12 @@ Most people — especially in leadership — default to telling. The cost is hid
 
 ## Related Books
 
-- [[Nonviolent Communication]]
+- [[113-nonviolent-communication]]
 - [[Crucial Conversations]]
-- [[How to Win Friends and Influence People]]
+- [[30-how-to-win-friends-and-influence-people]]
 
 ## Similar Notes
 
 - [[Leadership]]
 - [[Communication]]
-- [[Social Intelligence]]
+- [[34-social-intelligence]]
