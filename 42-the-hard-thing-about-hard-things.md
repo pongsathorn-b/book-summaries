@@ -70,4 +70,4 @@ Culture isn't mission statements on walls — it's the behavior that leaders mod
 
 ---
 
-*Related: [[Zero to One]], [[The Lean Startup]], [[Good to Great]], [[The 7 Habits of Highly Effective People]], [[Deep Work]], [[Essentialism]], [[Getting Things Done]]*
+*Related: [[38-zero-to-one]], [[39-the-lean-startup]], [[41-good-to-great]], [[19-the-7-habits-of-highly-effective-people]], [[06-deep-work]], [[25-essentialism]], [[18-getting-things-down]]*
