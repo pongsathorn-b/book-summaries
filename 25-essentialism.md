@@ -10,7 +10,7 @@ summary: Identify the vital few and eliminate the trivial many — effectiveness
 
 ## Overview
 
-[[Essentialism]] by [[Greg McKeown]] is the philosophical and practical case for systematic prioritization. The book argues that non-essentialists try to do everything for everyone, accumulating busyness and mediocrity, while essentialists invest their limited time and energy in the few things that truly matter. Drawing from Pareto's 80/20 rule and the wisdom of figures like Warren Buffett ("The difference between successful people and really successful people is that really successful people say no to almost everything"), McKeown provides both the mindset shift and the operational tactics to systematically pursue less but better.
+[[25-essentialism]] by [[Greg McKeown]] is the philosophical and practical case for systematic prioritization. The book argues that non-essentialists try to do everything for everyone, accumulating busyness and mediocrity, while essentialists invest their limited time and energy in the few things that truly matter. Drawing from Pareto's 80/20 rule and the wisdom of figures like Warren Buffett ("The difference between successful people and really successful people is that really successful people say no to almost everything"), McKeown provides both the mindset shift and the operational tactics to systematically pursue less but better.
 
 ## Core Concepts
 
@@ -27,7 +27,7 @@ summary: Identify the vital few and eliminate the trivial many — effectiveness
 ## Key Lessons
 
 - "Hell yes or no" — every maybe is a no in disguise; the threshold for saying yes must be high
-- [[The 4-Hour Workweek]]'s "selective ignorance" and Ferriss's 80/20 application are McKeown's efficiency cousin
+- [[22-the-4-hour-workweek]]'s "selective ignorance" and Ferriss's 80/20 application are McKeown's efficiency cousin
 - The Obstacle Course: before executing, identify what obstacles exist between you and the essential — clear the path, don't just add tasks
 - "Essential" is defined by alignment with your values and goals — not by urgency, other people's demands, or market noise
 - Play and sleep are essential, not luxuries — McKeown explicitly rejects the grind culture that treats rest as waste
@@ -38,7 +38,7 @@ summary: Identify the vital few and eliminate the trivial many — effectiveness
 1. Every Monday: review your commitments and apply the 90% rule — eliminate anything scoring below 90
 2. Use "extreme criteria" when vetting opportunities: if this isn't a "hell yes," it's a "no"
 3. Create a "not-to-do list" alongside your to-do list — naming what you won't do is as important as what you will
-4. Apply [[The Pomodoro Technique]] only to essential tasks — don't time-box non-essential work
+4. Apply [[20-the-pomodoro-technique]] only to essential tasks — don't time-box non-essential work
 5. Before accepting a new commitment, visualize the full cost: time, energy, trade-offs — then decide
 6. Schedule play and recovery as deliberately as work — protect non-negotiable renewal time
 7. Build the Essentialist's Buffer: when estimating tasks, add 50% — reality always expands to fill time
@@ -57,7 +57,7 @@ Effectiveness is not about doing more — it's about discerning the vital few fr
 
 ## Related Books
 
-- [[The 4-Hour Workweek]] — Ferriss's selective ignorance and elimination tactics are Essentialism in entrepreneur's clothing
-- [[Getting Things Done]] — Essentialism provides the strategic filter for deciding what gets a next action in GTD
-- [[The 7 Habits of Highly Effective People]] — Covey's Habit 3 ("Put First Things First") is the habit-based version of Essentialism
-- [[Make Time]] — daily tactics for saying no to the trivial many so the vital few get attention
+- [[22-the-4-hour-workweek]] — Ferriss's selective ignorance and elimination tactics are Essentialism in entrepreneur's clothing
+- [[18-getting-things-down]] — Essentialism provides the strategic filter for deciding what gets a next action in GTD
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's Habit 3 ("Put First Things First") is the habit-based version of Essentialism
+- [[23-make-time]] — daily tactics for saying no to the trivial many so the vital few get attention
