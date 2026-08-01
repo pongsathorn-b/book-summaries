@@ -79,3 +79,20 @@ _No people matched._
 ## Overview
 
 Bridges cognitive psychology (Thinking Fast and Slow, cognitive biases) with social influence (Influence, Contagious) and behavioral design (Hooked). Also covers emotional intelligence, attachment theory, and the neuroscience of trauma (The Body Keeps the Score). The MOC captures both how the mind works and how it can be influenced.
+- [[20 Sources/Books/2025/141-mindset-the-new-psychology-of-success.md|Mindset The New Psychology Of Success]]
+
+- [[20 Sources/Books/2025/142-grit-passion-perseverance.md|Grit Passion Perseverance]]
+
+- [[20 Sources/Books/2025/143-emotional-intelligence-2.md|Emotional Intelligence 2]]
+
+- [[20 Sources/Books/2025/151-the-courage-to-be-disliked.md|The Courage To Be Disliked]]
+
+- [[20 Sources/Books/2025/152-overthinking-craig-ball.md|Overthinking Craig Ball]]
+
+- [[20 Sources/Books/2025/154-the-gifts-of-imperfection.md|The Gifts Of Imperfection]]
+
+- [[20 Sources/Books/2025/155-the-righteous-mind.md|The Righteous Mind]]
+
+- [[20 Sources/Books/2025/157-the-intelligence-trap.md|The Intelligence Trap]]
+
+- [[20 Sources/Books/2025/160-the-power-of-negative-thinking.md|The Power Of Negative Thinking]]

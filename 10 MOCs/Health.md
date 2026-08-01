@@ -55,3 +55,6 @@ _No people matched._
 ## Overview
 
 Spans sleep science (Why We Sleep), ancestral nutrition (The Obesity Code, Deep Nutrition, Salt Sugar Fat), movement (Born to Run), and biological longevity (The Blue Zones, Younger Next Year). The unifying theme is that health is a compound effect of daily choices: what you eat, how you move, and how you sleep matter more than any single intervention.
+- [[20 Sources/Books/2025/147-the-5-am-club.md|The 5 Am Club]]
+
+- [[20 Sources/Books/2025/159-a-short-guide-to-a-long-life.md|A Short Guide To A Long Life]]
