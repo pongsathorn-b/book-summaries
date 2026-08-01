@@ -31,10 +31,10 @@ Drawn in by the idea that your beliefs about intelligence and ability shape your
 ## Related Books
 
 - [[Grit: The Power of Passion and Perseverance]]
-- [[Atomic Habits]]
+- [[01-atomic-habits]]
 
 ## Similar Notes
 
 - [[Habit Formation]]
 - [[Productivity]]
-- [[Learning How to Learn]]
+- [[11-learning-how-to-learn]]
