@@ -30,8 +30,8 @@ Follow-up to The Power of Habit that goes deeper into the cognitive and structur
 
 ## Related Books
 
-- [[Deep Work]]
-- [[Atomic Habits]]
+- [[06-deep-work]]
+- [[01-atomic-habits]]
 - [[The Power of Habit]]
 
 ## Similar Notes
