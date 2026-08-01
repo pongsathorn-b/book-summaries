@@ -52,6 +52,7 @@ Stoicism, existentialism, ethics, meaning, and how to live a good life.
 - [[20 Sources/Books/2024/125-the-gene.md|125 The Gene]]
 - [[20 Sources/Books/2024/127-the-ethical-algorithm.md|127 The Ethical Algorithm]]
 - [[20 Sources/Books/2024/131-the-war-of-art.md|131 The War Of Art]]
+- [[20 Sources/Books/2024/132-do-the-work.md|132 Do The Work]]
 - [[20 Sources/Books/2024/133-turning-pro.md|133 Turning Pro]]
 - [[20 Sources/Books/2024/135-tribe-of-mentors.md|135 Tribe Of Mentors]]
 

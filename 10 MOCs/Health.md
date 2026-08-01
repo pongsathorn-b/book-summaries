@@ -37,6 +37,7 @@ Sleep, nutrition, exercise, longevity science, and the biology of thriving.
 - [[20 Sources/Books/2024/121-the-singularity-is-near.md|121 The Singularity Is Near]]
 - [[20 Sources/Books/2024/124-the-code-breaker.md|124 The Code Breaker]]
 - [[20 Sources/Books/2024/125-the-gene.md|125 The Gene]]
+- [[20 Sources/Books/2024/126-stuff-matters.md|126 Stuff Matters]]
 - [[20 Sources/Books/2024/137-the-way-of-the-fight.md|137 The Way Of The Fight]]
 - [[20 Sources/Books/2024/139-so-good-they-cant-ignore-you.md|139 So Good They Cant Ignore You]]
 
