@@ -10,7 +10,7 @@ summary: Phil Knight's candid memoir reveals how persistence, creative financing
 
 ## Overview
 
-[[Shoe Dog]] is Phil Knight's raw, candid memoir of building Nike from a one-man import business selling Onitsuka Tiger (Asics) shoes from the trunk of his car into a billion-dollar global brand that changed sports forever. Written near the end of Knight's career, the book is remarkable for its honesty about fear, failure, near-bankruptcy, and the relentless hustle required to build something enduring. Unlike polished corporate histories, Knight admits to mistakes, close calls, and the personal toll of entrepreneurship — making it essential reading for anyone building something from nothing.
+[[88-shoe-dog]] is Phil Knight's raw, candid memoir of building Nike from a one-man import business selling Onitsuka Tiger (Asics) shoes from the trunk of his car into a billion-dollar global brand that changed sports forever. Written near the end of Knight's career, the book is remarkable for its honesty about fear, failure, near-bankruptcy, and the relentless hustle required to build something enduring. Unlike polished corporate histories, Knight admits to mistakes, close calls, and the personal toll of entrepreneurship — making it essential reading for anyone building something from nothing.
 
 ## Core Concepts
 
