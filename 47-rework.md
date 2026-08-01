@@ -71,4 +71,4 @@ Marketing isn't a department or a campaign — it's the consequence of making so
 
 ---
 
-*Related: [[The Lean Startup]], [[Zero to One]], [[The 4-Hour Workweek]], [[Deep Work]], [[Essentialism]], [[Getting Things Done]], [[Indistractable]], [[Make Time]]*
+*Related: [[39-the-lean-startup]], [[38-zero-to-one]], [[22-the-4-hour-workweek]], [[06-deep-work]], [[25-essentialism]], [[18-getting-things-down]], [[24-indistractable]], [[23-make-time]]*
