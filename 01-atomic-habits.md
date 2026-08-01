@@ -48,7 +48,7 @@ Make good habits easier and bad habits harder.
 - Place fruit at eye level, delete social media apps
 
 ### The Plateau of Latent Potential
-The most powerful outcomes come from systems that work for years before a breakthrough. [[Deep Work]] and [[Atomic Habits]] share this insight: consistency compounds.
+The most powerful outcomes come from systems that work for years before a breakthrough. [[06-deep-work]] and [[01-atomic-habits]] share this insight: consistency compounds.
 
 ## For Founders
 
@@ -58,8 +58,8 @@ The most powerful outcomes come from systems that work for years before a breakt
 
 ## Related
 
-- [[Deep Work]] — building deep focus habits
-- [[Learning How to Learn]] — [[Focused Mode]] and [[Diffuse Mode]] underpin learning habits
+- [[06-deep-work]] — building deep focus habits
+- [[11-learning-how-to-learn]] — [[Focused Mode]] and [[Diffuse Mode]] underpin learning habits
 - [[2-Minute Rule]] — gateway to starting any habit
 - [[Habit Stacking]] — linking habits together
 - [[Identity-Based Habits]] — who you become, not what you achieve
