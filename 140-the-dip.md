@@ -84,13 +84,13 @@ Godin's focus on the "market" as the arbiter of value (via the "financial viabil
 
 ## Related Books
 
-- [[Do the Work]] — Pressfield on starting and finishing despite Resistance; the emotional complement to Godin's strategic framework
-- [[The War of Art]] — Pressfield on Resistance as the internal force that causes people to quit the Dip prematurely
-- [[Atomic Habits]] — The daily systems that make it possible to survive the Dip without relying on willpower alone
-- [[Essentialism]] — The disciplined practice of quitting non-essential commitments to protect energy for what matters
-- [[Deep Work]] — Newport's framework for the focused practice that gets you through the Dip
-- [[The Compound Effect]] — Darren Hardy's emphasis on consistency through the difficult middle period
-- [[Indistractable]] — The modern battle against distraction, which is the primary cause of Dip-quitting
-- [[Make Time]] — Daily tactics for maintaining energy and focus through the long middle period
-- [[Think and Grow Rich]] — Hill's study of persistence as the key differentiator of successful people
-- [[The 7 Habits of Highly Effective People]] — Covey's Habit 4: Think Win-Win (and Habit 5: Seek First to Understand), relevant to the strategic quitting decision
+- [[132-do-the-work]] — Pressfield on starting and finishing despite Resistance; the emotional complement to Godin's strategic framework
+- [[131-the-war-of-art]] — Pressfield on Resistance as the internal force that causes people to quit the Dip prematurely
+- [[01-atomic-habits]] — The daily systems that make it possible to survive the Dip without relying on willpower alone
+- [[25-essentialism]] — The disciplined practice of quitting non-essential commitments to protect energy for what matters
+- [[06-deep-work]] — Newport's framework for the focused practice that gets you through the Dip
+- [[74-the-compound-effect]] — Darren Hardy's emphasis on consistency through the difficult middle period
+- [[24-indistractable]] — The modern battle against distraction, which is the primary cause of Dip-quitting
+- [[23-make-time]] — Daily tactics for maintaining energy and focus through the long middle period
+- [[150-think-and-grow-rich]] — Hill's study of persistence as the key differentiator of successful people
+- [[19-the-7-habits-of-highly-effective-people]] — Covey's Habit 4: Think Win-Win (and Habit 5: Seek First to Understand), relevant to the strategic quitting decision
