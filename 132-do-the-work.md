@@ -84,14 +84,14 @@ Additionally, the book's approach to starting "before you're ready" can be taken
 
 ## Related Books
 
-- [[The War of Art]] — The foundational text on Resistance; read this first
-- [[Atomic Habits]] — Building identity-based habits that make showing up automatic
-- [[Deep Work]] — The case for focused, distraction-free execution
-- [[Ego Is the Enemy]] — Pressfield on ego as the obstacle to doing meaningful work
-- [[The Obstacle Is the Way]] — Stoic reframing of obstacles as opportunities
-- [[Essentialism]] — Disciplined pursuit of less, not more
-- [[Indistractable]] — Understanding and defeating distraction in the modern age
-- [[Make Time]] — Daily tactics for prioritizing and protecting time for meaningful work
-- [[Getting Things Done]] — The systematic method for capturing, clarifying, and completing work
-- [[The 7 Habits of Highly Effective People]] — Habit 3 (Put First Things First) directly addresses doing what matters
-- [[The Compound Effect]] — Small consistent actions compounding into major results over time
+- [[131-the-war-of-art]] — The foundational text on Resistance; read this first
+- [[01-atomic-habits]] — Building identity-based habits that make showing up automatic
+- [[06-deep-work]] — The case for focused, distraction-free execution
+- [[61-ego-is-the-enemy]] — Pressfield on ego as the obstacle to doing meaningful work
+- [[59-the-obstacle-is-the-way]] — Stoic reframing of obstacles as opportunities
+- [[25-essentialism]] — Disciplined pursuit of less, not more
+- [[24-indistractable]] — Understanding and defeating distraction in the modern age
+- [[23-make-time]] — Daily tactics for prioritizing and protecting time for meaningful work
+- [[18-getting-things-down]] — The systematic method for capturing, clarifying, and completing work
+- [[19-the-7-habits-of-highly-effective-people]] — Habit 3 (Put First Things First) directly addresses doing what matters
+- [[74-the-compound-effect]] — Small consistent actions compounding into major results over time
