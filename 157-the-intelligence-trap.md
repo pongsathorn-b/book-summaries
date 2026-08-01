@@ -30,7 +30,7 @@ Highly educated, accomplished people still make terrible decisions. Understandin
 
 ## Related Books
 
-- [[Thinking Fast and Slow]]
+- [[04-thinking-fast-and-slow]]
 - [[Smarter Faster Better]]
 - [[The Righteous Mind]]
 
