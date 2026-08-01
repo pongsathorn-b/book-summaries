@@ -30,9 +30,9 @@ The contrarian take on the self-help industry — that chasing happiness produce
 
 ## Related Books
 
-- [[The 7 Habits of Highly Effective People]]
+- [[19-the-7-habits-of-highly-effective-people]]
 - [[Man's Search for Meaning]]
-- [[Ego Is the Enemy]]
+- [[61-ego-is-the-enemy]]
 
 ## Similar Notes
 
