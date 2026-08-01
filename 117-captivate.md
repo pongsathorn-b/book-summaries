@@ -10,7 +10,7 @@ summary: Human behavior follows predictable patterns — understanding the scien
 
 ## Overview
 
-[[Vanessa Van Edwards]], a behavioral researcher and author of the popular Science of People blog, wrote [[Captivate]] as a practical, evidence-based guide to decoding human social behavior. The premise: social skills are not innate gifts that some people have and others don't — they are a set of learnable, measurable, improvable techniques grounded in psychology and behavioral science. Drawing on research in body language, microexpressions, personality psychology, and neuroscience, Van Edwards breaks down the mechanics of first impressions, rapport-building, trust formation, and nonverbal communication into a practical toolkit that anyone can apply. The book is particularly notable for its research-backed approach — Van Edwards conducted her own original research (including studies on thousands of people) to test which popular advice actually holds up under empirical scrutiny.
+[[Vanessa Van Edwards]], a behavioral researcher and author of the popular Science of People blog, wrote [[117-captivate]] as a practical, evidence-based guide to decoding human social behavior. The premise: social skills are not innate gifts that some people have and others don't — they are a set of learnable, measurable, improvable techniques grounded in psychology and behavioral science. Drawing on research in body language, microexpressions, personality psychology, and neuroscience, Van Edwards breaks down the mechanics of first impressions, rapport-building, trust formation, and nonverbal communication into a practical toolkit that anyone can apply. The book is particularly notable for its research-backed approach — Van Edwards conducted her own original research (including studies on thousands of people) to test which popular advice actually holds up under empirical scrutiny.
 
 ## Core Concepts
 
@@ -88,10 +88,10 @@ The book has been criticized for its self-help tone and for occasionally oversim
 ## Related
 
 - [[How to Win Friends]] — Carnegie's foundational advice on making people feel important complements Captivate's behavioral science framework
-- [[Social Intelligence]] — Goleman's emotional intelligence research provides deeper context for Captivate's social signals
-- [[Influence]] — Cialdini's persuasion science complements Captivate's rapport-building tools
-- [[The Like Switch]] — Schafer's friendship formula provides additional research on the specific signals that trigger liking
-- [[Charisma on Command]] — Houpert's practical charisma guide takes Captivate's science into more applied, high-impact social territory
+- [[34-social-intelligence]] — Goleman's emotional intelligence research provides deeper context for Captivate's social signals
+- [[28-influence]] — Cialdini's persuasion science complements Captivate's rapport-building tools
+- [[119-the-like-switch]] — Schafer's friendship formula provides additional research on the specific signals that trigger liking
+- [[118-charisma-on-command]] — Houpert's practical charisma guide takes Captivate's science into more applied, high-impact social territory
 
 ## One-Line Takeaway
 
