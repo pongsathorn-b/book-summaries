@@ -1,0 +1,9 @@
+{
+  "phase": 2,
+  "method": "allowlist-v4-book-title-block",
+  "kept": 45,
+  "discarded": 452,
+  "book_titles": 48,
+  "num_deleted": 0,
+  "final": 46
+}
