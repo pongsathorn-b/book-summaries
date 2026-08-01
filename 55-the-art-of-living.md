@@ -77,7 +77,7 @@ Epictetus treated **death as one of the "indifferents"** — neither good nor ba
 
 ## Related Books
 
-- [[Meditations]] — Marcus Aurelius's private journal applying these same principles
+- [[03-meditations]] — Marcus Aurelius's private journal applying these same principles
 - [[Stoicism]] — The complete philosophical system the Enchiridion distills
 - [[Seneca]] — The other great Stoic whose letters apply Epictetus's principles
 - [[Dichotomy of Control]] — Epictetus's most famous contribution to Stoic psychology
