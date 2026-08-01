@@ -66,9 +66,9 @@ The brain is fundamentally a social organ; cultivating quality relationships and
 ## Related
 
 - [[Emotional Intelligence]] (the EQ foundational book by Goleman himself)
-- [[Attached]] — attachment theory as the developmental basis for adult social-emotional functioning
-- [[How to Win Friends and Influence People]] — practical social skills that complement social neuroscience understanding
-- [[The Body Keeps the Score]] — trauma and the nervous system shape social intelligence
-- [[Thinking Fast and Slow]] — System 1 social intuitions and System 2 social reasoning
+- [[33-attached]] — attachment theory as the developmental basis for adult social-emotional functioning
+- [[30-how-to-win-friends-and-influence-people]] — practical social skills that complement social neuroscience understanding
+- [[32-the-body-keeps-the-score]] — trauma and the nervous system shape social intelligence
+- [[04-thinking-fast-and-slow]] — System 1 social intuitions and System 2 social reasoning
 - [[Brain Plasticity]] — social brain circuits can be strengthened through practice
 - [[Cognitive Biases]] — social cognition is subject to systematic biases (halo effect, confirmation bias)
