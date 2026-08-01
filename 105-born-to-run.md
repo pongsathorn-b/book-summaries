@@ -59,8 +59,8 @@ The book's claims about running shoes have been disputed by sports podiatrists a
 Born to Run is an entertaining blend of adventure journalism and fitness philosophy that makes a compelling (if sometimes overstated) case that humans evolved to run, modern running shoes may cause the injuries they purport to prevent, and joy — not pain — should be the point.
 
 ## Related Books
-- [[Atomic Habits]] — Building sustainable running habits through small, joyful increments
-- [[Why We Sleep]] — Recovery and adaptation from endurance training depend on sleep quality
-- [[Deep Work]] — Endurance running as a form of "flow state" that shares neurological mechanisms with deep focus
-- [[The Power of Full Engagement]] — Both books argue for managing energy (not just time) as the key to sustainable high performance
+- [[01-atomic-habits]] — Building sustainable running habits through small, joyful increments
+- [[68-why-we-sleep]] — Recovery and adaptation from endurance training depend on sleep quality
+- [[06-deep-work]] — Endurance running as a form of "flow state" that shares neurological mechanisms with deep focus
+- [[27-the-power-of-full-engagement]] — Both books argue for managing energy (not just time) as the key to sustainable high performance
 - [[Flow State]] — The Tarahumara's joyful running culture exemplifies the flow state that runners describe
