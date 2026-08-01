@@ -46,5 +46,5 @@ Group brainstorm often produces fewer and lower-quality ideas than individuals w
 
 - [[Introversion]] vs [[Extroversion]] — the spectrum
 - [[Brain Myths]] — [[Susan Cain]]'s work connects to [[Brain Plasticity]] and personality
-- [[Deep Work]] — [[Introverts]] may have natural affinity for [[Deep Work]]
-- [[12 Rules for Life]] — [[Jordan Peterson]] on [[Social Circle]] and [[Proximity is Destiny]]
+- [[06-deep-work]] — [[Introverts]] may have natural affinity for [[06-deep-work]]
+- [[05-12-rules-for-life]] — [[Jordan Peterson]] on [[Social Circle]] and [[Proximity is Destiny]]
