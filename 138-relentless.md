@@ -86,10 +86,10 @@ The book's philosophy also sits in tension with the research on sustainable high
 
 - [[Can't Hurt Me]] — Goggins's embrace of suffering and the 40% Rule; the extreme end of the intensity spectrum
 - [[The Way of the Fight]] — GSP's visualization and championship preparation methodology
-- [[The War of Art]] — Pressfield on Resistance as the barrier between amateur and professional
-- [[Atomic Habits]] — The habit infrastructure that makes championship intensity sustainable
-- [[Ego Is the Enemy]] — The risk that Grover's championship mindset becomes mere ego
-- [[The Obstacle Is the Way]] — Converting obstacles into fuel through stoic practice
+- [[131-the-war-of-art]] — Pressfield on Resistance as the barrier between amateur and professional
+- [[01-atomic-habits]] — The habit infrastructure that makes championship intensity sustainable
+- [[61-ego-is-the-enemy]] — The risk that Grover's championship mindset becomes mere ego
+- [[59-the-obstacle-is-the-way]] — Converting obstacles into fuel through stoic practice
 - [[Elon Musk]] — Musk's relentless, boundary-pushing approach to impossible engineering challenges
-- [[Shoe Dog]] — Phil Knight's obsession with winning against Nike as the defining competitive fuel
-- [[12 Rules for Life]] — Peterson on channeling chaos through disciplined, meaningful action
+- [[88-shoe-dog]] — Phil Knight's obsession with winning against Nike as the defining competitive fuel
+- [[05-12-rules-for-life]] — Peterson on channeling chaos through disciplined, meaningful action
