@@ -10,7 +10,7 @@ summary: Taleb's first book in his Incerto series argues that we systematically 
 
 ## Overview
 
-[[Fooled by Randomness]] is the first book in Taleb's Incerto (Latin for "uncertainty") series — a philosophical and practical exploration of how human beings systematically misunderstand the role of chance in their lives. Originally published in 1997 and revised in 2004, the book focuses particularly on financial markets, where Taleb spent two decades as an options trader before turning to philosophy. The core argument is simple but devastating: we constantly mistake randomness for skill, attribute success to talent when it was really luck, and build entirely too much confidence in our ability to understand and predict systems that are fundamentally driven by unpredictable events.
+[[95-fooled-by-randomness]] is the first book in Taleb's Incerto (Latin for "uncertainty") series — a philosophical and practical exploration of how human beings systematically misunderstand the role of chance in their lives. Originally published in 1997 and revised in 2004, the book focuses particularly on financial markets, where Taleb spent two decades as an options trader before turning to philosophy. The core argument is simple but devastating: we constantly mistake randomness for skill, attribute success to talent when it was really luck, and build entirely too much confidence in our ability to understand and predict systems that are fundamentally driven by unpredictable events.
 
 ## Core Concepts
 
