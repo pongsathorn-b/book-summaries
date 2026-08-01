@@ -30,11 +30,11 @@ Understanding why smart, good people disagree on moral and political issues is e
 
 ## Related Books
 
-- [[Thinking Fast and Slow]]
-- [[The Body Keeps the Score]]
-- [[Nonviolent Communication]]
+- [[04-thinking-fast-and-slow]]
+- [[32-the-body-keeps-the-score]]
+- [[113-nonviolent-communication]]
 
 ## Similar Notes
 
-- [[Social Intelligence]]
+- [[34-social-intelligence]]
 - [[Ethics]]
