@@ -1,8 +1,10 @@
 # 📚 Book Vault
 
-Personal knowledge graph built from 8 years of reading.
+Personal knowledge graph built from 11 years of reading.
 
 **Knowledge layer:** 45 concepts · 33 people · 11 Maps of Content
+
+**Book count:** 177 books (2015–2025)
 
 ---
 
@@ -40,6 +42,37 @@ Every book links to related books, concepts, and people using wikilinks. Click a
 [[10 MOCs/Productivity.md|Productivity]] · [[10 MOCs/Philosophy.md|Philosophy]] · [[10 MOCs/Psychology.md|Psychology]] · [[10 MOCs/Health.md|Health]] · [[10 MOCs/Relationships.md|Relationships]] · [[10 MOCs/Leadership.md|Leadership]] · [[10 MOCs/Strategy.md|Strategy]] · [[10 MOCs/Learning.md|Learning]] · [[10 MOCs/Finance.md|Finance]] · [[10 MOCs/AI.md|AI]] · [[10 MOCs/Index.md|All MOCs]]
 
 ---
+
+## 2015 — 6 books
+
+| # | Title | Author |
+|---|-------|--------|
+| 161 | Beneath the Surface | John Hargrove |
+| 162 | Dead Wake | Erik Larson |
+| 163 | The Life-Changing Magic of Tidying Up | Marie Kondo |
+| 164 | Modern Romance | Aziz Ansari & Eric Klinenberg |
+| 165 | When Breath Becomes Air | Paul Kalanithi |
+| 166 | A Work in Progress | Connor Franta |
+
+## 2016 — 6 books
+
+| # | Title | Author |
+|---|-------|--------|
+| 161 | Are We Smart Enough to Know How Smart Animals Are? | Frans de Waal |
+| 162 | Born a Crime | Trevor Noah |
+| 163 | The Girl with the Lower Back Tattoo | Amy Schumer |
+| 164 | Hamilton: The Revolution | Lin-Manuel Miranda & Jeremy McCarter |
+| 165 | Leonard: My Fifty-Year Friendship with a Remarkable Man | William Shatner |
+| 166 | Sapiens | Yuval Noah Harari |
+
+## 2017 — 4 books
+
+| # | Title | Author |
+|---|-------|--------|
+| 161 | Astrophysics for People in a Hurry | Neil deGrasse Tyson |
+| 162 | The Diana Chronicles | Kate Moore |
+| 163 | How to Be a Bawse | Lilly Singh |
+| 164 | What Happened | Hillary Clinton |
 
 ## 2018 — 18 books
 
@@ -268,4 +301,4 @@ Navigate by theme — books grouped by what they teach:
 
 ---
 
-*Built from 8 years of reading · 160+ books · Personal knowledge graph*
+*Built from 11 years of reading · 177 books · Personal knowledge graph*
