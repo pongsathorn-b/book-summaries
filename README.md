@@ -1,4 +1,4 @@
-# 📚 Jam's Book Vault
+# 📚 Book Vault
 
 Personal knowledge graph built from 8 years of reading.
 
@@ -268,4 +268,4 @@ Navigate by theme — books grouped by what they teach:
 
 ---
 
-*Built from 8 years of reading*
+*Built from 8 years of reading · 160+ books · Personal knowledge graph*
