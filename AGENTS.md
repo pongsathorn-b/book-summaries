@@ -8,6 +8,7 @@ This is a personal knowledge graph of 160+ book summaries. Anyone can read and c
 book-summaries/
 ├── README.md              # Human index — book list by year + MOC links
 ├── AGENTS.md             # This file — agent instructions
+├── SKILL.md             # Hermes skill — for Hermes agents cloning this repo
 ├── 10 MOCs/              # Themed Maps of Content
 ├── 20 Sources/Books/     # Individual book summaries by year
 │   ├── 2018/ ... 2025/
